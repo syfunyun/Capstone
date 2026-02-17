@@ -1,0 +1,1928 @@
+{
+  "nodes": [
+    "Lille",
+    "Brest",
+    "Metz",
+    "Lens",
+    "Clermont",
+    "Lorient",
+    "Montpellier",
+    "Monaco",
+    "Lyon",
+    "Strasbourg",
+    "Nantes",
+    "Marseille",
+    "Rennes",
+    "St Etienne",
+    "Troyes",
+    "Bordeaux",
+    "Paris SG",
+    "Nice",
+    "Angers",
+    "Reims"
+  ],
+  "edges": [
+    [
+      "Lille",
+      "Metz"
+    ],
+    [
+      "Lille",
+      "Nice"
+    ],
+    [
+      "Lille",
+      "St Etienne"
+    ],
+    [
+      "Lille",
+      "Montpellier"
+    ],
+    [
+      "Lille",
+      "Lorient"
+    ],
+    [
+      "Lille",
+      "Lens"
+    ],
+    [
+      "Lille",
+      "Reims"
+    ],
+    [
+      "Lille",
+      "Strasbourg"
+    ],
+    [
+      "Lille",
+      "Marseille"
+    ],
+    [
+      "Lille",
+      "Clermont"
+    ],
+    [
+      "Lille",
+      "Brest"
+    ],
+    [
+      "Lille",
+      "Paris SG"
+    ],
+    [
+      "Lille",
+      "Angers"
+    ],
+    [
+      "Lille",
+      "Monaco"
+    ],
+    [
+      "Lille",
+      "Nantes"
+    ],
+    [
+      "Lille",
+      "Rennes"
+    ],
+    [
+      "Lille",
+      "Troyes"
+    ],
+    [
+      "Lille",
+      "Lyon"
+    ],
+    [
+      "Lille",
+      "Bordeaux"
+    ],
+    [
+      "Brest",
+      "Lyon"
+    ],
+    [
+      "Brest",
+      "Rennes"
+    ],
+    [
+      "Brest",
+      "Paris SG"
+    ],
+    [
+      "Brest",
+      "Strasbourg"
+    ],
+    [
+      "Brest",
+      "Angers"
+    ],
+    [
+      "Brest",
+      "Clermont"
+    ],
+    [
+      "Brest",
+      "Nantes"
+    ],
+    [
+      "Brest",
+      "Metz"
+    ],
+    [
+      "Brest",
+      "Nice"
+    ],
+    [
+      "Brest",
+      "Reims"
+    ],
+    [
+      "Brest",
+      "Lille"
+    ],
+    [
+      "Brest",
+      "Monaco"
+    ],
+    [
+      "Brest",
+      "Lorient"
+    ],
+    [
+      "Brest",
+      "Lens"
+    ],
+    [
+      "Brest",
+      "Bordeaux"
+    ],
+    [
+      "Brest",
+      "St Etienne"
+    ],
+    [
+      "Brest",
+      "Marseille"
+    ],
+    [
+      "Brest",
+      "Montpellier"
+    ],
+    [
+      "Brest",
+      "Troyes"
+    ],
+    [
+      "Metz",
+      "Lille"
+    ],
+    [
+      "Metz",
+      "Nantes"
+    ],
+    [
+      "Metz",
+      "Reims"
+    ],
+    [
+      "Metz",
+      "Clermont"
+    ],
+    [
+      "Metz",
+      "Troyes"
+    ],
+    [
+      "Metz",
+      "Strasbourg"
+    ],
+    [
+      "Metz",
+      "Paris SG"
+    ],
+    [
+      "Metz",
+      "Brest"
+    ],
+    [
+      "Metz",
+      "Angers"
+    ],
+    [
+      "Metz",
+      "Rennes"
+    ],
+    [
+      "Metz",
+      "Lens"
+    ],
+    [
+      "Metz",
+      "St Etienne"
+    ],
+    [
+      "Metz",
+      "Marseille"
+    ],
+    [
+      "Metz",
+      "Bordeaux"
+    ],
+    [
+      "Metz",
+      "Nice"
+    ],
+    [
+      "Metz",
+      "Montpellier"
+    ],
+    [
+      "Metz",
+      "Monaco"
+    ],
+    [
+      "Metz",
+      "Lorient"
+    ],
+    [
+      "Metz",
+      "Lyon"
+    ],
+    [
+      "Lens",
+      "Rennes"
+    ],
+    [
+      "Lens",
+      "St Etienne"
+    ],
+    [
+      "Lens",
+      "Monaco"
+    ],
+    [
+      "Lens",
+      "Lorient"
+    ],
+    [
+      "Lens",
+      "Bordeaux"
+    ],
+    [
+      "Lens",
+      "Lille"
+    ],
+    [
+      "Lens",
+      "Strasbourg"
+    ],
+    [
+      "Lens",
+      "Marseille"
+    ],
+    [
+      "Lens",
+      "Reims"
+    ],
+    [
+      "Lens",
+      "Montpellier"
+    ],
+    [
+      "Lens",
+      "Metz"
+    ],
+    [
+      "Lens",
+      "Lyon"
+    ],
+    [
+      "Lens",
+      "Troyes"
+    ],
+    [
+      "Lens",
+      "Brest"
+    ],
+    [
+      "Lens",
+      "Angers"
+    ],
+    [
+      "Lens",
+      "Clermont"
+    ],
+    [
+      "Lens",
+      "Paris SG"
+    ],
+    [
+      "Lens",
+      "Nantes"
+    ],
+    [
+      "Lens",
+      "Nice"
+    ],
+    [
+      "Clermont",
+      "Bordeaux"
+    ],
+    [
+      "Clermont",
+      "Troyes"
+    ],
+    [
+      "Clermont",
+      "Lyon"
+    ],
+    [
+      "Clermont",
+      "Metz"
+    ],
+    [
+      "Clermont",
+      "Paris SG"
+    ],
+    [
+      "Clermont",
+      "Brest"
+    ],
+    [
+      "Clermont",
+      "Rennes"
+    ],
+    [
+      "Clermont",
+      "Monaco"
+    ],
+    [
+      "Clermont",
+      "Lorient"
+    ],
+    [
+      "Clermont",
+      "Lille"
+    ],
+    [
+      "Clermont",
+      "Nantes"
+    ],
+    [
+      "Clermont",
+      "Marseille"
+    ],
+    [
+      "Clermont",
+      "St Etienne"
+    ],
+    [
+      "Clermont",
+      "Nice"
+    ],
+    [
+      "Clermont",
+      "Reims"
+    ],
+    [
+      "Clermont",
+      "Lens"
+    ],
+    [
+      "Clermont",
+      "Montpellier"
+    ],
+    [
+      "Clermont",
+      "Angers"
+    ],
+    [
+      "Clermont",
+      "Strasbourg"
+    ],
+    [
+      "Lorient",
+      "St Etienne"
+    ],
+    [
+      "Lorient",
+      "Monaco"
+    ],
+    [
+      "Lorient",
+      "Montpellier"
+    ],
+    [
+      "Lorient",
+      "Lens"
+    ],
+    [
+      "Lorient",
+      "Lille"
+    ],
+    [
+      "Lorient",
+      "Reims"
+    ],
+    [
+      "Lorient",
+      "Nice"
+    ],
+    [
+      "Lorient",
+      "Lyon"
+    ],
+    [
+      "Lorient",
+      "Clermont"
+    ],
+    [
+      "Lorient",
+      "Marseille"
+    ],
+    [
+      "Lorient",
+      "Bordeaux"
+    ],
+    [
+      "Lorient",
+      "Strasbourg"
+    ],
+    [
+      "Lorient",
+      "Brest"
+    ],
+    [
+      "Lorient",
+      "Angers"
+    ],
+    [
+      "Lorient",
+      "Rennes"
+    ],
+    [
+      "Lorient",
+      "Troyes"
+    ],
+    [
+      "Lorient",
+      "Nantes"
+    ],
+    [
+      "Lorient",
+      "Metz"
+    ],
+    [
+      "Lorient",
+      "Paris SG"
+    ],
+    [
+      "Montpellier",
+      "Marseille"
+    ],
+    [
+      "Montpellier",
+      "Reims"
+    ],
+    [
+      "Montpellier",
+      "Lorient"
+    ],
+    [
+      "Montpellier",
+      "Lille"
+    ],
+    [
+      "Montpellier",
+      "St Etienne"
+    ],
+    [
+      "Montpellier",
+      "Troyes"
+    ],
+    [
+      "Montpellier",
+      "Bordeaux"
+    ],
+    [
+      "Montpellier",
+      "Paris SG"
+    ],
+    [
+      "Montpellier",
+      "Strasbourg"
+    ],
+    [
+      "Montpellier",
+      "Lens"
+    ],
+    [
+      "Montpellier",
+      "Monaco"
+    ],
+    [
+      "Montpellier",
+      "Nantes"
+    ],
+    [
+      "Montpellier",
+      "Nice"
+    ],
+    [
+      "Montpellier",
+      "Rennes"
+    ],
+    [
+      "Montpellier",
+      "Lyon"
+    ],
+    [
+      "Montpellier",
+      "Metz"
+    ],
+    [
+      "Montpellier",
+      "Clermont"
+    ],
+    [
+      "Montpellier",
+      "Brest"
+    ],
+    [
+      "Montpellier",
+      "Angers"
+    ],
+    [
+      "Monaco",
+      "Nantes"
+    ],
+    [
+      "Monaco",
+      "Lorient"
+    ],
+    [
+      "Monaco",
+      "Lens"
+    ],
+    [
+      "Monaco",
+      "Troyes"
+    ],
+    [
+      "Monaco",
+      "Marseille"
+    ],
+    [
+      "Monaco",
+      "Nice"
+    ],
+    [
+      "Monaco",
+      "St Etienne"
+    ],
+    [
+      "Monaco",
+      "Clermont"
+    ],
+    [
+      "Monaco",
+      "Bordeaux"
+    ],
+    [
+      "Monaco",
+      "Lyon"
+    ],
+    [
+      "Monaco",
+      "Montpellier"
+    ],
+    [
+      "Monaco",
+      "Brest"
+    ],
+    [
+      "Monaco",
+      "Reims"
+    ],
+    [
+      "Monaco",
+      "Lille"
+    ],
+    [
+      "Monaco",
+      "Strasbourg"
+    ],
+    [
+      "Monaco",
+      "Angers"
+    ],
+    [
+      "Monaco",
+      "Metz"
+    ],
+    [
+      "Monaco",
+      "Paris SG"
+    ],
+    [
+      "Monaco",
+      "Rennes"
+    ],
+    [
+      "Lyon",
+      "Brest"
+    ],
+    [
+      "Lyon",
+      "Angers"
+    ],
+    [
+      "Lyon",
+      "Clermont"
+    ],
+    [
+      "Lyon",
+      "Nantes"
+    ],
+    [
+      "Lyon",
+      "Strasbourg"
+    ],
+    [
+      "Lyon",
+      "Paris SG"
+    ],
+    [
+      "Lyon",
+      "Troyes"
+    ],
+    [
+      "Lyon",
+      "Lorient"
+    ],
+    [
+      "Lyon",
+      "St Etienne"
+    ],
+    [
+      "Lyon",
+      "Monaco"
+    ],
+    [
+      "Lyon",
+      "Nice"
+    ],
+    [
+      "Lyon",
+      "Lens"
+    ],
+    [
+      "Lyon",
+      "Rennes"
+    ],
+    [
+      "Lyon",
+      "Montpellier"
+    ],
+    [
+      "Lyon",
+      "Reims"
+    ],
+    [
+      "Lyon",
+      "Bordeaux"
+    ],
+    [
+      "Lyon",
+      "Lille"
+    ],
+    [
+      "Lyon",
+      "Metz"
+    ],
+    [
+      "Lyon",
+      "Marseille"
+    ],
+    [
+      "Strasbourg",
+      "Angers"
+    ],
+    [
+      "Strasbourg",
+      "Paris SG"
+    ],
+    [
+      "Strasbourg",
+      "Troyes"
+    ],
+    [
+      "Strasbourg",
+      "Brest"
+    ],
+    [
+      "Strasbourg",
+      "Lyon"
+    ],
+    [
+      "Strasbourg",
+      "Metz"
+    ],
+    [
+      "Strasbourg",
+      "Lens"
+    ],
+    [
+      "Strasbourg",
+      "Lille"
+    ],
+    [
+      "Strasbourg",
+      "Montpellier"
+    ],
+    [
+      "Strasbourg",
+      "St Etienne"
+    ],
+    [
+      "Strasbourg",
+      "Rennes"
+    ],
+    [
+      "Strasbourg",
+      "Lorient"
+    ],
+    [
+      "Strasbourg",
+      "Nantes"
+    ],
+    [
+      "Strasbourg",
+      "Reims"
+    ],
+    [
+      "Strasbourg",
+      "Monaco"
+    ],
+    [
+      "Strasbourg",
+      "Bordeaux"
+    ],
+    [
+      "Strasbourg",
+      "Nice"
+    ],
+    [
+      "Strasbourg",
+      "Marseille"
+    ],
+    [
+      "Strasbourg",
+      "Clermont"
+    ],
+    [
+      "Nantes",
+      "Monaco"
+    ],
+    [
+      "Nantes",
+      "Metz"
+    ],
+    [
+      "Nantes",
+      "Rennes"
+    ],
+    [
+      "Nantes",
+      "Lyon"
+    ],
+    [
+      "Nantes",
+      "Nice"
+    ],
+    [
+      "Nantes",
+      "Angers"
+    ],
+    [
+      "Nantes",
+      "Brest"
+    ],
+    [
+      "Nantes",
+      "Reims"
+    ],
+    [
+      "Nantes",
+      "Troyes"
+    ],
+    [
+      "Nantes",
+      "Bordeaux"
+    ],
+    [
+      "Nantes",
+      "Clermont"
+    ],
+    [
+      "Nantes",
+      "Montpellier"
+    ],
+    [
+      "Nantes",
+      "Strasbourg"
+    ],
+    [
+      "Nantes",
+      "Paris SG"
+    ],
+    [
+      "Nantes",
+      "Lille"
+    ],
+    [
+      "Nantes",
+      "Marseille"
+    ],
+    [
+      "Nantes",
+      "Lorient"
+    ],
+    [
+      "Nantes",
+      "Lens"
+    ],
+    [
+      "Nantes",
+      "St Etienne"
+    ],
+    [
+      "Marseille",
+      "Montpellier"
+    ],
+    [
+      "Marseille",
+      "Bordeaux"
+    ],
+    [
+      "Marseille",
+      "St Etienne"
+    ],
+    [
+      "Marseille",
+      "Monaco"
+    ],
+    [
+      "Marseille",
+      "Rennes"
+    ],
+    [
+      "Marseille",
+      "Angers"
+    ],
+    [
+      "Marseille",
+      "Lens"
+    ],
+    [
+      "Marseille",
+      "Lille"
+    ],
+    [
+      "Marseille",
+      "Lorient"
+    ],
+    [
+      "Marseille",
+      "Paris SG"
+    ],
+    [
+      "Marseille",
+      "Nice"
+    ],
+    [
+      "Marseille",
+      "Clermont"
+    ],
+    [
+      "Marseille",
+      "Metz"
+    ],
+    [
+      "Marseille",
+      "Troyes"
+    ],
+    [
+      "Marseille",
+      "Nantes"
+    ],
+    [
+      "Marseille",
+      "Brest"
+    ],
+    [
+      "Marseille",
+      "Strasbourg"
+    ],
+    [
+      "Marseille",
+      "Reims"
+    ],
+    [
+      "Marseille",
+      "Lyon"
+    ],
+    [
+      "Rennes",
+      "Lens"
+    ],
+    [
+      "Rennes",
+      "Brest"
+    ],
+    [
+      "Rennes",
+      "Nantes"
+    ],
+    [
+      "Rennes",
+      "Angers"
+    ],
+    [
+      "Rennes",
+      "Reims"
+    ],
+    [
+      "Rennes",
+      "Marseille"
+    ],
+    [
+      "Rennes",
+      "Clermont"
+    ],
+    [
+      "Rennes",
+      "Bordeaux"
+    ],
+    [
+      "Rennes",
+      "Paris SG"
+    ],
+    [
+      "Rennes",
+      "Metz"
+    ],
+    [
+      "Rennes",
+      "Strasbourg"
+    ],
+    [
+      "Rennes",
+      "Troyes"
+    ],
+    [
+      "Rennes",
+      "Lyon"
+    ],
+    [
+      "Rennes",
+      "Montpellier"
+    ],
+    [
+      "Rennes",
+      "Lorient"
+    ],
+    [
+      "Rennes",
+      "Lille"
+    ],
+    [
+      "Rennes",
+      "St Etienne"
+    ],
+    [
+      "Rennes",
+      "Nice"
+    ],
+    [
+      "Rennes",
+      "Monaco"
+    ],
+    [
+      "St Etienne",
+      "Lorient"
+    ],
+    [
+      "St Etienne",
+      "Lens"
+    ],
+    [
+      "St Etienne",
+      "Lille"
+    ],
+    [
+      "St Etienne",
+      "Marseille"
+    ],
+    [
+      "St Etienne",
+      "Montpellier"
+    ],
+    [
+      "St Etienne",
+      "Bordeaux"
+    ],
+    [
+      "St Etienne",
+      "Monaco"
+    ],
+    [
+      "St Etienne",
+      "Nice"
+    ],
+    [
+      "St Etienne",
+      "Lyon"
+    ],
+    [
+      "St Etienne",
+      "Strasbourg"
+    ],
+    [
+      "St Etienne",
+      "Angers"
+    ],
+    [
+      "St Etienne",
+      "Metz"
+    ],
+    [
+      "St Etienne",
+      "Clermont"
+    ],
+    [
+      "St Etienne",
+      "Troyes"
+    ],
+    [
+      "St Etienne",
+      "Paris SG"
+    ],
+    [
+      "St Etienne",
+      "Brest"
+    ],
+    [
+      "St Etienne",
+      "Rennes"
+    ],
+    [
+      "St Etienne",
+      "Reims"
+    ],
+    [
+      "St Etienne",
+      "Nantes"
+    ],
+    [
+      "Troyes",
+      "Paris SG"
+    ],
+    [
+      "Troyes",
+      "Clermont"
+    ],
+    [
+      "Troyes",
+      "Strasbourg"
+    ],
+    [
+      "Troyes",
+      "Monaco"
+    ],
+    [
+      "Troyes",
+      "Metz"
+    ],
+    [
+      "Troyes",
+      "Montpellier"
+    ],
+    [
+      "Troyes",
+      "Lyon"
+    ],
+    [
+      "Troyes",
+      "Angers"
+    ],
+    [
+      "Troyes",
+      "Nantes"
+    ],
+    [
+      "Troyes",
+      "Nice"
+    ],
+    [
+      "Troyes",
+      "Reims"
+    ],
+    [
+      "Troyes",
+      "Rennes"
+    ],
+    [
+      "Troyes",
+      "Lens"
+    ],
+    [
+      "Troyes",
+      "St Etienne"
+    ],
+    [
+      "Troyes",
+      "Marseille"
+    ],
+    [
+      "Troyes",
+      "Lorient"
+    ],
+    [
+      "Troyes",
+      "Lille"
+    ],
+    [
+      "Troyes",
+      "Bordeaux"
+    ],
+    [
+      "Troyes",
+      "Brest"
+    ],
+    [
+      "Bordeaux",
+      "Clermont"
+    ],
+    [
+      "Bordeaux",
+      "Marseille"
+    ],
+    [
+      "Bordeaux",
+      "Angers"
+    ],
+    [
+      "Bordeaux",
+      "Nice"
+    ],
+    [
+      "Bordeaux",
+      "Lens"
+    ],
+    [
+      "Bordeaux",
+      "St Etienne"
+    ],
+    [
+      "Bordeaux",
+      "Montpellier"
+    ],
+    [
+      "Bordeaux",
+      "Rennes"
+    ],
+    [
+      "Bordeaux",
+      "Monaco"
+    ],
+    [
+      "Bordeaux",
+      "Nantes"
+    ],
+    [
+      "Bordeaux",
+      "Lorient"
+    ],
+    [
+      "Bordeaux",
+      "Reims"
+    ],
+    [
+      "Bordeaux",
+      "Paris SG"
+    ],
+    [
+      "Bordeaux",
+      "Metz"
+    ],
+    [
+      "Bordeaux",
+      "Brest"
+    ],
+    [
+      "Bordeaux",
+      "Strasbourg"
+    ],
+    [
+      "Bordeaux",
+      "Lyon"
+    ],
+    [
+      "Bordeaux",
+      "Troyes"
+    ],
+    [
+      "Bordeaux",
+      "Lille"
+    ],
+    [
+      "Paris SG",
+      "Troyes"
+    ],
+    [
+      "Paris SG",
+      "Strasbourg"
+    ],
+    [
+      "Paris SG",
+      "Brest"
+    ],
+    [
+      "Paris SG",
+      "Reims"
+    ],
+    [
+      "Paris SG",
+      "Clermont"
+    ],
+    [
+      "Paris SG",
+      "Lyon"
+    ],
+    [
+      "Paris SG",
+      "Metz"
+    ],
+    [
+      "Paris SG",
+      "Montpellier"
+    ],
+    [
+      "Paris SG",
+      "Rennes"
+    ],
+    [
+      "Paris SG",
+      "Angers"
+    ],
+    [
+      "Paris SG",
+      "Marseille"
+    ],
+    [
+      "Paris SG",
+      "Lille"
+    ],
+    [
+      "Paris SG",
+      "Bordeaux"
+    ],
+    [
+      "Paris SG",
+      "Nantes"
+    ],
+    [
+      "Paris SG",
+      "St Etienne"
+    ],
+    [
+      "Paris SG",
+      "Nice"
+    ],
+    [
+      "Paris SG",
+      "Lens"
+    ],
+    [
+      "Paris SG",
+      "Monaco"
+    ],
+    [
+      "Paris SG",
+      "Lorient"
+    ],
+    [
+      "Nice",
+      "Reims"
+    ],
+    [
+      "Nice",
+      "Lille"
+    ],
+    [
+      "Nice",
+      "Bordeaux"
+    ],
+    [
+      "Nice",
+      "Nantes"
+    ],
+    [
+      "Nice",
+      "Monaco"
+    ],
+    [
+      "Nice",
+      "Lorient"
+    ],
+    [
+      "Nice",
+      "St Etienne"
+    ],
+    [
+      "Nice",
+      "Brest"
+    ],
+    [
+      "Nice",
+      "Troyes"
+    ],
+    [
+      "Nice",
+      "Lyon"
+    ],
+    [
+      "Nice",
+      "Marseille"
+    ],
+    [
+      "Nice",
+      "Angers"
+    ],
+    [
+      "Nice",
+      "Montpellier"
+    ],
+    [
+      "Nice",
+      "Clermont"
+    ],
+    [
+      "Nice",
+      "Metz"
+    ],
+    [
+      "Nice",
+      "Paris SG"
+    ],
+    [
+      "Nice",
+      "Strasbourg"
+    ],
+    [
+      "Nice",
+      "Rennes"
+    ],
+    [
+      "Nice",
+      "Lens"
+    ],
+    [
+      "Angers",
+      "Strasbourg"
+    ],
+    [
+      "Angers",
+      "Lyon"
+    ],
+    [
+      "Angers",
+      "Bordeaux"
+    ],
+    [
+      "Angers",
+      "Rennes"
+    ],
+    [
+      "Angers",
+      "Brest"
+    ],
+    [
+      "Angers",
+      "Nantes"
+    ],
+    [
+      "Angers",
+      "Marseille"
+    ],
+    [
+      "Angers",
+      "Troyes"
+    ],
+    [
+      "Angers",
+      "Metz"
+    ],
+    [
+      "Angers",
+      "Paris SG"
+    ],
+    [
+      "Angers",
+      "St Etienne"
+    ],
+    [
+      "Angers",
+      "Nice"
+    ],
+    [
+      "Angers",
+      "Lille"
+    ],
+    [
+      "Angers",
+      "Lorient"
+    ],
+    [
+      "Angers",
+      "Lens"
+    ],
+    [
+      "Angers",
+      "Monaco"
+    ],
+    [
+      "Angers",
+      "Reims"
+    ],
+    [
+      "Angers",
+      "Clermont"
+    ],
+    [
+      "Angers",
+      "Montpellier"
+    ],
+    [
+      "Reims",
+      "Nice"
+    ],
+    [
+      "Reims",
+      "Montpellier"
+    ],
+    [
+      "Reims",
+      "Metz"
+    ],
+    [
+      "Reims",
+      "Paris SG"
+    ],
+    [
+      "Reims",
+      "Rennes"
+    ],
+    [
+      "Reims",
+      "Lorient"
+    ],
+    [
+      "Reims",
+      "Lille"
+    ],
+    [
+      "Reims",
+      "Nantes"
+    ],
+    [
+      "Reims",
+      "Lens"
+    ],
+    [
+      "Reims",
+      "Brest"
+    ],
+    [
+      "Reims",
+      "Troyes"
+    ],
+    [
+      "Reims",
+      "Bordeaux"
+    ],
+    [
+      "Reims",
+      "Monaco"
+    ],
+    [
+      "Reims",
+      "Strasbourg"
+    ],
+    [
+      "Reims",
+      "Clermont"
+    ],
+    [
+      "Reims",
+      "Lyon"
+    ],
+    [
+      "Reims",
+      "Angers"
+    ],
+    [
+      "Reims",
+      "St Etienne"
+    ],
+    [
+      "Reims",
+      "Marseille"
+    ]
+  ],
+  "weights": {
+    "Lille->Metz": 0.3333333333333333,
+    "Lille->Nice": 0.5,
+    "Lille->St Etienne": 0.3333333333333333,
+    "Lille->Montpellier": 0.0,
+    "Lille->Lorient": 0.5,
+    "Lille->Lens": 1.0,
+    "Lille->Reims": 0.5,
+    "Lille->Strasbourg": 0.0,
+    "Lille->Marseille": 0.16666666666666666,
+    "Lille->Clermont": 0.5,
+    "Lille->Brest": 0.6666666666666666,
+    "Lille->Paris SG": 1.0,
+    "Lille->Angers": 0.3333333333333333,
+    "Lille->Monaco": 0.6666666666666666,
+    "Lille->Nantes": 0.16666666666666666,
+    "Lille->Rennes": 0.16666666666666666,
+    "Lille->Troyes": 0.5,
+    "Lille->Lyon": 0.16666666666666666,
+    "Lille->Bordeaux": 0.16666666666666666,
+    "Brest->Lyon": 0.16666666666666666,
+    "Brest->Rennes": 0.6666666666666666,
+    "Brest->Paris SG": 1.0,
+    "Brest->Strasbourg": 1.0,
+    "Brest->Angers": 0.6666666666666666,
+    "Brest->Clermont": 0.16666666666666666,
+    "Brest->Nantes": 0.6666666666666666,
+    "Brest->Metz": 0.5,
+    "Brest->Nice": 1.0,
+    "Brest->Reims": 0.3333333333333333,
+    "Brest->Lille": 0.16666666666666666,
+    "Brest->Monaco": 0.5,
+    "Brest->Lorient": 0.5,
+    "Brest->Lens": 0.0,
+    "Brest->Bordeaux": 0.5,
+    "Brest->St Etienne": 0.5,
+    "Brest->Marseille": 0.5,
+    "Brest->Montpellier": 0.5,
+    "Brest->Troyes": 0.16666666666666666,
+    "Metz->Lille": 0.3333333333333333,
+    "Metz->Nantes": 0.6666666666666666,
+    "Metz->Reims": 0.16666666666666666,
+    "Metz->Clermont": 0.3333333333333333,
+    "Metz->Troyes": 0.6666666666666666,
+    "Metz->Strasbourg": 1.0,
+    "Metz->Paris SG": 1.0,
+    "Metz->Brest": 0.5,
+    "Metz->Angers": 0.5,
+    "Metz->Rennes": 1.0,
+    "Metz->Lens": 0.6666666666666666,
+    "Metz->St Etienne": 0.6666666666666666,
+    "Metz->Marseille": 0.6666666666666666,
+    "Metz->Bordeaux": 0.6666666666666666,
+    "Metz->Nice": 0.5,
+    "Metz->Montpellier": 0.6666666666666666,
+    "Metz->Monaco": 1.0,
+    "Metz->Lorient": 0.5,
+    "Metz->Lyon": 0.16666666666666666,
+    "Lens->Rennes": 0.16666666666666666,
+    "Lens->St Etienne": 0.16666666666666666,
+    "Lens->Monaco": 0.16666666666666666,
+    "Lens->Lorient": 0.6666666666666666,
+    "Lens->Bordeaux": 0.0,
+    "Lens->Lille": 0.0,
+    "Lens->Strasbourg": 1.0,
+    "Lens->Marseille": 0.5,
+    "Lens->Reims": 0.0,
+    "Lens->Montpellier": 0.5,
+    "Lens->Metz": 0.16666666666666666,
+    "Lens->Lyon": 0.6666666666666666,
+    "Lens->Troyes": 0.0,
+    "Lens->Brest": 1.0,
+    "Lens->Angers": 0.16666666666666666,
+    "Lens->Clermont": 0.16666666666666666,
+    "Lens->Paris SG": 0.3333333333333333,
+    "Lens->Nantes": 0.6666666666666666,
+    "Lens->Nice": 0.5,
+    "Clermont->Bordeaux": 0.16666666666666666,
+    "Clermont->Troyes": 0.0,
+    "Clermont->Lyon": 0.6666666666666666,
+    "Clermont->Metz": 0.3333333333333333,
+    "Clermont->Paris SG": 1.0,
+    "Clermont->Brest": 0.6666666666666666,
+    "Clermont->Rennes": 0.5,
+    "Clermont->Monaco": 1.0,
+    "Clermont->Lorient": 0.6666666666666666,
+    "Clermont->Lille": 0.5,
+    "Clermont->Nantes": 1.0,
+    "Clermont->Marseille": 0.5,
+    "Clermont->St Etienne": 1.0,
+    "Clermont->Nice": 0.5,
+    "Clermont->Reims": 0.6666666666666666,
+    "Clermont->Lens": 0.6666666666666666,
+    "Clermont->Montpellier": 0.5,
+    "Clermont->Angers": 0.16666666666666666,
+    "Clermont->Strasbourg": 1.0,
+    "Lorient->St Etienne": 0.16666666666666666,
+    "Lorient->Monaco": 0.16666666666666666,
+    "Lorient->Montpellier": 1.0,
+    "Lorient->Lens": 0.16666666666666666,
+    "Lorient->Lille": 0.5,
+    "Lorient->Reims": 0.6666666666666666,
+    "Lorient->Nice": 0.5,
+    "Lorient->Lyon": 0.6666666666666666,
+    "Lorient->Clermont": 0.16666666666666666,
+    "Lorient->Marseille": 1.0,
+    "Lorient->Bordeaux": 0.3333333333333333,
+    "Lorient->Strasbourg": 0.6666666666666666,
+    "Lorient->Brest": 0.5,
+    "Lorient->Angers": 0.6666666666666666,
+    "Lorient->Rennes": 1.0,
+    "Lorient->Troyes": 0.6666666666666666,
+    "Lorient->Nantes": 1.0,
+    "Lorient->Metz": 0.5,
+    "Lorient->Paris SG": 0.6666666666666666,
+    "Montpellier->Marseille": 1.0,
+    "Montpellier->Reims": 0.3333333333333333,
+    "Montpellier->Lorient": 0.0,
+    "Montpellier->Lille": 1.0,
+    "Montpellier->St Etienne": 0.5,
+    "Montpellier->Troyes": 0.6666666666666666,
+    "Montpellier->Bordeaux": 0.16666666666666666,
+    "Montpellier->Paris SG": 1.0,
+    "Montpellier->Strasbourg": 0.6666666666666666,
+    "Montpellier->Lens": 0.5,
+    "Montpellier->Monaco": 0.5,
+    "Montpellier->Nantes": 0.5,
+    "Montpellier->Nice": 0.16666666666666666,
+    "Montpellier->Rennes": 1.0,
+    "Montpellier->Lyon": 1.0,
+    "Montpellier->Metz": 0.16666666666666666,
+    "Montpellier->Clermont": 0.5,
+    "Montpellier->Brest": 0.5,
+    "Montpellier->Angers": 0.5,
+    "Monaco->Nantes": 0.3333333333333333,
+    "Monaco->Lorient": 0.6666666666666666,
+    "Monaco->Lens": 0.6666666666666666,
+    "Monaco->Troyes": 0.0,
+    "Monaco->Marseille": 0.5,
+    "Monaco->Nice": 0.16666666666666666,
+    "Monaco->St Etienne": 0.0,
+    "Monaco->Clermont": 0.0,
+    "Monaco->Bordeaux": 0.16666666666666666,
+    "Monaco->Lyon": 0.5,
+    "Monaco->Montpellier": 0.5,
+    "Monaco->Brest": 0.5,
+    "Monaco->Reims": 0.6666666666666666,
+    "Monaco->Lille": 0.16666666666666666,
+    "Monaco->Strasbourg": 0.6666666666666666,
+    "Monaco->Angers": 0.0,
+    "Monaco->Metz": 0.0,
+    "Monaco->Paris SG": 0.5,
+    "Monaco->Rennes": 0.0,
+    "Lyon->Brest": 0.6666666666666666,
+    "Lyon->Angers": 0.5,
+    "Lyon->Clermont": 0.16666666666666666,
+    "Lyon->Nantes": 0.0,
+    "Lyon->Strasbourg": 0.16666666666666666,
+    "Lyon->Paris SG": 0.6666666666666666,
+    "Lyon->Troyes": 0.0,
+    "Lyon->Lorient": 0.16666666666666666,
+    "Lyon->St Etienne": 0.16666666666666666,
+    "Lyon->Monaco": 0.5,
+    "Lyon->Nice": 0.5,
+    "Lyon->Lens": 0.16666666666666666,
+    "Lyon->Rennes": 1.0,
+    "Lyon->Montpellier": 0.0,
+    "Lyon->Reims": 0.6666666666666666,
+    "Lyon->Bordeaux": 0.16666666666666666,
+    "Lyon->Lille": 0.6666666666666666,
+    "Lyon->Metz": 0.6666666666666666,
+    "Lyon->Marseille": 0.0,
+    "Strasbourg->Angers": 0.5,
+    "Strasbourg->Paris SG": 0.6666666666666666,
+    "Strasbourg->Troyes": 0.3333333333333333,
+    "Strasbourg->Brest": 0.0,
+    "Strasbourg->Lyon": 0.6666666666666666,
+    "Strasbourg->Metz": 0.0,
+    "Strasbourg->Lens": 0.0,
+    "Strasbourg->Lille": 1.0,
+    "Strasbourg->Montpellier": 0.16666666666666666,
+    "Strasbourg->St Etienne": 0.16666666666666666,
+    "Strasbourg->Rennes": 0.5,
+    "Strasbourg->Lorient": 0.16666666666666666,
+    "Strasbourg->Nantes": 0.16666666666666666,
+    "Strasbourg->Reims": 0.3333333333333333,
+    "Strasbourg->Monaco": 0.16666666666666666,
+    "Strasbourg->Bordeaux": 0.5,
+    "Strasbourg->Nice": 0.16666666666666666,
+    "Strasbourg->Marseille": 1.0,
+    "Strasbourg->Clermont": 0.0,
+    "Nantes->Monaco": 0.3333333333333333,
+    "Nantes->Metz": 0.16666666666666666,
+    "Nantes->Rennes": 0.5,
+    "Nantes->Lyon": 1.0,
+    "Nantes->Nice": 1.0,
+    "Nantes->Angers": 0.16666666666666666,
+    "Nantes->Brest": 0.16666666666666666,
+    "Nantes->Reims": 0.5,
+    "Nantes->Troyes": 0.5,
+    "Nantes->Bordeaux": 0.16666666666666666,
+    "Nantes->Clermont": 0.0,
+    "Nantes->Montpellier": 0.5,
+    "Nantes->Strasbourg": 0.6666666666666666,
+    "Nantes->Paris SG": 0.5,
+    "Nantes->Lille": 0.6666666666666666,
+    "Nantes->Marseille": 1.0,
+    "Nantes->Lorient": 0.0,
+    "Nantes->Lens": 0.16666666666666666,
+    "Nantes->St Etienne": 0.16666666666666666,
+    "Marseille->Montpellier": 0.0,
+    "Marseille->Bordeaux": 0.16666666666666666,
+    "Marseille->St Etienne": 0.0,
+    "Marseille->Monaco": 0.5,
+    "Marseille->Rennes": 0.5,
+    "Marseille->Angers": 0.16666666666666666,
+    "Marseille->Lens": 0.5,
+    "Marseille->Lille": 0.6666666666666666,
+    "Marseille->Lorient": 0.0,
+    "Marseille->Paris SG": 0.6666666666666666,
+    "Marseille->Nice": 0.16666666666666666,
+    "Marseille->Clermont": 0.5,
+    "Marseille->Metz": 0.16666666666666666,
+    "Marseille->Troyes": 0.16666666666666666,
+    "Marseille->Nantes": 0.0,
+    "Marseille->Brest": 0.5,
+    "Marseille->Strasbourg": 0.0,
+    "Marseille->Reims": 0.16666666666666666,
+    "Marseille->Lyon": 1.0,
+    "Rennes->Lens": 0.6666666666666666,
+    "Rennes->Brest": 0.16666666666666666,
+    "Rennes->Nantes": 0.5,
+    "Rennes->Angers": 0.5,
+    "Rennes->Reims": 0.5,
+    "Rennes->Marseille": 0.5,
+    "Rennes->Clermont": 0.5,
+    "Rennes->Bordeaux": 0.16666666666666666,
+    "Rennes->Paris SG": 0.5,
+    "Rennes->Metz": 0.0,
+    "Rennes->Strasbourg": 0.5,
+    "Rennes->Troyes": 0.16666666666666666,
+    "Rennes->Lyon": 0.0,
+    "Rennes->Montpellier": 0.0,
+    "Rennes->Lorient": 0.0,
+    "Rennes->Lille": 0.6666666666666666,
+    "Rennes->St Etienne": 0.0,
+    "Rennes->Nice": 0.6666666666666666,
+    "Rennes->Monaco": 1.0,
+    "St Etienne->Lorient": 0.6666666666666666,
+    "St Etienne->Lens": 0.6666666666666666,
+    "St Etienne->Lille": 0.3333333333333333,
+    "St Etienne->Marseille": 1.0,
+    "St Etienne->Montpellier": 0.5,
+    "St Etienne->Bordeaux": 0.6666666666666666,
+    "St Etienne->Monaco": 1.0,
+    "St Etienne->Nice": 1.0,
+    "St Etienne->Lyon": 0.6666666666666666,
+    "St Etienne->Strasbourg": 0.6666666666666666,
+    "St Etienne->Angers": 0.16666666666666666,
+    "St Etienne->Metz": 0.16666666666666666,
+    "St Etienne->Clermont": 0.0,
+    "St Etienne->Troyes": 0.16666666666666666,
+    "St Etienne->Paris SG": 1.0,
+    "St Etienne->Brest": 0.5,
+    "St Etienne->Rennes": 1.0,
+    "St Etienne->Reims": 1.0,
+    "St Etienne->Nantes": 0.6666666666666666,
+    "Troyes->Paris SG": 0.6666666666666666,
+    "Troyes->Clermont": 1.0,
+    "Troyes->Strasbourg": 0.3333333333333333,
+    "Troyes->Monaco": 1.0,
+    "Troyes->Metz": 0.16666666666666666,
+    "Troyes->Montpellier": 0.16666666666666666,
+    "Troyes->Lyon": 1.0,
+    "Troyes->Angers": 0.6666666666666666,
+    "Troyes->Nantes": 0.5,
+    "Troyes->Nice": 0.5,
+    "Troyes->Reims": 0.0,
+    "Troyes->Rennes": 0.6666666666666666,
+    "Troyes->Lens": 1.0,
+    "Troyes->St Etienne": 0.6666666666666666,
+    "Troyes->Marseille": 0.6666666666666666,
+    "Troyes->Lorient": 0.16666666666666666,
+    "Troyes->Lille": 0.5,
+    "Troyes->Bordeaux": 0.5,
+    "Troyes->Brest": 0.6666666666666666,
+    "Bordeaux->Clermont": 0.6666666666666666,
+    "Bordeaux->Marseille": 0.6666666666666666,
+    "Bordeaux->Angers": 0.6666666666666666,
+    "Bordeaux->Nice": 1.0,
+    "Bordeaux->Lens": 1.0,
+    "Bordeaux->St Etienne": 0.16666666666666666,
+    "Bordeaux->Montpellier": 0.6666666666666666,
+    "Bordeaux->Rennes": 0.6666666666666666,
+    "Bordeaux->Monaco": 0.6666666666666666,
+    "Bordeaux->Nantes": 0.6666666666666666,
+    "Bordeaux->Lorient": 0.3333333333333333,
+    "Bordeaux->Reims": 0.5,
+    "Bordeaux->Paris SG": 1.0,
+    "Bordeaux->Metz": 0.16666666666666666,
+    "Bordeaux->Brest": 0.5,
+    "Bordeaux->Strasbourg": 0.5,
+    "Bordeaux->Lyon": 0.6666666666666666,
+    "Bordeaux->Troyes": 0.5,
+    "Bordeaux->Lille": 0.6666666666666666,
+    "Paris SG->Troyes": 0.16666666666666666,
+    "Paris SG->Strasbourg": 0.16666666666666666,
+    "Paris SG->Brest": 0.0,
+    "Paris SG->Reims": 0.0,
+    "Paris SG->Clermont": 0.0,
+    "Paris SG->Lyon": 0.16666666666666666,
+    "Paris SG->Metz": 0.0,
+    "Paris SG->Montpellier": 0.0,
+    "Paris SG->Rennes": 0.5,
+    "Paris SG->Angers": 0.0,
+    "Paris SG->Marseille": 0.16666666666666666,
+    "Paris SG->Lille": 0.0,
+    "Paris SG->Bordeaux": 0.0,
+    "Paris SG->Nantes": 0.5,
+    "Paris SG->St Etienne": 0.0,
+    "Paris SG->Nice": 0.6666666666666666,
+    "Paris SG->Lens": 0.3333333333333333,
+    "Paris SG->Monaco": 0.5,
+    "Paris SG->Lorient": 0.16666666666666666,
+    "Nice->Reims": 0.16666666666666666,
+    "Nice->Lille": 0.5,
+    "Nice->Bordeaux": 0.0,
+    "Nice->Nantes": 0.0,
+    "Nice->Monaco": 0.6666666666666666,
+    "Nice->Lorient": 0.5,
+    "Nice->St Etienne": 0.0,
+    "Nice->Brest": 0.0,
+    "Nice->Troyes": 0.5,
+    "Nice->Lyon": 0.5,
+    "Nice->Marseille": 0.6666666666666666,
+    "Nice->Angers": 0.0,
+    "Nice->Montpellier": 0.6666666666666666,
+    "Nice->Clermont": 0.5,
+    "Nice->Metz": 0.5,
+    "Nice->Paris SG": 0.16666666666666666,
+    "Nice->Strasbourg": 0.6666666666666666,
+    "Nice->Rennes": 0.16666666666666666,
+    "Nice->Lens": 0.5,
+    "Angers->Strasbourg": 0.5,
+    "Angers->Lyon": 0.5,
+    "Angers->Bordeaux": 0.16666666666666666,
+    "Angers->Rennes": 0.5,
+    "Angers->Brest": 0.16666666666666666,
+    "Angers->Nantes": 0.6666666666666666,
+    "Angers->Marseille": 0.6666666666666666,
+    "Angers->Troyes": 0.16666666666666666,
+    "Angers->Metz": 0.5,
+    "Angers->Paris SG": 1.0,
+    "Angers->St Etienne": 0.6666666666666666,
+    "Angers->Nice": 1.0,
+    "Angers->Lille": 0.3333333333333333,
+    "Angers->Lorient": 0.16666666666666666,
+    "Angers->Lens": 0.6666666666666666,
+    "Angers->Monaco": 1.0,
+    "Angers->Reims": 0.5,
+    "Angers->Clermont": 0.6666666666666666,
+    "Angers->Montpellier": 0.5,
+    "Reims->Nice": 0.6666666666666666,
+    "Reims->Montpellier": 0.3333333333333333,
+    "Reims->Metz": 0.6666666666666666,
+    "Reims->Paris SG": 1.0,
+    "Reims->Rennes": 0.5,
+    "Reims->Lorient": 0.16666666666666666,
+    "Reims->Lille": 0.5,
+    "Reims->Nantes": 0.5,
+    "Reims->Lens": 1.0,
+    "Reims->Brest": 0.3333333333333333,
+    "Reims->Troyes": 1.0,
+    "Reims->Bordeaux": 0.5,
+    "Reims->Monaco": 0.16666666666666666,
+    "Reims->Strasbourg": 0.3333333333333333,
+    "Reims->Clermont": 0.16666666666666666,
+    "Reims->Lyon": 0.16666666666666666,
+    "Reims->Angers": 0.5,
+    "Reims->St Etienne": 0.0,
+    "Reims->Marseille": 0.6666666666666666
+  }
+}

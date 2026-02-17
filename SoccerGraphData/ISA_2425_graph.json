@@ -1,0 +1,1928 @@
+{
+  "nodes": [
+    "Venezia",
+    "Udinese",
+    "Lazio",
+    "Lecce",
+    "Cagliari",
+    "Bologna",
+    "Como",
+    "Empoli",
+    "Genoa",
+    "Verona",
+    "Fiorentina",
+    "Parma",
+    "Milan",
+    "Atalanta",
+    "Napoli",
+    "Roma",
+    "Inter",
+    "Juventus",
+    "Monza",
+    "Torino"
+  ],
+  "edges": [
+    [
+      "Venezia",
+      "Lazio"
+    ],
+    [
+      "Venezia",
+      "Fiorentina"
+    ],
+    [
+      "Venezia",
+      "Torino"
+    ],
+    [
+      "Venezia",
+      "Milan"
+    ],
+    [
+      "Venezia",
+      "Genoa"
+    ],
+    [
+      "Venezia",
+      "Roma"
+    ],
+    [
+      "Venezia",
+      "Verona"
+    ],
+    [
+      "Venezia",
+      "Atalanta"
+    ],
+    [
+      "Venezia",
+      "Monza"
+    ],
+    [
+      "Venezia",
+      "Udinese"
+    ],
+    [
+      "Venezia",
+      "Inter"
+    ],
+    [
+      "Venezia",
+      "Parma"
+    ],
+    [
+      "Venezia",
+      "Lecce"
+    ],
+    [
+      "Venezia",
+      "Bologna"
+    ],
+    [
+      "Venezia",
+      "Como"
+    ],
+    [
+      "Venezia",
+      "Juventus"
+    ],
+    [
+      "Venezia",
+      "Cagliari"
+    ],
+    [
+      "Venezia",
+      "Napoli"
+    ],
+    [
+      "Venezia",
+      "Empoli"
+    ],
+    [
+      "Udinese",
+      "Bologna"
+    ],
+    [
+      "Udinese",
+      "Lazio"
+    ],
+    [
+      "Udinese",
+      "Como"
+    ],
+    [
+      "Udinese",
+      "Parma"
+    ],
+    [
+      "Udinese",
+      "Roma"
+    ],
+    [
+      "Udinese",
+      "Inter"
+    ],
+    [
+      "Udinese",
+      "Lecce"
+    ],
+    [
+      "Udinese",
+      "Milan"
+    ],
+    [
+      "Udinese",
+      "Cagliari"
+    ],
+    [
+      "Udinese",
+      "Venezia"
+    ],
+    [
+      "Udinese",
+      "Juventus"
+    ],
+    [
+      "Udinese",
+      "Atalanta"
+    ],
+    [
+      "Udinese",
+      "Empoli"
+    ],
+    [
+      "Udinese",
+      "Genoa"
+    ],
+    [
+      "Udinese",
+      "Monza"
+    ],
+    [
+      "Udinese",
+      "Napoli"
+    ],
+    [
+      "Udinese",
+      "Fiorentina"
+    ],
+    [
+      "Udinese",
+      "Torino"
+    ],
+    [
+      "Udinese",
+      "Verona"
+    ],
+    [
+      "Lazio",
+      "Venezia"
+    ],
+    [
+      "Lazio",
+      "Udinese"
+    ],
+    [
+      "Lazio",
+      "Milan"
+    ],
+    [
+      "Lazio",
+      "Verona"
+    ],
+    [
+      "Lazio",
+      "Fiorentina"
+    ],
+    [
+      "Lazio",
+      "Torino"
+    ],
+    [
+      "Lazio",
+      "Empoli"
+    ],
+    [
+      "Lazio",
+      "Juventus"
+    ],
+    [
+      "Lazio",
+      "Genoa"
+    ],
+    [
+      "Lazio",
+      "Como"
+    ],
+    [
+      "Lazio",
+      "Cagliari"
+    ],
+    [
+      "Lazio",
+      "Monza"
+    ],
+    [
+      "Lazio",
+      "Bologna"
+    ],
+    [
+      "Lazio",
+      "Parma"
+    ],
+    [
+      "Lazio",
+      "Napoli"
+    ],
+    [
+      "Lazio",
+      "Inter"
+    ],
+    [
+      "Lazio",
+      "Lecce"
+    ],
+    [
+      "Lazio",
+      "Atalanta"
+    ],
+    [
+      "Lazio",
+      "Roma"
+    ],
+    [
+      "Lecce",
+      "Atalanta"
+    ],
+    [
+      "Lecce",
+      "Inter"
+    ],
+    [
+      "Lecce",
+      "Cagliari"
+    ],
+    [
+      "Lecce",
+      "Torino"
+    ],
+    [
+      "Lecce",
+      "Parma"
+    ],
+    [
+      "Lecce",
+      "Milan"
+    ],
+    [
+      "Lecce",
+      "Udinese"
+    ],
+    [
+      "Lecce",
+      "Fiorentina"
+    ],
+    [
+      "Lecce",
+      "Napoli"
+    ],
+    [
+      "Lecce",
+      "Verona"
+    ],
+    [
+      "Lecce",
+      "Bologna"
+    ],
+    [
+      "Lecce",
+      "Empoli"
+    ],
+    [
+      "Lecce",
+      "Venezia"
+    ],
+    [
+      "Lecce",
+      "Juventus"
+    ],
+    [
+      "Lecce",
+      "Roma"
+    ],
+    [
+      "Lecce",
+      "Monza"
+    ],
+    [
+      "Lecce",
+      "Lazio"
+    ],
+    [
+      "Lecce",
+      "Como"
+    ],
+    [
+      "Lecce",
+      "Genoa"
+    ],
+    [
+      "Cagliari",
+      "Roma"
+    ],
+    [
+      "Cagliari",
+      "Como"
+    ],
+    [
+      "Cagliari",
+      "Lecce"
+    ],
+    [
+      "Cagliari",
+      "Napoli"
+    ],
+    [
+      "Cagliari",
+      "Empoli"
+    ],
+    [
+      "Cagliari",
+      "Parma"
+    ],
+    [
+      "Cagliari",
+      "Juventus"
+    ],
+    [
+      "Cagliari",
+      "Torino"
+    ],
+    [
+      "Cagliari",
+      "Udinese"
+    ],
+    [
+      "Cagliari",
+      "Bologna"
+    ],
+    [
+      "Cagliari",
+      "Lazio"
+    ],
+    [
+      "Cagliari",
+      "Milan"
+    ],
+    [
+      "Cagliari",
+      "Genoa"
+    ],
+    [
+      "Cagliari",
+      "Verona"
+    ],
+    [
+      "Cagliari",
+      "Fiorentina"
+    ],
+    [
+      "Cagliari",
+      "Atalanta"
+    ],
+    [
+      "Cagliari",
+      "Venezia"
+    ],
+    [
+      "Cagliari",
+      "Inter"
+    ],
+    [
+      "Cagliari",
+      "Monza"
+    ],
+    [
+      "Bologna",
+      "Udinese"
+    ],
+    [
+      "Bologna",
+      "Napoli"
+    ],
+    [
+      "Bologna",
+      "Empoli"
+    ],
+    [
+      "Bologna",
+      "Como"
+    ],
+    [
+      "Bologna",
+      "Monza"
+    ],
+    [
+      "Bologna",
+      "Atalanta"
+    ],
+    [
+      "Bologna",
+      "Parma"
+    ],
+    [
+      "Bologna",
+      "Genoa"
+    ],
+    [
+      "Bologna",
+      "Cagliari"
+    ],
+    [
+      "Bologna",
+      "Lecce"
+    ],
+    [
+      "Bologna",
+      "Roma"
+    ],
+    [
+      "Bologna",
+      "Lazio"
+    ],
+    [
+      "Bologna",
+      "Venezia"
+    ],
+    [
+      "Bologna",
+      "Juventus"
+    ],
+    [
+      "Bologna",
+      "Fiorentina"
+    ],
+    [
+      "Bologna",
+      "Torino"
+    ],
+    [
+      "Bologna",
+      "Verona"
+    ],
+    [
+      "Bologna",
+      "Inter"
+    ],
+    [
+      "Bologna",
+      "Milan"
+    ],
+    [
+      "Como",
+      "Juventus"
+    ],
+    [
+      "Como",
+      "Cagliari"
+    ],
+    [
+      "Como",
+      "Udinese"
+    ],
+    [
+      "Como",
+      "Bologna"
+    ],
+    [
+      "Como",
+      "Atalanta"
+    ],
+    [
+      "Como",
+      "Verona"
+    ],
+    [
+      "Como",
+      "Napoli"
+    ],
+    [
+      "Como",
+      "Parma"
+    ],
+    [
+      "Como",
+      "Torino"
+    ],
+    [
+      "Como",
+      "Lazio"
+    ],
+    [
+      "Como",
+      "Empoli"
+    ],
+    [
+      "Como",
+      "Genoa"
+    ],
+    [
+      "Como",
+      "Fiorentina"
+    ],
+    [
+      "Como",
+      "Monza"
+    ],
+    [
+      "Como",
+      "Venezia"
+    ],
+    [
+      "Como",
+      "Roma"
+    ],
+    [
+      "Como",
+      "Inter"
+    ],
+    [
+      "Como",
+      "Lecce"
+    ],
+    [
+      "Como",
+      "Milan"
+    ],
+    [
+      "Empoli",
+      "Monza"
+    ],
+    [
+      "Empoli",
+      "Roma"
+    ],
+    [
+      "Empoli",
+      "Bologna"
+    ],
+    [
+      "Empoli",
+      "Juventus"
+    ],
+    [
+      "Empoli",
+      "Cagliari"
+    ],
+    [
+      "Empoli",
+      "Fiorentina"
+    ],
+    [
+      "Empoli",
+      "Lazio"
+    ],
+    [
+      "Empoli",
+      "Napoli"
+    ],
+    [
+      "Empoli",
+      "Parma"
+    ],
+    [
+      "Empoli",
+      "Inter"
+    ],
+    [
+      "Empoli",
+      "Como"
+    ],
+    [
+      "Empoli",
+      "Lecce"
+    ],
+    [
+      "Empoli",
+      "Udinese"
+    ],
+    [
+      "Empoli",
+      "Milan"
+    ],
+    [
+      "Empoli",
+      "Verona"
+    ],
+    [
+      "Empoli",
+      "Torino"
+    ],
+    [
+      "Empoli",
+      "Atalanta"
+    ],
+    [
+      "Empoli",
+      "Genoa"
+    ],
+    [
+      "Empoli",
+      "Venezia"
+    ],
+    [
+      "Genoa",
+      "Inter"
+    ],
+    [
+      "Genoa",
+      "Monza"
+    ],
+    [
+      "Genoa",
+      "Verona"
+    ],
+    [
+      "Genoa",
+      "Roma"
+    ],
+    [
+      "Genoa",
+      "Venezia"
+    ],
+    [
+      "Genoa",
+      "Juventus"
+    ],
+    [
+      "Genoa",
+      "Atalanta"
+    ],
+    [
+      "Genoa",
+      "Bologna"
+    ],
+    [
+      "Genoa",
+      "Lazio"
+    ],
+    [
+      "Genoa",
+      "Fiorentina"
+    ],
+    [
+      "Genoa",
+      "Parma"
+    ],
+    [
+      "Genoa",
+      "Como"
+    ],
+    [
+      "Genoa",
+      "Cagliari"
+    ],
+    [
+      "Genoa",
+      "Udinese"
+    ],
+    [
+      "Genoa",
+      "Torino"
+    ],
+    [
+      "Genoa",
+      "Milan"
+    ],
+    [
+      "Genoa",
+      "Napoli"
+    ],
+    [
+      "Genoa",
+      "Empoli"
+    ],
+    [
+      "Genoa",
+      "Lecce"
+    ],
+    [
+      "Verona",
+      "Napoli"
+    ],
+    [
+      "Verona",
+      "Juventus"
+    ],
+    [
+      "Verona",
+      "Genoa"
+    ],
+    [
+      "Verona",
+      "Lazio"
+    ],
+    [
+      "Verona",
+      "Torino"
+    ],
+    [
+      "Verona",
+      "Como"
+    ],
+    [
+      "Verona",
+      "Venezia"
+    ],
+    [
+      "Verona",
+      "Monza"
+    ],
+    [
+      "Verona",
+      "Atalanta"
+    ],
+    [
+      "Verona",
+      "Lecce"
+    ],
+    [
+      "Verona",
+      "Roma"
+    ],
+    [
+      "Verona",
+      "Fiorentina"
+    ],
+    [
+      "Verona",
+      "Inter"
+    ],
+    [
+      "Verona",
+      "Cagliari"
+    ],
+    [
+      "Verona",
+      "Empoli"
+    ],
+    [
+      "Verona",
+      "Parma"
+    ],
+    [
+      "Verona",
+      "Milan"
+    ],
+    [
+      "Verona",
+      "Bologna"
+    ],
+    [
+      "Verona",
+      "Udinese"
+    ],
+    [
+      "Fiorentina",
+      "Parma"
+    ],
+    [
+      "Fiorentina",
+      "Venezia"
+    ],
+    [
+      "Fiorentina",
+      "Monza"
+    ],
+    [
+      "Fiorentina",
+      "Atalanta"
+    ],
+    [
+      "Fiorentina",
+      "Lazio"
+    ],
+    [
+      "Fiorentina",
+      "Empoli"
+    ],
+    [
+      "Fiorentina",
+      "Milan"
+    ],
+    [
+      "Fiorentina",
+      "Lecce"
+    ],
+    [
+      "Fiorentina",
+      "Roma"
+    ],
+    [
+      "Fiorentina",
+      "Genoa"
+    ],
+    [
+      "Fiorentina",
+      "Torino"
+    ],
+    [
+      "Fiorentina",
+      "Verona"
+    ],
+    [
+      "Fiorentina",
+      "Como"
+    ],
+    [
+      "Fiorentina",
+      "Cagliari"
+    ],
+    [
+      "Fiorentina",
+      "Bologna"
+    ],
+    [
+      "Fiorentina",
+      "Udinese"
+    ],
+    [
+      "Fiorentina",
+      "Juventus"
+    ],
+    [
+      "Fiorentina",
+      "Napoli"
+    ],
+    [
+      "Fiorentina",
+      "Inter"
+    ],
+    [
+      "Parma",
+      "Fiorentina"
+    ],
+    [
+      "Parma",
+      "Milan"
+    ],
+    [
+      "Parma",
+      "Napoli"
+    ],
+    [
+      "Parma",
+      "Udinese"
+    ],
+    [
+      "Parma",
+      "Lecce"
+    ],
+    [
+      "Parma",
+      "Cagliari"
+    ],
+    [
+      "Parma",
+      "Bologna"
+    ],
+    [
+      "Parma",
+      "Como"
+    ],
+    [
+      "Parma",
+      "Empoli"
+    ],
+    [
+      "Parma",
+      "Juventus"
+    ],
+    [
+      "Parma",
+      "Genoa"
+    ],
+    [
+      "Parma",
+      "Venezia"
+    ],
+    [
+      "Parma",
+      "Atalanta"
+    ],
+    [
+      "Parma",
+      "Lazio"
+    ],
+    [
+      "Parma",
+      "Inter"
+    ],
+    [
+      "Parma",
+      "Verona"
+    ],
+    [
+      "Parma",
+      "Roma"
+    ],
+    [
+      "Parma",
+      "Monza"
+    ],
+    [
+      "Parma",
+      "Torino"
+    ],
+    [
+      "Milan",
+      "Torino"
+    ],
+    [
+      "Milan",
+      "Parma"
+    ],
+    [
+      "Milan",
+      "Lazio"
+    ],
+    [
+      "Milan",
+      "Venezia"
+    ],
+    [
+      "Milan",
+      "Inter"
+    ],
+    [
+      "Milan",
+      "Lecce"
+    ],
+    [
+      "Milan",
+      "Fiorentina"
+    ],
+    [
+      "Milan",
+      "Udinese"
+    ],
+    [
+      "Milan",
+      "Napoli"
+    ],
+    [
+      "Milan",
+      "Monza"
+    ],
+    [
+      "Milan",
+      "Cagliari"
+    ],
+    [
+      "Milan",
+      "Juventus"
+    ],
+    [
+      "Milan",
+      "Empoli"
+    ],
+    [
+      "Milan",
+      "Atalanta"
+    ],
+    [
+      "Milan",
+      "Genoa"
+    ],
+    [
+      "Milan",
+      "Verona"
+    ],
+    [
+      "Milan",
+      "Roma"
+    ],
+    [
+      "Milan",
+      "Como"
+    ],
+    [
+      "Milan",
+      "Bologna"
+    ],
+    [
+      "Atalanta",
+      "Lecce"
+    ],
+    [
+      "Atalanta",
+      "Torino"
+    ],
+    [
+      "Atalanta",
+      "Inter"
+    ],
+    [
+      "Atalanta",
+      "Fiorentina"
+    ],
+    [
+      "Atalanta",
+      "Como"
+    ],
+    [
+      "Atalanta",
+      "Bologna"
+    ],
+    [
+      "Atalanta",
+      "Genoa"
+    ],
+    [
+      "Atalanta",
+      "Venezia"
+    ],
+    [
+      "Atalanta",
+      "Verona"
+    ],
+    [
+      "Atalanta",
+      "Monza"
+    ],
+    [
+      "Atalanta",
+      "Napoli"
+    ],
+    [
+      "Atalanta",
+      "Udinese"
+    ],
+    [
+      "Atalanta",
+      "Parma"
+    ],
+    [
+      "Atalanta",
+      "Roma"
+    ],
+    [
+      "Atalanta",
+      "Milan"
+    ],
+    [
+      "Atalanta",
+      "Cagliari"
+    ],
+    [
+      "Atalanta",
+      "Empoli"
+    ],
+    [
+      "Atalanta",
+      "Lazio"
+    ],
+    [
+      "Atalanta",
+      "Juventus"
+    ],
+    [
+      "Napoli",
+      "Verona"
+    ],
+    [
+      "Napoli",
+      "Bologna"
+    ],
+    [
+      "Napoli",
+      "Parma"
+    ],
+    [
+      "Napoli",
+      "Cagliari"
+    ],
+    [
+      "Napoli",
+      "Juventus"
+    ],
+    [
+      "Napoli",
+      "Monza"
+    ],
+    [
+      "Napoli",
+      "Como"
+    ],
+    [
+      "Napoli",
+      "Empoli"
+    ],
+    [
+      "Napoli",
+      "Lecce"
+    ],
+    [
+      "Napoli",
+      "Milan"
+    ],
+    [
+      "Napoli",
+      "Atalanta"
+    ],
+    [
+      "Napoli",
+      "Inter"
+    ],
+    [
+      "Napoli",
+      "Roma"
+    ],
+    [
+      "Napoli",
+      "Torino"
+    ],
+    [
+      "Napoli",
+      "Lazio"
+    ],
+    [
+      "Napoli",
+      "Udinese"
+    ],
+    [
+      "Napoli",
+      "Genoa"
+    ],
+    [
+      "Napoli",
+      "Venezia"
+    ],
+    [
+      "Napoli",
+      "Fiorentina"
+    ],
+    [
+      "Roma",
+      "Cagliari"
+    ],
+    [
+      "Roma",
+      "Empoli"
+    ],
+    [
+      "Roma",
+      "Juventus"
+    ],
+    [
+      "Roma",
+      "Genoa"
+    ],
+    [
+      "Roma",
+      "Udinese"
+    ],
+    [
+      "Roma",
+      "Venezia"
+    ],
+    [
+      "Roma",
+      "Monza"
+    ],
+    [
+      "Roma",
+      "Inter"
+    ],
+    [
+      "Roma",
+      "Fiorentina"
+    ],
+    [
+      "Roma",
+      "Torino"
+    ],
+    [
+      "Roma",
+      "Verona"
+    ],
+    [
+      "Roma",
+      "Bologna"
+    ],
+    [
+      "Roma",
+      "Napoli"
+    ],
+    [
+      "Roma",
+      "Atalanta"
+    ],
+    [
+      "Roma",
+      "Lecce"
+    ],
+    [
+      "Roma",
+      "Como"
+    ],
+    [
+      "Roma",
+      "Parma"
+    ],
+    [
+      "Roma",
+      "Milan"
+    ],
+    [
+      "Roma",
+      "Lazio"
+    ],
+    [
+      "Inter",
+      "Genoa"
+    ],
+    [
+      "Inter",
+      "Lecce"
+    ],
+    [
+      "Inter",
+      "Atalanta"
+    ],
+    [
+      "Inter",
+      "Monza"
+    ],
+    [
+      "Inter",
+      "Milan"
+    ],
+    [
+      "Inter",
+      "Udinese"
+    ],
+    [
+      "Inter",
+      "Torino"
+    ],
+    [
+      "Inter",
+      "Roma"
+    ],
+    [
+      "Inter",
+      "Juventus"
+    ],
+    [
+      "Inter",
+      "Empoli"
+    ],
+    [
+      "Inter",
+      "Venezia"
+    ],
+    [
+      "Inter",
+      "Napoli"
+    ],
+    [
+      "Inter",
+      "Verona"
+    ],
+    [
+      "Inter",
+      "Parma"
+    ],
+    [
+      "Inter",
+      "Lazio"
+    ],
+    [
+      "Inter",
+      "Como"
+    ],
+    [
+      "Inter",
+      "Cagliari"
+    ],
+    [
+      "Inter",
+      "Bologna"
+    ],
+    [
+      "Inter",
+      "Fiorentina"
+    ],
+    [
+      "Juventus",
+      "Como"
+    ],
+    [
+      "Juventus",
+      "Verona"
+    ],
+    [
+      "Juventus",
+      "Roma"
+    ],
+    [
+      "Juventus",
+      "Empoli"
+    ],
+    [
+      "Juventus",
+      "Napoli"
+    ],
+    [
+      "Juventus",
+      "Genoa"
+    ],
+    [
+      "Juventus",
+      "Cagliari"
+    ],
+    [
+      "Juventus",
+      "Lazio"
+    ],
+    [
+      "Juventus",
+      "Inter"
+    ],
+    [
+      "Juventus",
+      "Parma"
+    ],
+    [
+      "Juventus",
+      "Udinese"
+    ],
+    [
+      "Juventus",
+      "Torino"
+    ],
+    [
+      "Juventus",
+      "Milan"
+    ],
+    [
+      "Juventus",
+      "Lecce"
+    ],
+    [
+      "Juventus",
+      "Bologna"
+    ],
+    [
+      "Juventus",
+      "Venezia"
+    ],
+    [
+      "Juventus",
+      "Monza"
+    ],
+    [
+      "Juventus",
+      "Fiorentina"
+    ],
+    [
+      "Juventus",
+      "Atalanta"
+    ],
+    [
+      "Monza",
+      "Empoli"
+    ],
+    [
+      "Monza",
+      "Genoa"
+    ],
+    [
+      "Monza",
+      "Fiorentina"
+    ],
+    [
+      "Monza",
+      "Inter"
+    ],
+    [
+      "Monza",
+      "Bologna"
+    ],
+    [
+      "Monza",
+      "Napoli"
+    ],
+    [
+      "Monza",
+      "Roma"
+    ],
+    [
+      "Monza",
+      "Verona"
+    ],
+    [
+      "Monza",
+      "Venezia"
+    ],
+    [
+      "Monza",
+      "Atalanta"
+    ],
+    [
+      "Monza",
+      "Milan"
+    ],
+    [
+      "Monza",
+      "Lazio"
+    ],
+    [
+      "Monza",
+      "Torino"
+    ],
+    [
+      "Monza",
+      "Como"
+    ],
+    [
+      "Monza",
+      "Udinese"
+    ],
+    [
+      "Monza",
+      "Lecce"
+    ],
+    [
+      "Monza",
+      "Juventus"
+    ],
+    [
+      "Monza",
+      "Parma"
+    ],
+    [
+      "Monza",
+      "Cagliari"
+    ],
+    [
+      "Torino",
+      "Milan"
+    ],
+    [
+      "Torino",
+      "Atalanta"
+    ],
+    [
+      "Torino",
+      "Venezia"
+    ],
+    [
+      "Torino",
+      "Lecce"
+    ],
+    [
+      "Torino",
+      "Verona"
+    ],
+    [
+      "Torino",
+      "Lazio"
+    ],
+    [
+      "Torino",
+      "Inter"
+    ],
+    [
+      "Torino",
+      "Cagliari"
+    ],
+    [
+      "Torino",
+      "Como"
+    ],
+    [
+      "Torino",
+      "Roma"
+    ],
+    [
+      "Torino",
+      "Fiorentina"
+    ],
+    [
+      "Torino",
+      "Juventus"
+    ],
+    [
+      "Torino",
+      "Monza"
+    ],
+    [
+      "Torino",
+      "Napoli"
+    ],
+    [
+      "Torino",
+      "Genoa"
+    ],
+    [
+      "Torino",
+      "Empoli"
+    ],
+    [
+      "Torino",
+      "Bologna"
+    ],
+    [
+      "Torino",
+      "Udinese"
+    ],
+    [
+      "Torino",
+      "Parma"
+    ]
+  ],
+  "weights": {
+    "Venezia->Lazio": 0.6666666666666666,
+    "Venezia->Fiorentina": 0.16666666666666666,
+    "Venezia->Torino": 0.6666666666666666,
+    "Venezia->Milan": 1.0,
+    "Venezia->Genoa": 0.5,
+    "Venezia->Roma": 1.0,
+    "Venezia->Verona": 0.6666666666666666,
+    "Venezia->Atalanta": 0.6666666666666666,
+    "Venezia->Monza": 0.16666666666666666,
+    "Venezia->Udinese": 0.5,
+    "Venezia->Inter": 1.0,
+    "Venezia->Parma": 0.6666666666666666,
+    "Venezia->Lecce": 0.6666666666666666,
+    "Venezia->Bologna": 1.0,
+    "Venezia->Como": 0.3333333333333333,
+    "Venezia->Juventus": 0.6666666666666666,
+    "Venezia->Cagliari": 0.5,
+    "Venezia->Napoli": 0.6666666666666666,
+    "Venezia->Empoli": 0.3333333333333333,
+    "Udinese->Bologna": 0.3333333333333333,
+    "Udinese->Lazio": 0.16666666666666666,
+    "Udinese->Como": 0.5,
+    "Udinese->Parma": 0.0,
+    "Udinese->Roma": 1.0,
+    "Udinese->Inter": 1.0,
+    "Udinese->Lecce": 0.0,
+    "Udinese->Milan": 1.0,
+    "Udinese->Cagliari": 0.0,
+    "Udinese->Venezia": 0.5,
+    "Udinese->Juventus": 1.0,
+    "Udinese->Atalanta": 0.6666666666666666,
+    "Udinese->Empoli": 0.16666666666666666,
+    "Udinese->Genoa": 1.0,
+    "Udinese->Monza": 0.5,
+    "Udinese->Napoli": 0.6666666666666666,
+    "Udinese->Fiorentina": 0.5,
+    "Udinese->Torino": 0.6666666666666666,
+    "Udinese->Verona": 0.6666666666666666,
+    "Lazio->Venezia": 0.16666666666666666,
+    "Lazio->Udinese": 0.6666666666666666,
+    "Lazio->Milan": 0.16666666666666666,
+    "Lazio->Verona": 0.0,
+    "Lazio->Fiorentina": 1.0,
+    "Lazio->Torino": 0.16666666666666666,
+    "Lazio->Empoli": 0.0,
+    "Lazio->Juventus": 0.6666666666666666,
+    "Lazio->Genoa": 0.0,
+    "Lazio->Como": 0.16666666666666666,
+    "Lazio->Cagliari": 0.0,
+    "Lazio->Monza": 0.0,
+    "Lazio->Bologna": 0.5,
+    "Lazio->Parma": 0.6666666666666666,
+    "Lazio->Napoli": 0.16666666666666666,
+    "Lazio->Inter": 0.6666666666666666,
+    "Lazio->Lecce": 0.5,
+    "Lazio->Atalanta": 0.16666666666666666,
+    "Lazio->Roma": 0.6666666666666666,
+    "Lecce->Atalanta": 0.6666666666666666,
+    "Lecce->Inter": 1.0,
+    "Lecce->Cagliari": 0.5,
+    "Lecce->Torino": 0.16666666666666666,
+    "Lecce->Parma": 0.16666666666666666,
+    "Lecce->Milan": 1.0,
+    "Lecce->Udinese": 1.0,
+    "Lecce->Fiorentina": 1.0,
+    "Lecce->Napoli": 1.0,
+    "Lecce->Verona": 0.16666666666666666,
+    "Lecce->Bologna": 0.6666666666666666,
+    "Lecce->Empoli": 0.16666666666666666,
+    "Lecce->Venezia": 0.16666666666666666,
+    "Lecce->Juventus": 0.6666666666666666,
+    "Lecce->Roma": 1.0,
+    "Lecce->Monza": 0.16666666666666666,
+    "Lecce->Lazio": 0.5,
+    "Lecce->Como": 1.0,
+    "Lecce->Genoa": 0.6666666666666666,
+    "Cagliari->Roma": 0.6666666666666666,
+    "Cagliari->Como": 0.6666666666666666,
+    "Cagliari->Lecce": 0.5,
+    "Cagliari->Napoli": 1.0,
+    "Cagliari->Empoli": 0.6666666666666666,
+    "Cagliari->Parma": 0.0,
+    "Cagliari->Juventus": 0.6666666666666666,
+    "Cagliari->Torino": 0.5,
+    "Cagliari->Udinese": 1.0,
+    "Cagliari->Bologna": 1.0,
+    "Cagliari->Lazio": 1.0,
+    "Cagliari->Milan": 0.3333333333333333,
+    "Cagliari->Genoa": 0.3333333333333333,
+    "Cagliari->Verona": 0.0,
+    "Cagliari->Fiorentina": 1.0,
+    "Cagliari->Atalanta": 0.6666666666666666,
+    "Cagliari->Venezia": 0.5,
+    "Cagliari->Inter": 1.0,
+    "Cagliari->Monza": 0.0,
+    "Bologna->Udinese": 0.3333333333333333,
+    "Bologna->Napoli": 0.6666666666666666,
+    "Bologna->Empoli": 0.3333333333333333,
+    "Bologna->Como": 0.16666666666666666,
+    "Bologna->Monza": 0.0,
+    "Bologna->Atalanta": 0.6666666666666666,
+    "Bologna->Parma": 0.6666666666666666,
+    "Bologna->Genoa": 0.6666666666666666,
+    "Bologna->Cagliari": 0.0,
+    "Bologna->Lecce": 0.16666666666666666,
+    "Bologna->Roma": 0.16666666666666666,
+    "Bologna->Lazio": 0.5,
+    "Bologna->Venezia": 0.0,
+    "Bologna->Juventus": 0.3333333333333333,
+    "Bologna->Fiorentina": 0.5,
+    "Bologna->Torino": 0.0,
+    "Bologna->Verona": 0.5,
+    "Bologna->Inter": 0.16666666666666666,
+    "Bologna->Milan": 0.5,
+    "Como->Juventus": 1.0,
+    "Como->Cagliari": 0.16666666666666666,
+    "Como->Udinese": 0.5,
+    "Como->Bologna": 0.6666666666666666,
+    "Como->Atalanta": 0.5,
+    "Como->Verona": 0.16666666666666666,
+    "Como->Napoli": 0.5,
+    "Como->Parma": 0.16666666666666666,
+    "Como->Torino": 0.5,
+    "Como->Lazio": 0.6666666666666666,
+    "Como->Empoli": 0.6666666666666666,
+    "Como->Genoa": 0.16666666666666666,
+    "Como->Fiorentina": 0.5,
+    "Como->Monza": 0.16666666666666666,
+    "Como->Venezia": 0.3333333333333333,
+    "Como->Roma": 0.5,
+    "Como->Inter": 1.0,
+    "Como->Lecce": 0.0,
+    "Como->Milan": 1.0,
+    "Empoli->Monza": 0.16666666666666666,
+    "Empoli->Roma": 0.5,
+    "Empoli->Bologna": 0.3333333333333333,
+    "Empoli->Juventus": 0.6666666666666666,
+    "Empoli->Cagliari": 0.16666666666666666,
+    "Empoli->Fiorentina": 0.6666666666666666,
+    "Empoli->Lazio": 1.0,
+    "Empoli->Napoli": 1.0,
+    "Empoli->Parma": 0.16666666666666666,
+    "Empoli->Inter": 1.0,
+    "Empoli->Como": 0.16666666666666666,
+    "Empoli->Lecce": 0.6666666666666666,
+    "Empoli->Udinese": 0.6666666666666666,
+    "Empoli->Milan": 1.0,
+    "Empoli->Verona": 0.5,
+    "Empoli->Torino": 1.0,
+    "Empoli->Atalanta": 1.0,
+    "Empoli->Genoa": 0.6666666666666666,
+    "Empoli->Venezia": 0.3333333333333333,
+    "Genoa->Inter": 0.6666666666666666,
+    "Genoa->Monza": 0.0,
+    "Genoa->Verona": 0.6666666666666666,
+    "Genoa->Roma": 0.6666666666666666,
+    "Genoa->Venezia": 0.5,
+    "Genoa->Juventus": 1.0,
+    "Genoa->Atalanta": 1.0,
+    "Genoa->Bologna": 0.16666666666666666,
+    "Genoa->Lazio": 1.0,
+    "Genoa->Fiorentina": 1.0,
+    "Genoa->Parma": 0.0,
+    "Genoa->Como": 0.6666666666666666,
+    "Genoa->Cagliari": 0.3333333333333333,
+    "Genoa->Udinese": 0.0,
+    "Genoa->Torino": 0.3333333333333333,
+    "Genoa->Milan": 0.6666666666666666,
+    "Genoa->Napoli": 0.6666666666666666,
+    "Genoa->Empoli": 0.16666666666666666,
+    "Genoa->Lecce": 0.16666666666666666,
+    "Verona->Napoli": 0.5,
+    "Verona->Juventus": 1.0,
+    "Verona->Genoa": 0.16666666666666666,
+    "Verona->Lazio": 1.0,
+    "Verona->Torino": 0.6666666666666666,
+    "Verona->Como": 0.6666666666666666,
+    "Verona->Venezia": 0.16666666666666666,
+    "Verona->Monza": 0.5,
+    "Verona->Atalanta": 1.0,
+    "Verona->Lecce": 0.6666666666666666,
+    "Verona->Roma": 0.5,
+    "Verona->Fiorentina": 0.5,
+    "Verona->Inter": 1.0,
+    "Verona->Cagliari": 1.0,
+    "Verona->Empoli": 0.5,
+    "Verona->Parma": 0.16666666666666666,
+    "Verona->Milan": 1.0,
+    "Verona->Bologna": 0.5,
+    "Verona->Udinese": 0.16666666666666666,
+    "Fiorentina->Parma": 0.3333333333333333,
+    "Fiorentina->Venezia": 0.6666666666666666,
+    "Fiorentina->Monza": 0.6666666666666666,
+    "Fiorentina->Atalanta": 0.5,
+    "Fiorentina->Lazio": 0.0,
+    "Fiorentina->Empoli": 0.16666666666666666,
+    "Fiorentina->Milan": 0.16666666666666666,
+    "Fiorentina->Lecce": 0.0,
+    "Fiorentina->Roma": 0.5,
+    "Fiorentina->Genoa": 0.0,
+    "Fiorentina->Torino": 0.16666666666666666,
+    "Fiorentina->Verona": 0.5,
+    "Fiorentina->Como": 0.5,
+    "Fiorentina->Cagliari": 0.0,
+    "Fiorentina->Bologna": 0.5,
+    "Fiorentina->Udinese": 0.5,
+    "Fiorentina->Juventus": 0.16666666666666666,
+    "Fiorentina->Napoli": 1.0,
+    "Fiorentina->Inter": 0.5,
+    "Parma->Fiorentina": 0.3333333333333333,
+    "Parma->Milan": 0.5,
+    "Parma->Napoli": 0.6666666666666666,
+    "Parma->Udinese": 1.0,
+    "Parma->Lecce": 0.6666666666666666,
+    "Parma->Cagliari": 1.0,
+    "Parma->Bologna": 0.16666666666666666,
+    "Parma->Como": 0.6666666666666666,
+    "Parma->Empoli": 0.6666666666666666,
+    "Parma->Juventus": 0.16666666666666666,
+    "Parma->Genoa": 1.0,
+    "Parma->Venezia": 0.16666666666666666,
+    "Parma->Atalanta": 0.5,
+    "Parma->Lazio": 0.16666666666666666,
+    "Parma->Inter": 0.6666666666666666,
+    "Parma->Verona": 0.6666666666666666,
+    "Parma->Roma": 1.0,
+    "Parma->Monza": 0.16666666666666666,
+    "Parma->Torino": 0.3333333333333333,
+    "Milan->Torino": 0.6666666666666666,
+    "Milan->Parma": 0.5,
+    "Milan->Lazio": 0.6666666666666666,
+    "Milan->Venezia": 0.0,
+    "Milan->Inter": 0.16666666666666666,
+    "Milan->Lecce": 0.0,
+    "Milan->Fiorentina": 0.6666666666666666,
+    "Milan->Udinese": 0.0,
+    "Milan->Napoli": 1.0,
+    "Milan->Monza": 0.0,
+    "Milan->Cagliari": 0.3333333333333333,
+    "Milan->Juventus": 0.6666666666666666,
+    "Milan->Empoli": 0.0,
+    "Milan->Atalanta": 1.0,
+    "Milan->Genoa": 0.16666666666666666,
+    "Milan->Verona": 0.0,
+    "Milan->Roma": 0.6666666666666666,
+    "Milan->Como": 0.0,
+    "Milan->Bologna": 0.5,
+    "Atalanta->Lecce": 0.16666666666666666,
+    "Atalanta->Torino": 0.6666666666666666,
+    "Atalanta->Inter": 1.0,
+    "Atalanta->Fiorentina": 0.5,
+    "Atalanta->Como": 0.5,
+    "Atalanta->Bologna": 0.16666666666666666,
+    "Atalanta->Genoa": 0.0,
+    "Atalanta->Venezia": 0.16666666666666666,
+    "Atalanta->Verona": 0.0,
+    "Atalanta->Monza": 0.0,
+    "Atalanta->Napoli": 0.5,
+    "Atalanta->Udinese": 0.16666666666666666,
+    "Atalanta->Parma": 0.5,
+    "Atalanta->Roma": 0.0,
+    "Atalanta->Milan": 0.0,
+    "Atalanta->Cagliari": 0.16666666666666666,
+    "Atalanta->Empoli": 0.0,
+    "Atalanta->Lazio": 0.6666666666666666,
+    "Atalanta->Juventus": 0.16666666666666666,
+    "Napoli->Verona": 0.5,
+    "Napoli->Bologna": 0.16666666666666666,
+    "Napoli->Parma": 0.16666666666666666,
+    "Napoli->Cagliari": 0.0,
+    "Napoli->Juventus": 0.16666666666666666,
+    "Napoli->Monza": 0.0,
+    "Napoli->Como": 0.5,
+    "Napoli->Empoli": 0.0,
+    "Napoli->Lecce": 0.0,
+    "Napoli->Milan": 0.0,
+    "Napoli->Atalanta": 0.5,
+    "Napoli->Inter": 0.3333333333333333,
+    "Napoli->Roma": 0.16666666666666666,
+    "Napoli->Torino": 0.0,
+    "Napoli->Lazio": 0.6666666666666666,
+    "Napoli->Udinese": 0.16666666666666666,
+    "Napoli->Genoa": 0.16666666666666666,
+    "Napoli->Venezia": 0.16666666666666666,
+    "Napoli->Fiorentina": 0.0,
+    "Roma->Cagliari": 0.16666666666666666,
+    "Roma->Empoli": 0.5,
+    "Roma->Juventus": 0.3333333333333333,
+    "Roma->Genoa": 0.16666666666666666,
+    "Roma->Udinese": 0.0,
+    "Roma->Venezia": 0.0,
+    "Roma->Monza": 0.16666666666666666,
+    "Roma->Inter": 0.5,
+    "Roma->Fiorentina": 0.5,
+    "Roma->Torino": 0.0,
+    "Roma->Verona": 0.5,
+    "Roma->Bologna": 0.6666666666666666,
+    "Roma->Napoli": 0.6666666666666666,
+    "Roma->Atalanta": 1.0,
+    "Roma->Lecce": 0.0,
+    "Roma->Como": 0.5,
+    "Roma->Parma": 0.0,
+    "Roma->Milan": 0.16666666666666666,
+    "Roma->Lazio": 0.16666666666666666,
+    "Inter->Genoa": 0.16666666666666666,
+    "Inter->Lecce": 0.0,
+    "Inter->Atalanta": 0.0,
+    "Inter->Monza": 0.16666666666666666,
+    "Inter->Milan": 0.6666666666666666,
+    "Inter->Udinese": 0.0,
+    "Inter->Torino": 0.0,
+    "Inter->Roma": 0.5,
+    "Inter->Juventus": 0.6666666666666666,
+    "Inter->Empoli": 0.0,
+    "Inter->Venezia": 0.0,
+    "Inter->Napoli": 0.3333333333333333,
+    "Inter->Verona": 0.0,
+    "Inter->Parma": 0.16666666666666666,
+    "Inter->Lazio": 0.16666666666666666,
+    "Inter->Como": 0.0,
+    "Inter->Cagliari": 0.0,
+    "Inter->Bologna": 0.6666666666666666,
+    "Inter->Fiorentina": 0.5,
+    "Juventus->Como": 0.0,
+    "Juventus->Verona": 0.0,
+    "Juventus->Roma": 0.3333333333333333,
+    "Juventus->Empoli": 0.16666666666666666,
+    "Juventus->Napoli": 0.6666666666666666,
+    "Juventus->Genoa": 0.0,
+    "Juventus->Cagliari": 0.16666666666666666,
+    "Juventus->Lazio": 0.16666666666666666,
+    "Juventus->Inter": 0.16666666666666666,
+    "Juventus->Parma": 0.6666666666666666,
+    "Juventus->Udinese": 0.0,
+    "Juventus->Torino": 0.16666666666666666,
+    "Juventus->Milan": 0.16666666666666666,
+    "Juventus->Lecce": 0.16666666666666666,
+    "Juventus->Bologna": 0.3333333333333333,
+    "Juventus->Venezia": 0.16666666666666666,
+    "Juventus->Monza": 0.0,
+    "Juventus->Fiorentina": 0.6666666666666666,
+    "Juventus->Atalanta": 0.6666666666666666,
+    "Monza->Empoli": 0.6666666666666666,
+    "Monza->Genoa": 1.0,
+    "Monza->Fiorentina": 0.16666666666666666,
+    "Monza->Inter": 0.6666666666666666,
+    "Monza->Bologna": 1.0,
+    "Monza->Napoli": 1.0,
+    "Monza->Roma": 0.6666666666666666,
+    "Monza->Verona": 0.5,
+    "Monza->Venezia": 0.6666666666666666,
+    "Monza->Atalanta": 1.0,
+    "Monza->Milan": 1.0,
+    "Monza->Lazio": 1.0,
+    "Monza->Torino": 0.6666666666666666,
+    "Monza->Como": 0.6666666666666666,
+    "Monza->Udinese": 0.5,
+    "Monza->Lecce": 0.6666666666666666,
+    "Monza->Juventus": 1.0,
+    "Monza->Parma": 0.6666666666666666,
+    "Monza->Cagliari": 1.0,
+    "Torino->Milan": 0.16666666666666666,
+    "Torino->Atalanta": 0.16666666666666666,
+    "Torino->Venezia": 0.16666666666666666,
+    "Torino->Lecce": 0.6666666666666666,
+    "Torino->Verona": 0.16666666666666666,
+    "Torino->Lazio": 0.6666666666666666,
+    "Torino->Inter": 1.0,
+    "Torino->Cagliari": 0.5,
+    "Torino->Como": 0.5,
+    "Torino->Roma": 1.0,
+    "Torino->Fiorentina": 0.6666666666666666,
+    "Torino->Juventus": 0.6666666666666666,
+    "Torino->Monza": 0.16666666666666666,
+    "Torino->Napoli": 1.0,
+    "Torino->Genoa": 0.3333333333333333,
+    "Torino->Empoli": 0.0,
+    "Torino->Bologna": 1.0,
+    "Torino->Udinese": 0.16666666666666666,
+    "Torino->Parma": 0.3333333333333333
+  }
+}

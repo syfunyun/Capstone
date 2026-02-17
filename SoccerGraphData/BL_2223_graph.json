@@ -1,0 +1,1556 @@
+{
+  "nodes": [
+    "FC Koln",
+    "RB Leipzig",
+    "Freiburg",
+    "Ein Frankfurt",
+    "Bayern Munich",
+    "Mainz",
+    "Leverkusen",
+    "Wolfsburg",
+    "Union Berlin",
+    "Dortmund",
+    "M'gladbach",
+    "Bochum",
+    "Stuttgart",
+    "Hoffenheim",
+    "Werder Bremen",
+    "Schalke 04",
+    "Hertha",
+    "Augsburg"
+  ],
+  "edges": [
+    [
+      "FC Koln",
+      "Schalke 04"
+    ],
+    [
+      "FC Koln",
+      "RB Leipzig"
+    ],
+    [
+      "FC Koln",
+      "Ein Frankfurt"
+    ],
+    [
+      "FC Koln",
+      "Stuttgart"
+    ],
+    [
+      "FC Koln",
+      "Wolfsburg"
+    ],
+    [
+      "FC Koln",
+      "Union Berlin"
+    ],
+    [
+      "FC Koln",
+      "Bochum"
+    ],
+    [
+      "FC Koln",
+      "Dortmund"
+    ],
+    [
+      "FC Koln",
+      "M'gladbach"
+    ],
+    [
+      "FC Koln",
+      "Augsburg"
+    ],
+    [
+      "FC Koln",
+      "Mainz"
+    ],
+    [
+      "FC Koln",
+      "Hoffenheim"
+    ],
+    [
+      "FC Koln",
+      "Freiburg"
+    ],
+    [
+      "FC Koln",
+      "Leverkusen"
+    ],
+    [
+      "FC Koln",
+      "Hertha"
+    ],
+    [
+      "FC Koln",
+      "Werder Bremen"
+    ],
+    [
+      "FC Koln",
+      "Bayern Munich"
+    ],
+    [
+      "RB Leipzig",
+      "Stuttgart"
+    ],
+    [
+      "RB Leipzig",
+      "FC Koln"
+    ],
+    [
+      "RB Leipzig",
+      "Union Berlin"
+    ],
+    [
+      "RB Leipzig",
+      "Wolfsburg"
+    ],
+    [
+      "RB Leipzig",
+      "Ein Frankfurt"
+    ],
+    [
+      "RB Leipzig",
+      "Dortmund"
+    ],
+    [
+      "RB Leipzig",
+      "M'gladbach"
+    ],
+    [
+      "RB Leipzig",
+      "Bochum"
+    ],
+    [
+      "RB Leipzig",
+      "Mainz"
+    ],
+    [
+      "RB Leipzig",
+      "Hertha"
+    ],
+    [
+      "RB Leipzig",
+      "Augsburg"
+    ],
+    [
+      "RB Leipzig",
+      "Leverkusen"
+    ],
+    [
+      "RB Leipzig",
+      "Hoffenheim"
+    ],
+    [
+      "RB Leipzig",
+      "Freiburg"
+    ],
+    [
+      "RB Leipzig",
+      "Werder Bremen"
+    ],
+    [
+      "RB Leipzig",
+      "Bayern Munich"
+    ],
+    [
+      "RB Leipzig",
+      "Schalke 04"
+    ],
+    [
+      "Freiburg",
+      "Augsburg"
+    ],
+    [
+      "Freiburg",
+      "Dortmund"
+    ],
+    [
+      "Freiburg",
+      "Stuttgart"
+    ],
+    [
+      "Freiburg",
+      "Bochum"
+    ],
+    [
+      "Freiburg",
+      "Leverkusen"
+    ],
+    [
+      "Freiburg",
+      "M'gladbach"
+    ],
+    [
+      "Freiburg",
+      "Hoffenheim"
+    ],
+    [
+      "Freiburg",
+      "Mainz"
+    ],
+    [
+      "Freiburg",
+      "Hertha"
+    ],
+    [
+      "Freiburg",
+      "Bayern Munich"
+    ],
+    [
+      "Freiburg",
+      "Werder Bremen"
+    ],
+    [
+      "Freiburg",
+      "Schalke 04"
+    ],
+    [
+      "Freiburg",
+      "FC Koln"
+    ],
+    [
+      "Freiburg",
+      "RB Leipzig"
+    ],
+    [
+      "Freiburg",
+      "Union Berlin"
+    ],
+    [
+      "Freiburg",
+      "Wolfsburg"
+    ],
+    [
+      "Freiburg",
+      "Ein Frankfurt"
+    ],
+    [
+      "Ein Frankfurt",
+      "Bayern Munich"
+    ],
+    [
+      "Ein Frankfurt",
+      "Hertha"
+    ],
+    [
+      "Ein Frankfurt",
+      "FC Koln"
+    ],
+    [
+      "Ein Frankfurt",
+      "Werder Bremen"
+    ],
+    [
+      "Ein Frankfurt",
+      "RB Leipzig"
+    ],
+    [
+      "Ein Frankfurt",
+      "Wolfsburg"
+    ],
+    [
+      "Ein Frankfurt",
+      "Stuttgart"
+    ],
+    [
+      "Ein Frankfurt",
+      "Union Berlin"
+    ],
+    [
+      "Ein Frankfurt",
+      "Bochum"
+    ],
+    [
+      "Ein Frankfurt",
+      "Leverkusen"
+    ],
+    [
+      "Ein Frankfurt",
+      "M'gladbach"
+    ],
+    [
+      "Ein Frankfurt",
+      "Dortmund"
+    ],
+    [
+      "Ein Frankfurt",
+      "Augsburg"
+    ],
+    [
+      "Ein Frankfurt",
+      "Hoffenheim"
+    ],
+    [
+      "Ein Frankfurt",
+      "Mainz"
+    ],
+    [
+      "Ein Frankfurt",
+      "Schalke 04"
+    ],
+    [
+      "Ein Frankfurt",
+      "Freiburg"
+    ],
+    [
+      "Bayern Munich",
+      "Ein Frankfurt"
+    ],
+    [
+      "Bayern Munich",
+      "Wolfsburg"
+    ],
+    [
+      "Bayern Munich",
+      "Bochum"
+    ],
+    [
+      "Bayern Munich",
+      "M'gladbach"
+    ],
+    [
+      "Bayern Munich",
+      "Union Berlin"
+    ],
+    [
+      "Bayern Munich",
+      "Stuttgart"
+    ],
+    [
+      "Bayern Munich",
+      "Augsburg"
+    ],
+    [
+      "Bayern Munich",
+      "Leverkusen"
+    ],
+    [
+      "Bayern Munich",
+      "Dortmund"
+    ],
+    [
+      "Bayern Munich",
+      "Freiburg"
+    ],
+    [
+      "Bayern Munich",
+      "Hoffenheim"
+    ],
+    [
+      "Bayern Munich",
+      "Mainz"
+    ],
+    [
+      "Bayern Munich",
+      "Hertha"
+    ],
+    [
+      "Bayern Munich",
+      "Werder Bremen"
+    ],
+    [
+      "Bayern Munich",
+      "Schalke 04"
+    ],
+    [
+      "Bayern Munich",
+      "RB Leipzig"
+    ],
+    [
+      "Bayern Munich",
+      "FC Koln"
+    ],
+    [
+      "Mainz",
+      "Bochum"
+    ],
+    [
+      "Mainz",
+      "Union Berlin"
+    ],
+    [
+      "Mainz",
+      "Augsburg"
+    ],
+    [
+      "Mainz",
+      "Leverkusen"
+    ],
+    [
+      "Mainz",
+      "M'gladbach"
+    ],
+    [
+      "Mainz",
+      "Hoffenheim"
+    ],
+    [
+      "Mainz",
+      "Hertha"
+    ],
+    [
+      "Mainz",
+      "Freiburg"
+    ],
+    [
+      "Mainz",
+      "RB Leipzig"
+    ],
+    [
+      "Mainz",
+      "Werder Bremen"
+    ],
+    [
+      "Mainz",
+      "FC Koln"
+    ],
+    [
+      "Mainz",
+      "Bayern Munich"
+    ],
+    [
+      "Mainz",
+      "Wolfsburg"
+    ],
+    [
+      "Mainz",
+      "Schalke 04"
+    ],
+    [
+      "Mainz",
+      "Ein Frankfurt"
+    ],
+    [
+      "Mainz",
+      "Stuttgart"
+    ],
+    [
+      "Mainz",
+      "Dortmund"
+    ],
+    [
+      "Leverkusen",
+      "Dortmund"
+    ],
+    [
+      "Leverkusen",
+      "Augsburg"
+    ],
+    [
+      "Leverkusen",
+      "Hoffenheim"
+    ],
+    [
+      "Leverkusen",
+      "Mainz"
+    ],
+    [
+      "Leverkusen",
+      "Freiburg"
+    ],
+    [
+      "Leverkusen",
+      "Hertha"
+    ],
+    [
+      "Leverkusen",
+      "Werder Bremen"
+    ],
+    [
+      "Leverkusen",
+      "Bayern Munich"
+    ],
+    [
+      "Leverkusen",
+      "Schalke 04"
+    ],
+    [
+      "Leverkusen",
+      "Ein Frankfurt"
+    ],
+    [
+      "Leverkusen",
+      "Wolfsburg"
+    ],
+    [
+      "Leverkusen",
+      "RB Leipzig"
+    ],
+    [
+      "Leverkusen",
+      "Union Berlin"
+    ],
+    [
+      "Leverkusen",
+      "FC Koln"
+    ],
+    [
+      "Leverkusen",
+      "Stuttgart"
+    ],
+    [
+      "Leverkusen",
+      "M'gladbach"
+    ],
+    [
+      "Leverkusen",
+      "Bochum"
+    ],
+    [
+      "Wolfsburg",
+      "Werder Bremen"
+    ],
+    [
+      "Wolfsburg",
+      "Bayern Munich"
+    ],
+    [
+      "Wolfsburg",
+      "Schalke 04"
+    ],
+    [
+      "Wolfsburg",
+      "RB Leipzig"
+    ],
+    [
+      "Wolfsburg",
+      "FC Koln"
+    ],
+    [
+      "Wolfsburg",
+      "Ein Frankfurt"
+    ],
+    [
+      "Wolfsburg",
+      "Union Berlin"
+    ],
+    [
+      "Wolfsburg",
+      "Stuttgart"
+    ],
+    [
+      "Wolfsburg",
+      "Augsburg"
+    ],
+    [
+      "Wolfsburg",
+      "M'gladbach"
+    ],
+    [
+      "Wolfsburg",
+      "Leverkusen"
+    ],
+    [
+      "Wolfsburg",
+      "Bochum"
+    ],
+    [
+      "Wolfsburg",
+      "Mainz"
+    ],
+    [
+      "Wolfsburg",
+      "Dortmund"
+    ],
+    [
+      "Wolfsburg",
+      "Hoffenheim"
+    ],
+    [
+      "Wolfsburg",
+      "Freiburg"
+    ],
+    [
+      "Wolfsburg",
+      "Hertha"
+    ],
+    [
+      "Union Berlin",
+      "Hertha"
+    ],
+    [
+      "Union Berlin",
+      "Mainz"
+    ],
+    [
+      "Union Berlin",
+      "RB Leipzig"
+    ],
+    [
+      "Union Berlin",
+      "Schalke 04"
+    ],
+    [
+      "Union Berlin",
+      "Bayern Munich"
+    ],
+    [
+      "Union Berlin",
+      "FC Koln"
+    ],
+    [
+      "Union Berlin",
+      "Wolfsburg"
+    ],
+    [
+      "Union Berlin",
+      "Ein Frankfurt"
+    ],
+    [
+      "Union Berlin",
+      "Stuttgart"
+    ],
+    [
+      "Union Berlin",
+      "Dortmund"
+    ],
+    [
+      "Union Berlin",
+      "Bochum"
+    ],
+    [
+      "Union Berlin",
+      "M'gladbach"
+    ],
+    [
+      "Union Berlin",
+      "Leverkusen"
+    ],
+    [
+      "Union Berlin",
+      "Augsburg"
+    ],
+    [
+      "Union Berlin",
+      "Freiburg"
+    ],
+    [
+      "Union Berlin",
+      "Hoffenheim"
+    ],
+    [
+      "Union Berlin",
+      "Werder Bremen"
+    ],
+    [
+      "Dortmund",
+      "Leverkusen"
+    ],
+    [
+      "Dortmund",
+      "Freiburg"
+    ],
+    [
+      "Dortmund",
+      "Werder Bremen"
+    ],
+    [
+      "Dortmund",
+      "Hertha"
+    ],
+    [
+      "Dortmund",
+      "Hoffenheim"
+    ],
+    [
+      "Dortmund",
+      "RB Leipzig"
+    ],
+    [
+      "Dortmund",
+      "Schalke 04"
+    ],
+    [
+      "Dortmund",
+      "FC Koln"
+    ],
+    [
+      "Dortmund",
+      "Bayern Munich"
+    ],
+    [
+      "Dortmund",
+      "Union Berlin"
+    ],
+    [
+      "Dortmund",
+      "Stuttgart"
+    ],
+    [
+      "Dortmund",
+      "Ein Frankfurt"
+    ],
+    [
+      "Dortmund",
+      "Bochum"
+    ],
+    [
+      "Dortmund",
+      "Wolfsburg"
+    ],
+    [
+      "Dortmund",
+      "M'gladbach"
+    ],
+    [
+      "Dortmund",
+      "Augsburg"
+    ],
+    [
+      "Dortmund",
+      "Mainz"
+    ],
+    [
+      "M'gladbach",
+      "Hoffenheim"
+    ],
+    [
+      "M'gladbach",
+      "Schalke 04"
+    ],
+    [
+      "M'gladbach",
+      "Hertha"
+    ],
+    [
+      "M'gladbach",
+      "Bayern Munich"
+    ],
+    [
+      "M'gladbach",
+      "Mainz"
+    ],
+    [
+      "M'gladbach",
+      "Freiburg"
+    ],
+    [
+      "M'gladbach",
+      "RB Leipzig"
+    ],
+    [
+      "M'gladbach",
+      "Werder Bremen"
+    ],
+    [
+      "M'gladbach",
+      "FC Koln"
+    ],
+    [
+      "M'gladbach",
+      "Wolfsburg"
+    ],
+    [
+      "M'gladbach",
+      "Ein Frankfurt"
+    ],
+    [
+      "M'gladbach",
+      "Union Berlin"
+    ],
+    [
+      "M'gladbach",
+      "Stuttgart"
+    ],
+    [
+      "M'gladbach",
+      "Bochum"
+    ],
+    [
+      "M'gladbach",
+      "Dortmund"
+    ],
+    [
+      "M'gladbach",
+      "Leverkusen"
+    ],
+    [
+      "M'gladbach",
+      "Augsburg"
+    ],
+    [
+      "Bochum",
+      "Mainz"
+    ],
+    [
+      "Bochum",
+      "Hoffenheim"
+    ],
+    [
+      "Bochum",
+      "Bayern Munich"
+    ],
+    [
+      "Bochum",
+      "Freiburg"
+    ],
+    [
+      "Bochum",
+      "Werder Bremen"
+    ],
+    [
+      "Bochum",
+      "Schalke 04"
+    ],
+    [
+      "Bochum",
+      "FC Koln"
+    ],
+    [
+      "Bochum",
+      "RB Leipzig"
+    ],
+    [
+      "Bochum",
+      "Ein Frankfurt"
+    ],
+    [
+      "Bochum",
+      "Stuttgart"
+    ],
+    [
+      "Bochum",
+      "Union Berlin"
+    ],
+    [
+      "Bochum",
+      "Wolfsburg"
+    ],
+    [
+      "Bochum",
+      "Dortmund"
+    ],
+    [
+      "Bochum",
+      "M'gladbach"
+    ],
+    [
+      "Bochum",
+      "Augsburg"
+    ],
+    [
+      "Bochum",
+      "Hertha"
+    ],
+    [
+      "Bochum",
+      "Leverkusen"
+    ],
+    [
+      "Stuttgart",
+      "RB Leipzig"
+    ],
+    [
+      "Stuttgart",
+      "Werder Bremen"
+    ],
+    [
+      "Stuttgart",
+      "Freiburg"
+    ],
+    [
+      "Stuttgart",
+      "FC Koln"
+    ],
+    [
+      "Stuttgart",
+      "Schalke 04"
+    ],
+    [
+      "Stuttgart",
+      "Bayern Munich"
+    ],
+    [
+      "Stuttgart",
+      "Ein Frankfurt"
+    ],
+    [
+      "Stuttgart",
+      "Wolfsburg"
+    ],
+    [
+      "Stuttgart",
+      "Union Berlin"
+    ],
+    [
+      "Stuttgart",
+      "Bochum"
+    ],
+    [
+      "Stuttgart",
+      "Dortmund"
+    ],
+    [
+      "Stuttgart",
+      "Augsburg"
+    ],
+    [
+      "Stuttgart",
+      "M'gladbach"
+    ],
+    [
+      "Stuttgart",
+      "Hertha"
+    ],
+    [
+      "Stuttgart",
+      "Leverkusen"
+    ],
+    [
+      "Stuttgart",
+      "Mainz"
+    ],
+    [
+      "Stuttgart",
+      "Hoffenheim"
+    ],
+    [
+      "Hoffenheim",
+      "M'gladbach"
+    ],
+    [
+      "Hoffenheim",
+      "Bochum"
+    ],
+    [
+      "Hoffenheim",
+      "Leverkusen"
+    ],
+    [
+      "Hoffenheim",
+      "Augsburg"
+    ],
+    [
+      "Hoffenheim",
+      "Dortmund"
+    ],
+    [
+      "Hoffenheim",
+      "Mainz"
+    ],
+    [
+      "Hoffenheim",
+      "Freiburg"
+    ],
+    [
+      "Hoffenheim",
+      "Hertha"
+    ],
+    [
+      "Hoffenheim",
+      "Werder Bremen"
+    ],
+    [
+      "Hoffenheim",
+      "Schalke 04"
+    ],
+    [
+      "Hoffenheim",
+      "Bayern Munich"
+    ],
+    [
+      "Hoffenheim",
+      "FC Koln"
+    ],
+    [
+      "Hoffenheim",
+      "RB Leipzig"
+    ],
+    [
+      "Hoffenheim",
+      "Ein Frankfurt"
+    ],
+    [
+      "Hoffenheim",
+      "Wolfsburg"
+    ],
+    [
+      "Hoffenheim",
+      "Union Berlin"
+    ],
+    [
+      "Hoffenheim",
+      "Stuttgart"
+    ],
+    [
+      "Werder Bremen",
+      "Wolfsburg"
+    ],
+    [
+      "Werder Bremen",
+      "Stuttgart"
+    ],
+    [
+      "Werder Bremen",
+      "Dortmund"
+    ],
+    [
+      "Werder Bremen",
+      "Ein Frankfurt"
+    ],
+    [
+      "Werder Bremen",
+      "Bochum"
+    ],
+    [
+      "Werder Bremen",
+      "Augsburg"
+    ],
+    [
+      "Werder Bremen",
+      "Leverkusen"
+    ],
+    [
+      "Werder Bremen",
+      "M'gladbach"
+    ],
+    [
+      "Werder Bremen",
+      "Hoffenheim"
+    ],
+    [
+      "Werder Bremen",
+      "Mainz"
+    ],
+    [
+      "Werder Bremen",
+      "Freiburg"
+    ],
+    [
+      "Werder Bremen",
+      "Hertha"
+    ],
+    [
+      "Werder Bremen",
+      "Schalke 04"
+    ],
+    [
+      "Werder Bremen",
+      "Bayern Munich"
+    ],
+    [
+      "Werder Bremen",
+      "RB Leipzig"
+    ],
+    [
+      "Werder Bremen",
+      "FC Koln"
+    ],
+    [
+      "Werder Bremen",
+      "Union Berlin"
+    ],
+    [
+      "Schalke 04",
+      "FC Koln"
+    ],
+    [
+      "Schalke 04",
+      "M'gladbach"
+    ],
+    [
+      "Schalke 04",
+      "Wolfsburg"
+    ],
+    [
+      "Schalke 04",
+      "Union Berlin"
+    ],
+    [
+      "Schalke 04",
+      "Stuttgart"
+    ],
+    [
+      "Schalke 04",
+      "Bochum"
+    ],
+    [
+      "Schalke 04",
+      "Dortmund"
+    ],
+    [
+      "Schalke 04",
+      "Augsburg"
+    ],
+    [
+      "Schalke 04",
+      "Leverkusen"
+    ],
+    [
+      "Schalke 04",
+      "Hoffenheim"
+    ],
+    [
+      "Schalke 04",
+      "Hertha"
+    ],
+    [
+      "Schalke 04",
+      "Freiburg"
+    ],
+    [
+      "Schalke 04",
+      "Werder Bremen"
+    ],
+    [
+      "Schalke 04",
+      "Mainz"
+    ],
+    [
+      "Schalke 04",
+      "Bayern Munich"
+    ],
+    [
+      "Schalke 04",
+      "Ein Frankfurt"
+    ],
+    [
+      "Schalke 04",
+      "RB Leipzig"
+    ],
+    [
+      "Hertha",
+      "Union Berlin"
+    ],
+    [
+      "Hertha",
+      "Ein Frankfurt"
+    ],
+    [
+      "Hertha",
+      "M'gladbach"
+    ],
+    [
+      "Hertha",
+      "Dortmund"
+    ],
+    [
+      "Hertha",
+      "Augsburg"
+    ],
+    [
+      "Hertha",
+      "Leverkusen"
+    ],
+    [
+      "Hertha",
+      "Mainz"
+    ],
+    [
+      "Hertha",
+      "Hoffenheim"
+    ],
+    [
+      "Hertha",
+      "Freiburg"
+    ],
+    [
+      "Hertha",
+      "RB Leipzig"
+    ],
+    [
+      "Hertha",
+      "Schalke 04"
+    ],
+    [
+      "Hertha",
+      "Werder Bremen"
+    ],
+    [
+      "Hertha",
+      "Bayern Munich"
+    ],
+    [
+      "Hertha",
+      "Stuttgart"
+    ],
+    [
+      "Hertha",
+      "FC Koln"
+    ],
+    [
+      "Hertha",
+      "Bochum"
+    ],
+    [
+      "Hertha",
+      "Wolfsburg"
+    ],
+    [
+      "Augsburg",
+      "Freiburg"
+    ],
+    [
+      "Augsburg",
+      "Leverkusen"
+    ],
+    [
+      "Augsburg",
+      "Mainz"
+    ],
+    [
+      "Augsburg",
+      "Hoffenheim"
+    ],
+    [
+      "Augsburg",
+      "Hertha"
+    ],
+    [
+      "Augsburg",
+      "Werder Bremen"
+    ],
+    [
+      "Augsburg",
+      "Bayern Munich"
+    ],
+    [
+      "Augsburg",
+      "Schalke 04"
+    ],
+    [
+      "Augsburg",
+      "Wolfsburg"
+    ],
+    [
+      "Augsburg",
+      "FC Koln"
+    ],
+    [
+      "Augsburg",
+      "RB Leipzig"
+    ],
+    [
+      "Augsburg",
+      "Stuttgart"
+    ],
+    [
+      "Augsburg",
+      "Ein Frankfurt"
+    ],
+    [
+      "Augsburg",
+      "Union Berlin"
+    ],
+    [
+      "Augsburg",
+      "Bochum"
+    ],
+    [
+      "Augsburg",
+      "Dortmund"
+    ],
+    [
+      "Augsburg",
+      "M'gladbach"
+    ]
+  ],
+  "weights": {
+    "FC Koln->Schalke 04": 0.16666666666666666,
+    "FC Koln->RB Leipzig": 0.3333333333333333,
+    "FC Koln->Ein Frankfurt": 0.16666666666666666,
+    "FC Koln->Stuttgart": 0.6666666666666666,
+    "FC Koln->Wolfsburg": 0.5,
+    "FC Koln->Union Berlin": 0.6666666666666666,
+    "FC Koln->Bochum": 0.6666666666666666,
+    "FC Koln->Dortmund": 0.5,
+    "FC Koln->M'gladbach": 0.6666666666666666,
+    "FC Koln->Augsburg": 0.0,
+    "FC Koln->Mainz": 0.6666666666666666,
+    "FC Koln->Hoffenheim": 0.16666666666666666,
+    "FC Koln->Freiburg": 1.0,
+    "FC Koln->Leverkusen": 0.5,
+    "FC Koln->Hertha": 0.5,
+    "FC Koln->Werder Bremen": 0.16666666666666666,
+    "FC Koln->Bayern Munich": 0.6666666666666666,
+    "RB Leipzig->Stuttgart": 0.16666666666666666,
+    "RB Leipzig->FC Koln": 0.3333333333333333,
+    "RB Leipzig->Union Berlin": 1.0,
+    "RB Leipzig->Wolfsburg": 0.0,
+    "RB Leipzig->Ein Frankfurt": 0.5,
+    "RB Leipzig->Dortmund": 0.5,
+    "RB Leipzig->M'gladbach": 0.5,
+    "RB Leipzig->Bochum": 0.5,
+    "RB Leipzig->Mainz": 0.6666666666666666,
+    "RB Leipzig->Hertha": 0.0,
+    "RB Leipzig->Augsburg": 0.16666666666666666,
+    "RB Leipzig->Leverkusen": 0.5,
+    "RB Leipzig->Hoffenheim": 0.0,
+    "RB Leipzig->Freiburg": 0.0,
+    "RB Leipzig->Werder Bremen": 0.0,
+    "RB Leipzig->Bayern Munich": 0.16666666666666666,
+    "RB Leipzig->Schalke 04": 0.0,
+    "Freiburg->Augsburg": 0.0,
+    "Freiburg->Dortmund": 1.0,
+    "Freiburg->Stuttgart": 0.0,
+    "Freiburg->Bochum": 0.0,
+    "Freiburg->Leverkusen": 0.16666666666666666,
+    "Freiburg->M'gladbach": 0.3333333333333333,
+    "Freiburg->Hoffenheim": 0.16666666666666666,
+    "Freiburg->Mainz": 0.16666666666666666,
+    "Freiburg->Hertha": 0.3333333333333333,
+    "Freiburg->Bayern Munich": 1.0,
+    "Freiburg->Werder Bremen": 0.0,
+    "Freiburg->Schalke 04": 0.0,
+    "Freiburg->FC Koln": 0.0,
+    "Freiburg->RB Leipzig": 1.0,
+    "Freiburg->Union Berlin": 0.5,
+    "Freiburg->Wolfsburg": 0.5,
+    "Freiburg->Ein Frankfurt": 0.6666666666666666,
+    "Ein Frankfurt->Bayern Munich": 0.6666666666666666,
+    "Ein Frankfurt->Hertha": 0.16666666666666666,
+    "Ein Frankfurt->FC Koln": 0.6666666666666666,
+    "Ein Frankfurt->Werder Bremen": 0.0,
+    "Ein Frankfurt->RB Leipzig": 0.5,
+    "Ein Frankfurt->Wolfsburg": 0.6666666666666666,
+    "Ein Frankfurt->Stuttgart": 0.16666666666666666,
+    "Ein Frankfurt->Union Berlin": 0.5,
+    "Ein Frankfurt->Bochum": 0.6666666666666666,
+    "Ein Frankfurt->Leverkusen": 0.5,
+    "Ein Frankfurt->M'gladbach": 0.16666666666666666,
+    "Ein Frankfurt->Dortmund": 1.0,
+    "Ein Frankfurt->Augsburg": 0.16666666666666666,
+    "Ein Frankfurt->Hoffenheim": 0.5,
+    "Ein Frankfurt->Mainz": 0.16666666666666666,
+    "Ein Frankfurt->Schalke 04": 0.16666666666666666,
+    "Ein Frankfurt->Freiburg": 0.16666666666666666,
+    "Bayern Munich->Ein Frankfurt": 0.16666666666666666,
+    "Bayern Munich->Wolfsburg": 0.0,
+    "Bayern Munich->Bochum": 0.0,
+    "Bayern Munich->M'gladbach": 0.6666666666666666,
+    "Bayern Munich->Union Berlin": 0.16666666666666666,
+    "Bayern Munich->Stuttgart": 0.16666666666666666,
+    "Bayern Munich->Augsburg": 0.5,
+    "Bayern Munich->Leverkusen": 0.5,
+    "Bayern Munich->Dortmund": 0.16666666666666666,
+    "Bayern Munich->Freiburg": 0.0,
+    "Bayern Munich->Hoffenheim": 0.16666666666666666,
+    "Bayern Munich->Mainz": 0.5,
+    "Bayern Munich->Hertha": 0.0,
+    "Bayern Munich->Werder Bremen": 0.0,
+    "Bayern Munich->Schalke 04": 0.0,
+    "Bayern Munich->RB Leipzig": 0.6666666666666666,
+    "Bayern Munich->FC Koln": 0.16666666666666666,
+    "Mainz->Bochum": 0.0,
+    "Mainz->Union Berlin": 0.6666666666666666,
+    "Mainz->Augsburg": 0.0,
+    "Mainz->Leverkusen": 0.5,
+    "Mainz->M'gladbach": 0.0,
+    "Mainz->Hoffenheim": 0.5,
+    "Mainz->Hertha": 0.3333333333333333,
+    "Mainz->Freiburg": 0.6666666666666666,
+    "Mainz->RB Leipzig": 0.16666666666666666,
+    "Mainz->Werder Bremen": 0.16666666666666666,
+    "Mainz->FC Koln": 0.16666666666666666,
+    "Mainz->Bayern Munich": 0.5,
+    "Mainz->Wolfsburg": 1.0,
+    "Mainz->Schalke 04": 1.0,
+    "Mainz->Ein Frankfurt": 0.6666666666666666,
+    "Mainz->Stuttgart": 0.6666666666666666,
+    "Mainz->Dortmund": 0.6666666666666666,
+    "Leverkusen->Dortmund": 1.0,
+    "Leverkusen->Augsburg": 1.0,
+    "Leverkusen->Hoffenheim": 0.5,
+    "Leverkusen->Mainz": 0.5,
+    "Leverkusen->Freiburg": 0.6666666666666666,
+    "Leverkusen->Hertha": 0.16666666666666666,
+    "Leverkusen->Werder Bremen": 0.16666666666666666,
+    "Leverkusen->Bayern Munich": 0.5,
+    "Leverkusen->Schalke 04": 0.0,
+    "Leverkusen->Ein Frankfurt": 0.5,
+    "Leverkusen->Wolfsburg": 0.3333333333333333,
+    "Leverkusen->RB Leipzig": 0.5,
+    "Leverkusen->Union Berlin": 0.16666666666666666,
+    "Leverkusen->FC Koln": 0.5,
+    "Leverkusen->Stuttgart": 0.16666666666666666,
+    "Leverkusen->M'gladbach": 0.16666666666666666,
+    "Leverkusen->Bochum": 0.5,
+    "Wolfsburg->Werder Bremen": 0.6666666666666666,
+    "Wolfsburg->Bayern Munich": 1.0,
+    "Wolfsburg->Schalke 04": 0.3333333333333333,
+    "Wolfsburg->RB Leipzig": 1.0,
+    "Wolfsburg->FC Koln": 0.5,
+    "Wolfsburg->Ein Frankfurt": 0.16666666666666666,
+    "Wolfsburg->Union Berlin": 0.6666666666666666,
+    "Wolfsburg->Stuttgart": 0.0,
+    "Wolfsburg->Augsburg": 0.3333333333333333,
+    "Wolfsburg->M'gladbach": 0.6666666666666666,
+    "Wolfsburg->Leverkusen": 0.3333333333333333,
+    "Wolfsburg->Bochum": 0.0,
+    "Wolfsburg->Mainz": 0.0,
+    "Wolfsburg->Dortmund": 0.5,
+    "Wolfsburg->Hoffenheim": 0.0,
+    "Wolfsburg->Freiburg": 0.5,
+    "Wolfsburg->Hertha": 0.5,
+    "Union Berlin->Hertha": 0.0,
+    "Union Berlin->Mainz": 0.16666666666666666,
+    "Union Berlin->RB Leipzig": 0.0,
+    "Union Berlin->Schalke 04": 0.16666666666666666,
+    "Union Berlin->Bayern Munich": 0.6666666666666666,
+    "Union Berlin->FC Koln": 0.16666666666666666,
+    "Union Berlin->Wolfsburg": 0.16666666666666666,
+    "Union Berlin->Ein Frankfurt": 0.5,
+    "Union Berlin->Stuttgart": 0.0,
+    "Union Berlin->Dortmund": 0.5,
+    "Union Berlin->Bochum": 0.6666666666666666,
+    "Union Berlin->M'gladbach": 0.0,
+    "Union Berlin->Leverkusen": 0.6666666666666666,
+    "Union Berlin->Augsburg": 0.6666666666666666,
+    "Union Berlin->Freiburg": 0.5,
+    "Union Berlin->Hoffenheim": 0.5,
+    "Union Berlin->Werder Bremen": 0.0,
+    "Dortmund->Leverkusen": 0.0,
+    "Dortmund->Freiburg": 0.0,
+    "Dortmund->Werder Bremen": 0.5,
+    "Dortmund->Hertha": 0.0,
+    "Dortmund->Hoffenheim": 0.0,
+    "Dortmund->RB Leipzig": 0.5,
+    "Dortmund->Schalke 04": 0.16666666666666666,
+    "Dortmund->FC Koln": 0.5,
+    "Dortmund->Bayern Munich": 0.6666666666666666,
+    "Dortmund->Union Berlin": 0.5,
+    "Dortmund->Stuttgart": 0.16666666666666666,
+    "Dortmund->Ein Frankfurt": 0.0,
+    "Dortmund->Bochum": 0.16666666666666666,
+    "Dortmund->Wolfsburg": 0.5,
+    "Dortmund->M'gladbach": 0.5,
+    "Dortmund->Augsburg": 0.0,
+    "Dortmund->Mainz": 0.16666666666666666,
+    "M'gladbach->Hoffenheim": 0.0,
+    "M'gladbach->Schalke 04": 0.3333333333333333,
+    "M'gladbach->Hertha": 0.5,
+    "M'gladbach->Bayern Munich": 0.16666666666666666,
+    "M'gladbach->Mainz": 1.0,
+    "M'gladbach->Freiburg": 0.3333333333333333,
+    "M'gladbach->RB Leipzig": 0.5,
+    "M'gladbach->Werder Bremen": 0.6666666666666666,
+    "M'gladbach->FC Koln": 0.16666666666666666,
+    "M'gladbach->Wolfsburg": 0.16666666666666666,
+    "M'gladbach->Ein Frankfurt": 0.6666666666666666,
+    "M'gladbach->Union Berlin": 1.0,
+    "M'gladbach->Stuttgart": 0.5,
+    "M'gladbach->Bochum": 0.5,
+    "M'gladbach->Dortmund": 0.5,
+    "M'gladbach->Leverkusen": 0.6666666666666666,
+    "M'gladbach->Augsburg": 0.5,
+    "Bochum->Mainz": 1.0,
+    "Bochum->Hoffenheim": 0.5,
+    "Bochum->Bayern Munich": 1.0,
+    "Bochum->Freiburg": 1.0,
+    "Bochum->Werder Bremen": 1.0,
+    "Bochum->Schalke 04": 1.0,
+    "Bochum->FC Koln": 0.16666666666666666,
+    "Bochum->RB Leipzig": 0.5,
+    "Bochum->Ein Frankfurt": 0.16666666666666666,
+    "Bochum->Stuttgart": 1.0,
+    "Bochum->Union Berlin": 0.16666666666666666,
+    "Bochum->Wolfsburg": 1.0,
+    "Bochum->Dortmund": 0.6666666666666666,
+    "Bochum->M'gladbach": 0.5,
+    "Bochum->Augsburg": 0.0,
+    "Bochum->Hertha": 0.16666666666666666,
+    "Bochum->Leverkusen": 0.5,
+    "Stuttgart->RB Leipzig": 0.6666666666666666,
+    "Stuttgart->Werder Bremen": 0.6666666666666666,
+    "Stuttgart->Freiburg": 1.0,
+    "Stuttgart->FC Koln": 0.16666666666666666,
+    "Stuttgart->Schalke 04": 0.6666666666666666,
+    "Stuttgart->Bayern Munich": 0.6666666666666666,
+    "Stuttgart->Ein Frankfurt": 0.6666666666666666,
+    "Stuttgart->Wolfsburg": 1.0,
+    "Stuttgart->Union Berlin": 1.0,
+    "Stuttgart->Bochum": 0.0,
+    "Stuttgart->Dortmund": 0.6666666666666666,
+    "Stuttgart->Augsburg": 0.16666666666666666,
+    "Stuttgart->M'gladbach": 0.5,
+    "Stuttgart->Hertha": 0.5,
+    "Stuttgart->Leverkusen": 0.6666666666666666,
+    "Stuttgart->Mainz": 0.16666666666666666,
+    "Stuttgart->Hoffenheim": 0.3333333333333333,
+    "Hoffenheim->M'gladbach": 1.0,
+    "Hoffenheim->Bochum": 0.5,
+    "Hoffenheim->Leverkusen": 0.5,
+    "Hoffenheim->Augsburg": 0.5,
+    "Hoffenheim->Dortmund": 1.0,
+    "Hoffenheim->Mainz": 0.5,
+    "Hoffenheim->Freiburg": 0.6666666666666666,
+    "Hoffenheim->Hertha": 0.16666666666666666,
+    "Hoffenheim->Werder Bremen": 0.5,
+    "Hoffenheim->Schalke 04": 0.0,
+    "Hoffenheim->Bayern Munich": 0.6666666666666666,
+    "Hoffenheim->FC Koln": 0.6666666666666666,
+    "Hoffenheim->RB Leipzig": 1.0,
+    "Hoffenheim->Ein Frankfurt": 0.5,
+    "Hoffenheim->Wolfsburg": 1.0,
+    "Hoffenheim->Union Berlin": 0.5,
+    "Hoffenheim->Stuttgart": 0.3333333333333333,
+    "Werder Bremen->Wolfsburg": 0.16666666666666666,
+    "Werder Bremen->Stuttgart": 0.16666666666666666,
+    "Werder Bremen->Dortmund": 0.5,
+    "Werder Bremen->Ein Frankfurt": 1.0,
+    "Werder Bremen->Bochum": 0.0,
+    "Werder Bremen->Augsburg": 1.0,
+    "Werder Bremen->Leverkusen": 0.6666666666666666,
+    "Werder Bremen->M'gladbach": 0.16666666666666666,
+    "Werder Bremen->Hoffenheim": 0.5,
+    "Werder Bremen->Mainz": 0.6666666666666666,
+    "Werder Bremen->Freiburg": 1.0,
+    "Werder Bremen->Hertha": 0.0,
+    "Werder Bremen->Schalke 04": 0.5,
+    "Werder Bremen->Bayern Munich": 1.0,
+    "Werder Bremen->RB Leipzig": 1.0,
+    "Werder Bremen->FC Koln": 0.6666666666666666,
+    "Werder Bremen->Union Berlin": 1.0,
+    "Schalke 04->FC Koln": 0.6666666666666666,
+    "Schalke 04->M'gladbach": 0.3333333333333333,
+    "Schalke 04->Wolfsburg": 0.3333333333333333,
+    "Schalke 04->Union Berlin": 0.6666666666666666,
+    "Schalke 04->Stuttgart": 0.16666666666666666,
+    "Schalke 04->Bochum": 0.0,
+    "Schalke 04->Dortmund": 0.6666666666666666,
+    "Schalke 04->Augsburg": 0.6666666666666666,
+    "Schalke 04->Leverkusen": 1.0,
+    "Schalke 04->Hoffenheim": 1.0,
+    "Schalke 04->Hertha": 0.5,
+    "Schalke 04->Freiburg": 1.0,
+    "Schalke 04->Werder Bremen": 0.5,
+    "Schalke 04->Mainz": 0.0,
+    "Schalke 04->Bayern Munich": 1.0,
+    "Schalke 04->Ein Frankfurt": 0.6666666666666666,
+    "Schalke 04->RB Leipzig": 1.0,
+    "Hertha->Union Berlin": 1.0,
+    "Hertha->Ein Frankfurt": 0.6666666666666666,
+    "Hertha->M'gladbach": 0.5,
+    "Hertha->Dortmund": 1.0,
+    "Hertha->Augsburg": 0.0,
+    "Hertha->Leverkusen": 0.6666666666666666,
+    "Hertha->Mainz": 0.3333333333333333,
+    "Hertha->Hoffenheim": 0.6666666666666666,
+    "Hertha->Freiburg": 0.3333333333333333,
+    "Hertha->RB Leipzig": 1.0,
+    "Hertha->Schalke 04": 0.5,
+    "Hertha->Werder Bremen": 1.0,
+    "Hertha->Bayern Munich": 1.0,
+    "Hertha->Stuttgart": 0.5,
+    "Hertha->FC Koln": 0.5,
+    "Hertha->Bochum": 0.6666666666666666,
+    "Hertha->Wolfsburg": 0.5,
+    "Augsburg->Freiburg": 1.0,
+    "Augsburg->Leverkusen": 0.0,
+    "Augsburg->Mainz": 1.0,
+    "Augsburg->Hoffenheim": 0.5,
+    "Augsburg->Hertha": 1.0,
+    "Augsburg->Werder Bremen": 0.0,
+    "Augsburg->Bayern Munich": 0.5,
+    "Augsburg->Schalke 04": 0.16666666666666666,
+    "Augsburg->Wolfsburg": 0.3333333333333333,
+    "Augsburg->FC Koln": 1.0,
+    "Augsburg->RB Leipzig": 0.6666666666666666,
+    "Augsburg->Stuttgart": 0.6666666666666666,
+    "Augsburg->Ein Frankfurt": 0.6666666666666666,
+    "Augsburg->Union Berlin": 0.16666666666666666,
+    "Augsburg->Bochum": 1.0,
+    "Augsburg->Dortmund": 1.0,
+    "Augsburg->M'gladbach": 0.5
+  }
+}

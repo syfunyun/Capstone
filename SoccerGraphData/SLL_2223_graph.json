@@ -1,0 +1,1928 @@
+{
+  "nodes": [
+    "Sociedad",
+    "Mallorca",
+    "Almeria",
+    "Betis",
+    "Getafe",
+    "Sevilla",
+    "Valencia",
+    "Villarreal",
+    "Cadiz",
+    "Real Madrid",
+    "Barcelona",
+    "Ath Madrid",
+    "Osasuna",
+    "Girona",
+    "Valladolid",
+    "Elche",
+    "Espanol",
+    "Vallecano",
+    "Ath Bilbao",
+    "Celta"
+  ],
+  "edges": [
+    [
+      "Sociedad",
+      "Cadiz"
+    ],
+    [
+      "Sociedad",
+      "Barcelona"
+    ],
+    [
+      "Sociedad",
+      "Elche"
+    ],
+    [
+      "Sociedad",
+      "Ath Madrid"
+    ],
+    [
+      "Sociedad",
+      "Getafe"
+    ],
+    [
+      "Sociedad",
+      "Espanol"
+    ],
+    [
+      "Sociedad",
+      "Girona"
+    ],
+    [
+      "Sociedad",
+      "Villarreal"
+    ],
+    [
+      "Sociedad",
+      "Celta"
+    ],
+    [
+      "Sociedad",
+      "Mallorca"
+    ],
+    [
+      "Sociedad",
+      "Valladolid"
+    ],
+    [
+      "Sociedad",
+      "Betis"
+    ],
+    [
+      "Sociedad",
+      "Valencia"
+    ],
+    [
+      "Sociedad",
+      "Sevilla"
+    ],
+    [
+      "Sociedad",
+      "Osasuna"
+    ],
+    [
+      "Sociedad",
+      "Almeria"
+    ],
+    [
+      "Sociedad",
+      "Ath Bilbao"
+    ],
+    [
+      "Sociedad",
+      "Vallecano"
+    ],
+    [
+      "Sociedad",
+      "Real Madrid"
+    ],
+    [
+      "Mallorca",
+      "Ath Bilbao"
+    ],
+    [
+      "Mallorca",
+      "Betis"
+    ],
+    [
+      "Mallorca",
+      "Vallecano"
+    ],
+    [
+      "Mallorca",
+      "Girona"
+    ],
+    [
+      "Mallorca",
+      "Real Madrid"
+    ],
+    [
+      "Mallorca",
+      "Almeria"
+    ],
+    [
+      "Mallorca",
+      "Barcelona"
+    ],
+    [
+      "Mallorca",
+      "Elche"
+    ],
+    [
+      "Mallorca",
+      "Sevilla"
+    ],
+    [
+      "Mallorca",
+      "Sociedad"
+    ],
+    [
+      "Mallorca",
+      "Valencia"
+    ],
+    [
+      "Mallorca",
+      "Espanol"
+    ],
+    [
+      "Mallorca",
+      "Villarreal"
+    ],
+    [
+      "Mallorca",
+      "Ath Madrid"
+    ],
+    [
+      "Mallorca",
+      "Getafe"
+    ],
+    [
+      "Mallorca",
+      "Valladolid"
+    ],
+    [
+      "Mallorca",
+      "Osasuna"
+    ],
+    [
+      "Mallorca",
+      "Celta"
+    ],
+    [
+      "Mallorca",
+      "Cadiz"
+    ],
+    [
+      "Almeria",
+      "Real Madrid"
+    ],
+    [
+      "Almeria",
+      "Elche"
+    ],
+    [
+      "Almeria",
+      "Sevilla"
+    ],
+    [
+      "Almeria",
+      "Valladolid"
+    ],
+    [
+      "Almeria",
+      "Osasuna"
+    ],
+    [
+      "Almeria",
+      "Mallorca"
+    ],
+    [
+      "Almeria",
+      "Ath Bilbao"
+    ],
+    [
+      "Almeria",
+      "Vallecano"
+    ],
+    [
+      "Almeria",
+      "Betis"
+    ],
+    [
+      "Almeria",
+      "Girona"
+    ],
+    [
+      "Almeria",
+      "Villarreal"
+    ],
+    [
+      "Almeria",
+      "Celta"
+    ],
+    [
+      "Almeria",
+      "Barcelona"
+    ],
+    [
+      "Almeria",
+      "Getafe"
+    ],
+    [
+      "Almeria",
+      "Cadiz"
+    ],
+    [
+      "Almeria",
+      "Sociedad"
+    ],
+    [
+      "Almeria",
+      "Ath Madrid"
+    ],
+    [
+      "Almeria",
+      "Valencia"
+    ],
+    [
+      "Almeria",
+      "Espanol"
+    ],
+    [
+      "Betis",
+      "Elche"
+    ],
+    [
+      "Betis",
+      "Mallorca"
+    ],
+    [
+      "Betis",
+      "Osasuna"
+    ],
+    [
+      "Betis",
+      "Real Madrid"
+    ],
+    [
+      "Betis",
+      "Villarreal"
+    ],
+    [
+      "Betis",
+      "Girona"
+    ],
+    [
+      "Betis",
+      "Celta"
+    ],
+    [
+      "Betis",
+      "Valladolid"
+    ],
+    [
+      "Betis",
+      "Almeria"
+    ],
+    [
+      "Betis",
+      "Cadiz"
+    ],
+    [
+      "Betis",
+      "Ath Madrid"
+    ],
+    [
+      "Betis",
+      "Sociedad"
+    ],
+    [
+      "Betis",
+      "Sevilla"
+    ],
+    [
+      "Betis",
+      "Valencia"
+    ],
+    [
+      "Betis",
+      "Ath Bilbao"
+    ],
+    [
+      "Betis",
+      "Vallecano"
+    ],
+    [
+      "Betis",
+      "Espanol"
+    ],
+    [
+      "Betis",
+      "Getafe"
+    ],
+    [
+      "Betis",
+      "Barcelona"
+    ],
+    [
+      "Getafe",
+      "Ath Madrid"
+    ],
+    [
+      "Getafe",
+      "Girona"
+    ],
+    [
+      "Getafe",
+      "Villarreal"
+    ],
+    [
+      "Getafe",
+      "Valencia"
+    ],
+    [
+      "Getafe",
+      "Sociedad"
+    ],
+    [
+      "Getafe",
+      "Osasuna"
+    ],
+    [
+      "Getafe",
+      "Valladolid"
+    ],
+    [
+      "Getafe",
+      "Real Madrid"
+    ],
+    [
+      "Getafe",
+      "Vallecano"
+    ],
+    [
+      "Getafe",
+      "Ath Bilbao"
+    ],
+    [
+      "Getafe",
+      "Celta"
+    ],
+    [
+      "Getafe",
+      "Elche"
+    ],
+    [
+      "Getafe",
+      "Cadiz"
+    ],
+    [
+      "Getafe",
+      "Almeria"
+    ],
+    [
+      "Getafe",
+      "Mallorca"
+    ],
+    [
+      "Getafe",
+      "Sevilla"
+    ],
+    [
+      "Getafe",
+      "Espanol"
+    ],
+    [
+      "Getafe",
+      "Barcelona"
+    ],
+    [
+      "Getafe",
+      "Betis"
+    ],
+    [
+      "Sevilla",
+      "Osasuna"
+    ],
+    [
+      "Sevilla",
+      "Valladolid"
+    ],
+    [
+      "Sevilla",
+      "Almeria"
+    ],
+    [
+      "Sevilla",
+      "Barcelona"
+    ],
+    [
+      "Sevilla",
+      "Espanol"
+    ],
+    [
+      "Sevilla",
+      "Villarreal"
+    ],
+    [
+      "Sevilla",
+      "Ath Madrid"
+    ],
+    [
+      "Sevilla",
+      "Ath Bilbao"
+    ],
+    [
+      "Sevilla",
+      "Mallorca"
+    ],
+    [
+      "Sevilla",
+      "Valencia"
+    ],
+    [
+      "Sevilla",
+      "Real Madrid"
+    ],
+    [
+      "Sevilla",
+      "Vallecano"
+    ],
+    [
+      "Sevilla",
+      "Betis"
+    ],
+    [
+      "Sevilla",
+      "Sociedad"
+    ],
+    [
+      "Sevilla",
+      "Celta"
+    ],
+    [
+      "Sevilla",
+      "Getafe"
+    ],
+    [
+      "Sevilla",
+      "Girona"
+    ],
+    [
+      "Sevilla",
+      "Cadiz"
+    ],
+    [
+      "Sevilla",
+      "Elche"
+    ],
+    [
+      "Valencia",
+      "Girona"
+    ],
+    [
+      "Valencia",
+      "Ath Bilbao"
+    ],
+    [
+      "Valencia",
+      "Ath Madrid"
+    ],
+    [
+      "Valencia",
+      "Getafe"
+    ],
+    [
+      "Valencia",
+      "Vallecano"
+    ],
+    [
+      "Valencia",
+      "Celta"
+    ],
+    [
+      "Valencia",
+      "Espanol"
+    ],
+    [
+      "Valencia",
+      "Osasuna"
+    ],
+    [
+      "Valencia",
+      "Elche"
+    ],
+    [
+      "Valencia",
+      "Sevilla"
+    ],
+    [
+      "Valencia",
+      "Mallorca"
+    ],
+    [
+      "Valencia",
+      "Barcelona"
+    ],
+    [
+      "Valencia",
+      "Sociedad"
+    ],
+    [
+      "Valencia",
+      "Betis"
+    ],
+    [
+      "Valencia",
+      "Villarreal"
+    ],
+    [
+      "Valencia",
+      "Cadiz"
+    ],
+    [
+      "Valencia",
+      "Almeria"
+    ],
+    [
+      "Valencia",
+      "Valladolid"
+    ],
+    [
+      "Valencia",
+      "Real Madrid"
+    ],
+    [
+      "Villarreal",
+      "Valladolid"
+    ],
+    [
+      "Villarreal",
+      "Ath Madrid"
+    ],
+    [
+      "Villarreal",
+      "Getafe"
+    ],
+    [
+      "Villarreal",
+      "Elche"
+    ],
+    [
+      "Villarreal",
+      "Betis"
+    ],
+    [
+      "Villarreal",
+      "Sevilla"
+    ],
+    [
+      "Villarreal",
+      "Cadiz"
+    ],
+    [
+      "Villarreal",
+      "Sociedad"
+    ],
+    [
+      "Villarreal",
+      "Osasuna"
+    ],
+    [
+      "Villarreal",
+      "Barcelona"
+    ],
+    [
+      "Villarreal",
+      "Almeria"
+    ],
+    [
+      "Villarreal",
+      "Ath Bilbao"
+    ],
+    [
+      "Villarreal",
+      "Mallorca"
+    ],
+    [
+      "Villarreal",
+      "Espanol"
+    ],
+    [
+      "Villarreal",
+      "Valencia"
+    ],
+    [
+      "Villarreal",
+      "Real Madrid"
+    ],
+    [
+      "Villarreal",
+      "Celta"
+    ],
+    [
+      "Villarreal",
+      "Girona"
+    ],
+    [
+      "Villarreal",
+      "Vallecano"
+    ],
+    [
+      "Cadiz",
+      "Sociedad"
+    ],
+    [
+      "Cadiz",
+      "Osasuna"
+    ],
+    [
+      "Cadiz",
+      "Ath Bilbao"
+    ],
+    [
+      "Cadiz",
+      "Celta"
+    ],
+    [
+      "Cadiz",
+      "Barcelona"
+    ],
+    [
+      "Cadiz",
+      "Valladolid"
+    ],
+    [
+      "Cadiz",
+      "Villarreal"
+    ],
+    [
+      "Cadiz",
+      "Espanol"
+    ],
+    [
+      "Cadiz",
+      "Girona"
+    ],
+    [
+      "Cadiz",
+      "Betis"
+    ],
+    [
+      "Cadiz",
+      "Vallecano"
+    ],
+    [
+      "Cadiz",
+      "Ath Madrid"
+    ],
+    [
+      "Cadiz",
+      "Getafe"
+    ],
+    [
+      "Cadiz",
+      "Real Madrid"
+    ],
+    [
+      "Cadiz",
+      "Almeria"
+    ],
+    [
+      "Cadiz",
+      "Valencia"
+    ],
+    [
+      "Cadiz",
+      "Elche"
+    ],
+    [
+      "Cadiz",
+      "Sevilla"
+    ],
+    [
+      "Cadiz",
+      "Mallorca"
+    ],
+    [
+      "Real Madrid",
+      "Almeria"
+    ],
+    [
+      "Real Madrid",
+      "Celta"
+    ],
+    [
+      "Real Madrid",
+      "Espanol"
+    ],
+    [
+      "Real Madrid",
+      "Betis"
+    ],
+    [
+      "Real Madrid",
+      "Mallorca"
+    ],
+    [
+      "Real Madrid",
+      "Ath Madrid"
+    ],
+    [
+      "Real Madrid",
+      "Osasuna"
+    ],
+    [
+      "Real Madrid",
+      "Getafe"
+    ],
+    [
+      "Real Madrid",
+      "Barcelona"
+    ],
+    [
+      "Real Madrid",
+      "Elche"
+    ],
+    [
+      "Real Madrid",
+      "Sevilla"
+    ],
+    [
+      "Real Madrid",
+      "Girona"
+    ],
+    [
+      "Real Madrid",
+      "Vallecano"
+    ],
+    [
+      "Real Madrid",
+      "Cadiz"
+    ],
+    [
+      "Real Madrid",
+      "Valladolid"
+    ],
+    [
+      "Real Madrid",
+      "Villarreal"
+    ],
+    [
+      "Real Madrid",
+      "Ath Bilbao"
+    ],
+    [
+      "Real Madrid",
+      "Sociedad"
+    ],
+    [
+      "Real Madrid",
+      "Valencia"
+    ],
+    [
+      "Barcelona",
+      "Vallecano"
+    ],
+    [
+      "Barcelona",
+      "Sociedad"
+    ],
+    [
+      "Barcelona",
+      "Valladolid"
+    ],
+    [
+      "Barcelona",
+      "Sevilla"
+    ],
+    [
+      "Barcelona",
+      "Cadiz"
+    ],
+    [
+      "Barcelona",
+      "Elche"
+    ],
+    [
+      "Barcelona",
+      "Mallorca"
+    ],
+    [
+      "Barcelona",
+      "Celta"
+    ],
+    [
+      "Barcelona",
+      "Real Madrid"
+    ],
+    [
+      "Barcelona",
+      "Villarreal"
+    ],
+    [
+      "Barcelona",
+      "Ath Bilbao"
+    ],
+    [
+      "Barcelona",
+      "Valencia"
+    ],
+    [
+      "Barcelona",
+      "Almeria"
+    ],
+    [
+      "Barcelona",
+      "Osasuna"
+    ],
+    [
+      "Barcelona",
+      "Espanol"
+    ],
+    [
+      "Barcelona",
+      "Ath Madrid"
+    ],
+    [
+      "Barcelona",
+      "Getafe"
+    ],
+    [
+      "Barcelona",
+      "Girona"
+    ],
+    [
+      "Barcelona",
+      "Betis"
+    ],
+    [
+      "Ath Madrid",
+      "Getafe"
+    ],
+    [
+      "Ath Madrid",
+      "Villarreal"
+    ],
+    [
+      "Ath Madrid",
+      "Valencia"
+    ],
+    [
+      "Ath Madrid",
+      "Sociedad"
+    ],
+    [
+      "Ath Madrid",
+      "Celta"
+    ],
+    [
+      "Ath Madrid",
+      "Real Madrid"
+    ],
+    [
+      "Ath Madrid",
+      "Sevilla"
+    ],
+    [
+      "Ath Madrid",
+      "Girona"
+    ],
+    [
+      "Ath Madrid",
+      "Ath Bilbao"
+    ],
+    [
+      "Ath Madrid",
+      "Vallecano"
+    ],
+    [
+      "Ath Madrid",
+      "Betis"
+    ],
+    [
+      "Ath Madrid",
+      "Cadiz"
+    ],
+    [
+      "Ath Madrid",
+      "Espanol"
+    ],
+    [
+      "Ath Madrid",
+      "Mallorca"
+    ],
+    [
+      "Ath Madrid",
+      "Elche"
+    ],
+    [
+      "Ath Madrid",
+      "Barcelona"
+    ],
+    [
+      "Ath Madrid",
+      "Almeria"
+    ],
+    [
+      "Ath Madrid",
+      "Valladolid"
+    ],
+    [
+      "Ath Madrid",
+      "Osasuna"
+    ],
+    [
+      "Osasuna",
+      "Sevilla"
+    ],
+    [
+      "Osasuna",
+      "Cadiz"
+    ],
+    [
+      "Osasuna",
+      "Betis"
+    ],
+    [
+      "Osasuna",
+      "Vallecano"
+    ],
+    [
+      "Osasuna",
+      "Almeria"
+    ],
+    [
+      "Osasuna",
+      "Getafe"
+    ],
+    [
+      "Osasuna",
+      "Real Madrid"
+    ],
+    [
+      "Osasuna",
+      "Valencia"
+    ],
+    [
+      "Osasuna",
+      "Villarreal"
+    ],
+    [
+      "Osasuna",
+      "Espanol"
+    ],
+    [
+      "Osasuna",
+      "Girona"
+    ],
+    [
+      "Osasuna",
+      "Valladolid"
+    ],
+    [
+      "Osasuna",
+      "Celta"
+    ],
+    [
+      "Osasuna",
+      "Barcelona"
+    ],
+    [
+      "Osasuna",
+      "Sociedad"
+    ],
+    [
+      "Osasuna",
+      "Ath Bilbao"
+    ],
+    [
+      "Osasuna",
+      "Mallorca"
+    ],
+    [
+      "Osasuna",
+      "Elche"
+    ],
+    [
+      "Osasuna",
+      "Ath Madrid"
+    ],
+    [
+      "Girona",
+      "Valencia"
+    ],
+    [
+      "Girona",
+      "Getafe"
+    ],
+    [
+      "Girona",
+      "Celta"
+    ],
+    [
+      "Girona",
+      "Mallorca"
+    ],
+    [
+      "Girona",
+      "Valladolid"
+    ],
+    [
+      "Girona",
+      "Betis"
+    ],
+    [
+      "Girona",
+      "Sociedad"
+    ],
+    [
+      "Girona",
+      "Ath Madrid"
+    ],
+    [
+      "Girona",
+      "Cadiz"
+    ],
+    [
+      "Girona",
+      "Almeria"
+    ],
+    [
+      "Girona",
+      "Osasuna"
+    ],
+    [
+      "Girona",
+      "Real Madrid"
+    ],
+    [
+      "Girona",
+      "Ath Bilbao"
+    ],
+    [
+      "Girona",
+      "Elche"
+    ],
+    [
+      "Girona",
+      "Vallecano"
+    ],
+    [
+      "Girona",
+      "Espanol"
+    ],
+    [
+      "Girona",
+      "Sevilla"
+    ],
+    [
+      "Girona",
+      "Villarreal"
+    ],
+    [
+      "Girona",
+      "Barcelona"
+    ],
+    [
+      "Valladolid",
+      "Villarreal"
+    ],
+    [
+      "Valladolid",
+      "Sevilla"
+    ],
+    [
+      "Valladolid",
+      "Barcelona"
+    ],
+    [
+      "Valladolid",
+      "Almeria"
+    ],
+    [
+      "Valladolid",
+      "Girona"
+    ],
+    [
+      "Valladolid",
+      "Cadiz"
+    ],
+    [
+      "Valladolid",
+      "Getafe"
+    ],
+    [
+      "Valladolid",
+      "Betis"
+    ],
+    [
+      "Valladolid",
+      "Espanol"
+    ],
+    [
+      "Valladolid",
+      "Celta"
+    ],
+    [
+      "Valladolid",
+      "Sociedad"
+    ],
+    [
+      "Valladolid",
+      "Osasuna"
+    ],
+    [
+      "Valladolid",
+      "Elche"
+    ],
+    [
+      "Valladolid",
+      "Ath Bilbao"
+    ],
+    [
+      "Valladolid",
+      "Real Madrid"
+    ],
+    [
+      "Valladolid",
+      "Mallorca"
+    ],
+    [
+      "Valladolid",
+      "Vallecano"
+    ],
+    [
+      "Valladolid",
+      "Ath Madrid"
+    ],
+    [
+      "Valladolid",
+      "Valencia"
+    ],
+    [
+      "Elche",
+      "Betis"
+    ],
+    [
+      "Elche",
+      "Almeria"
+    ],
+    [
+      "Elche",
+      "Sociedad"
+    ],
+    [
+      "Elche",
+      "Villarreal"
+    ],
+    [
+      "Elche",
+      "Ath Bilbao"
+    ],
+    [
+      "Elche",
+      "Barcelona"
+    ],
+    [
+      "Elche",
+      "Vallecano"
+    ],
+    [
+      "Elche",
+      "Mallorca"
+    ],
+    [
+      "Elche",
+      "Valencia"
+    ],
+    [
+      "Elche",
+      "Real Madrid"
+    ],
+    [
+      "Elche",
+      "Espanol"
+    ],
+    [
+      "Elche",
+      "Getafe"
+    ],
+    [
+      "Elche",
+      "Valladolid"
+    ],
+    [
+      "Elche",
+      "Girona"
+    ],
+    [
+      "Elche",
+      "Ath Madrid"
+    ],
+    [
+      "Elche",
+      "Celta"
+    ],
+    [
+      "Elche",
+      "Cadiz"
+    ],
+    [
+      "Elche",
+      "Osasuna"
+    ],
+    [
+      "Elche",
+      "Sevilla"
+    ],
+    [
+      "Espanol",
+      "Celta"
+    ],
+    [
+      "Espanol",
+      "Vallecano"
+    ],
+    [
+      "Espanol",
+      "Real Madrid"
+    ],
+    [
+      "Espanol",
+      "Ath Bilbao"
+    ],
+    [
+      "Espanol",
+      "Sevilla"
+    ],
+    [
+      "Espanol",
+      "Sociedad"
+    ],
+    [
+      "Espanol",
+      "Valencia"
+    ],
+    [
+      "Espanol",
+      "Cadiz"
+    ],
+    [
+      "Espanol",
+      "Valladolid"
+    ],
+    [
+      "Espanol",
+      "Osasuna"
+    ],
+    [
+      "Espanol",
+      "Elche"
+    ],
+    [
+      "Espanol",
+      "Mallorca"
+    ],
+    [
+      "Espanol",
+      "Ath Madrid"
+    ],
+    [
+      "Espanol",
+      "Villarreal"
+    ],
+    [
+      "Espanol",
+      "Barcelona"
+    ],
+    [
+      "Espanol",
+      "Girona"
+    ],
+    [
+      "Espanol",
+      "Getafe"
+    ],
+    [
+      "Espanol",
+      "Betis"
+    ],
+    [
+      "Espanol",
+      "Almeria"
+    ],
+    [
+      "Vallecano",
+      "Barcelona"
+    ],
+    [
+      "Vallecano",
+      "Espanol"
+    ],
+    [
+      "Vallecano",
+      "Mallorca"
+    ],
+    [
+      "Vallecano",
+      "Osasuna"
+    ],
+    [
+      "Vallecano",
+      "Valencia"
+    ],
+    [
+      "Vallecano",
+      "Ath Bilbao"
+    ],
+    [
+      "Vallecano",
+      "Elche"
+    ],
+    [
+      "Vallecano",
+      "Almeria"
+    ],
+    [
+      "Vallecano",
+      "Getafe"
+    ],
+    [
+      "Vallecano",
+      "Ath Madrid"
+    ],
+    [
+      "Vallecano",
+      "Cadiz"
+    ],
+    [
+      "Vallecano",
+      "Sevilla"
+    ],
+    [
+      "Vallecano",
+      "Real Madrid"
+    ],
+    [
+      "Vallecano",
+      "Celta"
+    ],
+    [
+      "Vallecano",
+      "Girona"
+    ],
+    [
+      "Vallecano",
+      "Betis"
+    ],
+    [
+      "Vallecano",
+      "Valladolid"
+    ],
+    [
+      "Vallecano",
+      "Sociedad"
+    ],
+    [
+      "Vallecano",
+      "Villarreal"
+    ],
+    [
+      "Ath Bilbao",
+      "Mallorca"
+    ],
+    [
+      "Ath Bilbao",
+      "Valencia"
+    ],
+    [
+      "Ath Bilbao",
+      "Cadiz"
+    ],
+    [
+      "Ath Bilbao",
+      "Espanol"
+    ],
+    [
+      "Ath Bilbao",
+      "Elche"
+    ],
+    [
+      "Ath Bilbao",
+      "Vallecano"
+    ],
+    [
+      "Ath Bilbao",
+      "Almeria"
+    ],
+    [
+      "Ath Bilbao",
+      "Sevilla"
+    ],
+    [
+      "Ath Bilbao",
+      "Ath Madrid"
+    ],
+    [
+      "Ath Bilbao",
+      "Getafe"
+    ],
+    [
+      "Ath Bilbao",
+      "Barcelona"
+    ],
+    [
+      "Ath Bilbao",
+      "Villarreal"
+    ],
+    [
+      "Ath Bilbao",
+      "Girona"
+    ],
+    [
+      "Ath Bilbao",
+      "Valladolid"
+    ],
+    [
+      "Ath Bilbao",
+      "Betis"
+    ],
+    [
+      "Ath Bilbao",
+      "Osasuna"
+    ],
+    [
+      "Ath Bilbao",
+      "Sociedad"
+    ],
+    [
+      "Ath Bilbao",
+      "Real Madrid"
+    ],
+    [
+      "Ath Bilbao",
+      "Celta"
+    ],
+    [
+      "Celta",
+      "Espanol"
+    ],
+    [
+      "Celta",
+      "Real Madrid"
+    ],
+    [
+      "Celta",
+      "Girona"
+    ],
+    [
+      "Celta",
+      "Cadiz"
+    ],
+    [
+      "Celta",
+      "Ath Madrid"
+    ],
+    [
+      "Celta",
+      "Valencia"
+    ],
+    [
+      "Celta",
+      "Betis"
+    ],
+    [
+      "Celta",
+      "Barcelona"
+    ],
+    [
+      "Celta",
+      "Sociedad"
+    ],
+    [
+      "Celta",
+      "Valladolid"
+    ],
+    [
+      "Celta",
+      "Getafe"
+    ],
+    [
+      "Celta",
+      "Almeria"
+    ],
+    [
+      "Celta",
+      "Osasuna"
+    ],
+    [
+      "Celta",
+      "Vallecano"
+    ],
+    [
+      "Celta",
+      "Sevilla"
+    ],
+    [
+      "Celta",
+      "Elche"
+    ],
+    [
+      "Celta",
+      "Villarreal"
+    ],
+    [
+      "Celta",
+      "Mallorca"
+    ],
+    [
+      "Celta",
+      "Ath Bilbao"
+    ]
+  ],
+  "weights": {
+    "Sociedad->Cadiz": 0.16666666666666666,
+    "Sociedad->Barcelona": 0.5,
+    "Sociedad->Elche": 0.0,
+    "Sociedad->Ath Madrid": 0.6666666666666666,
+    "Sociedad->Getafe": 0.5,
+    "Sociedad->Espanol": 0.0,
+    "Sociedad->Girona": 0.16666666666666666,
+    "Sociedad->Villarreal": 0.5,
+    "Sociedad->Celta": 0.16666666666666666,
+    "Sociedad->Mallorca": 0.16666666666666666,
+    "Sociedad->Valladolid": 1.0,
+    "Sociedad->Betis": 0.6666666666666666,
+    "Sociedad->Valencia": 0.6666666666666666,
+    "Sociedad->Sevilla": 0.0,
+    "Sociedad->Osasuna": 0.0,
+    "Sociedad->Almeria": 0.0,
+    "Sociedad->Ath Bilbao": 0.5,
+    "Sociedad->Vallecano": 0.0,
+    "Sociedad->Real Madrid": 0.16666666666666666,
+    "Mallorca->Ath Bilbao": 0.3333333333333333,
+    "Mallorca->Betis": 1.0,
+    "Mallorca->Vallecano": 0.0,
+    "Mallorca->Girona": 0.6666666666666666,
+    "Mallorca->Real Madrid": 0.5,
+    "Mallorca->Almeria": 0.5,
+    "Mallorca->Barcelona": 1.0,
+    "Mallorca->Elche": 0.6666666666666666,
+    "Mallorca->Sevilla": 1.0,
+    "Mallorca->Sociedad": 0.6666666666666666,
+    "Mallorca->Valencia": 0.0,
+    "Mallorca->Espanol": 0.6666666666666666,
+    "Mallorca->Villarreal": 0.0,
+    "Mallorca->Ath Madrid": 0.5,
+    "Mallorca->Getafe": 0.5,
+    "Mallorca->Valladolid": 0.16666666666666666,
+    "Mallorca->Osasuna": 0.6666666666666666,
+    "Mallorca->Celta": 0.0,
+    "Mallorca->Cadiz": 0.5,
+    "Almeria->Real Madrid": 1.0,
+    "Almeria->Elche": 0.16666666666666666,
+    "Almeria->Sevilla": 0.5,
+    "Almeria->Valladolid": 0.6666666666666666,
+    "Almeria->Osasuna": 1.0,
+    "Almeria->Mallorca": 0.5,
+    "Almeria->Ath Bilbao": 1.0,
+    "Almeria->Vallecano": 0.5,
+    "Almeria->Betis": 1.0,
+    "Almeria->Girona": 0.5,
+    "Almeria->Villarreal": 1.0,
+    "Almeria->Celta": 0.16666666666666666,
+    "Almeria->Barcelona": 0.5,
+    "Almeria->Getafe": 0.0,
+    "Almeria->Cadiz": 0.3333333333333333,
+    "Almeria->Sociedad": 1.0,
+    "Almeria->Ath Madrid": 0.6666666666666666,
+    "Almeria->Valencia": 0.16666666666666666,
+    "Almeria->Espanol": 0.16666666666666666,
+    "Betis->Elche": 0.0,
+    "Betis->Mallorca": 0.0,
+    "Betis->Osasuna": 0.5,
+    "Betis->Real Madrid": 0.6666666666666666,
+    "Betis->Villarreal": 0.16666666666666666,
+    "Betis->Girona": 0.0,
+    "Betis->Celta": 1.0,
+    "Betis->Valladolid": 0.16666666666666666,
+    "Betis->Almeria": 0.0,
+    "Betis->Cadiz": 0.6666666666666666,
+    "Betis->Ath Madrid": 1.0,
+    "Betis->Sociedad": 0.16666666666666666,
+    "Betis->Sevilla": 0.3333333333333333,
+    "Betis->Valencia": 0.6666666666666666,
+    "Betis->Ath Bilbao": 0.16666666666666666,
+    "Betis->Vallecano": 0.0,
+    "Betis->Espanol": 0.5,
+    "Betis->Getafe": 0.5,
+    "Betis->Barcelona": 1.0,
+    "Getafe->Ath Madrid": 0.6666666666666666,
+    "Getafe->Girona": 0.5,
+    "Getafe->Villarreal": 0.6666666666666666,
+    "Getafe->Valencia": 0.5,
+    "Getafe->Sociedad": 0.5,
+    "Getafe->Osasuna": 0.0,
+    "Getafe->Valladolid": 0.6666666666666666,
+    "Getafe->Real Madrid": 1.0,
+    "Getafe->Vallecano": 0.3333333333333333,
+    "Getafe->Ath Bilbao": 0.3333333333333333,
+    "Getafe->Celta": 0.16666666666666666,
+    "Getafe->Elche": 0.16666666666666666,
+    "Getafe->Cadiz": 0.3333333333333333,
+    "Getafe->Almeria": 1.0,
+    "Getafe->Mallorca": 0.5,
+    "Getafe->Sevilla": 0.5,
+    "Getafe->Espanol": 1.0,
+    "Getafe->Barcelona": 0.6666666666666666,
+    "Getafe->Betis": 0.5,
+    "Sevilla->Osasuna": 1.0,
+    "Sevilla->Valladolid": 0.16666666666666666,
+    "Sevilla->Almeria": 0.5,
+    "Sevilla->Barcelona": 1.0,
+    "Sevilla->Espanol": 0.0,
+    "Sevilla->Villarreal": 0.16666666666666666,
+    "Sevilla->Ath Madrid": 1.0,
+    "Sevilla->Ath Bilbao": 0.16666666666666666,
+    "Sevilla->Mallorca": 0.0,
+    "Sevilla->Valencia": 0.16666666666666666,
+    "Sevilla->Real Madrid": 1.0,
+    "Sevilla->Vallecano": 0.6666666666666666,
+    "Sevilla->Betis": 0.3333333333333333,
+    "Sevilla->Sociedad": 1.0,
+    "Sevilla->Celta": 0.3333333333333333,
+    "Sevilla->Getafe": 0.5,
+    "Sevilla->Girona": 1.0,
+    "Sevilla->Cadiz": 0.0,
+    "Sevilla->Elche": 0.16666666666666666,
+    "Valencia->Girona": 0.5,
+    "Valencia->Ath Bilbao": 1.0,
+    "Valencia->Ath Madrid": 1.0,
+    "Valencia->Getafe": 0.5,
+    "Valencia->Vallecano": 0.6666666666666666,
+    "Valencia->Celta": 0.0,
+    "Valencia->Espanol": 0.3333333333333333,
+    "Valencia->Osasuna": 0.0,
+    "Valencia->Elche": 0.16666666666666666,
+    "Valencia->Sevilla": 0.6666666666666666,
+    "Valencia->Mallorca": 1.0,
+    "Valencia->Barcelona": 1.0,
+    "Valencia->Sociedad": 0.16666666666666666,
+    "Valencia->Betis": 0.16666666666666666,
+    "Valencia->Villarreal": 0.6666666666666666,
+    "Valencia->Cadiz": 1.0,
+    "Valencia->Almeria": 0.6666666666666666,
+    "Valencia->Valladolid": 0.5,
+    "Valencia->Real Madrid": 0.5,
+    "Villarreal->Valladolid": 0.5,
+    "Villarreal->Ath Madrid": 0.16666666666666666,
+    "Villarreal->Getafe": 0.16666666666666666,
+    "Villarreal->Elche": 0.5,
+    "Villarreal->Betis": 0.6666666666666666,
+    "Villarreal->Sevilla": 0.6666666666666666,
+    "Villarreal->Cadiz": 0.16666666666666666,
+    "Villarreal->Sociedad": 0.5,
+    "Villarreal->Osasuna": 0.0,
+    "Villarreal->Barcelona": 1.0,
+    "Villarreal->Almeria": 0.0,
+    "Villarreal->Ath Bilbao": 0.5,
+    "Villarreal->Mallorca": 1.0,
+    "Villarreal->Espanol": 0.0,
+    "Villarreal->Valencia": 0.16666666666666666,
+    "Villarreal->Real Madrid": 0.0,
+    "Villarreal->Celta": 0.16666666666666666,
+    "Villarreal->Girona": 0.0,
+    "Villarreal->Vallecano": 1.0,
+    "Cadiz->Sociedad": 0.6666666666666666,
+    "Cadiz->Osasuna": 1.0,
+    "Cadiz->Ath Bilbao": 1.0,
+    "Cadiz->Celta": 0.5,
+    "Cadiz->Barcelona": 1.0,
+    "Cadiz->Valladolid": 0.0,
+    "Cadiz->Villarreal": 0.6666666666666666,
+    "Cadiz->Espanol": 0.3333333333333333,
+    "Cadiz->Girona": 0.16666666666666666,
+    "Cadiz->Betis": 0.16666666666666666,
+    "Cadiz->Vallecano": 0.5,
+    "Cadiz->Ath Madrid": 0.5,
+    "Cadiz->Getafe": 0.3333333333333333,
+    "Cadiz->Real Madrid": 1.0,
+    "Cadiz->Almeria": 0.3333333333333333,
+    "Cadiz->Valencia": 0.0,
+    "Cadiz->Elche": 0.3333333333333333,
+    "Cadiz->Sevilla": 1.0,
+    "Cadiz->Mallorca": 0.5,
+    "Real Madrid->Almeria": 0.0,
+    "Real Madrid->Celta": 0.0,
+    "Real Madrid->Espanol": 0.0,
+    "Real Madrid->Betis": 0.16666666666666666,
+    "Real Madrid->Mallorca": 0.5,
+    "Real Madrid->Ath Madrid": 0.16666666666666666,
+    "Real Madrid->Osasuna": 0.16666666666666666,
+    "Real Madrid->Getafe": 0.0,
+    "Real Madrid->Barcelona": 0.5,
+    "Real Madrid->Elche": 0.0,
+    "Real Madrid->Sevilla": 0.0,
+    "Real Madrid->Girona": 0.6666666666666666,
+    "Real Madrid->Vallecano": 0.5,
+    "Real Madrid->Cadiz": 0.0,
+    "Real Madrid->Valladolid": 0.0,
+    "Real Madrid->Villarreal": 1.0,
+    "Real Madrid->Ath Bilbao": 0.16666666666666666,
+    "Real Madrid->Sociedad": 0.6666666666666666,
+    "Real Madrid->Valencia": 0.5,
+    "Barcelona->Vallecano": 0.6666666666666666,
+    "Barcelona->Sociedad": 0.5,
+    "Barcelona->Valladolid": 0.5,
+    "Barcelona->Sevilla": 0.0,
+    "Barcelona->Cadiz": 0.0,
+    "Barcelona->Elche": 0.0,
+    "Barcelona->Mallorca": 0.0,
+    "Barcelona->Celta": 0.5,
+    "Barcelona->Real Madrid": 0.5,
+    "Barcelona->Villarreal": 0.0,
+    "Barcelona->Ath Bilbao": 0.0,
+    "Barcelona->Valencia": 0.0,
+    "Barcelona->Almeria": 0.5,
+    "Barcelona->Osasuna": 0.0,
+    "Barcelona->Espanol": 0.16666666666666666,
+    "Barcelona->Ath Madrid": 0.0,
+    "Barcelona->Getafe": 0.16666666666666666,
+    "Barcelona->Girona": 0.16666666666666666,
+    "Barcelona->Betis": 0.0,
+    "Ath Madrid->Getafe": 0.16666666666666666,
+    "Ath Madrid->Villarreal": 0.6666666666666666,
+    "Ath Madrid->Valencia": 0.0,
+    "Ath Madrid->Sociedad": 0.16666666666666666,
+    "Ath Madrid->Celta": 0.0,
+    "Ath Madrid->Real Madrid": 0.6666666666666666,
+    "Ath Madrid->Sevilla": 0.0,
+    "Ath Madrid->Girona": 0.0,
+    "Ath Madrid->Ath Bilbao": 0.0,
+    "Ath Madrid->Vallecano": 0.16666666666666666,
+    "Ath Madrid->Betis": 0.0,
+    "Ath Madrid->Cadiz": 0.5,
+    "Ath Madrid->Espanol": 0.3333333333333333,
+    "Ath Madrid->Mallorca": 0.5,
+    "Ath Madrid->Elche": 0.5,
+    "Ath Madrid->Barcelona": 1.0,
+    "Ath Madrid->Almeria": 0.16666666666666666,
+    "Ath Madrid->Valladolid": 0.0,
+    "Ath Madrid->Osasuna": 0.0,
+    "Osasuna->Sevilla": 0.0,
+    "Osasuna->Cadiz": 0.0,
+    "Osasuna->Betis": 0.5,
+    "Osasuna->Vallecano": 0.5,
+    "Osasuna->Almeria": 0.0,
+    "Osasuna->Getafe": 1.0,
+    "Osasuna->Real Madrid": 0.6666666666666666,
+    "Osasuna->Valencia": 1.0,
+    "Osasuna->Villarreal": 1.0,
+    "Osasuna->Espanol": 0.16666666666666666,
+    "Osasuna->Girona": 0.16666666666666666,
+    "Osasuna->Valladolid": 0.16666666666666666,
+    "Osasuna->Celta": 0.16666666666666666,
+    "Osasuna->Barcelona": 1.0,
+    "Osasuna->Sociedad": 1.0,
+    "Osasuna->Ath Bilbao": 0.16666666666666666,
+    "Osasuna->Mallorca": 0.16666666666666666,
+    "Osasuna->Elche": 0.16666666666666666,
+    "Osasuna->Ath Madrid": 1.0,
+    "Girona->Valencia": 0.5,
+    "Girona->Getafe": 0.5,
+    "Girona->Celta": 0.6666666666666666,
+    "Girona->Mallorca": 0.16666666666666666,
+    "Girona->Valladolid": 0.5,
+    "Girona->Betis": 1.0,
+    "Girona->Sociedad": 0.6666666666666666,
+    "Girona->Ath Madrid": 1.0,
+    "Girona->Cadiz": 0.6666666666666666,
+    "Girona->Almeria": 0.5,
+    "Girona->Osasuna": 0.6666666666666666,
+    "Girona->Real Madrid": 0.16666666666666666,
+    "Girona->Ath Bilbao": 0.0,
+    "Girona->Elche": 0.0,
+    "Girona->Vallecano": 0.3333333333333333,
+    "Girona->Espanol": 0.16666666666666666,
+    "Girona->Sevilla": 0.0,
+    "Girona->Villarreal": 1.0,
+    "Girona->Barcelona": 0.6666666666666666,
+    "Valladolid->Villarreal": 0.5,
+    "Valladolid->Sevilla": 0.6666666666666666,
+    "Valladolid->Barcelona": 0.5,
+    "Valladolid->Almeria": 0.16666666666666666,
+    "Valladolid->Girona": 0.5,
+    "Valladolid->Cadiz": 1.0,
+    "Valladolid->Getafe": 0.16666666666666666,
+    "Valladolid->Betis": 0.6666666666666666,
+    "Valladolid->Espanol": 0.5,
+    "Valladolid->Celta": 0.5,
+    "Valladolid->Sociedad": 0.0,
+    "Valladolid->Osasuna": 0.6666666666666666,
+    "Valladolid->Elche": 0.16666666666666666,
+    "Valladolid->Ath Bilbao": 1.0,
+    "Valladolid->Real Madrid": 1.0,
+    "Valladolid->Mallorca": 0.6666666666666666,
+    "Valladolid->Vallecano": 1.0,
+    "Valladolid->Ath Madrid": 1.0,
+    "Valladolid->Valencia": 0.5,
+    "Elche->Betis": 1.0,
+    "Elche->Almeria": 0.6666666666666666,
+    "Elche->Sociedad": 1.0,
+    "Elche->Villarreal": 0.5,
+    "Elche->Ath Bilbao": 0.5,
+    "Elche->Barcelona": 1.0,
+    "Elche->Vallecano": 0.5,
+    "Elche->Mallorca": 0.16666666666666666,
+    "Elche->Valencia": 0.6666666666666666,
+    "Elche->Real Madrid": 1.0,
+    "Elche->Espanol": 0.6666666666666666,
+    "Elche->Getafe": 0.6666666666666666,
+    "Elche->Valladolid": 0.6666666666666666,
+    "Elche->Girona": 1.0,
+    "Elche->Ath Madrid": 0.5,
+    "Elche->Celta": 1.0,
+    "Elche->Cadiz": 0.3333333333333333,
+    "Elche->Osasuna": 0.6666666666666666,
+    "Elche->Sevilla": 0.6666666666666666,
+    "Espanol->Celta": 0.6666666666666666,
+    "Espanol->Vallecano": 0.5,
+    "Espanol->Real Madrid": 1.0,
+    "Espanol->Ath Bilbao": 0.5,
+    "Espanol->Sevilla": 1.0,
+    "Espanol->Sociedad": 1.0,
+    "Espanol->Valencia": 0.3333333333333333,
+    "Espanol->Cadiz": 0.3333333333333333,
+    "Espanol->Valladolid": 0.5,
+    "Espanol->Osasuna": 0.6666666666666666,
+    "Espanol->Elche": 0.16666666666666666,
+    "Espanol->Mallorca": 0.16666666666666666,
+    "Espanol->Ath Madrid": 0.3333333333333333,
+    "Espanol->Villarreal": 1.0,
+    "Espanol->Barcelona": 0.6666666666666666,
+    "Espanol->Girona": 0.6666666666666666,
+    "Espanol->Getafe": 0.0,
+    "Espanol->Betis": 0.5,
+    "Espanol->Almeria": 0.6666666666666666,
+    "Vallecano->Barcelona": 0.16666666666666666,
+    "Vallecano->Espanol": 0.5,
+    "Vallecano->Mallorca": 1.0,
+    "Vallecano->Osasuna": 0.5,
+    "Vallecano->Valencia": 0.16666666666666666,
+    "Vallecano->Ath Bilbao": 0.6666666666666666,
+    "Vallecano->Elche": 0.5,
+    "Vallecano->Almeria": 0.5,
+    "Vallecano->Getafe": 0.3333333333333333,
+    "Vallecano->Ath Madrid": 0.6666666666666666,
+    "Vallecano->Cadiz": 0.5,
+    "Vallecano->Sevilla": 0.16666666666666666,
+    "Vallecano->Real Madrid": 0.5,
+    "Vallecano->Celta": 0.6666666666666666,
+    "Vallecano->Girona": 0.3333333333333333,
+    "Vallecano->Betis": 1.0,
+    "Vallecano->Valladolid": 0.0,
+    "Vallecano->Sociedad": 1.0,
+    "Vallecano->Villarreal": 0.0,
+    "Ath Bilbao->Mallorca": 0.3333333333333333,
+    "Ath Bilbao->Valencia": 0.0,
+    "Ath Bilbao->Cadiz": 0.0,
+    "Ath Bilbao->Espanol": 0.5,
+    "Ath Bilbao->Elche": 0.5,
+    "Ath Bilbao->Vallecano": 0.16666666666666666,
+    "Ath Bilbao->Almeria": 0.0,
+    "Ath Bilbao->Sevilla": 0.6666666666666666,
+    "Ath Bilbao->Ath Madrid": 1.0,
+    "Ath Bilbao->Getafe": 0.3333333333333333,
+    "Ath Bilbao->Barcelona": 1.0,
+    "Ath Bilbao->Villarreal": 0.5,
+    "Ath Bilbao->Girona": 1.0,
+    "Ath Bilbao->Valladolid": 0.0,
+    "Ath Bilbao->Betis": 0.6666666666666666,
+    "Ath Bilbao->Osasuna": 0.6666666666666666,
+    "Ath Bilbao->Sociedad": 0.5,
+    "Ath Bilbao->Real Madrid": 0.6666666666666666,
+    "Ath Bilbao->Celta": 0.5,
+    "Celta->Espanol": 0.16666666666666666,
+    "Celta->Real Madrid": 1.0,
+    "Celta->Girona": 0.16666666666666666,
+    "Celta->Cadiz": 0.5,
+    "Celta->Ath Madrid": 1.0,
+    "Celta->Valencia": 1.0,
+    "Celta->Betis": 0.0,
+    "Celta->Barcelona": 0.5,
+    "Celta->Sociedad": 0.6666666666666666,
+    "Celta->Valladolid": 0.5,
+    "Celta->Getafe": 0.6666666666666666,
+    "Celta->Almeria": 0.6666666666666666,
+    "Celta->Osasuna": 0.6666666666666666,
+    "Celta->Vallecano": 0.16666666666666666,
+    "Celta->Sevilla": 0.3333333333333333,
+    "Celta->Elche": 0.0,
+    "Celta->Villarreal": 0.6666666666666666,
+    "Celta->Mallorca": 1.0,
+    "Celta->Ath Bilbao": 0.5
+  }
+}
