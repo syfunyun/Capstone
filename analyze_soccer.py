@@ -6,7 +6,7 @@ import subprocess
 def main():
     if len(sys.argv) < 2:
         print("Usage: python analyze_soccer.py <csv_file> [--verbose]")
-        print("Example: python analyze_soccer.py SoccerRawData/EPLseason-2425.csv --verbose")
+        print("Example: python analyze_soccer.py SoccerRawData/EPL_2425.csv --verbose")
         print("\nThis script will:")
         print("  1. Generate graph data from the CSV file")
         print("  2. Run HHD analysis on the generated graph")

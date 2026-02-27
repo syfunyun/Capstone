@@ -58,6 +58,10 @@ def hhd_decomposition(edges, f, r):
     return grad, curl
 
 
+def transitive_l2_norm(edges, f, r):
+    grad, _ = hhd_decomposition(edges, f, r)
+    return np.sqrt(sum(grad[(i, j)]**2 for (i, j) in edges))
+
 def intransitive_l2_norm(edges, f, r):
     c_sq = 0.0
 
@@ -66,6 +70,9 @@ def intransitive_l2_norm(edges, f, r):
         c_sq += c_ij**2
 
     return np.sqrt(c_sq)
+
+def total_l2_norm(edges, f, r):
+    return np.sqrt(sum(f[(i, j)]**2 for (i, j) in edges))
 
 
 def load_graph_data(json_file):
@@ -108,11 +115,11 @@ def analyze_graph(json_file, verbose=False):
         vorticities[i] += curl_ij
         vorticities[j] -= curl_ij
     
-    grad, curl = hhd_decomposition(edges, f, r)
+    grad, curl = hhd_decomposition(edges, f, r) # curl is not properly calculated here, it requirses a spanning tree and a cycle basis
     
     l2_curl = intransitive_l2_norm(edges, f, r)
-    l2_grad = np.sqrt(sum(grad[(i, j)]**2 for (i, j) in edges))
-    l2_total = np.sqrt(sum(f[(i, j)]**2 for (i, j) in edges))
+    l2_grad = transitive_l2_norm(edges, f, r)
+    l2_total = total_l2_norm(edges, f, r)
     
     intransitivity_ratio = l2_curl / l2_total if l2_total > 0 else 0
     

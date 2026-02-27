@@ -1,0 +1,199 @@
+Analysis for k=2 (removing 2 nodes)
+Total combinations analyzed: 190
+Original intransitivity percentage: 78.42%, (intransitivity: 95.503422, total: 121.781372)
+======================================================================
+
+Results (sorted by intransitivity percentage):
+------------------------------------------------------------------------------------------------------------------------
+Removed Nodes                                        Percentage     Intransitivity              Total
+------------------------------------------------------------------------------------------------------------------------
+{Fulham, Everton}                                        71.78%          81.141305         113.042859
+{Crystal Palace, Fulham}                                 71.95%          80.017997         111.217300
+{Bournemouth, Fulham}                                    72.14%          79.649890         110.408378
+{Fulham, Man United}                                     72.37%          78.565880         108.557954
+{Fulham, Brighton}                                       72.45%          81.259224         112.154750
+{Brentford, Fulham}                                      73.26%          79.535892         108.566806
+{Bournemouth, Man United}                                73.31%          79.616847         108.596818
+{Everton, Man United}                                    73.55%          81.841906         111.274196
+{Crystal Palace, Man United}                             73.58%          80.508974         109.423523
+{Aston Villa, Fulham}                                    73.88%          82.860822         112.148790
+{Fulham, Tottenham}                                      73.94%          78.938593         106.761760
+{Brighton, Man United}                                   73.98%          82.318850         111.274196
+{Fulham, West Ham}                                       74.12%          81.836222         110.412730
+{Fulham, Man City}                                       74.12%          81.795957         110.351035
+{Bournemouth, Crystal Palace}                            74.26%          83.286091         112.150466
+{Brentford, Man United}                                  74.28%          78.575220         105.782844
+{Chelsea, Fulham}                                        74.54%          82.302924         110.408378
+{Bournemouth, Everton}                                   74.68%          85.733539         114.808475
+{Everton, Brighton}                                      74.68%          86.354278         115.631417
+{Crystal Palace, Everton}                                74.79%          86.447556         115.590763
+{Bournemouth, Brighton}                                  74.83%          85.272842         113.956862
+{Brentford, Everton}                                     74.93%          83.368483         111.263871
+{Fulham, Arsenal}                                        74.96%          82.707306         110.342327
+{Crystal Palace, Brighton}                               75.04%          86.100911         114.744956
+{Fulham, Nott'm Forest}                                  75.14%          82.933904         110.370153
+{Aston Villa, Man United}                                75.37%          82.516411         109.479634
+{Bournemouth, Brentford}                                 75.56%          82.752719         109.518171
+{Nott'm Forest, Man United}                              75.57%          82.036641         108.557954
+{Wolves, Fulham}                                         75.57%          82.020778         108.532358
+{Brentford, Brighton}                                    75.58%          83.434328         110.384915
+{Brentford, Crystal Palace}                              75.59%          83.402909         110.337973
+{Tottenham, Man United}                                  75.72%          80.139474         105.831806
+{Crystal Palace, Nott'm Forest}                          75.74%          84.249964         111.240587
+{Crystal Palace, West Ham}                               75.79%          84.989919         112.131652
+{West Ham, Man United}                                   75.82%          83.020607         109.494516
+{Fulham, Ipswich}                                        75.84%          82.350254         108.586237
+{Newcastle, Fulham}                                      75.87%          83.042397         109.449864
+{Brighton, Tottenham}                                    75.89%          83.804030         110.427486
+{West Ham, Everton}                                      75.90%          86.469284         113.924045
+{Man United, Man City}                                   75.92%          81.708728         107.617706
+{Aston Villa, Everton}                                   75.93%          87.796927         115.625636
+{Bournemouth, Tottenham}                                 76.00%          81.874868         107.729067
+{Everton, Tottenham}                                     76.02%          83.930166         110.404027
+{Everton, Nott'm Forest}                                 76.03%          85.934040         113.019942
+{Bournemouth, West Ham}                                  76.04%          84.656319         111.329375
+{Bournemouth, Aston Villa}                               76.05%          85.329753         112.205214
+{Crystal Palace, Tottenham}                              76.05%          83.257315         109.475246
+{Everton, Man City}                                      76.09%          85.998830         113.024193
+{Crystal Palace, Man City}                               76.10%          84.637557         111.221619
+{West Ham, Brighton}                                     76.18%          86.145780         113.084430
+{Nott'm Forest, Brighton}                                76.23%          85.499505         112.159034
+{Bournemouth, Nott'm Forest}                             76.25%          84.185413         110.408378
+{Aston Villa, Crystal Palace}                            76.30%          86.218089         113.005525
+{Newcastle, Man United}                                  76.33%          82.148729         107.622171
+{Aston Villa, Brighton}                                  76.38%          86.998935         113.909741
+{Bournemouth, Man City}                                  76.40%          84.337790         110.384915
+{Chelsea, Man United}                                    76.51%          83.089439         108.601242
+{Fulham, Leicester}                                      76.56%          81.745089         106.772521
+{Newcastle, Crystal Palace}                              76.61%          84.512752         110.308435
+{Chelsea, Crystal Palace}                                76.69%          86.008948         112.154750
+{Chelsea, Everton}                                       76.69%          87.384470         113.942563
+{Arsenal, Man United}                                    76.70%          83.225603         108.510222
+{Brighton, Man City}                                     76.72%          86.028690         112.140221
+{Ipswich, Man United}                                    76.74%          81.926190         106.763521
+{Brentford, West Ham}                                    76.81%          83.411099         108.590662
+{Crystal Palace, Ipswich}                                76.83%          85.482026         111.255234
+{Crystal Palace, Arsenal}                                76.87%          86.156759         112.085442
+{Chelsea, Bournemouth}                                   76.91%          85.635184         111.348325
+{Everton, Arsenal}                                       76.92%          87.574075         113.855813
+{Newcastle, Everton}                                     76.97%          86.318684         112.144505
+{Brentford, Nott'm Forest}                               76.99%          82.870203         107.641773
+{Chelsea, Brighton}                                      77.01%          87.088476         113.080181
+{Liverpool, Fulham}                                      77.07%          82.944904         107.622171
+{Newcastle, Bournemouth}                                 77.12%          84.454645         109.507679
+{Brentford, Man City}                                    77.14%          83.035642         107.646236
+{Newcastle, Brighton}                                    77.14%          85.837803         111.272506
+{Aston Villa, Brentford}                                 77.16%          85.164684         110.374506
+{Wolves, Man United}                                     77.39%          83.285222         107.622171
+{Wolves, Crystal Palace}                                 77.40%          85.395854         110.327560
+{Nott'm Forest, Tottenham}                               77.44%          83.393025         107.689890
+{Wolves, Everton}                                        77.49%          86.902141         112.144505
+{Arsenal, Brighton}                                      77.53%          87.609665         112.997021
+{Everton, Ipswich}                                       77.56%          87.001350         112.173560
+{West Ham, Tottenham}                                    77.58%          83.582956         107.733526
+{Wolves, Bournemouth}                                    77.69%          85.056497         109.484023
+{Bournemouth, Ipswich}                                   77.72%          85.124709         109.533047
+{Wolves, Brighton}                                       77.75%          86.510055         111.272506
+{West Ham, Nott'm Forest}                                77.76%          86.537805         111.291466
+{Newcastle, Brentford}                                   77.79%          82.997386         106.697954
+{West Ham, Man City}                                     77.81%          86.584330         111.272506
+{Brighton, Ipswich}                                      77.82%          86.611451         111.301789
+{Aston Villa, Tottenham}                                 77.82%          84.505709         108.595086
+{Chelsea, Brentford}                                     77.85%          84.555493         108.610089
+{Aston Villa, West Ham}                                  77.92%          87.402676         112.171884
+{Fulham, Southampton}                                    77.93%          81.711435         104.846997
+{Aston Villa, Man City}                                  78.05%          86.814310         111.234578
+{Aston Villa, Nott'm Forest}                             78.11%          86.900036         111.253544
+{Brentford, Arsenal}                                     78.22%          84.901961         108.538518
+{Brentford, Tottenham}                                   78.27%          82.838586         105.840885
+{Brentford, Ipswich}                                     78.32%          84.330554         107.680967
+{Chelsea, Tottenham}                                     78.34%          85.119689         108.653356
+{Nott'm Forest, Man City}                                78.34%          85.738702         109.441085
+{Newcastle, Tottenham}                                   78.37%          83.658515         106.746497
+{Bournemouth, Arsenal}                                   78.39%          87.912186         112.150466
+{Wolves, Brentford}                                      78.43%          83.705729         106.722228
+{Tottenham, Man City}                                    78.45%          83.733840         106.737495
+{Chelsea, West Ham}                                      78.50%          88.096562         112.224016
+{Southampton, Man United}                                78.53%          81.595097         103.899907
+{Chelsea, Aston Villa}                                   78.55%          88.119681         112.186409
+{Chelsea, Nott'm Forest}                                 78.55%          86.732774         110.412730
+{Leicester, Man United}                                  78.64%          82.488630         104.898189
+{Arsenal, Tottenham}                                     78.65%          85.379312         108.562380
+{Bournemouth, Liverpool}                                 78.65%          86.103804         109.475246
+{Crystal Palace, Liverpool}                              78.65%          86.052914         109.408631
+{Liverpool, Man United}                                  78.72%          83.241820         105.742946
+{Newcastle, Nott'm Forest}                               78.78%          86.228503         109.449864
+{Liverpool, Everton}                                     78.84%          87.683796         111.221619
+{Newcastle, West Ham}                                    78.84%          86.302714         109.469140
+{Nott'm Forest, Arsenal}                                 78.89%          87.044343         110.342327
+{Newcastle, Aston Villa}                                 78.91%          87.074310         110.340623
+{Aston Villa, Arsenal}                                   78.92%          88.481177         112.121405
+{Ipswich, Man City}                                      78.94%          86.420925         109.479634
+{Nott'm Forest, Ipswich}                                 78.97%          86.473381         109.498904
+{Bournemouth, Southampton}                               79.00%          84.342744         106.768021
+{Liverpool, Brighton}                                    79.02%          87.188832         110.337973
+{Wolves, Tottenham}                                      79.04%          83.633257         105.810092
+{Everton, Leicester}                                     79.07%          86.591456         109.513784
+{West Ham, Arsenal}                                      79.08%          87.974201         111.240587
+{West Ham, Ipswich}                                      79.10%          87.345184         110.427486
+{Newcastle, Man City}                                    79.11%          85.867455         108.536785
+{Wolves, West Ham}                                       79.11%          86.606364         109.469140
+{Crystal Palace, Leicester}                              79.12%          85.179287         107.652446
+{Arsenal, Man City}                                      79.14%          87.293929         110.304079
+{Chelsea, Man City}                                      79.14%          88.077048         111.291466
+{Wolves, Nott'm Forest}                                  79.29%          86.074543         108.556222
+{Newcastle, Chelsea}                                     79.35%          86.874557         109.488411
+{Ipswich, Tottenham}                                     79.38%          84.027229         105.856279
+{Wolves, Aston Villa}                                    79.41%          87.617167         110.340623
+{Bournemouth, Leicester}                                 79.42%          84.824444         106.807536
+{Brentford, Liverpool}                                   79.44%          84.748521         106.688948
+{Wolves, Man City}                                       79.44%          86.936433         109.430586
+{Southampton, Everton}                                   79.48%          86.275983         108.553529
+{Chelsea, Arsenal}                                       79.54%          88.512137         111.282831
+{Newcastle, Arsenal}                                     79.58%          87.060127         109.398130
+{Brentford, Leicester}                                   79.58%          83.487307         104.907349
+{Newcastle, Ipswich}                                     79.73%          86.569022         108.571231
+{Crystal Palace, Southampton}                            79.74%          85.068038         106.679941
+{Leicester, Brighton}                                    79.77%          86.645895         108.620667
+{Aston Villa, Ipswich}                                   79.79%          88.082259         110.393620
+{Chelsea, Wolves}                                        79.81%          88.103694         110.397972
+{Arsenal, Ipswich}                                       79.85%          88.119864         110.357093
+{Newcastle, Wolves}                                      79.87%          86.677920         108.521772
+{Liverpool, Tottenham}                                   79.93%          84.566967         105.796469
+{Brentford, Southampton}                                 80.04%          83.173295         103.909155
+{Liverpool, West Ham}                                    80.14%          87.723716         109.460361
+{Wolves, Arsenal}                                        80.20%          88.463361         110.308435
+{Southampton, Brighton}                                  80.32%          86.483261         107.676505
+{Aston Villa, Leicester}                                 80.41%          87.329042         108.610089
+{Aston Villa, Liverpool}                                 80.56%          88.170544         109.445475
+{Aston Villa, Southampton}                               80.63%          86.793624         107.646236
+{Chelsea, Ipswich}                                       80.69%          88.409095         109.561079
+{Liverpool, Nott'm Forest}                               80.80%          86.958740         107.622171
+{Wolves, Ipswich}                                        80.87%          87.055305         107.646236
+{Southampton, Nott'm Forest}                             80.89%          85.572422         105.791927
+{Leicester, Man City}                                    80.90%          86.361806         106.752759
+{Liverpool, Man City}                                    81.00%          87.885167         108.504061
+{Chelsea, Leicester}                                     81.16%          87.447534         107.744190
+{West Ham, Leicester}                                    81.23%          86.746729         106.792279
+{Nott'm Forest, Leicester}                               81.34%          86.082047         105.836346
+{Newcastle, Leicester}                                   81.36%          86.096179         105.820949
+{Chelsea, Liverpool}                                     81.39%          88.361514         108.562380
+{Southampton, Tottenham}                                 81.40%          83.831877         102.992590
+{Leicester, Tottenham}                                   81.47%          83.947258         103.038215
+{Newcastle, Liverpool}                                   81.52%          86.959438         106.678178
+{Liverpool, Ipswich}                                     81.58%          87.814901         107.637309
+{Leicester, Arsenal}                                     81.60%          87.847227         107.652446
+{West Ham, Southampton}                                  81.62%          86.362722         105.816409
+{Wolves, Liverpool}                                      81.75%          87.953059         107.587421
+{Chelsea, Southampton}                                   81.75%          87.287205         106.772521
+{Liverpool, Arsenal}                                     81.76%          88.691053         108.475757
+{Southampton, Arsenal}                                   81.95%          87.420276         106.679941
+{Newcastle, Southampton}                                 82.07%          86.035994         104.831455
+{Southampton, Man City}                                  82.41%          86.403584         104.846997
+{Wolves, Leicester}                                      82.42%          87.215946         105.820949
+{Leicester, Ipswich}                                     82.75%          86.830352         104.927458
+{Wolves, Southampton}                                    82.88%          86.883111         104.831455
+{Southampton, Ipswich}                                   83.28%          86.550831         103.929457
+{Liverpool, Leicester}                                   83.33%          87.384872         104.862536
+{Liverpool, Southampton}                                 83.88%          87.120938         103.863912
+{Southampton, Leicester}                                 85.10%          86.834611         102.032996
