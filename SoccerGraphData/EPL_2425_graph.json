@@ -1,126 +1,50 @@
 {
   "nodes": [
-    "Everton",
     "Liverpool",
-    "Ipswich",
-    "Man United",
     "Tottenham",
-    "Arsenal",
-    "Crystal Palace",
-    "Bournemouth",
-    "Chelsea",
-    "Fulham",
-    "Aston Villa",
-    "Newcastle",
-    "Brighton",
-    "Southampton",
+    "Man City",
     "West Ham",
-    "Brentford",
+    "Southampton",
+    "Arsenal",
+    "Ipswich",
+    "Crystal Palace",
+    "Chelsea",
+    "Aston Villa",
     "Leicester",
+    "Brighton",
+    "Fulham",
+    "Bournemouth",
     "Wolves",
+    "Newcastle",
+    "Everton",
     "Nott'm Forest",
-    "Man City"
+    "Man United",
+    "Brentford"
   ],
   "edges": [
     [
-      "Everton",
-      "Brighton"
-    ],
-    [
-      "Everton",
+      "Liverpool",
       "Tottenham"
     ],
     [
-      "Everton",
-      "Bournemouth"
-    ],
-    [
-      "Everton",
-      "Aston Villa"
-    ],
-    [
-      "Everton",
-      "Leicester"
-    ],
-    [
-      "Everton",
-      "Crystal Palace"
-    ],
-    [
-      "Everton",
-      "Newcastle"
-    ],
-    [
-      "Everton",
-      "Ipswich"
-    ],
-    [
-      "Everton",
-      "Fulham"
-    ],
-    [
-      "Everton",
-      "Southampton"
-    ],
-    [
-      "Everton",
-      "West Ham"
-    ],
-    [
-      "Everton",
-      "Brentford"
-    ],
-    [
-      "Everton",
-      "Man United"
-    ],
-    [
-      "Everton",
-      "Wolves"
-    ],
-    [
-      "Everton",
-      "Arsenal"
-    ],
-    [
-      "Everton",
-      "Chelsea"
-    ],
-    [
-      "Everton",
+      "Liverpool",
       "Man City"
     ],
     [
-      "Everton",
-      "Nott'm Forest"
+      "Liverpool",
+      "West Ham"
     ],
     [
-      "Everton",
-      "Liverpool"
+      "Liverpool",
+      "Southampton"
+    ],
+    [
+      "Liverpool",
+      "Arsenal"
     ],
     [
       "Liverpool",
       "Ipswich"
-    ],
-    [
-      "Liverpool",
-      "Brentford"
-    ],
-    [
-      "Liverpool",
-      "Man United"
-    ],
-    [
-      "Liverpool",
-      "Nott'm Forest"
-    ],
-    [
-      "Liverpool",
-      "Bournemouth"
-    ],
-    [
-      "Liverpool",
-      "Wolves"
     ],
     [
       "Liverpool",
@@ -132,7 +56,11 @@
     ],
     [
       "Liverpool",
-      "Arsenal"
+      "Aston Villa"
+    ],
+    [
+      "Liverpool",
+      "Leicester"
     ],
     [
       "Liverpool",
@@ -140,59 +68,363 @@
     ],
     [
       "Liverpool",
-      "Aston Villa"
-    ],
-    [
-      "Liverpool",
-      "Southampton"
-    ],
-    [
-      "Liverpool",
-      "Man City"
-    ],
-    [
-      "Liverpool",
-      "Newcastle"
-    ],
-    [
-      "Liverpool",
       "Fulham"
     ],
     [
       "Liverpool",
-      "Tottenham"
+      "Bournemouth"
     ],
     [
       "Liverpool",
-      "Leicester"
+      "Wolves"
     ],
     [
       "Liverpool",
-      "West Ham"
+      "Newcastle"
     ],
     [
       "Liverpool",
       "Everton"
     ],
     [
-      "Ipswich",
-      "Liverpool"
+      "Liverpool",
+      "Nott'm Forest"
     ],
     [
-      "Ipswich",
+      "Liverpool",
+      "Man United"
+    ],
+    [
+      "Liverpool",
+      "Brentford"
+    ],
+    [
+      "Tottenham",
       "Man City"
     ],
     [
-      "Ipswich",
-      "Fulham"
+      "Tottenham",
+      "West Ham"
     ],
     [
-      "Ipswich",
+      "Tottenham",
+      "Southampton"
+    ],
+    [
+      "Tottenham",
+      "Arsenal"
+    ],
+    [
+      "Tottenham",
+      "Ipswich"
+    ],
+    [
+      "Tottenham",
+      "Crystal Palace"
+    ],
+    [
+      "Tottenham",
+      "Chelsea"
+    ],
+    [
+      "Tottenham",
+      "Aston Villa"
+    ],
+    [
+      "Tottenham",
+      "Leicester"
+    ],
+    [
+      "Tottenham",
       "Brighton"
     ],
     [
-      "Ipswich",
+      "Tottenham",
+      "Fulham"
+    ],
+    [
+      "Tottenham",
+      "Bournemouth"
+    ],
+    [
+      "Tottenham",
+      "Wolves"
+    ],
+    [
+      "Tottenham",
+      "Newcastle"
+    ],
+    [
+      "Tottenham",
+      "Everton"
+    ],
+    [
+      "Tottenham",
+      "Nott'm Forest"
+    ],
+    [
+      "Tottenham",
+      "Man United"
+    ],
+    [
+      "Tottenham",
+      "Brentford"
+    ],
+    [
+      "Man City",
+      "West Ham"
+    ],
+    [
+      "Man City",
       "Southampton"
+    ],
+    [
+      "Man City",
+      "Arsenal"
+    ],
+    [
+      "Man City",
+      "Ipswich"
+    ],
+    [
+      "Man City",
+      "Crystal Palace"
+    ],
+    [
+      "Man City",
+      "Chelsea"
+    ],
+    [
+      "Man City",
+      "Aston Villa"
+    ],
+    [
+      "Man City",
+      "Leicester"
+    ],
+    [
+      "Man City",
+      "Brighton"
+    ],
+    [
+      "Man City",
+      "Fulham"
+    ],
+    [
+      "Man City",
+      "Bournemouth"
+    ],
+    [
+      "Man City",
+      "Wolves"
+    ],
+    [
+      "Man City",
+      "Newcastle"
+    ],
+    [
+      "Man City",
+      "Everton"
+    ],
+    [
+      "Man City",
+      "Nott'm Forest"
+    ],
+    [
+      "Man City",
+      "Man United"
+    ],
+    [
+      "Man City",
+      "Brentford"
+    ],
+    [
+      "West Ham",
+      "Southampton"
+    ],
+    [
+      "West Ham",
+      "Arsenal"
+    ],
+    [
+      "West Ham",
+      "Ipswich"
+    ],
+    [
+      "West Ham",
+      "Crystal Palace"
+    ],
+    [
+      "West Ham",
+      "Chelsea"
+    ],
+    [
+      "West Ham",
+      "Aston Villa"
+    ],
+    [
+      "West Ham",
+      "Leicester"
+    ],
+    [
+      "West Ham",
+      "Brighton"
+    ],
+    [
+      "West Ham",
+      "Fulham"
+    ],
+    [
+      "West Ham",
+      "Bournemouth"
+    ],
+    [
+      "West Ham",
+      "Wolves"
+    ],
+    [
+      "West Ham",
+      "Newcastle"
+    ],
+    [
+      "West Ham",
+      "Everton"
+    ],
+    [
+      "West Ham",
+      "Nott'm Forest"
+    ],
+    [
+      "West Ham",
+      "Man United"
+    ],
+    [
+      "West Ham",
+      "Brentford"
+    ],
+    [
+      "Southampton",
+      "Arsenal"
+    ],
+    [
+      "Southampton",
+      "Ipswich"
+    ],
+    [
+      "Southampton",
+      "Crystal Palace"
+    ],
+    [
+      "Southampton",
+      "Chelsea"
+    ],
+    [
+      "Southampton",
+      "Aston Villa"
+    ],
+    [
+      "Southampton",
+      "Leicester"
+    ],
+    [
+      "Southampton",
+      "Brighton"
+    ],
+    [
+      "Southampton",
+      "Fulham"
+    ],
+    [
+      "Southampton",
+      "Bournemouth"
+    ],
+    [
+      "Southampton",
+      "Wolves"
+    ],
+    [
+      "Southampton",
+      "Newcastle"
+    ],
+    [
+      "Southampton",
+      "Everton"
+    ],
+    [
+      "Southampton",
+      "Nott'm Forest"
+    ],
+    [
+      "Southampton",
+      "Man United"
+    ],
+    [
+      "Southampton",
+      "Brentford"
+    ],
+    [
+      "Arsenal",
+      "Ipswich"
+    ],
+    [
+      "Arsenal",
+      "Crystal Palace"
+    ],
+    [
+      "Arsenal",
+      "Chelsea"
+    ],
+    [
+      "Arsenal",
+      "Aston Villa"
+    ],
+    [
+      "Arsenal",
+      "Leicester"
+    ],
+    [
+      "Arsenal",
+      "Brighton"
+    ],
+    [
+      "Arsenal",
+      "Fulham"
+    ],
+    [
+      "Arsenal",
+      "Bournemouth"
+    ],
+    [
+      "Arsenal",
+      "Wolves"
+    ],
+    [
+      "Arsenal",
+      "Newcastle"
+    ],
+    [
+      "Arsenal",
+      "Everton"
+    ],
+    [
+      "Arsenal",
+      "Nott'm Forest"
+    ],
+    [
+      "Arsenal",
+      "Man United"
+    ],
+    [
+      "Arsenal",
+      "Brentford"
+    ],
+    [
+      "Ipswich",
+      "Crystal Palace"
+    ],
+    [
+      "Ipswich",
+      "Chelsea"
     ],
     [
       "Ipswich",
@@ -200,35 +432,15 @@
     ],
     [
       "Ipswich",
-      "West Ham"
-    ],
-    [
-      "Ipswich",
-      "Everton"
-    ],
-    [
-      "Ipswich",
-      "Brentford"
-    ],
-    [
-      "Ipswich",
       "Leicester"
     ],
     [
       "Ipswich",
-      "Tottenham"
+      "Brighton"
     ],
     [
       "Ipswich",
-      "Man United"
-    ],
-    [
-      "Ipswich",
-      "Nott'm Forest"
-    ],
-    [
-      "Ipswich",
-      "Crystal Palace"
+      "Fulham"
     ],
     [
       "Ipswich",
@@ -244,251 +456,27 @@
     ],
     [
       "Ipswich",
-      "Arsenal"
+      "Everton"
     ],
     [
       "Ipswich",
-      "Chelsea"
-    ],
-    [
-      "Man United",
-      "Fulham"
-    ],
-    [
-      "Man United",
-      "Brighton"
-    ],
-    [
-      "Man United",
-      "Liverpool"
-    ],
-    [
-      "Man United",
-      "Southampton"
-    ],
-    [
-      "Man United",
-      "Crystal Palace"
-    ],
-    [
-      "Man United",
-      "Tottenham"
-    ],
-    [
-      "Man United",
-      "Aston Villa"
-    ],
-    [
-      "Man United",
-      "Brentford"
-    ],
-    [
-      "Man United",
-      "West Ham"
-    ],
-    [
-      "Man United",
-      "Chelsea"
-    ],
-    [
-      "Man United",
-      "Leicester"
-    ],
-    [
-      "Man United",
-      "Ipswich"
-    ],
-    [
-      "Man United",
-      "Everton"
-    ],
-    [
-      "Man United",
-      "Arsenal"
-    ],
-    [
-      "Man United",
       "Nott'm Forest"
     ],
     [
-      "Man United",
-      "Man City"
-    ],
-    [
-      "Man United",
-      "Bournemouth"
-    ],
-    [
-      "Man United",
-      "Wolves"
-    ],
-    [
-      "Man United",
-      "Newcastle"
-    ],
-    [
-      "Tottenham",
-      "Leicester"
-    ],
-    [
-      "Tottenham",
-      "Everton"
-    ],
-    [
-      "Tottenham",
-      "Newcastle"
-    ],
-    [
-      "Tottenham",
-      "Arsenal"
-    ],
-    [
-      "Tottenham",
-      "Brentford"
-    ],
-    [
-      "Tottenham",
+      "Ipswich",
       "Man United"
     ],
     [
-      "Tottenham",
-      "Brighton"
-    ],
-    [
-      "Tottenham",
-      "West Ham"
-    ],
-    [
-      "Tottenham",
-      "Crystal Palace"
-    ],
-    [
-      "Tottenham",
-      "Aston Villa"
-    ],
-    [
-      "Tottenham",
-      "Ipswich"
-    ],
-    [
-      "Tottenham",
-      "Man City"
-    ],
-    [
-      "Tottenham",
-      "Fulham"
-    ],
-    [
-      "Tottenham",
-      "Bournemouth"
-    ],
-    [
-      "Tottenham",
-      "Chelsea"
-    ],
-    [
-      "Tottenham",
-      "Southampton"
-    ],
-    [
-      "Tottenham",
-      "Liverpool"
-    ],
-    [
-      "Tottenham",
-      "Nott'm Forest"
-    ],
-    [
-      "Tottenham",
-      "Wolves"
-    ],
-    [
-      "Arsenal",
-      "Wolves"
-    ],
-    [
-      "Arsenal",
-      "Aston Villa"
-    ],
-    [
-      "Arsenal",
-      "Brighton"
-    ],
-    [
-      "Arsenal",
-      "Tottenham"
-    ],
-    [
-      "Arsenal",
-      "Man City"
-    ],
-    [
-      "Arsenal",
-      "Leicester"
-    ],
-    [
-      "Arsenal",
-      "Southampton"
-    ],
-    [
-      "Arsenal",
-      "Bournemouth"
-    ],
-    [
-      "Arsenal",
-      "Liverpool"
-    ],
-    [
-      "Arsenal",
-      "Newcastle"
-    ],
-    [
-      "Arsenal",
-      "Chelsea"
-    ],
-    [
-      "Arsenal",
-      "Nott'm Forest"
-    ],
-    [
-      "Arsenal",
-      "West Ham"
-    ],
-    [
-      "Arsenal",
-      "Man United"
-    ],
-    [
-      "Arsenal",
-      "Fulham"
-    ],
-    [
-      "Arsenal",
-      "Everton"
-    ],
-    [
-      "Arsenal",
-      "Crystal Palace"
-    ],
-    [
-      "Arsenal",
-      "Ipswich"
-    ],
-    [
-      "Arsenal",
+      "Ipswich",
       "Brentford"
     ],
     [
       "Crystal Palace",
-      "Brentford"
-    ],
-    [
-      "Crystal Palace",
-      "West Ham"
-    ],
-    [
-      "Crystal Palace",
       "Chelsea"
+    ],
+    [
+      "Crystal Palace",
+      "Aston Villa"
     ],
     [
       "Crystal Palace",
@@ -496,27 +484,7 @@
     ],
     [
       "Crystal Palace",
-      "Man United"
-    ],
-    [
-      "Crystal Palace",
-      "Everton"
-    ],
-    [
-      "Crystal Palace",
-      "Liverpool"
-    ],
-    [
-      "Crystal Palace",
-      "Nott'm Forest"
-    ],
-    [
-      "Crystal Palace",
-      "Tottenham"
-    ],
-    [
-      "Crystal Palace",
-      "Wolves"
+      "Brighton"
     ],
     [
       "Crystal Palace",
@@ -524,155 +492,35 @@
     ],
     [
       "Crystal Palace",
-      "Aston Villa"
-    ],
-    [
-      "Crystal Palace",
-      "Newcastle"
-    ],
-    [
-      "Crystal Palace",
-      "Ipswich"
-    ],
-    [
-      "Crystal Palace",
-      "Man City"
-    ],
-    [
-      "Crystal Palace",
-      "Brighton"
-    ],
-    [
-      "Crystal Palace",
-      "Arsenal"
-    ],
-    [
-      "Crystal Palace",
       "Bournemouth"
     ],
     [
       "Crystal Palace",
-      "Southampton"
+      "Wolves"
     ],
     [
-      "Bournemouth",
-      "Nott'm Forest"
-    ],
-    [
-      "Bournemouth",
+      "Crystal Palace",
       "Newcastle"
     ],
     [
-      "Bournemouth",
+      "Crystal Palace",
       "Everton"
     ],
     [
-      "Bournemouth",
-      "Chelsea"
-    ],
-    [
-      "Bournemouth",
-      "Liverpool"
-    ],
-    [
-      "Bournemouth",
-      "Southampton"
-    ],
-    [
-      "Bournemouth",
-      "Leicester"
-    ],
-    [
-      "Bournemouth",
-      "Arsenal"
-    ],
-    [
-      "Bournemouth",
-      "Aston Villa"
-    ],
-    [
-      "Bournemouth",
-      "Man City"
-    ],
-    [
-      "Bournemouth",
-      "Brentford"
-    ],
-    [
-      "Bournemouth",
-      "Brighton"
-    ],
-    [
-      "Bournemouth",
-      "Wolves"
-    ],
-    [
-      "Bournemouth",
-      "Tottenham"
-    ],
-    [
-      "Bournemouth",
-      "Ipswich"
-    ],
-    [
-      "Bournemouth",
-      "West Ham"
-    ],
-    [
-      "Bournemouth",
-      "Man United"
-    ],
-    [
-      "Bournemouth",
-      "Crystal Palace"
-    ],
-    [
-      "Bournemouth",
-      "Fulham"
-    ],
-    [
-      "Chelsea",
-      "Man City"
-    ],
-    [
-      "Chelsea",
-      "Wolves"
-    ],
-    [
-      "Chelsea",
-      "Crystal Palace"
-    ],
-    [
-      "Chelsea",
-      "Bournemouth"
-    ],
-    [
-      "Chelsea",
-      "West Ham"
-    ],
-    [
-      "Chelsea",
-      "Brighton"
-    ],
-    [
-      "Chelsea",
+      "Crystal Palace",
       "Nott'm Forest"
     ],
     [
-      "Chelsea",
-      "Liverpool"
-    ],
-    [
-      "Chelsea",
-      "Newcastle"
-    ],
-    [
-      "Chelsea",
+      "Crystal Palace",
       "Man United"
     ],
     [
+      "Crystal Palace",
+      "Brentford"
+    ],
+    [
       "Chelsea",
-      "Arsenal"
+      "Aston Villa"
     ],
     [
       "Chelsea",
@@ -680,23 +528,7 @@
     ],
     [
       "Chelsea",
-      "Aston Villa"
-    ],
-    [
-      "Chelsea",
-      "Southampton"
-    ],
-    [
-      "Chelsea",
-      "Tottenham"
-    ],
-    [
-      "Chelsea",
-      "Brentford"
-    ],
-    [
-      "Chelsea",
-      "Everton"
+      "Brighton"
     ],
     [
       "Chelsea",
@@ -704,91 +536,31 @@
     ],
     [
       "Chelsea",
-      "Ipswich"
-    ],
-    [
-      "Fulham",
-      "Man United"
-    ],
-    [
-      "Fulham",
-      "Leicester"
-    ],
-    [
-      "Fulham",
-      "Ipswich"
-    ],
-    [
-      "Fulham",
-      "West Ham"
-    ],
-    [
-      "Fulham",
-      "Newcastle"
-    ],
-    [
-      "Fulham",
-      "Nott'm Forest"
-    ],
-    [
-      "Fulham",
-      "Man City"
-    ],
-    [
-      "Fulham",
-      "Aston Villa"
-    ],
-    [
-      "Fulham",
-      "Everton"
-    ],
-    [
-      "Fulham",
-      "Brentford"
-    ],
-    [
-      "Fulham",
-      "Crystal Palace"
-    ],
-    [
-      "Fulham",
-      "Wolves"
-    ],
-    [
-      "Fulham",
-      "Tottenham"
-    ],
-    [
-      "Fulham",
-      "Brighton"
-    ],
-    [
-      "Fulham",
-      "Arsenal"
-    ],
-    [
-      "Fulham",
-      "Liverpool"
-    ],
-    [
-      "Fulham",
-      "Southampton"
-    ],
-    [
-      "Fulham",
-      "Chelsea"
-    ],
-    [
-      "Fulham",
       "Bournemouth"
     ],
     [
-      "Aston Villa",
-      "West Ham"
+      "Chelsea",
+      "Wolves"
     ],
     [
-      "Aston Villa",
-      "Arsenal"
+      "Chelsea",
+      "Newcastle"
+    ],
+    [
+      "Chelsea",
+      "Everton"
+    ],
+    [
+      "Chelsea",
+      "Nott'm Forest"
+    ],
+    [
+      "Chelsea",
+      "Man United"
+    ],
+    [
+      "Chelsea",
+      "Brentford"
     ],
     [
       "Aston Villa",
@@ -796,19 +568,7 @@
     ],
     [
       "Aston Villa",
-      "Everton"
-    ],
-    [
-      "Aston Villa",
-      "Wolves"
-    ],
-    [
-      "Aston Villa",
-      "Ipswich"
-    ],
-    [
-      "Aston Villa",
-      "Man United"
+      "Brighton"
     ],
     [
       "Aston Villa",
@@ -820,479 +580,27 @@
     ],
     [
       "Aston Villa",
-      "Tottenham"
-    ],
-    [
-      "Aston Villa",
-      "Liverpool"
-    ],
-    [
-      "Aston Villa",
-      "Crystal Palace"
-    ],
-    [
-      "Aston Villa",
-      "Chelsea"
-    ],
-    [
-      "Aston Villa",
-      "Brentford"
-    ],
-    [
-      "Aston Villa",
-      "Southampton"
-    ],
-    [
-      "Aston Villa",
-      "Nott'm Forest"
-    ],
-    [
-      "Aston Villa",
-      "Man City"
-    ],
-    [
-      "Aston Villa",
-      "Newcastle"
-    ],
-    [
-      "Aston Villa",
-      "Brighton"
-    ],
-    [
-      "Newcastle",
-      "Southampton"
-    ],
-    [
-      "Newcastle",
-      "Bournemouth"
-    ],
-    [
-      "Newcastle",
-      "Tottenham"
-    ],
-    [
-      "Newcastle",
       "Wolves"
     ],
     [
-      "Newcastle",
-      "Fulham"
-    ],
-    [
-      "Newcastle",
-      "Man City"
-    ],
-    [
-      "Newcastle",
-      "Everton"
-    ],
-    [
-      "Newcastle",
-      "Brighton"
-    ],
-    [
-      "Newcastle",
-      "Chelsea"
-    ],
-    [
-      "Newcastle",
-      "Arsenal"
-    ],
-    [
-      "Newcastle",
-      "Nott'm Forest"
-    ],
-    [
-      "Newcastle",
-      "West Ham"
-    ],
-    [
-      "Newcastle",
-      "Crystal Palace"
-    ],
-    [
-      "Newcastle",
-      "Liverpool"
-    ],
-    [
-      "Newcastle",
-      "Brentford"
-    ],
-    [
-      "Newcastle",
-      "Leicester"
-    ],
-    [
-      "Newcastle",
-      "Ipswich"
-    ],
-    [
-      "Newcastle",
-      "Aston Villa"
-    ],
-    [
-      "Newcastle",
-      "Man United"
-    ],
-    [
-      "Brighton",
-      "Everton"
-    ],
-    [
-      "Brighton",
-      "Man United"
-    ],
-    [
-      "Brighton",
-      "Arsenal"
-    ],
-    [
-      "Brighton",
-      "Ipswich"
-    ],
-    [
-      "Brighton",
-      "Nott'm Forest"
-    ],
-    [
-      "Brighton",
-      "Chelsea"
-    ],
-    [
-      "Brighton",
-      "Tottenham"
-    ],
-    [
-      "Brighton",
+      "Aston Villa",
       "Newcastle"
     ],
     [
-      "Brighton",
-      "Wolves"
-    ],
-    [
-      "Brighton",
-      "Liverpool"
-    ],
-    [
-      "Brighton",
-      "Man City"
-    ],
-    [
-      "Brighton",
-      "Bournemouth"
-    ],
-    [
-      "Brighton",
-      "Southampton"
-    ],
-    [
-      "Brighton",
-      "Fulham"
-    ],
-    [
-      "Brighton",
-      "Leicester"
-    ],
-    [
-      "Brighton",
-      "Crystal Palace"
-    ],
-    [
-      "Brighton",
-      "West Ham"
-    ],
-    [
-      "Brighton",
-      "Brentford"
-    ],
-    [
-      "Brighton",
-      "Aston Villa"
-    ],
-    [
-      "Southampton",
-      "Newcastle"
-    ],
-    [
-      "Southampton",
-      "Nott'm Forest"
-    ],
-    [
-      "Southampton",
-      "Brentford"
-    ],
-    [
-      "Southampton",
-      "Man United"
-    ],
-    [
-      "Southampton",
-      "Ipswich"
-    ],
-    [
-      "Southampton",
-      "Bournemouth"
-    ],
-    [
-      "Southampton",
-      "Arsenal"
-    ],
-    [
-      "Southampton",
-      "Leicester"
-    ],
-    [
-      "Southampton",
-      "Man City"
-    ],
-    [
-      "Southampton",
+      "Aston Villa",
       "Everton"
     ],
     [
-      "Southampton",
-      "Wolves"
+      "Aston Villa",
+      "Nott'm Forest"
     ],
     [
-      "Southampton",
-      "Liverpool"
+      "Aston Villa",
+      "Man United"
     ],
     [
-      "Southampton",
-      "Brighton"
-    ],
-    [
-      "Southampton",
-      "Chelsea"
-    ],
-    [
-      "Southampton",
-      "Aston Villa"
-    ],
-    [
-      "Southampton",
-      "Tottenham"
-    ],
-    [
-      "Southampton",
-      "Fulham"
-    ],
-    [
-      "Southampton",
-      "West Ham"
-    ],
-    [
-      "Southampton",
-      "Crystal Palace"
-    ],
-    [
-      "West Ham",
-      "Aston Villa"
-    ],
-    [
-      "West Ham",
-      "Crystal Palace"
-    ],
-    [
-      "West Ham",
-      "Man City"
-    ],
-    [
-      "West Ham",
-      "Fulham"
-    ],
-    [
-      "West Ham",
-      "Chelsea"
-    ],
-    [
-      "West Ham",
+      "Aston Villa",
       "Brentford"
-    ],
-    [
-      "West Ham",
-      "Ipswich"
-    ],
-    [
-      "West Ham",
-      "Tottenham"
-    ],
-    [
-      "West Ham",
-      "Man United"
-    ],
-    [
-      "West Ham",
-      "Nott'm Forest"
-    ],
-    [
-      "West Ham",
-      "Everton"
-    ],
-    [
-      "West Ham",
-      "Newcastle"
-    ],
-    [
-      "West Ham",
-      "Arsenal"
-    ],
-    [
-      "West Ham",
-      "Leicester"
-    ],
-    [
-      "West Ham",
-      "Wolves"
-    ],
-    [
-      "West Ham",
-      "Bournemouth"
-    ],
-    [
-      "West Ham",
-      "Brighton"
-    ],
-    [
-      "West Ham",
-      "Southampton"
-    ],
-    [
-      "West Ham",
-      "Liverpool"
-    ],
-    [
-      "Brentford",
-      "Crystal Palace"
-    ],
-    [
-      "Brentford",
-      "Liverpool"
-    ],
-    [
-      "Brentford",
-      "Southampton"
-    ],
-    [
-      "Brentford",
-      "Man City"
-    ],
-    [
-      "Brentford",
-      "Tottenham"
-    ],
-    [
-      "Brentford",
-      "West Ham"
-    ],
-    [
-      "Brentford",
-      "Wolves"
-    ],
-    [
-      "Brentford",
-      "Man United"
-    ],
-    [
-      "Brentford",
-      "Ipswich"
-    ],
-    [
-      "Brentford",
-      "Fulham"
-    ],
-    [
-      "Brentford",
-      "Bournemouth"
-    ],
-    [
-      "Brentford",
-      "Everton"
-    ],
-    [
-      "Brentford",
-      "Leicester"
-    ],
-    [
-      "Brentford",
-      "Aston Villa"
-    ],
-    [
-      "Brentford",
-      "Newcastle"
-    ],
-    [
-      "Brentford",
-      "Chelsea"
-    ],
-    [
-      "Brentford",
-      "Nott'm Forest"
-    ],
-    [
-      "Brentford",
-      "Brighton"
-    ],
-    [
-      "Brentford",
-      "Arsenal"
-    ],
-    [
-      "Leicester",
-      "Tottenham"
-    ],
-    [
-      "Leicester",
-      "Fulham"
-    ],
-    [
-      "Leicester",
-      "Aston Villa"
-    ],
-    [
-      "Leicester",
-      "Crystal Palace"
-    ],
-    [
-      "Leicester",
-      "Everton"
-    ],
-    [
-      "Leicester",
-      "Arsenal"
-    ],
-    [
-      "Leicester",
-      "Bournemouth"
-    ],
-    [
-      "Leicester",
-      "Southampton"
-    ],
-    [
-      "Leicester",
-      "Nott'm Forest"
-    ],
-    [
-      "Leicester",
-      "Ipswich"
-    ],
-    [
-      "Leicester",
-      "Man United"
-    ],
-    [
-      "Leicester",
-      "Chelsea"
-    ],
-    [
-      "Leicester",
-      "Brentford"
-    ],
-    [
-      "Leicester",
-      "West Ham"
     ],
     [
       "Leicester",
@@ -1300,7 +608,11 @@
     ],
     [
       "Leicester",
-      "Newcastle"
+      "Fulham"
+    ],
+    [
+      "Leicester",
+      "Bournemouth"
     ],
     [
       "Leicester",
@@ -1308,19 +620,115 @@
     ],
     [
       "Leicester",
-      "Liverpool"
+      "Newcastle"
     ],
     [
       "Leicester",
-      "Man City"
+      "Everton"
+    ],
+    [
+      "Leicester",
+      "Nott'm Forest"
+    ],
+    [
+      "Leicester",
+      "Man United"
+    ],
+    [
+      "Leicester",
+      "Brentford"
+    ],
+    [
+      "Brighton",
+      "Fulham"
+    ],
+    [
+      "Brighton",
+      "Bournemouth"
+    ],
+    [
+      "Brighton",
+      "Wolves"
+    ],
+    [
+      "Brighton",
+      "Newcastle"
+    ],
+    [
+      "Brighton",
+      "Everton"
+    ],
+    [
+      "Brighton",
+      "Nott'm Forest"
+    ],
+    [
+      "Brighton",
+      "Man United"
+    ],
+    [
+      "Brighton",
+      "Brentford"
+    ],
+    [
+      "Fulham",
+      "Bournemouth"
+    ],
+    [
+      "Fulham",
+      "Wolves"
+    ],
+    [
+      "Fulham",
+      "Newcastle"
+    ],
+    [
+      "Fulham",
+      "Everton"
+    ],
+    [
+      "Fulham",
+      "Nott'm Forest"
+    ],
+    [
+      "Fulham",
+      "Man United"
+    ],
+    [
+      "Fulham",
+      "Brentford"
+    ],
+    [
+      "Bournemouth",
+      "Wolves"
+    ],
+    [
+      "Bournemouth",
+      "Newcastle"
+    ],
+    [
+      "Bournemouth",
+      "Everton"
+    ],
+    [
+      "Bournemouth",
+      "Nott'm Forest"
+    ],
+    [
+      "Bournemouth",
+      "Man United"
+    ],
+    [
+      "Bournemouth",
+      "Brentford"
     ],
     [
       "Wolves",
-      "Arsenal"
+      "Newcastle"
     ],
     [
       "Wolves",
-      "Chelsea"
+      "Everton"
     ],
     [
       "Wolves",
@@ -1328,601 +736,243 @@
     ],
     [
       "Wolves",
-      "Newcastle"
-    ],
-    [
-      "Wolves",
-      "Aston Villa"
-    ],
-    [
-      "Wolves",
-      "Liverpool"
-    ],
-    [
-      "Wolves",
-      "Brentford"
-    ],
-    [
-      "Wolves",
-      "Man City"
-    ],
-    [
-      "Wolves",
-      "Brighton"
-    ],
-    [
-      "Wolves",
-      "Crystal Palace"
-    ],
-    [
-      "Wolves",
-      "Southampton"
-    ],
-    [
-      "Wolves",
-      "Fulham"
-    ],
-    [
-      "Wolves",
-      "Bournemouth"
-    ],
-    [
-      "Wolves",
-      "Everton"
-    ],
-    [
-      "Wolves",
-      "West Ham"
-    ],
-    [
-      "Wolves",
-      "Ipswich"
-    ],
-    [
-      "Wolves",
-      "Leicester"
-    ],
-    [
-      "Wolves",
       "Man United"
     ],
     [
       "Wolves",
-      "Tottenham"
-    ],
-    [
-      "Nott'm Forest",
-      "Bournemouth"
-    ],
-    [
-      "Nott'm Forest",
-      "Southampton"
-    ],
-    [
-      "Nott'm Forest",
-      "Wolves"
-    ],
-    [
-      "Nott'm Forest",
-      "Liverpool"
-    ],
-    [
-      "Nott'm Forest",
-      "Brighton"
-    ],
-    [
-      "Nott'm Forest",
-      "Fulham"
-    ],
-    [
-      "Nott'm Forest",
-      "Chelsea"
-    ],
-    [
-      "Nott'm Forest",
-      "Crystal Palace"
-    ],
-    [
-      "Nott'm Forest",
-      "Leicester"
-    ],
-    [
-      "Nott'm Forest",
-      "West Ham"
-    ],
-    [
-      "Nott'm Forest",
-      "Newcastle"
-    ],
-    [
-      "Nott'm Forest",
-      "Arsenal"
-    ],
-    [
-      "Nott'm Forest",
-      "Ipswich"
-    ],
-    [
-      "Nott'm Forest",
-      "Man City"
-    ],
-    [
-      "Nott'm Forest",
-      "Man United"
-    ],
-    [
-      "Nott'm Forest",
-      "Aston Villa"
-    ],
-    [
-      "Nott'm Forest",
       "Brentford"
     ],
     [
-      "Nott'm Forest",
-      "Tottenham"
-    ],
-    [
-      "Nott'm Forest",
+      "Newcastle",
       "Everton"
     ],
     [
-      "Man City",
-      "Chelsea"
-    ],
-    [
-      "Man City",
-      "Ipswich"
-    ],
-    [
-      "Man City",
-      "West Ham"
-    ],
-    [
-      "Man City",
-      "Brentford"
-    ],
-    [
-      "Man City",
-      "Arsenal"
-    ],
-    [
-      "Man City",
-      "Newcastle"
-    ],
-    [
-      "Man City",
-      "Fulham"
-    ],
-    [
-      "Man City",
-      "Wolves"
-    ],
-    [
-      "Man City",
-      "Southampton"
-    ],
-    [
-      "Man City",
-      "Bournemouth"
-    ],
-    [
-      "Man City",
-      "Brighton"
-    ],
-    [
-      "Man City",
-      "Tottenham"
-    ],
-    [
-      "Man City",
-      "Liverpool"
-    ],
-    [
-      "Man City",
+      "Newcastle",
       "Nott'm Forest"
     ],
     [
-      "Man City",
-      "Crystal Palace"
-    ],
-    [
-      "Man City",
+      "Newcastle",
       "Man United"
     ],
     [
-      "Man City",
-      "Aston Villa"
+      "Newcastle",
+      "Brentford"
     ],
     [
-      "Man City",
-      "Everton"
+      "Everton",
+      "Nott'm Forest"
     ],
     [
-      "Man City",
-      "Leicester"
+      "Everton",
+      "Man United"
+    ],
+    [
+      "Everton",
+      "Brentford"
+    ],
+    [
+      "Nott'm Forest",
+      "Man United"
+    ],
+    [
+      "Nott'm Forest",
+      "Brentford"
+    ],
+    [
+      "Man United",
+      "Brentford"
     ]
   ],
   "weights": {
-    "Everton->Brighton": 0.5,
-    "Everton->Tottenham": 0.5,
-    "Everton->Bournemouth": 1.0,
-    "Everton->Aston Villa": 1.0,
-    "Everton->Leicester": 0.16666666666666666,
-    "Everton->Crystal Palace": 0.0,
-    "Everton->Newcastle": 0.16666666666666666,
-    "Everton->Ipswich": 0.16666666666666666,
-    "Everton->Fulham": 0.16666666666666666,
-    "Everton->Southampton": 0.5,
-    "Everton->West Ham": 0.3333333333333333,
-    "Everton->Brentford": 0.3333333333333333,
-    "Everton->Man United": 0.6666666666666666,
-    "Everton->Wolves": 0.16666666666666666,
-    "Everton->Arsenal": 0.3333333333333333,
-    "Everton->Chelsea": 0.6666666666666666,
-    "Everton->Man City": 0.6666666666666666,
-    "Everton->Nott'm Forest": 0.5,
-    "Everton->Liverpool": 0.6666666666666666,
+    "Liverpool->Tottenham": 0.0,
+    "Liverpool->Man City": 0.0,
+    "Liverpool->West Ham": 0.0,
+    "Liverpool->Southampton": 0.0,
+    "Liverpool->Arsenal": 0.5,
     "Liverpool->Ipswich": 0.0,
-    "Liverpool->Brentford": 0.0,
-    "Liverpool->Man United": 0.16666666666666666,
-    "Liverpool->Nott'm Forest": 0.6666666666666666,
+    "Liverpool->Crystal Palace": 0.2,
+    "Liverpool->Chelsea": 0.5,
+    "Liverpool->Aston Villa": 0.2,
+    "Liverpool->Leicester": 0.0,
+    "Liverpool->Brighton": 0.5,
+    "Liverpool->Fulham": 0.8,
     "Liverpool->Bournemouth": 0.0,
     "Liverpool->Wolves": 0.0,
-    "Liverpool->Crystal Palace": 0.16666666666666666,
-    "Liverpool->Chelsea": 0.5,
-    "Liverpool->Arsenal": 0.3333333333333333,
-    "Liverpool->Brighton": 0.5,
-    "Liverpool->Aston Villa": 0.16666666666666666,
-    "Liverpool->Southampton": 0.0,
-    "Liverpool->Man City": 0.0,
-    "Liverpool->Newcastle": 0.16666666666666666,
-    "Liverpool->Fulham": 0.6666666666666666,
-    "Liverpool->Tottenham": 0.0,
-    "Liverpool->Leicester": 0.0,
-    "Liverpool->West Ham": 0.0,
-    "Liverpool->Everton": 0.16666666666666666,
-    "Ipswich->Liverpool": 1.0,
-    "Ipswich->Man City": 1.0,
-    "Ipswich->Fulham": 0.3333333333333333,
-    "Ipswich->Brighton": 0.6666666666666666,
-    "Ipswich->Southampton": 0.6666666666666666,
-    "Ipswich->Aston Villa": 0.3333333333333333,
-    "Ipswich->West Ham": 1.0,
-    "Ipswich->Everton": 0.6666666666666666,
-    "Ipswich->Brentford": 1.0,
-    "Ipswich->Leicester": 0.6666666666666666,
-    "Ipswich->Tottenham": 0.5,
-    "Ipswich->Man United": 0.6666666666666666,
-    "Ipswich->Nott'm Forest": 1.0,
+    "Liverpool->Newcastle": 0.2,
+    "Liverpool->Everton": 0.2,
+    "Liverpool->Nott'm Forest": 0.8,
+    "Liverpool->Man United": 0.2,
+    "Liverpool->Brentford": 0.0,
+    "Tottenham->Man City": 0.5,
+    "Tottenham->West Ham": 0.2,
+    "Tottenham->Southampton": 0.0,
+    "Tottenham->Arsenal": 1.0,
+    "Tottenham->Ipswich": 0.5,
+    "Tottenham->Crystal Palace": 1.0,
+    "Tottenham->Chelsea": 1.0,
+    "Tottenham->Aston Villa": 0.5,
+    "Tottenham->Leicester": 0.8,
+    "Tottenham->Brighton": 1.0,
+    "Tottenham->Fulham": 0.8,
+    "Tottenham->Bournemouth": 0.8,
+    "Tottenham->Wolves": 0.8,
+    "Tottenham->Newcastle": 1.0,
+    "Tottenham->Everton": 0.5,
+    "Tottenham->Nott'm Forest": 1.0,
+    "Tottenham->Man United": 0.0,
+    "Tottenham->Brentford": 0.0,
+    "Man City->West Ham": 0.0,
+    "Man City->Southampton": 0.2,
+    "Man City->Arsenal": 0.8,
+    "Man City->Ipswich": 0.0,
+    "Man City->Crystal Palace": 0.2,
+    "Man City->Chelsea": 0.0,
+    "Man City->Aston Villa": 0.5,
+    "Man City->Leicester": 0.0,
+    "Man City->Brighton": 0.8,
+    "Man City->Fulham": 0.0,
+    "Man City->Bournemouth": 0.5,
+    "Man City->Wolves": 0.0,
+    "Man City->Newcastle": 0.2,
+    "Man City->Everton": 0.2,
+    "Man City->Nott'm Forest": 0.5,
+    "Man City->Man United": 0.8,
+    "Man City->Brentford": 0.2,
+    "West Ham->Southampton": 0.2,
+    "West Ham->Arsenal": 0.5,
+    "West Ham->Ipswich": 0.0,
+    "West Ham->Crystal Palace": 0.5,
+    "West Ham->Chelsea": 1.0,
+    "West Ham->Aston Villa": 0.8,
+    "West Ham->Leicester": 0.5,
+    "West Ham->Brighton": 0.8,
+    "West Ham->Fulham": 0.2,
+    "West Ham->Bournemouth": 0.5,
+    "West Ham->Wolves": 0.5,
+    "West Ham->Newcastle": 0.5,
+    "West Ham->Everton": 0.5,
+    "West Ham->Nott'm Forest": 1.0,
+    "West Ham->Man United": 0.0,
+    "West Ham->Brentford": 0.8,
+    "Southampton->Arsenal": 1.0,
+    "Southampton->Ipswich": 0.2,
+    "Southampton->Crystal Palace": 0.8,
+    "Southampton->Chelsea": 1.0,
+    "Southampton->Aston Villa": 1.0,
+    "Southampton->Leicester": 1.0,
+    "Southampton->Brighton": 0.8,
+    "Southampton->Fulham": 0.8,
+    "Southampton->Bournemouth": 1.0,
+    "Southampton->Wolves": 1.0,
+    "Southampton->Newcastle": 1.0,
+    "Southampton->Everton": 0.5,
+    "Southampton->Nott'm Forest": 1.0,
+    "Southampton->Man United": 1.0,
+    "Southampton->Brentford": 1.0,
+    "Arsenal->Ipswich": 0.0,
+    "Arsenal->Crystal Palace": 0.2,
+    "Arsenal->Chelsea": 0.2,
+    "Arsenal->Aston Villa": 0.2,
+    "Arsenal->Leicester": 0.0,
+    "Arsenal->Brighton": 0.5,
+    "Arsenal->Fulham": 0.2,
+    "Arsenal->Bournemouth": 1.0,
+    "Arsenal->Wolves": 0.0,
+    "Arsenal->Newcastle": 0.5,
+    "Arsenal->Everton": 0.5,
+    "Arsenal->Nott'm Forest": 0.2,
+    "Arsenal->Man United": 0.2,
+    "Arsenal->Brentford": 0.2,
     "Ipswich->Crystal Palace": 1.0,
+    "Ipswich->Chelsea": 0.2,
+    "Ipswich->Aston Villa": 0.5,
+    "Ipswich->Leicester": 0.8,
+    "Ipswich->Brighton": 0.8,
+    "Ipswich->Fulham": 0.5,
     "Ipswich->Bournemouth": 0.5,
     "Ipswich->Wolves": 0.5,
     "Ipswich->Newcastle": 1.0,
-    "Ipswich->Arsenal": 1.0,
-    "Ipswich->Chelsea": 0.16666666666666666,
-    "Man United->Fulham": 0.0,
-    "Man United->Brighton": 1.0,
-    "Man United->Liverpool": 0.6666666666666666,
-    "Man United->Southampton": 0.0,
-    "Man United->Crystal Palace": 0.6666666666666666,
-    "Man United->Tottenham": 1.0,
-    "Man United->Aston Villa": 0.16666666666666666,
-    "Man United->Brentford": 0.5,
-    "Man United->West Ham": 1.0,
-    "Man United->Chelsea": 0.6666666666666666,
-    "Man United->Leicester": 0.0,
-    "Man United->Ipswich": 0.16666666666666666,
-    "Man United->Everton": 0.16666666666666666,
-    "Man United->Arsenal": 0.6666666666666666,
-    "Man United->Nott'm Forest": 1.0,
-    "Man United->Man City": 0.16666666666666666,
-    "Man United->Bournemouth": 0.6666666666666666,
-    "Man United->Wolves": 1.0,
-    "Man United->Newcastle": 1.0,
-    "Tottenham->Leicester": 0.6666666666666666,
-    "Tottenham->Everton": 0.5,
-    "Tottenham->Newcastle": 1.0,
-    "Tottenham->Arsenal": 1.0,
-    "Tottenham->Brentford": 0.0,
-    "Tottenham->Man United": 0.0,
-    "Tottenham->Brighton": 1.0,
-    "Tottenham->West Ham": 0.16666666666666666,
-    "Tottenham->Crystal Palace": 1.0,
-    "Tottenham->Aston Villa": 0.5,
-    "Tottenham->Ipswich": 0.5,
-    "Tottenham->Man City": 0.5,
-    "Tottenham->Fulham": 0.6666666666666666,
-    "Tottenham->Bournemouth": 0.6666666666666666,
-    "Tottenham->Chelsea": 1.0,
-    "Tottenham->Southampton": 0.0,
-    "Tottenham->Liverpool": 1.0,
-    "Tottenham->Nott'm Forest": 1.0,
-    "Tottenham->Wolves": 0.6666666666666666,
-    "Arsenal->Wolves": 0.0,
-    "Arsenal->Aston Villa": 0.16666666666666666,
-    "Arsenal->Brighton": 0.3333333333333333,
-    "Arsenal->Tottenham": 0.0,
-    "Arsenal->Man City": 0.16666666666666666,
-    "Arsenal->Leicester": 0.0,
-    "Arsenal->Southampton": 0.0,
-    "Arsenal->Bournemouth": 1.0,
-    "Arsenal->Liverpool": 0.3333333333333333,
-    "Arsenal->Newcastle": 0.5,
-    "Arsenal->Chelsea": 0.16666666666666666,
-    "Arsenal->Nott'm Forest": 0.16666666666666666,
-    "Arsenal->West Ham": 0.5,
-    "Arsenal->Man United": 0.16666666666666666,
-    "Arsenal->Fulham": 0.16666666666666666,
-    "Arsenal->Everton": 0.3333333333333333,
-    "Arsenal->Crystal Palace": 0.16666666666666666,
-    "Arsenal->Ipswich": 0.0,
-    "Arsenal->Brentford": 0.16666666666666666,
-    "Crystal Palace->Brentford": 1.0,
-    "Crystal Palace->West Ham": 0.5,
-    "Crystal Palace->Chelsea": 0.3333333333333333,
-    "Crystal Palace->Leicester": 0.16666666666666666,
-    "Crystal Palace->Man United": 0.16666666666666666,
-    "Crystal Palace->Everton": 1.0,
-    "Crystal Palace->Liverpool": 0.6666666666666666,
-    "Crystal Palace->Nott'm Forest": 0.6666666666666666,
-    "Crystal Palace->Tottenham": 0.0,
-    "Crystal Palace->Wolves": 0.16666666666666666,
-    "Crystal Palace->Fulham": 0.5,
-    "Crystal Palace->Aston Villa": 0.16666666666666666,
-    "Crystal Palace->Newcastle": 0.6666666666666666,
-    "Crystal Palace->Ipswich": 0.0,
-    "Crystal Palace->Man City": 0.6666666666666666,
+    "Ipswich->Everton": 0.8,
+    "Ipswich->Nott'm Forest": 1.0,
+    "Ipswich->Man United": 0.8,
+    "Ipswich->Brentford": 1.0,
+    "Crystal Palace->Chelsea": 0.5,
+    "Crystal Palace->Aston Villa": 0.2,
+    "Crystal Palace->Leicester": 0.2,
     "Crystal Palace->Brighton": 0.0,
-    "Crystal Palace->Arsenal": 0.6666666666666666,
-    "Crystal Palace->Bournemouth": 0.3333333333333333,
-    "Crystal Palace->Southampton": 0.16666666666666666,
-    "Bournemouth->Nott'm Forest": 0.16666666666666666,
-    "Bournemouth->Newcastle": 0.16666666666666666,
-    "Bournemouth->Everton": 0.0,
-    "Bournemouth->Chelsea": 0.6666666666666666,
-    "Bournemouth->Liverpool": 1.0,
-    "Bournemouth->Southampton": 0.0,
-    "Bournemouth->Leicester": 0.5,
-    "Bournemouth->Arsenal": 0.0,
-    "Bournemouth->Aston Villa": 0.6666666666666666,
-    "Bournemouth->Man City": 0.5,
-    "Bournemouth->Brentford": 1.0,
-    "Bournemouth->Brighton": 1.0,
-    "Bournemouth->Wolves": 0.5,
-    "Bournemouth->Tottenham": 0.16666666666666666,
-    "Bournemouth->Ipswich": 0.5,
-    "Bournemouth->West Ham": 0.3333333333333333,
-    "Bournemouth->Man United": 0.16666666666666666,
-    "Bournemouth->Crystal Palace": 0.3333333333333333,
-    "Bournemouth->Fulham": 0.16666666666666666,
-    "Chelsea->Man City": 1.0,
-    "Chelsea->Wolves": 0.0,
-    "Chelsea->Crystal Palace": 0.3333333333333333,
-    "Chelsea->Bournemouth": 0.16666666666666666,
-    "Chelsea->West Ham": 0.0,
-    "Chelsea->Brighton": 0.5,
-    "Chelsea->Nott'm Forest": 0.16666666666666666,
-    "Chelsea->Liverpool": 0.5,
-    "Chelsea->Newcastle": 0.5,
-    "Chelsea->Man United": 0.16666666666666666,
-    "Chelsea->Arsenal": 0.6666666666666666,
-    "Chelsea->Leicester": 0.0,
+    "Crystal Palace->Fulham": 0.5,
+    "Crystal Palace->Bournemouth": 0.5,
+    "Crystal Palace->Wolves": 0.2,
+    "Crystal Palace->Newcastle": 0.8,
+    "Crystal Palace->Everton": 1.0,
+    "Crystal Palace->Nott'm Forest": 0.8,
+    "Crystal Palace->Man United": 0.2,
+    "Crystal Palace->Brentford": 1.0,
     "Chelsea->Aston Villa": 0.5,
-    "Chelsea->Southampton": 0.0,
-    "Chelsea->Tottenham": 0.0,
-    "Chelsea->Brentford": 0.16666666666666666,
-    "Chelsea->Everton": 0.16666666666666666,
+    "Chelsea->Leicester": 0.0,
+    "Chelsea->Brighton": 0.5,
     "Chelsea->Fulham": 0.5,
-    "Chelsea->Ipswich": 0.6666666666666666,
-    "Fulham->Man United": 1.0,
-    "Fulham->Leicester": 0.0,
-    "Fulham->Ipswich": 0.3333333333333333,
-    "Fulham->West Ham": 0.6666666666666666,
-    "Fulham->Newcastle": 0.0,
-    "Fulham->Nott'm Forest": 0.0,
-    "Fulham->Man City": 1.0,
-    "Fulham->Aston Villa": 1.0,
-    "Fulham->Everton": 0.6666666666666666,
-    "Fulham->Brentford": 0.0,
-    "Fulham->Crystal Palace": 0.5,
-    "Fulham->Wolves": 0.5,
-    "Fulham->Tottenham": 0.16666666666666666,
-    "Fulham->Brighton": 0.5,
-    "Fulham->Arsenal": 0.6666666666666666,
-    "Fulham->Liverpool": 0.16666666666666666,
-    "Fulham->Southampton": 0.16666666666666666,
-    "Fulham->Chelsea": 0.5,
-    "Fulham->Bournemouth": 0.6666666666666666,
-    "Aston Villa->West Ham": 0.16666666666666666,
-    "Aston Villa->Arsenal": 0.6666666666666666,
+    "Chelsea->Bournemouth": 0.2,
+    "Chelsea->Wolves": 0.0,
+    "Chelsea->Newcastle": 0.5,
+    "Chelsea->Everton": 0.2,
+    "Chelsea->Nott'm Forest": 0.2,
+    "Chelsea->Man United": 0.2,
+    "Chelsea->Brentford": 0.2,
     "Aston Villa->Leicester": 0.0,
-    "Aston Villa->Everton": 0.0,
-    "Aston Villa->Wolves": 0.5,
-    "Aston Villa->Ipswich": 0.3333333333333333,
-    "Aston Villa->Man United": 0.6666666666666666,
+    "Aston Villa->Brighton": 0.2,
     "Aston Villa->Fulham": 0.0,
-    "Aston Villa->Bournemouth": 0.16666666666666666,
-    "Aston Villa->Tottenham": 0.5,
-    "Aston Villa->Liverpool": 0.6666666666666666,
-    "Aston Villa->Crystal Palace": 0.6666666666666666,
-    "Aston Villa->Chelsea": 0.5,
-    "Aston Villa->Brentford": 0.0,
-    "Aston Villa->Southampton": 0.0,
-    "Aston Villa->Nott'm Forest": 0.5,
-    "Aston Villa->Man City": 0.5,
+    "Aston Villa->Bournemouth": 0.2,
+    "Aston Villa->Wolves": 0.5,
     "Aston Villa->Newcastle": 0.5,
-    "Aston Villa->Brighton": 0.16666666666666666,
-    "Newcastle->Southampton": 0.0,
-    "Newcastle->Bournemouth": 0.6666666666666666,
-    "Newcastle->Tottenham": 0.0,
-    "Newcastle->Wolves": 0.0,
-    "Newcastle->Fulham": 1.0,
-    "Newcastle->Man City": 0.6666666666666666,
-    "Newcastle->Everton": 0.6666666666666666,
-    "Newcastle->Brighton": 0.6666666666666666,
-    "Newcastle->Chelsea": 0.5,
-    "Newcastle->Arsenal": 0.5,
-    "Newcastle->Nott'm Forest": 0.0,
-    "Newcastle->West Ham": 0.5,
-    "Newcastle->Crystal Palace": 0.16666666666666666,
-    "Newcastle->Liverpool": 0.6666666666666666,
-    "Newcastle->Brentford": 0.5,
-    "Newcastle->Leicester": 0.0,
-    "Newcastle->Ipswich": 0.0,
-    "Newcastle->Aston Villa": 0.5,
-    "Newcastle->Man United": 0.0,
-    "Brighton->Everton": 0.5,
-    "Brighton->Man United": 0.0,
-    "Brighton->Arsenal": 0.3333333333333333,
-    "Brighton->Ipswich": 0.16666666666666666,
-    "Brighton->Nott'm Forest": 0.6666666666666666,
-    "Brighton->Chelsea": 0.5,
-    "Brighton->Tottenham": 0.0,
-    "Brighton->Newcastle": 0.16666666666666666,
-    "Brighton->Wolves": 0.16666666666666666,
-    "Brighton->Liverpool": 0.5,
-    "Brighton->Man City": 0.16666666666666666,
-    "Brighton->Bournemouth": 0.0,
-    "Brighton->Southampton": 0.16666666666666666,
-    "Brighton->Fulham": 0.5,
-    "Brighton->Leicester": 0.3333333333333333,
-    "Brighton->Crystal Palace": 1.0,
-    "Brighton->West Ham": 0.16666666666666666,
-    "Brighton->Brentford": 0.6666666666666666,
-    "Brighton->Aston Villa": 0.6666666666666666,
-    "Southampton->Newcastle": 1.0,
-    "Southampton->Nott'm Forest": 1.0,
-    "Southampton->Brentford": 1.0,
-    "Southampton->Man United": 1.0,
-    "Southampton->Ipswich": 0.16666666666666666,
-    "Southampton->Bournemouth": 1.0,
-    "Southampton->Arsenal": 1.0,
-    "Southampton->Leicester": 1.0,
-    "Southampton->Man City": 0.6666666666666666,
-    "Southampton->Everton": 0.5,
-    "Southampton->Wolves": 1.0,
-    "Southampton->Liverpool": 1.0,
-    "Southampton->Brighton": 0.6666666666666666,
-    "Southampton->Chelsea": 1.0,
-    "Southampton->Aston Villa": 1.0,
-    "Southampton->Tottenham": 1.0,
-    "Southampton->Fulham": 0.6666666666666666,
-    "Southampton->West Ham": 0.6666666666666666,
-    "Southampton->Crystal Palace": 0.6666666666666666,
-    "West Ham->Aston Villa": 0.6666666666666666,
-    "West Ham->Crystal Palace": 0.5,
-    "West Ham->Man City": 1.0,
-    "West Ham->Fulham": 0.16666666666666666,
-    "West Ham->Chelsea": 1.0,
-    "West Ham->Brentford": 0.6666666666666666,
-    "West Ham->Ipswich": 0.0,
-    "West Ham->Tottenham": 0.6666666666666666,
-    "West Ham->Man United": 0.0,
-    "West Ham->Nott'm Forest": 1.0,
-    "West Ham->Everton": 0.3333333333333333,
-    "West Ham->Newcastle": 0.5,
-    "West Ham->Arsenal": 0.5,
-    "West Ham->Leicester": 0.5,
-    "West Ham->Wolves": 0.5,
-    "West Ham->Bournemouth": 0.3333333333333333,
-    "West Ham->Brighton": 0.6666666666666666,
-    "West Ham->Southampton": 0.16666666666666666,
-    "West Ham->Liverpool": 1.0,
-    "Brentford->Crystal Palace": 0.0,
-    "Brentford->Liverpool": 1.0,
-    "Brentford->Southampton": 0.0,
-    "Brentford->Man City": 0.6666666666666666,
-    "Brentford->Tottenham": 1.0,
-    "Brentford->West Ham": 0.16666666666666666,
-    "Brentford->Wolves": 0.16666666666666666,
-    "Brentford->Man United": 0.5,
-    "Brentford->Ipswich": 0.0,
-    "Brentford->Fulham": 1.0,
-    "Brentford->Bournemouth": 0.0,
-    "Brentford->Everton": 0.3333333333333333,
-    "Brentford->Leicester": 0.0,
-    "Brentford->Aston Villa": 1.0,
-    "Brentford->Newcastle": 0.5,
-    "Brentford->Chelsea": 0.6666666666666666,
-    "Brentford->Nott'm Forest": 0.5,
-    "Brentford->Brighton": 0.16666666666666666,
-    "Brentford->Arsenal": 0.6666666666666666,
-    "Leicester->Tottenham": 0.16666666666666666,
+    "Aston Villa->Everton": 0.0,
+    "Aston Villa->Nott'm Forest": 0.5,
+    "Aston Villa->Man United": 0.8,
+    "Aston Villa->Brentford": 0.0,
+    "Leicester->Brighton": 0.5,
     "Leicester->Fulham": 1.0,
-    "Leicester->Aston Villa": 1.0,
-    "Leicester->Crystal Palace": 0.6666666666666666,
-    "Leicester->Everton": 0.6666666666666666,
-    "Leicester->Arsenal": 1.0,
     "Leicester->Bournemouth": 0.5,
-    "Leicester->Southampton": 0.0,
-    "Leicester->Nott'm Forest": 0.6666666666666666,
-    "Leicester->Ipswich": 0.16666666666666666,
-    "Leicester->Man United": 1.0,
-    "Leicester->Chelsea": 1.0,
-    "Leicester->Brentford": 1.0,
-    "Leicester->West Ham": 0.5,
-    "Leicester->Brighton": 0.3333333333333333,
-    "Leicester->Newcastle": 1.0,
     "Leicester->Wolves": 1.0,
-    "Leicester->Liverpool": 1.0,
-    "Leicester->Man City": 1.0,
-    "Wolves->Arsenal": 1.0,
-    "Wolves->Chelsea": 1.0,
-    "Wolves->Nott'm Forest": 0.6666666666666666,
+    "Leicester->Newcastle": 1.0,
+    "Leicester->Everton": 0.8,
+    "Leicester->Nott'm Forest": 0.8,
+    "Leicester->Man United": 1.0,
+    "Leicester->Brentford": 1.0,
+    "Brighton->Fulham": 0.5,
+    "Brighton->Bournemouth": 0.0,
+    "Brighton->Wolves": 0.2,
+    "Brighton->Newcastle": 0.2,
+    "Brighton->Everton": 0.5,
+    "Brighton->Nott'm Forest": 0.8,
+    "Brighton->Man United": 0.0,
+    "Brighton->Brentford": 0.8,
+    "Fulham->Bournemouth": 0.8,
+    "Fulham->Wolves": 0.5,
+    "Fulham->Newcastle": 0.0,
+    "Fulham->Everton": 0.8,
+    "Fulham->Nott'm Forest": 0.0,
+    "Fulham->Man United": 1.0,
+    "Fulham->Brentford": 0.0,
+    "Bournemouth->Wolves": 0.5,
+    "Bournemouth->Newcastle": 0.2,
+    "Bournemouth->Everton": 0.0,
+    "Bournemouth->Nott'm Forest": 0.2,
+    "Bournemouth->Man United": 0.2,
+    "Bournemouth->Brentford": 1.0,
     "Wolves->Newcastle": 1.0,
-    "Wolves->Aston Villa": 0.5,
-    "Wolves->Liverpool": 1.0,
-    "Wolves->Brentford": 0.6666666666666666,
-    "Wolves->Man City": 1.0,
-    "Wolves->Brighton": 0.6666666666666666,
-    "Wolves->Crystal Palace": 0.6666666666666666,
-    "Wolves->Southampton": 0.0,
-    "Wolves->Fulham": 0.5,
-    "Wolves->Bournemouth": 0.5,
-    "Wolves->Everton": 0.6666666666666666,
-    "Wolves->West Ham": 0.5,
-    "Wolves->Ipswich": 0.5,
-    "Wolves->Leicester": 0.0,
+    "Wolves->Everton": 0.8,
+    "Wolves->Nott'm Forest": 0.8,
     "Wolves->Man United": 0.0,
-    "Wolves->Tottenham": 0.16666666666666666,
-    "Nott'm Forest->Bournemouth": 0.6666666666666666,
-    "Nott'm Forest->Southampton": 0.0,
-    "Nott'm Forest->Wolves": 0.16666666666666666,
-    "Nott'm Forest->Liverpool": 0.16666666666666666,
-    "Nott'm Forest->Brighton": 0.16666666666666666,
-    "Nott'm Forest->Fulham": 1.0,
-    "Nott'm Forest->Chelsea": 0.6666666666666666,
-    "Nott'm Forest->Crystal Palace": 0.16666666666666666,
-    "Nott'm Forest->Leicester": 0.16666666666666666,
-    "Nott'm Forest->West Ham": 0.0,
-    "Nott'm Forest->Newcastle": 1.0,
-    "Nott'm Forest->Arsenal": 0.6666666666666666,
-    "Nott'm Forest->Ipswich": 0.0,
-    "Nott'm Forest->Man City": 0.5,
+    "Wolves->Brentford": 0.8,
+    "Newcastle->Everton": 0.8,
+    "Newcastle->Nott'm Forest": 0.0,
+    "Newcastle->Man United": 0.0,
+    "Newcastle->Brentford": 0.5,
+    "Everton->Nott'm Forest": 0.5,
+    "Everton->Man United": 0.8,
+    "Everton->Brentford": 0.5,
     "Nott'm Forest->Man United": 0.0,
-    "Nott'm Forest->Aston Villa": 0.5,
     "Nott'm Forest->Brentford": 0.5,
-    "Nott'm Forest->Tottenham": 0.0,
-    "Nott'm Forest->Everton": 0.5,
-    "Man City->Chelsea": 0.0,
-    "Man City->Ipswich": 0.0,
-    "Man City->West Ham": 0.0,
-    "Man City->Brentford": 0.16666666666666666,
-    "Man City->Arsenal": 0.6666666666666666,
-    "Man City->Newcastle": 0.16666666666666666,
-    "Man City->Fulham": 0.0,
-    "Man City->Wolves": 0.0,
-    "Man City->Southampton": 0.16666666666666666,
-    "Man City->Bournemouth": 0.5,
-    "Man City->Brighton": 0.6666666666666666,
-    "Man City->Tottenham": 0.5,
-    "Man City->Liverpool": 1.0,
-    "Man City->Nott'm Forest": 0.5,
-    "Man City->Crystal Palace": 0.16666666666666666,
-    "Man City->Man United": 0.6666666666666666,
-    "Man City->Aston Villa": 0.5,
-    "Man City->Everton": 0.16666666666666666,
-    "Man City->Leicester": 0.0
+    "Man United->Brentford": 0.5
   }
 }
