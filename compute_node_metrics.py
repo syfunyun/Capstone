@@ -191,21 +191,19 @@ def extract_node_metrics(json_file, subset_csv_file=None):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) < 4:
-        print("Usage: python compute_node_metrics.py <graph_json_file> <upset_rate_csv> <subset_analysis_csv>")
-        print("Example: python compute_node_metrics.py SoccerGraphData/EPL_2425_graph.json upset_rates_EPL_2425.csv subset_analysis_EPL_2425_graph_k0_to_1.csv")
-        print("\nThe subset_analysis_csv is now REQUIRED for intransitivity centrality.")
+    if len(sys.argv) < 3:
+        print("Usage: python compute_node_metrics.py <graph_json_file> <subset_analysis_csv> [upset_rate_csv]")
         sys.exit(1)
 
     json_file = sys.argv[1]
-    upset_csv = sys.argv[2]
-    subset_csv = sys.argv[3]
+    subset_csv = sys.argv[2]
+    upset_csv = sys.argv[3] if len(sys.argv) > 3 else None
 
     if not os.path.exists(json_file):
         print(f"Error: File '{json_file}' not found")
         sys.exit(1)
 
-    if not os.path.exists(upset_csv):
+    if upset_csv and not os.path.exists(upset_csv):
         print(f"Error: File '{upset_csv}' not found")
         sys.exit(1)
 
@@ -213,6 +211,10 @@ if __name__ == "__main__":
         print(f"Error: File '{subset_csv}' not found")
         sys.exit(1)
 
-    # Pass upset_csv as an attribute to the function for access
-    extract_node_metrics.upset_csv_file = upset_csv
+    # If upset_csv is missing or empty, skip upset rate merge
+    if upset_csv and os.path.exists(upset_csv):
+        extract_node_metrics.upset_csv_file = upset_csv
+    else:
+        extract_node_metrics.upset_csv_file = None
+
     extract_node_metrics(json_file, subset_csv)

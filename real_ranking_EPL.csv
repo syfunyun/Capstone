@@ -1,28 +1,28 @@
-League,Node,rank_2425,rank_2324,rank_2223,rank_2122,rank_2021
-EPL,Arsenal,2,2,2,5,8
-EPL,Aston Villa,6,4,7,14,11
-EPL,Brentford,10,16,9,13,
-EPL,Brighton,8,11,6,9,16
-EPL,Bournemouth,9,12,15,,
-EPL,Burnley,,19,,18,17
-EPL,Chelsea,4,6,12,3,4
-EPL,Crystal Palace,12,10,11,12,14
-EPL,Everton,13,15,17,16,10
-EPL,Fulham,11,13,10,,18
-EPL,Ipswich,19,,,,
-EPL,Leeds,,,19,17,9
-EPL,Leicester,18,,18,8,5
-EPL,Liverpool,1,3,5,2,3
-EPL,Luton,,18,,,
-EPL,Man City,3,1,1,1,1
-EPL,Man United,15,8,3,6,2
-EPL,Newcastle,5,7,4,11,12
-EPL,Norwich City,,,,20,
-EPL,Nott'm Forest,7,17,16,,
-EPL,Sheffield United,,20,,,20
-EPL,Southampton,20,,20,15,15
-EPL,Tottenham,17,5,8,4,7
-EPL,Watford,,,,19,
-EPL,West Brom,,,,,19
-EPL,West Ham,14,9,14,7,6
-EPL,Wolves,16,14,13,10,13
+Node,2425,2324,2223,2122,2021
+Arsenal,2,2,2,5,8
+Aston Villa,6,4,7,14,11
+Brentford,10,16,9,13,
+Brighton,8,11,6,9,16
+Bournemouth,9,12,15,,
+Burnley,,19,,18,17
+Chelsea,4,6,12,3,4
+Crystal Palace,12,10,11,12,14
+Everton,13,15,17,16,10
+Fulham,11,13,10,,18
+Ipswich,19,,,,
+Leeds,,,19,17,9
+Leicester,18,,18,8,5
+Liverpool,1,3,5,2,3
+Luton,,18,,,
+Man City,3,1,1,1,1
+Man United,15,8,3,6,2
+Newcastle,5,7,4,11,12
+Norwich City,,,,20,
+Nott'm Forest,7,17,16,,
+Sheffield United,,20,,,20
+Southampton,20,,20,15,15
+Tottenham,17,5,8,4,7
+Watford,,,,19,
+West Brom,,,,,19
+West Ham,14,9,14,7,6
+Wolves,16,14,13,10,13

@@ -13,7 +13,7 @@ def plot_upset_vs_ic(node_metrics_csv):
     ax.scatter(df['Upset_rate'], df['Intransitivity_Centrality'], color="#50e450", s=80, zorder=3)
     ax.set_xlabel('Upset Rate', fontfamily='monospace')
     ax.set_ylabel('Intransitivity Centrality', fontfamily='monospace')
-    ax.set_title('Upset Rate vs Intransitivity Centrality', fontfamily='monospace')
+    ax.set_title('Upset Rate vs Intransitivity Centrality', fontfamily='monospace', color='#333333')
     ax.grid(False)
     for spine in ax.spines.values():
         spine.set_color('#333333')

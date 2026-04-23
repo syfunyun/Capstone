@@ -27,7 +27,7 @@ def export_hhd_rankings(nodes, edges, f, output_file):
     for node in nodes:
         ranking_data.append({
             'Node': node,
-            'HHD_Rating': r[node],
+            ' be ': r[node],
             'Vorticity': vorticities[node]
         })
     
@@ -142,7 +142,7 @@ def analyze_graph_subsets(json_file, max_k):
     # Sort by k, then by Intransitivity_Percentage
     df = df.sort_values(['k', 'Intransitivity_Percentage'])
     
-    output_file = f"subset_analysis_{base_name}_k0_to_{max_k}.csv"
+    output_file = f"subset_analysis_{base_name}_k{max_k}.csv"
     df.to_csv(output_file, index=False, float_format='%.6f')
     
     print(f"\nResults saved to {output_file} ({len(all_results)} total combinations)")
@@ -151,10 +151,7 @@ def analyze_graph_subsets(json_file, max_k):
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
-        print("Usage: python analyze_graph_subsets.py <json_file> <max_k>")
-        print("Example: python analyze_graph_subsets.py SoccerGraphData/EPL_2425_graph.json 2")
-        print("  json_file: path to the graph JSON file")
-        print("  max_k: maximum number of nodes to remove (analyzes k=0 to max_k)")
+        print("Usage: python analyze_graph_subsets.py <graph_json_file> <max_k>")
         sys.exit(1)
     
     json_file = sys.argv[1]

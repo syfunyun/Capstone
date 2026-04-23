@@ -16,6 +16,7 @@ def plot_rating_vs_ic(csv_file):
     fig, ax = plt.subplots(figsize=(7, 6))
     ax.set_xlabel(rating_col.capitalize(), fontfamily='monospace')
     ax.set_ylabel('IC Score', fontfamily='monospace')
+    ax.set_title('HHD Rating vs Intransitivity Centrality', fontfamily='monospace', color='#333333')
     ax.grid(False)
     ax.axhline(0, color='lightgrey', linewidth=1, linestyle='--', alpha=0.9)
     ax.axvline(0, color='lightgrey', linewidth=1, linestyle='--', alpha=0.9)
@@ -30,7 +31,7 @@ def plot_rating_vs_ic(csv_file):
 
     plt.tight_layout()
     base_name = os.path.splitext(os.path.basename(csv_file))[0]
-    out_file = f"plot_{base_name}.png"
+    out_file = f"rating_vs_ic_{base_name}.png"
     plt.savefig(out_file, dpi=300)
     print(f"Saved plot as {out_file}")
     plt.show()
@@ -39,7 +40,6 @@ if __name__ == '__main__':
     import sys
     if len(sys.argv) < 2:
         print("Usage: python rating_icscore.py <node_metrics_csv>")
-        print("  <node_metrics_csv>: Path to the node metrics CSV file (must contain HHD_Rating and Intransitivity_Centrality columns)")
         sys.exit(1)
     csv_file = sys.argv[1]
     plot_rating_vs_ic(csv_file)

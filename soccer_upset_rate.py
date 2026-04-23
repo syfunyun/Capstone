@@ -1,27 +1,28 @@
 import argparse
 import pandas as pd
 import os
+import sys
+from HHD import load_graph_data, hhd_ratings_unweighted
 
-def calculate_upset_rate(raw_data_csv, node_metrics_csv, output_csv):
-    # Load raw match data and node metrics
+def calculate_upset_rate(raw_data_csv, graph_json_file, output_csv):
+    # Load raw match data
     raw_df = pd.read_csv(raw_data_csv)
-    metrics_df = pd.read_csv(node_metrics_csv)
+    # Load graph and compute HHD ratings
+    nodes, edges, f = load_graph_data(graph_json_file)
+    r = hhd_ratings_unweighted(nodes, edges, f)
+    # Assign ranks: lower HHD rating = better rank (1 is best)
+    sorted_nodes = sorted(nodes, key=lambda n: r[n])
+    hhd_ranking = {node: rank+1 for rank, node in enumerate(sorted_nodes)}
 
-    # Ensure required columns exist
-    if 'Node' not in metrics_df.columns or 'Rank' not in metrics_df.columns:
-        raise ValueError("Node metrics file must contain 'Node' and 'Rank' columns.")
+    # Track upsets and games for each team
+    upset_counts = {team: 0 for team in hhd_ranking}
+    game_counts = {team: 0 for team in hhd_ranking}
+
     # Accept both 'Home'/'Away' and 'HomeTeam'/'AwayTeam' column names
     home_col = 'HomeTeam' if 'HomeTeam' in raw_df.columns else 'Home'
     away_col = 'AwayTeam' if 'AwayTeam' in raw_df.columns else 'Away'
     if not all(col in raw_df.columns for col in [home_col, away_col, 'FTR']):
         raise ValueError(f"Raw data file must contain '{home_col}', '{away_col}', 'FTR' columns.")
-
-    # Build HHD ranking (higher rating = higher rank)
-    hhd_ranking = metrics_df.set_index('Node')['Rank'].to_dict()
-
-    # Track upsets and games for each team
-    upset_counts = {team: 0 for team in hhd_ranking}
-    game_counts = {team: 0 for team in hhd_ranking}
 
     for _, row in raw_df.iterrows():
         home = row[home_col]
@@ -69,15 +70,11 @@ def calculate_upset_rate(raw_data_csv, node_metrics_csv, output_csv):
     print(f"Upset rates saved to {output_csv}")
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Calculate upset rate for each team.')
-    parser.add_argument('raw_data_csv', help='Raw soccer data CSV (must have HomeTeam/AwayTeam or Home/Away, FTHG, FTAG columns)')
-    parser.add_argument('node_metrics_csv', help='Node metrics CSV (must have Node and Rank columns)')
-    parser.add_argument('--output', default=None, help='Output CSV file (default: auto-named from inputs)')
-    args = parser.parse_args()
-    # Auto-name output if not provided
-    if args.output:
-        output_csv = args.output
-    else:
-        base_raw = os.path.splitext(os.path.basename(args.raw_data_csv))[0]
-        output_csv = f"upset_rates_{base_raw}.csv"
-    calculate_upset_rate(args.raw_data_csv, args.node_metrics_csv, output_csv)
+    if len(sys.argv) < 3:
+        print("Usage: python soccer_upset_rate.py <raw_data_csv> <graph_json_file>")
+        sys.exit(1)
+    raw_data_csv = sys.argv[1]
+    graph_json_file = sys.argv[2]
+    base_raw = os.path.splitext(os.path.basename(raw_data_csv))[0]
+    output_csv = f"upset_rates_{base_raw}.csv"
+    calculate_upset_rate(raw_data_csv, graph_json_file, output_csv)

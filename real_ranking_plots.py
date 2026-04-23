@@ -40,6 +40,7 @@ def plot_ic_vs_real_rank(metrics_csv, real_csv, real_rank_col):
     ax.set_xticklabels(merged[real_rank_col].astype(int))
     ax.set_xlabel(f"Real Rank ({real_rank_col})", fontfamily='monospace')
     ax.set_ylabel("Intransitivity Centrality", fontfamily='monospace')
+    ax.set_title(f"IC Score vs Real Rank ({real_rank_col})", fontfamily='monospace', color='#333333')
     ax.grid(False)
     for spine in ax.spines.values():
         spine.set_color('#333333')
@@ -51,7 +52,7 @@ def plot_ic_vs_real_rank(metrics_csv, real_csv, real_rank_col):
     # Save with a descriptive name
     base_metrics = os.path.splitext(os.path.basename(metrics_csv))[0]
     base_real = os.path.splitext(os.path.basename(real_csv))[0]
-    out_file = f"real_ranking_icscore_{real_rank_col}_from_{base_real}_and_{base_metrics}.png"
+    out_file = f"real_ranking_icscore_{real_rank_col}_{base_real}_{base_metrics}.png"
     plt.savefig(out_file, dpi=300)
     print(f"Saved plot as {out_file}")
     # Plot Real Rank vs Upset Rate
@@ -76,7 +77,7 @@ def plot_ic_vs_real_rank(metrics_csv, real_csv, real_rank_col):
         ax2.set_xticklabels(merged_upset[real_rank_col].astype(int))
         ax2.set_xlabel(f"Real Rank ({real_rank_col})", fontfamily='monospace')
         ax2.set_ylabel("Upset Rate", fontfamily='monospace')
-        ax2.set_title("Upset Rate vs Real Rank", fontfamily='monospace')
+        ax2.set_title("Upset Rate vs Real Rank", fontfamily='monospace', color='#333333')
         ax2.grid(False)
         for spine in ax2.spines.values():
             spine.set_color('#333333')
@@ -85,7 +86,7 @@ def plot_ic_vs_real_rank(metrics_csv, real_csv, real_rank_col):
         ax2.tick_params(axis='x', colors='#333333', rotation=45)
         ax2.tick_params(axis='y', colors='#333333')
         plt.tight_layout()
-        out_file2 = f"real_ranking_upsetrate_{real_rank_col}_from_{base_real}_and_{base_metrics}.png"
+        out_file2 = f"real_ranking_upsetrate_{real_rank_col}_{base_real}_{base_metrics}.png"
         plt.savefig(out_file2, dpi=300)
         print(f"Saved plot as {out_file2}")
     plt.show()
@@ -94,7 +95,6 @@ if __name__ == '__main__':
     import sys
     if len(sys.argv) < 4:
         print("Usage: python real_ranking_plots.py <node_metrics_csv> <real_ranking_csv> <real_rank_col>")
-        print("Example: python real_ranking_plots.py node_metrics_EPL_2021_graph.csv real_ranking_EPL.csv rank_2021")
         sys.exit(1)
     metrics_csv = sys.argv[1]
     real_csv = sys.argv[2]
