@@ -6,8 +6,10 @@ This README provides a simple step-by-step guide for running the soccer graph an
 Convert raw match data CSV to a graph JSON file.
 
 ```
-python generate_soccer_graph.py <raw_data_csv> <output_graph_json>
+python generate_soccer_graph.py <raw_data_csv>
 ```
+
+- The output file is automatically named as `SoccerGraphData/<raw_data_csv_base>_graph.json`.
 
 ## 2. Analyze Subgraphs
 Analyze subgraphs of the generated graph.

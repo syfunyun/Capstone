@@ -89,28 +89,16 @@ def save_graph_data(G, output_file):
 
 if __name__ == "__main__":
     import sys
-    
     if len(sys.argv) < 2:
-        print("Usage: python generate_graph.py <csv_file> [output_json]")
-        print("Example: python generate_graph.py SoccerRawData/EPLseason-2425.csv")
+        print("Usage: python generate_soccer_graph.py <raw_data_csv>")
         sys.exit(1)
-    
     csv_file = sys.argv[1]
-    
-    # Determine output file name
-    if len(sys.argv) >= 3:
-        output_file = sys.argv[2]
-    else:
-        # Auto-generate output filename from input
-        import os
-        base_name = os.path.splitext(os.path.basename(csv_file))[0]
-        output_file = f"SoccerGraphData/{base_name}_graph.json"
-    
+    import os
+    base_name = os.path.splitext(os.path.basename(csv_file))[0]
+    output_file = f"SoccerGraphData/{base_name}_graph.json"
     # Create the graph
     G = create_soccer_graph(csv_file)
-    
     # Print information
     print_graph_info(G)
-    
     # Save graph data for HHD analysis
     save_graph_data(G, output_file)
