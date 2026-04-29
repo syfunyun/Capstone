@@ -15,14 +15,14 @@ python generate_soccer_graph.py <raw_data_csv>
 Analyze subgraphs of the generated graph.
 
 ```
-python analyze_graph_subsets.py <graph_json_file> <output_csv> <max_k>
+python analyze_graph_subsets.py <graph_json_file> <max_k>
 ```
 
 ## 3. Compute Node Metrics
 Compute node metrics for each team/node.
 
 ```
-python compute_node_metrics.py <graph_json_file> <output_csv> [optional_upset_rates_csv]
+python compute_node_metrics.py <graph_json_file> <subset_analysis_csv> [upset_rate_csv]
 ```
 
 - **OPTIONAL PREREQ:** Calculate upset scores (if you want to include upset rates in node metrics):
@@ -42,14 +42,14 @@ python rating_icscore.py <node_metrics_csv>
 Plot upset rate vs IC score for each node.
 
 ```
-python upset_icscore.py <node_metrics_csv> <upset_rates_csv>
+python upset_icscore.py <node_metrics_csv>
 ```
 
 ## 6. OPTIONAL: Plots Ranking vs IC and Ranking vs Upset
 - **PREREQ:** Store real ranking in a CSV file (e.g., real_ranking_EPL.csv)
 
 ```
-python real_ranking_plots.py <real_ranking_csv> <node_metrics_csv> <upset_rates_csv>
+python real_ranking_plots.py <node_metrics_csv> <real_ranking_csv> <real_rank_col>
 ```
 
 ---

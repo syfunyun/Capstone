@@ -14,8 +14,8 @@ def plot_rating_vs_ic(csv_file):
 
     plt.rcParams['font.family'] = 'monospace'
     fig, ax = plt.subplots(figsize=(7, 6))
-    ax.set_xlabel(rating_col.capitalize(), fontfamily='monospace')
-    ax.set_ylabel('IC Score', fontfamily='monospace')
+    ax.set_xlabel('HHD Rating', fontfamily='monospace')
+    ax.set_ylabel('Intransitivity Centrality', fontfamily='monospace')
     ax.set_title('HHD Rating vs Intransitivity Centrality', fontfamily='monospace', color='#333333')
     ax.grid(False)
     ax.axhline(0, color='lightgrey', linewidth=1, linestyle='--', alpha=0.9)

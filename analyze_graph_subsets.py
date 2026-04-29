@@ -3,13 +3,10 @@ import os
 import networkx as nx
 from itertools import combinations
 import pandas as pd
-from HHD import load_graph_data, hhd_ratings_unweighted, intransitive_l2_norm, transitive_l2_norm, total_l2_norm, hhd_decomposition
+from HHD import load_graph_data, hhd_ratings_unweighted, intransitive_l2_norm, transitive_l2_norm, total_l2_norm, calculate_basis_cycles
 
 
 def export_hhd_rankings(nodes, edges, f, output_file):
-    """
-    Export HHD rankings for given nodes and edges to CSV
-    """
     if len(edges) == 0:
         return
     
@@ -82,9 +79,22 @@ def analyze_graph_subsets(json_file, max_k):
                 'Nodes_Remaining': len(nodes),
                 'Edges_Remaining': len(edges)
             })
-            
-            # No rankings export
-            
+            # Output basis cycles to CSV
+            basis_cycles = calculate_basis_cycles(nodes, edges, f, r, verbose=False)
+            # Sort by decreasing magnitude of vorticity
+            basis_cycles.sort(key=lambda c: -abs(c['vorticity']))
+            basis_csv = f"{base_name}_basis_cycles.csv"
+            import csv
+            with open(basis_csv, "w", newline='') as csvfile:
+                writer = csv.writer(csvfile)
+                writer.writerow(["cycle_nodes", "cycle_edges", "vorticity"])
+                for cycle in basis_cycles:
+                    writer.writerow([
+                        ','.join(cycle['cycle_nodes']),
+                        ';'.join([f"({u},{v})" for u,v in cycle['cycle_edges']]),
+                        cycle['vorticity']
+                    ])
+            print(f"  Basis cycles written to {basis_csv}")
             print(f"  Baseline: 1 combination")
             continue
         
@@ -120,9 +130,7 @@ def analyze_graph_subsets(json_file, max_k):
                 'Nodes_Remaining': len(nodes_subset),
                 'Edges_Remaining': len(edges_subset)
             })
-            
-            # No rankings export for subsets
-            
+
             count += 1
         
         if count == 0:
