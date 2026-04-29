@@ -1,0 +1,137 @@
+cycle_nodes,cycle_edges,vorticity
+"St Pauli,Holstein Kiel,Augsburg,St Pauli","(St Pauli,Holstein Kiel);(Holstein Kiel,Augsburg);(Augsburg,St Pauli)",-21.38629436111989
+"Werder Bremen,Holstein Kiel,Augsburg,Werder Bremen","(Werder Bremen,Holstein Kiel);(Holstein Kiel,Augsburg);(Augsburg,Werder Bremen)",-21.38629436111989
+"St Pauli,Holstein Kiel,Bochum,St Pauli","(St Pauli,Holstein Kiel);(Holstein Kiel,Bochum);(Bochum,St Pauli)",-20.0
+"Ein Frankfurt,Holstein Kiel,Augsburg,Ein Frankfurt","(Ein Frankfurt,Holstein Kiel);(Holstein Kiel,Augsburg);(Augsburg,Ein Frankfurt)",-20.0
+"Dortmund,Holstein Kiel,Augsburg,Dortmund","(Dortmund,Holstein Kiel);(Holstein Kiel,Augsburg);(Augsburg,Dortmund)",-20.0
+"M'gladbach,Holstein Kiel,Augsburg,M'gladbach","(M'gladbach,Holstein Kiel);(Holstein Kiel,Augsburg);(Augsburg,M'gladbach)",-20.0
+"Bochum,Holstein Kiel,Augsburg,Bochum","(Bochum,Holstein Kiel);(Holstein Kiel,Augsburg);(Augsburg,Bochum)",-20.0
+"St Pauli,Holstein Kiel,Dortmund,St Pauli","(St Pauli,Holstein Kiel);(Holstein Kiel,Dortmund);(Dortmund,St Pauli)",-20.0
+"Freiburg,Holstein Kiel,Dortmund,Freiburg","(Freiburg,Holstein Kiel);(Holstein Kiel,Dortmund);(Dortmund,Freiburg)",-20.0
+"Werder Bremen,Holstein Kiel,M'gladbach,Werder Bremen","(Werder Bremen,Holstein Kiel);(Holstein Kiel,M'gladbach);(M'gladbach,Werder Bremen)",-20.0
+"Hoffenheim,Holstein Kiel,Augsburg,Hoffenheim","(Hoffenheim,Holstein Kiel);(Holstein Kiel,Augsburg);(Augsburg,Hoffenheim)",-20.0
+"Union Berlin,Holstein Kiel,Hoffenheim,Union Berlin","(Union Berlin,Holstein Kiel);(Holstein Kiel,Hoffenheim);(Hoffenheim,Union Berlin)",20.0
+"Freiburg,Holstein Kiel,Augsburg,Freiburg","(Freiburg,Holstein Kiel);(Holstein Kiel,Augsburg);(Augsburg,Freiburg)",-18.613705638880113
+"St Pauli,Holstein Kiel,Mainz,St Pauli","(St Pauli,Holstein Kiel);(Holstein Kiel,Mainz);(Mainz,St Pauli)",-18.61370563888011
+"Leverkusen,Holstein Kiel,Ein Frankfurt,Leverkusen","(Leverkusen,Holstein Kiel);(Holstein Kiel,Ein Frankfurt);(Ein Frankfurt,Leverkusen)",18.61370563888011
+"Leverkusen,Holstein Kiel,Hoffenheim,Leverkusen","(Leverkusen,Holstein Kiel);(Holstein Kiel,Hoffenheim);(Hoffenheim,Leverkusen)",18.613705638880106
+"Wolfsburg,Holstein Kiel,Augsburg,Wolfsburg","(Wolfsburg,Holstein Kiel);(Holstein Kiel,Augsburg);(Augsburg,Wolfsburg)",-12.772588722239782
+"Hoffenheim,Holstein Kiel,Dortmund,Hoffenheim","(Hoffenheim,Holstein Kiel);(Holstein Kiel,Dortmund);(Dortmund,Hoffenheim)",-11.38629436111989
+"Wolfsburg,Holstein Kiel,Dortmund,Wolfsburg","(Wolfsburg,Holstein Kiel);(Holstein Kiel,Dortmund);(Dortmund,Wolfsburg)",-11.38629436111989
+"St Pauli,Holstein Kiel,M'gladbach,St Pauli","(St Pauli,Holstein Kiel);(Holstein Kiel,M'gladbach);(M'gladbach,St Pauli)",-11.38629436111989
+"Union Berlin,Holstein Kiel,Freiburg,Union Berlin","(Union Berlin,Holstein Kiel);(Holstein Kiel,Freiburg);(Freiburg,Union Berlin)",11.38629436111989
+"M'gladbach,Holstein Kiel,Hoffenheim,M'gladbach","(M'gladbach,Holstein Kiel);(Holstein Kiel,Hoffenheim);(Hoffenheim,M'gladbach)",11.38629436111989
+"Union Berlin,Holstein Kiel,Ein Frankfurt,Union Berlin","(Union Berlin,Holstein Kiel);(Holstein Kiel,Ein Frankfurt);(Ein Frankfurt,Union Berlin)",11.38629436111989
+"Mainz,Holstein Kiel,Augsburg,Mainz","(Mainz,Holstein Kiel);(Holstein Kiel,Augsburg);(Augsburg,Mainz)",-10.0
+"Heidenheim,Holstein Kiel,Augsburg,Heidenheim","(Heidenheim,Holstein Kiel);(Holstein Kiel,Augsburg);(Augsburg,Heidenheim)",-10.0
+"RB Leipzig,Holstein Kiel,Augsburg,RB Leipzig","(RB Leipzig,Holstein Kiel);(Holstein Kiel,Augsburg);(Augsburg,RB Leipzig)",-10.0
+"Union Berlin,Holstein Kiel,M'gladbach,Union Berlin","(Union Berlin,Holstein Kiel);(Holstein Kiel,M'gladbach);(M'gladbach,Union Berlin)",-10.0
+"Hoffenheim,Holstein Kiel,Heidenheim,Hoffenheim","(Hoffenheim,Holstein Kiel);(Holstein Kiel,Heidenheim);(Heidenheim,Hoffenheim)",-10.0
+"Ein Frankfurt,Holstein Kiel,Dortmund,Ein Frankfurt","(Ein Frankfurt,Holstein Kiel);(Holstein Kiel,Dortmund);(Dortmund,Ein Frankfurt)",-10.0
+"Heidenheim,Holstein Kiel,Dortmund,Heidenheim","(Heidenheim,Holstein Kiel);(Holstein Kiel,Dortmund);(Dortmund,Heidenheim)",-10.0
+"St Pauli,Holstein Kiel,Heidenheim,St Pauli","(St Pauli,Holstein Kiel);(Holstein Kiel,Heidenheim);(Heidenheim,St Pauli)",-10.0
+"Werder Bremen,Holstein Kiel,Dortmund,Werder Bremen","(Werder Bremen,Holstein Kiel);(Holstein Kiel,Dortmund);(Dortmund,Werder Bremen)",-10.0
+"Union Berlin,Holstein Kiel,Augsburg,Union Berlin","(Union Berlin,Holstein Kiel);(Holstein Kiel,Augsburg);(Augsburg,Union Berlin)",-10.0
+"Hoffenheim,Holstein Kiel,Bayern Munich,Hoffenheim","(Hoffenheim,Holstein Kiel);(Holstein Kiel,Bayern Munich);(Bayern Munich,Hoffenheim)",-10.0
+"Werder Bremen,Holstein Kiel,Freiburg,Werder Bremen","(Werder Bremen,Holstein Kiel);(Holstein Kiel,Freiburg);(Freiburg,Werder Bremen)",-10.0
+"Freiburg,Holstein Kiel,Ein Frankfurt,Freiburg","(Freiburg,Holstein Kiel);(Holstein Kiel,Ein Frankfurt);(Ein Frankfurt,Freiburg)",-10.0
+"St Pauli,Holstein Kiel,Bayern Munich,St Pauli","(St Pauli,Holstein Kiel);(Holstein Kiel,Bayern Munich);(Bayern Munich,St Pauli)",-10.0
+"Werder Bremen,Holstein Kiel,Bayern Munich,Werder Bremen","(Werder Bremen,Holstein Kiel);(Holstein Kiel,Bayern Munich);(Bayern Munich,Werder Bremen)",-10.0
+"Bayern Munich,Holstein Kiel,Augsburg,Bayern Munich","(Bayern Munich,Holstein Kiel);(Holstein Kiel,Augsburg);(Augsburg,Bayern Munich)",-10.0
+"Union Berlin,Holstein Kiel,Heidenheim,Union Berlin","(Union Berlin,Holstein Kiel);(Holstein Kiel,Heidenheim);(Heidenheim,Union Berlin)",-10.0
+"Freiburg,Holstein Kiel,Bayern Munich,Freiburg","(Freiburg,Holstein Kiel);(Holstein Kiel,Bayern Munich);(Bayern Munich,Freiburg)",-10.0
+"Stuttgart,Holstein Kiel,RB Leipzig,Stuttgart","(Stuttgart,Holstein Kiel);(Holstein Kiel,RB Leipzig);(RB Leipzig,Stuttgart)",10.0
+"Leverkusen,Holstein Kiel,Freiburg,Leverkusen","(Leverkusen,Holstein Kiel);(Holstein Kiel,Freiburg);(Freiburg,Leverkusen)",10.0
+"Mainz,Holstein Kiel,Ein Frankfurt,Mainz","(Mainz,Holstein Kiel);(Holstein Kiel,Ein Frankfurt);(Ein Frankfurt,Mainz)",10.0
+"M'gladbach,Holstein Kiel,Bochum,M'gladbach","(M'gladbach,Holstein Kiel);(Holstein Kiel,Bochum);(Bochum,M'gladbach)",10.0
+"St Pauli,Holstein Kiel,Hoffenheim,St Pauli","(St Pauli,Holstein Kiel);(Holstein Kiel,Hoffenheim);(Hoffenheim,St Pauli)",10.0
+"RB Leipzig,Holstein Kiel,Freiburg,RB Leipzig","(RB Leipzig,Holstein Kiel);(Holstein Kiel,Freiburg);(Freiburg,RB Leipzig)",10.0
+"Dortmund,Holstein Kiel,Bayern Munich,Dortmund","(Dortmund,Holstein Kiel);(Holstein Kiel,Bayern Munich);(Bayern Munich,Dortmund)",10.0
+"M'gladbach,Holstein Kiel,Heidenheim,M'gladbach","(M'gladbach,Holstein Kiel);(Holstein Kiel,Heidenheim);(Heidenheim,M'gladbach)",10.0
+"St Pauli,Holstein Kiel,Leverkusen,St Pauli","(St Pauli,Holstein Kiel);(Holstein Kiel,Leverkusen);(Leverkusen,St Pauli)",-9.999999999999998
+"St Pauli,Holstein Kiel,RB Leipzig,St Pauli","(St Pauli,Holstein Kiel);(Holstein Kiel,RB Leipzig);(RB Leipzig,St Pauli)",-9.999999999999998
+"Werder Bremen,Holstein Kiel,RB Leipzig,Werder Bremen","(Werder Bremen,Holstein Kiel);(Holstein Kiel,RB Leipzig);(RB Leipzig,Werder Bremen)",-9.999999999999998
+"Union Berlin,Holstein Kiel,St Pauli,Union Berlin","(Union Berlin,Holstein Kiel);(Holstein Kiel,St Pauli);(St Pauli,Union Berlin)",9.999999999999998
+"Bochum,Holstein Kiel,Bayern Munich,Bochum","(Bochum,Holstein Kiel);(Holstein Kiel,Bayern Munich);(Bayern Munich,Bochum)",9.999999999999998
+"Wolfsburg,Holstein Kiel,Hoffenheim,Wolfsburg","(Wolfsburg,Holstein Kiel);(Holstein Kiel,Hoffenheim);(Hoffenheim,Wolfsburg)",9.999999999999998
+"Werder Bremen,Holstein Kiel,Heidenheim,Werder Bremen","(Werder Bremen,Holstein Kiel);(Holstein Kiel,Heidenheim);(Heidenheim,Werder Bremen)",-8.61370563888011
+"Werder Bremen,Holstein Kiel,Union Berlin,Werder Bremen","(Werder Bremen,Holstein Kiel);(Holstein Kiel,Union Berlin);(Union Berlin,Werder Bremen)",-8.61370563888011
+"M'gladbach,Holstein Kiel,Leverkusen,M'gladbach","(M'gladbach,Holstein Kiel);(Holstein Kiel,Leverkusen);(Leverkusen,M'gladbach)",-8.61370563888011
+"Leverkusen,Holstein Kiel,Heidenheim,Leverkusen","(Leverkusen,Holstein Kiel);(Holstein Kiel,Heidenheim);(Heidenheim,Leverkusen)",8.61370563888011
+"Stuttgart,Holstein Kiel,St Pauli,Stuttgart","(Stuttgart,Holstein Kiel);(Holstein Kiel,St Pauli);(St Pauli,Stuttgart)",8.61370563888011
+"Union Berlin,Holstein Kiel,Bayern Munich,Union Berlin","(Union Berlin,Holstein Kiel);(Holstein Kiel,Bayern Munich);(Bayern Munich,Union Berlin)",8.61370563888011
+"Stuttgart,Holstein Kiel,Freiburg,Stuttgart","(Stuttgart,Holstein Kiel);(Holstein Kiel,Freiburg);(Freiburg,Stuttgart)",8.61370563888011
+"Leverkusen,Holstein Kiel,Bayern Munich,Leverkusen","(Leverkusen,Holstein Kiel);(Holstein Kiel,Bayern Munich);(Bayern Munich,Leverkusen)",8.61370563888011
+"Stuttgart,Holstein Kiel,Hoffenheim,Stuttgart","(Stuttgart,Holstein Kiel);(Holstein Kiel,Hoffenheim);(Hoffenheim,Stuttgart)",8.61370563888011
+"Mainz,Holstein Kiel,Hoffenheim,Mainz","(Mainz,Holstein Kiel);(Holstein Kiel,Hoffenheim);(Hoffenheim,Mainz)",8.61370563888011
+"RB Leipzig,Holstein Kiel,Ein Frankfurt,RB Leipzig","(RB Leipzig,Holstein Kiel);(Holstein Kiel,Ein Frankfurt);(Ein Frankfurt,RB Leipzig)",8.61370563888011
+"Mainz,Holstein Kiel,Freiburg,Mainz","(Mainz,Holstein Kiel);(Holstein Kiel,Freiburg);(Freiburg,Mainz)",8.61370563888011
+"Wolfsburg,Holstein Kiel,M'gladbach,Wolfsburg","(Wolfsburg,Holstein Kiel);(Holstein Kiel,M'gladbach);(M'gladbach,Wolfsburg)",8.61370563888011
+"Mainz,Holstein Kiel,Bayern Munich,Mainz","(Mainz,Holstein Kiel);(Holstein Kiel,Bayern Munich);(Bayern Munich,Mainz)",8.61370563888011
+"M'gladbach,Holstein Kiel,Ein Frankfurt,M'gladbach","(M'gladbach,Holstein Kiel);(Holstein Kiel,Ein Frankfurt);(Ein Frankfurt,M'gladbach)",8.61370563888011
+"RB Leipzig,Holstein Kiel,Hoffenheim,RB Leipzig","(RB Leipzig,Holstein Kiel);(Holstein Kiel,Hoffenheim);(Hoffenheim,RB Leipzig)",8.61370563888011
+"Stuttgart,Holstein Kiel,Bochum,Stuttgart","(Stuttgart,Holstein Kiel);(Holstein Kiel,Bochum);(Bochum,Stuttgart)",8.61370563888011
+"Stuttgart,Holstein Kiel,Dortmund,Stuttgart","(Stuttgart,Holstein Kiel);(Holstein Kiel,Dortmund);(Dortmund,Stuttgart)",8.61370563888011
+"Wolfsburg,Holstein Kiel,Werder Bremen,Wolfsburg","(Wolfsburg,Holstein Kiel);(Holstein Kiel,Werder Bremen);(Werder Bremen,Wolfsburg)",8.61370563888011
+"Mainz,Holstein Kiel,Bochum,Mainz","(Mainz,Holstein Kiel);(Holstein Kiel,Bochum);(Bochum,Mainz)",8.61370563888011
+"Wolfsburg,Holstein Kiel,St Pauli,Wolfsburg","(Wolfsburg,Holstein Kiel);(Holstein Kiel,St Pauli);(St Pauli,Wolfsburg)",8.613705638880107
+"Werder Bremen,Holstein Kiel,Stuttgart,Werder Bremen","(Werder Bremen,Holstein Kiel);(Holstein Kiel,Stuttgart);(Stuttgart,Werder Bremen)",-7.227411277760218
+"Werder Bremen,Holstein Kiel,Leverkusen,Werder Bremen","(Werder Bremen,Holstein Kiel);(Holstein Kiel,Leverkusen);(Leverkusen,Werder Bremen)",-7.227411277760218
+"Wolfsburg,Holstein Kiel,Ein Frankfurt,Wolfsburg","(Wolfsburg,Holstein Kiel);(Holstein Kiel,Ein Frankfurt);(Ein Frankfurt,Wolfsburg)",7.227411277760218
+"RB Leipzig,Holstein Kiel,Bayern Munich,RB Leipzig","(RB Leipzig,Holstein Kiel);(Holstein Kiel,Bayern Munich);(Bayern Munich,RB Leipzig)",7.2274112777602175
+"RB Leipzig,Holstein Kiel,M'gladbach,RB Leipzig","(RB Leipzig,Holstein Kiel);(Holstein Kiel,M'gladbach);(M'gladbach,RB Leipzig)",-2.7725887222397816
+"Union Berlin,Holstein Kiel,Mainz,Union Berlin","(Union Berlin,Holstein Kiel);(Holstein Kiel,Mainz);(Mainz,Union Berlin)",2.7725887222397816
+"Wolfsburg,Holstein Kiel,Bayern Munich,Wolfsburg","(Wolfsburg,Holstein Kiel);(Holstein Kiel,Bayern Munich);(Bayern Munich,Wolfsburg)",-1.3862943611198921
+"Stuttgart,Holstein Kiel,Bayern Munich,Stuttgart","(Stuttgart,Holstein Kiel);(Holstein Kiel,Bayern Munich);(Bayern Munich,Stuttgart)",-1.3862943611198917
+"Ein Frankfurt,Holstein Kiel,Bayern Munich,Ein Frankfurt","(Ein Frankfurt,Holstein Kiel);(Holstein Kiel,Bayern Munich);(Bayern Munich,Ein Frankfurt)",-1.3862943611198917
+"Leverkusen,Holstein Kiel,Augsburg,Leverkusen","(Leverkusen,Holstein Kiel);(Holstein Kiel,Augsburg);(Augsburg,Leverkusen)",-1.3862943611198917
+"Mainz,Holstein Kiel,Dortmund,Mainz","(Mainz,Holstein Kiel);(Holstein Kiel,Dortmund);(Dortmund,Mainz)",-1.3862943611198912
+"RB Leipzig,Holstein Kiel,Dortmund,RB Leipzig","(RB Leipzig,Holstein Kiel);(Holstein Kiel,Dortmund);(Dortmund,RB Leipzig)",-1.3862943611198912
+"M'gladbach,Holstein Kiel,Dortmund,M'gladbach","(M'gladbach,Holstein Kiel);(Holstein Kiel,Dortmund);(Dortmund,M'gladbach)",-1.386294361119891
+"Leverkusen,Holstein Kiel,Dortmund,Leverkusen","(Leverkusen,Holstein Kiel);(Holstein Kiel,Dortmund);(Dortmund,Leverkusen)",-1.386294361119891
+"Heidenheim,Holstein Kiel,Bochum,Heidenheim","(Heidenheim,Holstein Kiel);(Holstein Kiel,Bochum);(Bochum,Heidenheim)",-1.3862943611198908
+"Stuttgart,Holstein Kiel,Heidenheim,Stuttgart","(Stuttgart,Holstein Kiel);(Holstein Kiel,Heidenheim);(Heidenheim,Stuttgart)",-1.3862943611198908
+"Mainz,Holstein Kiel,Heidenheim,Mainz","(Mainz,Holstein Kiel);(Holstein Kiel,Heidenheim);(Heidenheim,Mainz)",-1.3862943611198908
+"Union Berlin,Holstein Kiel,Bochum,Union Berlin","(Union Berlin,Holstein Kiel);(Holstein Kiel,Bochum);(Bochum,Union Berlin)",-1.3862943611198908
+"Wolfsburg,Holstein Kiel,Heidenheim,Wolfsburg","(Wolfsburg,Holstein Kiel);(Holstein Kiel,Heidenheim);(Heidenheim,Wolfsburg)",-1.3862943611198908
+"Stuttgart,Holstein Kiel,Augsburg,Stuttgart","(Stuttgart,Holstein Kiel);(Holstein Kiel,Augsburg);(Augsburg,Stuttgart)",-1.3862943611198908
+"Wolfsburg,Holstein Kiel,Leverkusen,Wolfsburg","(Wolfsburg,Holstein Kiel);(Holstein Kiel,Leverkusen);(Leverkusen,Wolfsburg)",-1.3862943611198908
+"Union Berlin,Holstein Kiel,RB Leipzig,Union Berlin","(Union Berlin,Holstein Kiel);(Holstein Kiel,RB Leipzig);(RB Leipzig,Union Berlin)",1.3862943611198908
+"Werder Bremen,Holstein Kiel,Mainz,Werder Bremen","(Werder Bremen,Holstein Kiel);(Holstein Kiel,Mainz);(Mainz,Werder Bremen)",1.3862943611198908
+"Wolfsburg,Holstein Kiel,Mainz,Wolfsburg","(Wolfsburg,Holstein Kiel);(Holstein Kiel,Mainz);(Mainz,Wolfsburg)",1.3862943611198908
+"RB Leipzig,Holstein Kiel,Leverkusen,RB Leipzig","(RB Leipzig,Holstein Kiel);(Holstein Kiel,Leverkusen);(Leverkusen,RB Leipzig)",1.3862943611198908
+"Stuttgart,Holstein Kiel,Leverkusen,Stuttgart","(Stuttgart,Holstein Kiel);(Holstein Kiel,Leverkusen);(Leverkusen,Stuttgart)",-1.3862943611198906
+"Stuttgart,Holstein Kiel,M'gladbach,Stuttgart","(Stuttgart,Holstein Kiel);(Holstein Kiel,M'gladbach);(M'gladbach,Stuttgart)",-1.3862943611198906
+"Mainz,Holstein Kiel,Leverkusen,Mainz","(Mainz,Holstein Kiel);(Holstein Kiel,Leverkusen);(Leverkusen,Mainz)",-1.3862943611198906
+"Wolfsburg,Holstein Kiel,Union Berlin,Wolfsburg","(Wolfsburg,Holstein Kiel);(Holstein Kiel,Union Berlin);(Union Berlin,Wolfsburg)",-1.3862943611198906
+"Stuttgart,Holstein Kiel,Mainz,Stuttgart","(Stuttgart,Holstein Kiel);(Holstein Kiel,Mainz);(Mainz,Stuttgart)",-1.3862943611198904
+"Wolfsburg,Holstein Kiel,Stuttgart,Wolfsburg","(Wolfsburg,Holstein Kiel);(Holstein Kiel,Stuttgart);(Stuttgart,Wolfsburg)",1.3862943611198904
+"Werder Bremen,Holstein Kiel,St Pauli,Werder Bremen","(Werder Bremen,Holstein Kiel);(Holstein Kiel,St Pauli);(St Pauli,Werder Bremen)",1.3862943611198901
+"Stuttgart,Holstein Kiel,Ein Frankfurt,Stuttgart","(Stuttgart,Holstein Kiel);(Holstein Kiel,Ein Frankfurt);(Ein Frankfurt,Stuttgart)",-1.38629436111989
+"Hoffenheim,Holstein Kiel,Ein Frankfurt,Hoffenheim","(Hoffenheim,Holstein Kiel);(Holstein Kiel,Ein Frankfurt);(Ein Frankfurt,Hoffenheim)",-1.38629436111989
+"St Pauli,Holstein Kiel,Ein Frankfurt,St Pauli","(St Pauli,Holstein Kiel);(Holstein Kiel,Ein Frankfurt);(Ein Frankfurt,St Pauli)",-1.38629436111989
+"Wolfsburg,Holstein Kiel,Freiburg,Wolfsburg","(Wolfsburg,Holstein Kiel);(Holstein Kiel,Freiburg);(Freiburg,Wolfsburg)",-1.38629436111989
+"Hoffenheim,Holstein Kiel,Freiburg,Hoffenheim","(Hoffenheim,Holstein Kiel);(Holstein Kiel,Freiburg);(Freiburg,Hoffenheim)",-1.3862943611198897
+"Heidenheim,Holstein Kiel,Bayern Munich,Heidenheim","(Heidenheim,Holstein Kiel);(Holstein Kiel,Bayern Munich);(Bayern Munich,Heidenheim)",-8.881784197001252e-16
+"Hoffenheim,Holstein Kiel,Bochum,Hoffenheim","(Hoffenheim,Holstein Kiel);(Holstein Kiel,Bochum);(Bochum,Hoffenheim)",8.881784197001252e-16
+"St Pauli,Holstein Kiel,Freiburg,St Pauli","(St Pauli,Holstein Kiel);(Holstein Kiel,Freiburg);(Freiburg,St Pauli)",8.881784197001252e-16
+"Werder Bremen,Holstein Kiel,Hoffenheim,Werder Bremen","(Werder Bremen,Holstein Kiel);(Holstein Kiel,Hoffenheim);(Hoffenheim,Werder Bremen)",-4.440892098500626e-16
+"Union Berlin,Holstein Kiel,Stuttgart,Union Berlin","(Union Berlin,Holstein Kiel);(Holstein Kiel,Stuttgart);(Stuttgart,Union Berlin)",-4.440892098500626e-16
+"Union Berlin,Holstein Kiel,Dortmund,Union Berlin","(Union Berlin,Holstein Kiel);(Holstein Kiel,Dortmund);(Dortmund,Union Berlin)",-4.440892098500626e-16
+"M'gladbach,Holstein Kiel,Bayern Munich,M'gladbach","(M'gladbach,Holstein Kiel);(Holstein Kiel,Bayern Munich);(Bayern Munich,M'gladbach)",-4.440892098500626e-16
+"Wolfsburg,Holstein Kiel,Bochum,Wolfsburg","(Wolfsburg,Holstein Kiel);(Holstein Kiel,Bochum);(Bochum,Wolfsburg)",-2.220446049250313e-16
+"Mainz,Holstein Kiel,M'gladbach,Mainz","(Mainz,Holstein Kiel);(Holstein Kiel,M'gladbach);(M'gladbach,Mainz)",-2.220446049250313e-16
+"Wolfsburg,Holstein Kiel,RB Leipzig,Wolfsburg","(Wolfsburg,Holstein Kiel);(Holstein Kiel,RB Leipzig);(RB Leipzig,Wolfsburg)",2.220446049250313e-16
+"Werder Bremen,Holstein Kiel,Bochum,Werder Bremen","(Werder Bremen,Holstein Kiel);(Holstein Kiel,Bochum);(Bochum,Werder Bremen)",0.0
+"Dortmund,Holstein Kiel,Bochum,Dortmund","(Dortmund,Holstein Kiel);(Holstein Kiel,Bochum);(Bochum,Dortmund)",0.0
+"Freiburg,Holstein Kiel,Bochum,Freiburg","(Freiburg,Holstein Kiel);(Holstein Kiel,Bochum);(Bochum,Freiburg)",0.0
+"RB Leipzig,Holstein Kiel,Bochum,RB Leipzig","(RB Leipzig,Holstein Kiel);(Holstein Kiel,Bochum);(Bochum,RB Leipzig)",0.0
+"Heidenheim,Holstein Kiel,Ein Frankfurt,Heidenheim","(Heidenheim,Holstein Kiel);(Holstein Kiel,Ein Frankfurt);(Ein Frankfurt,Heidenheim)",0.0
+"Werder Bremen,Holstein Kiel,Ein Frankfurt,Werder Bremen","(Werder Bremen,Holstein Kiel);(Holstein Kiel,Ein Frankfurt);(Ein Frankfurt,Werder Bremen)",0.0
+"Heidenheim,Holstein Kiel,Freiburg,Heidenheim","(Heidenheim,Holstein Kiel);(Holstein Kiel,Freiburg);(Freiburg,Heidenheim)",0.0
+"RB Leipzig,Holstein Kiel,Mainz,RB Leipzig","(RB Leipzig,Holstein Kiel);(Holstein Kiel,Mainz);(Mainz,RB Leipzig)",0.0
+"RB Leipzig,Holstein Kiel,Heidenheim,RB Leipzig","(RB Leipzig,Holstein Kiel);(Holstein Kiel,Heidenheim);(Heidenheim,RB Leipzig)",0.0
+"Leverkusen,Holstein Kiel,Bochum,Leverkusen","(Leverkusen,Holstein Kiel);(Holstein Kiel,Bochum);(Bochum,Leverkusen)",0.0
+"M'gladbach,Holstein Kiel,Freiburg,M'gladbach","(M'gladbach,Holstein Kiel);(Holstein Kiel,Freiburg);(Freiburg,M'gladbach)",0.0
+"Union Berlin,Holstein Kiel,Leverkusen,Union Berlin","(Union Berlin,Holstein Kiel);(Holstein Kiel,Leverkusen);(Leverkusen,Union Berlin)",0.0
+"Ein Frankfurt,Holstein Kiel,Bochum,Ein Frankfurt","(Ein Frankfurt,Holstein Kiel);(Holstein Kiel,Bochum);(Bochum,Ein Frankfurt)",0.0
