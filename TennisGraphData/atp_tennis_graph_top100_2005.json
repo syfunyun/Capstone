@@ -1,0 +1,7323 @@
+{
+  "nodes": [
+    "Costa A.",
+    "Ancic M.",
+    "Lopez F.",
+    "Zabaleta M.",
+    "Fish M.",
+    "Murray A.",
+    "Vliegen K.",
+    "Soderling R.",
+    "Roddick A.",
+    "Srichaphan P.",
+    "Minar I.",
+    "Baghdatis M.",
+    "Hernych J.",
+    "Llodra M.",
+    "Arthurs W.",
+    "Lisnard J.R.",
+    "Hanescu V.",
+    "Novak J.",
+    "Bjorkman J.",
+    "Kohlschreiber P.",
+    "Agassi A.",
+    "Monfils G.",
+    "Canas G.",
+    "Karlovic I.",
+    "Gasquet R.",
+    "Nieminen J.",
+    "Santoro F.",
+    "Starace P.",
+    "Sabau R.",
+    "Dupuis A.",
+    "Phau B.",
+    "Ljubicic I.",
+    "Tabara M.",
+    "Mello R.",
+    "Wessels P.",
+    "Johansson J.",
+    "Massu N.",
+    "Nadal R.",
+    "Seppi A.",
+    "Lee H.T.",
+    "Martin A.",
+    "Schuettler R.",
+    "Ferrer D.",
+    "Nalbandian D.",
+    "Djokovic N.",
+    "Lapentti N.",
+    "Lu Y.H.",
+    "Morrison J.",
+    "Calatrava A.",
+    "Wang Y.T.",
+    "Volandri F.",
+    "Ascione T.",
+    "Serra F.",
+    "Ginepri R.",
+    "Pavel A.",
+    "Waske A.",
+    "Stakhovsky S.",
+    "Tursunov D.",
+    "di Mauro A.",
+    "Sanchez D.",
+    "Montanes A.",
+    "Labadze I.",
+    "Andreev I.",
+    "Puerta M.",
+    "Sluiter R.",
+    "Hrbaty D.",
+    "Kim K.",
+    "Koubek S.",
+    "Garcia-Lopez G.",
+    "Horna L.",
+    "Gimelstob J.",
+    "Youzhny M.",
+    "Hewitt L.",
+    "Goldstein P.",
+    "Stepanek R.",
+    "Tipsarevic J.",
+    "Muller G.",
+    "Clement A.",
+    "Moodie W.",
+    "Gonzalez F.",
+    "Dent T.",
+    "Vanek J.",
+    "Kuerten G.",
+    "Johansson T.",
+    "Gaudio G.",
+    "Bracciali D.",
+    "Moya C.",
+    "Coria G.",
+    "Rochus O.",
+    "Sargsian S.",
+    "Rusedski G.",
+    "Ferrero J.C.",
+    "Carraz G.",
+    "Blake J.",
+    "Acasuso J.",
+    "Henman T.",
+    "Zib T.",
+    "Chela J.I.",
+    "Mathieu P.H.",
+    "Enqvist T.",
+    "Burgsmuller L.",
+    "Mathieu P.",
+    "Behrend T.",
+    "Benneteau J.",
+    "Haehnel J.",
+    "Hernandez O.",
+    "Ulihrach B.",
+    "Spadea V.",
+    "Verdasco F.",
+    "Calleri A.",
+    "Mantilla F.",
+    "Haas T.",
+    "Robredo T.",
+    "Sanguinetti D.",
+    "Schalken S.",
+    "Beck K.",
+    "Almagro N.",
+    "Kiefer N.",
+    "Melzer J.",
+    "Ventura S.",
+    "Grosjean S.",
+    "Mayer F.",
+    "Mirnyi M.",
+    "Wawrinka S.",
+    "Federer R.",
+    "Davydenko N.",
+    "Dlouhy L.",
+    "Carlsen K.",
+    "Safin M.",
+    "Vik R.",
+    "Saulnier C.",
+    "Monaco J.",
+    "Rochus C.",
+    "Malisse X.",
+    "Berdych T."
+  ],
+  "edges": [
+    [
+      "Costa A.",
+      "Roddick A."
+    ],
+    [
+      "Costa A.",
+      "Llodra M."
+    ],
+    [
+      "Costa A.",
+      "Ljubicic I."
+    ],
+    [
+      "Costa A.",
+      "Massu N."
+    ],
+    [
+      "Costa A.",
+      "Ferrer D."
+    ],
+    [
+      "Costa A.",
+      "Sanchez D."
+    ],
+    [
+      "Costa A.",
+      "Andreev I."
+    ],
+    [
+      "Costa A.",
+      "Koubek S."
+    ],
+    [
+      "Costa A.",
+      "Gaudio G."
+    ],
+    [
+      "Costa A.",
+      "Mathieu P.H."
+    ],
+    [
+      "Costa A.",
+      "Spadea V."
+    ],
+    [
+      "Costa A.",
+      "Verdasco F."
+    ],
+    [
+      "Costa A.",
+      "Sanguinetti D."
+    ],
+    [
+      "Costa A.",
+      "Mirnyi M."
+    ],
+    [
+      "Costa A.",
+      "Davydenko N."
+    ],
+    [
+      "Costa A.",
+      "Monaco J."
+    ],
+    [
+      "Ancic M.",
+      "Lopez F."
+    ],
+    [
+      "Ancic M.",
+      "Roddick A."
+    ],
+    [
+      "Ancic M.",
+      "Srichaphan P."
+    ],
+    [
+      "Ancic M.",
+      "Baghdatis M."
+    ],
+    [
+      "Ancic M.",
+      "Hernych J."
+    ],
+    [
+      "Ancic M.",
+      "Llodra M."
+    ],
+    [
+      "Ancic M.",
+      "Arthurs W."
+    ],
+    [
+      "Ancic M.",
+      "Bjorkman J."
+    ],
+    [
+      "Ancic M.",
+      "Monfils G."
+    ],
+    [
+      "Ancic M.",
+      "Gasquet R."
+    ],
+    [
+      "Ancic M.",
+      "Phau B."
+    ],
+    [
+      "Ancic M.",
+      "Ljubicic I."
+    ],
+    [
+      "Ancic M.",
+      "Mello R."
+    ],
+    [
+      "Ancic M.",
+      "Lee H.T."
+    ],
+    [
+      "Ancic M.",
+      "Nalbandian D."
+    ],
+    [
+      "Ancic M.",
+      "Djokovic N."
+    ],
+    [
+      "Ancic M.",
+      "Serra F."
+    ],
+    [
+      "Ancic M.",
+      "Stakhovsky S."
+    ],
+    [
+      "Ancic M.",
+      "Tursunov D."
+    ],
+    [
+      "Ancic M.",
+      "Hrbaty D."
+    ],
+    [
+      "Ancic M.",
+      "Hewitt L."
+    ],
+    [
+      "Ancic M.",
+      "Stepanek R."
+    ],
+    [
+      "Ancic M.",
+      "Moodie W."
+    ],
+    [
+      "Ancic M.",
+      "Gonzalez F."
+    ],
+    [
+      "Ancic M.",
+      "Dent T."
+    ],
+    [
+      "Ancic M.",
+      "Kuerten G."
+    ],
+    [
+      "Ancic M.",
+      "Coria G."
+    ],
+    [
+      "Ancic M.",
+      "Rochus O."
+    ],
+    [
+      "Ancic M.",
+      "Rusedski G."
+    ],
+    [
+      "Ancic M.",
+      "Blake J."
+    ],
+    [
+      "Ancic M.",
+      "Acasuso J."
+    ],
+    [
+      "Ancic M.",
+      "Henman T."
+    ],
+    [
+      "Ancic M.",
+      "Hernandez O."
+    ],
+    [
+      "Ancic M.",
+      "Ulihrach B."
+    ],
+    [
+      "Ancic M.",
+      "Spadea V."
+    ],
+    [
+      "Ancic M.",
+      "Haas T."
+    ],
+    [
+      "Ancic M.",
+      "Beck K."
+    ],
+    [
+      "Ancic M.",
+      "Mayer F."
+    ],
+    [
+      "Ancic M.",
+      "Federer R."
+    ],
+    [
+      "Ancic M.",
+      "Safin M."
+    ],
+    [
+      "Ancic M.",
+      "Saulnier C."
+    ],
+    [
+      "Ancic M.",
+      "Berdych T."
+    ],
+    [
+      "Lopez F.",
+      "Zabaleta M."
+    ],
+    [
+      "Lopez F.",
+      "Soderling R."
+    ],
+    [
+      "Lopez F.",
+      "Srichaphan P."
+    ],
+    [
+      "Lopez F.",
+      "Llodra M."
+    ],
+    [
+      "Lopez F.",
+      "Agassi A."
+    ],
+    [
+      "Lopez F.",
+      "Karlovic I."
+    ],
+    [
+      "Lopez F.",
+      "Gasquet R."
+    ],
+    [
+      "Lopez F.",
+      "Santoro F."
+    ],
+    [
+      "Lopez F.",
+      "Starace P."
+    ],
+    [
+      "Lopez F.",
+      "Johansson J."
+    ],
+    [
+      "Lopez F.",
+      "Ferrer D."
+    ],
+    [
+      "Lopez F.",
+      "Volandri F."
+    ],
+    [
+      "Lopez F.",
+      "Montanes A."
+    ],
+    [
+      "Lopez F.",
+      "Andreev I."
+    ],
+    [
+      "Lopez F.",
+      "Hewitt L."
+    ],
+    [
+      "Lopez F.",
+      "Stepanek R."
+    ],
+    [
+      "Lopez F.",
+      "Dent T."
+    ],
+    [
+      "Lopez F.",
+      "Johansson T."
+    ],
+    [
+      "Lopez F.",
+      "Gaudio G."
+    ],
+    [
+      "Lopez F.",
+      "Rochus O."
+    ],
+    [
+      "Lopez F.",
+      "Sargsian S."
+    ],
+    [
+      "Lopez F.",
+      "Ferrero J.C."
+    ],
+    [
+      "Lopez F.",
+      "Blake J."
+    ],
+    [
+      "Lopez F.",
+      "Mathieu P.H."
+    ],
+    [
+      "Lopez F.",
+      "Spadea V."
+    ],
+    [
+      "Lopez F.",
+      "Verdasco F."
+    ],
+    [
+      "Lopez F.",
+      "Sanguinetti D."
+    ],
+    [
+      "Lopez F.",
+      "Grosjean S."
+    ],
+    [
+      "Lopez F.",
+      "Mayer F."
+    ],
+    [
+      "Lopez F.",
+      "Federer R."
+    ],
+    [
+      "Lopez F.",
+      "Carlsen K."
+    ],
+    [
+      "Lopez F.",
+      "Safin M."
+    ],
+    [
+      "Lopez F.",
+      "Malisse X."
+    ],
+    [
+      "Zabaleta M.",
+      "Srichaphan P."
+    ],
+    [
+      "Zabaleta M.",
+      "Santoro F."
+    ],
+    [
+      "Zabaleta M.",
+      "Sabau R."
+    ],
+    [
+      "Zabaleta M.",
+      "Martin A."
+    ],
+    [
+      "Zabaleta M.",
+      "Calatrava A."
+    ],
+    [
+      "Zabaleta M.",
+      "Volandri F."
+    ],
+    [
+      "Zabaleta M.",
+      "Puerta M."
+    ],
+    [
+      "Zabaleta M.",
+      "Garcia-Lopez G."
+    ],
+    [
+      "Zabaleta M.",
+      "Muller G."
+    ],
+    [
+      "Zabaleta M.",
+      "Gonzalez F."
+    ],
+    [
+      "Zabaleta M.",
+      "Johansson T."
+    ],
+    [
+      "Zabaleta M.",
+      "Gaudio G."
+    ],
+    [
+      "Zabaleta M.",
+      "Moya C."
+    ],
+    [
+      "Zabaleta M.",
+      "Rochus O."
+    ],
+    [
+      "Zabaleta M.",
+      "Ferrero J.C."
+    ],
+    [
+      "Zabaleta M.",
+      "Henman T."
+    ],
+    [
+      "Zabaleta M.",
+      "Verdasco F."
+    ],
+    [
+      "Zabaleta M.",
+      "Almagro N."
+    ],
+    [
+      "Zabaleta M.",
+      "Ventura S."
+    ],
+    [
+      "Zabaleta M.",
+      "Mayer F."
+    ],
+    [
+      "Zabaleta M.",
+      "Federer R."
+    ],
+    [
+      "Zabaleta M.",
+      "Davydenko N."
+    ],
+    [
+      "Zabaleta M.",
+      "Berdych T."
+    ],
+    [
+      "Fish M.",
+      "Soderling R."
+    ],
+    [
+      "Fish M.",
+      "Ginepri R."
+    ],
+    [
+      "Fish M.",
+      "Dent T."
+    ],
+    [
+      "Fish M.",
+      "Gaudio G."
+    ],
+    [
+      "Fish M.",
+      "Zib T."
+    ],
+    [
+      "Fish M.",
+      "Enqvist T."
+    ],
+    [
+      "Fish M.",
+      "Haas T."
+    ],
+    [
+      "Fish M.",
+      "Federer R."
+    ],
+    [
+      "Fish M.",
+      "Monaco J."
+    ],
+    [
+      "Fish M.",
+      "Malisse X."
+    ],
+    [
+      "Murray A.",
+      "Gonzalez F."
+    ],
+    [
+      "Murray A.",
+      "Henman T."
+    ],
+    [
+      "Murray A.",
+      "Berdych T."
+    ],
+    [
+      "Vliegen K.",
+      "Haas T."
+    ],
+    [
+      "Soderling R.",
+      "Kohlschreiber P."
+    ],
+    [
+      "Soderling R.",
+      "Santoro F."
+    ],
+    [
+      "Soderling R.",
+      "Ljubicic I."
+    ],
+    [
+      "Soderling R.",
+      "Lee H.T."
+    ],
+    [
+      "Soderling R.",
+      "Nalbandian D."
+    ],
+    [
+      "Soderling R.",
+      "Stakhovsky S."
+    ],
+    [
+      "Soderling R.",
+      "Andreev I."
+    ],
+    [
+      "Soderling R.",
+      "Hrbaty D."
+    ],
+    [
+      "Soderling R.",
+      "Stepanek R."
+    ],
+    [
+      "Soderling R.",
+      "Coria G."
+    ],
+    [
+      "Soderling R.",
+      "Zib T."
+    ],
+    [
+      "Soderling R.",
+      "Chela J.I."
+    ],
+    [
+      "Soderling R.",
+      "Hernandez O."
+    ],
+    [
+      "Soderling R.",
+      "Verdasco F."
+    ],
+    [
+      "Soderling R.",
+      "Mayer F."
+    ],
+    [
+      "Soderling R.",
+      "Mirnyi M."
+    ],
+    [
+      "Soderling R.",
+      "Federer R."
+    ],
+    [
+      "Soderling R.",
+      "Vik R."
+    ],
+    [
+      "Soderling R.",
+      "Monaco J."
+    ],
+    [
+      "Soderling R.",
+      "Berdych T."
+    ],
+    [
+      "Roddick A.",
+      "Srichaphan P."
+    ],
+    [
+      "Roddick A.",
+      "Novak J."
+    ],
+    [
+      "Roddick A.",
+      "Monfils G."
+    ],
+    [
+      "Roddick A.",
+      "Karlovic I."
+    ],
+    [
+      "Roddick A.",
+      "Santoro F."
+    ],
+    [
+      "Roddick A.",
+      "Ljubicic I."
+    ],
+    [
+      "Roddick A.",
+      "Massu N."
+    ],
+    [
+      "Roddick A.",
+      "Lee H.T."
+    ],
+    [
+      "Roddick A.",
+      "Ferrer D."
+    ],
+    [
+      "Roddick A.",
+      "Ascione T."
+    ],
+    [
+      "Roddick A.",
+      "Ginepri R."
+    ],
+    [
+      "Roddick A.",
+      "Labadze I."
+    ],
+    [
+      "Roddick A.",
+      "Andreev I."
+    ],
+    [
+      "Roddick A.",
+      "Hrbaty D."
+    ],
+    [
+      "Roddick A.",
+      "Horna L."
+    ],
+    [
+      "Roddick A.",
+      "Youzhny M."
+    ],
+    [
+      "Roddick A.",
+      "Hewitt L."
+    ],
+    [
+      "Roddick A.",
+      "Stepanek R."
+    ],
+    [
+      "Roddick A.",
+      "Muller G."
+    ],
+    [
+      "Roddick A.",
+      "Gonzalez F."
+    ],
+    [
+      "Roddick A.",
+      "Dent T."
+    ],
+    [
+      "Roddick A.",
+      "Vanek J."
+    ],
+    [
+      "Roddick A.",
+      "Johansson T."
+    ],
+    [
+      "Roddick A.",
+      "Moya C."
+    ],
+    [
+      "Roddick A.",
+      "Coria G."
+    ],
+    [
+      "Roddick A.",
+      "Rusedski G."
+    ],
+    [
+      "Roddick A.",
+      "Ferrero J.C."
+    ],
+    [
+      "Roddick A.",
+      "Acasuso J."
+    ],
+    [
+      "Roddick A.",
+      "Chela J.I."
+    ],
+    [
+      "Roddick A.",
+      "Mathieu P.H."
+    ],
+    [
+      "Roddick A.",
+      "Enqvist T."
+    ],
+    [
+      "Roddick A.",
+      "Verdasco F."
+    ],
+    [
+      "Roddick A.",
+      "Haas T."
+    ],
+    [
+      "Roddick A.",
+      "Beck K."
+    ],
+    [
+      "Roddick A.",
+      "Melzer J."
+    ],
+    [
+      "Roddick A.",
+      "Grosjean S."
+    ],
+    [
+      "Roddick A.",
+      "Federer R."
+    ],
+    [
+      "Roddick A.",
+      "Saulnier C."
+    ],
+    [
+      "Srichaphan P.",
+      "Novak J."
+    ],
+    [
+      "Srichaphan P.",
+      "Agassi A."
+    ],
+    [
+      "Srichaphan P.",
+      "Gasquet R."
+    ],
+    [
+      "Srichaphan P.",
+      "Nieminen J."
+    ],
+    [
+      "Srichaphan P.",
+      "Starace P."
+    ],
+    [
+      "Srichaphan P.",
+      "Ljubicic I."
+    ],
+    [
+      "Srichaphan P.",
+      "Wessels P."
+    ],
+    [
+      "Srichaphan P.",
+      "Ferrer D."
+    ],
+    [
+      "Srichaphan P.",
+      "Nalbandian D."
+    ],
+    [
+      "Srichaphan P.",
+      "Ginepri R."
+    ],
+    [
+      "Srichaphan P.",
+      "Andreev I."
+    ],
+    [
+      "Srichaphan P.",
+      "Kim K."
+    ],
+    [
+      "Srichaphan P.",
+      "Garcia-Lopez G."
+    ],
+    [
+      "Srichaphan P.",
+      "Horna L."
+    ],
+    [
+      "Srichaphan P.",
+      "Goldstein P."
+    ],
+    [
+      "Srichaphan P.",
+      "Stepanek R."
+    ],
+    [
+      "Srichaphan P.",
+      "Johansson T."
+    ],
+    [
+      "Srichaphan P.",
+      "Moya C."
+    ],
+    [
+      "Srichaphan P.",
+      "Coria G."
+    ],
+    [
+      "Srichaphan P.",
+      "Blake J."
+    ],
+    [
+      "Srichaphan P.",
+      "Verdasco F."
+    ],
+    [
+      "Srichaphan P.",
+      "Calleri A."
+    ],
+    [
+      "Srichaphan P.",
+      "Sanguinetti D."
+    ],
+    [
+      "Srichaphan P.",
+      "Grosjean S."
+    ],
+    [
+      "Srichaphan P.",
+      "Davydenko N."
+    ],
+    [
+      "Srichaphan P.",
+      "Carlsen K."
+    ],
+    [
+      "Srichaphan P.",
+      "Safin M."
+    ],
+    [
+      "Srichaphan P.",
+      "Saulnier C."
+    ],
+    [
+      "Srichaphan P.",
+      "Monaco J."
+    ],
+    [
+      "Srichaphan P.",
+      "Rochus C."
+    ],
+    [
+      "Srichaphan P.",
+      "Berdych T."
+    ],
+    [
+      "Minar I.",
+      "Baghdatis M."
+    ],
+    [
+      "Minar I.",
+      "Hanescu V."
+    ],
+    [
+      "Minar I.",
+      "Serra F."
+    ],
+    [
+      "Minar I.",
+      "Puerta M."
+    ],
+    [
+      "Minar I.",
+      "Kim K."
+    ],
+    [
+      "Minar I.",
+      "Horna L."
+    ],
+    [
+      "Minar I.",
+      "Youzhny M."
+    ],
+    [
+      "Minar I.",
+      "Calleri A."
+    ],
+    [
+      "Minar I.",
+      "Robredo T."
+    ],
+    [
+      "Minar I.",
+      "Federer R."
+    ],
+    [
+      "Baghdatis M.",
+      "Nalbandian D."
+    ],
+    [
+      "Baghdatis M.",
+      "Puerta M."
+    ],
+    [
+      "Baghdatis M.",
+      "Youzhny M."
+    ],
+    [
+      "Baghdatis M.",
+      "Gonzalez F."
+    ],
+    [
+      "Baghdatis M.",
+      "Ferrero J.C."
+    ],
+    [
+      "Baghdatis M.",
+      "Acasuso J."
+    ],
+    [
+      "Baghdatis M.",
+      "Chela J.I."
+    ],
+    [
+      "Baghdatis M.",
+      "Mathieu P.H."
+    ],
+    [
+      "Baghdatis M.",
+      "Haas T."
+    ],
+    [
+      "Baghdatis M.",
+      "Carlsen K."
+    ],
+    [
+      "Hernych J.",
+      "Hanescu V."
+    ],
+    [
+      "Hernych J.",
+      "Bjorkman J."
+    ],
+    [
+      "Hernych J.",
+      "Kohlschreiber P."
+    ],
+    [
+      "Hernych J.",
+      "Monfils G."
+    ],
+    [
+      "Hernych J.",
+      "Santoro F."
+    ],
+    [
+      "Hernych J.",
+      "Massu N."
+    ],
+    [
+      "Hernych J.",
+      "Martin A."
+    ],
+    [
+      "Hernych J.",
+      "Ferrer D."
+    ],
+    [
+      "Hernych J.",
+      "Serra F."
+    ],
+    [
+      "Hernych J.",
+      "Hrbaty D."
+    ],
+    [
+      "Hernych J.",
+      "Kim K."
+    ],
+    [
+      "Hernych J.",
+      "Hewitt L."
+    ],
+    [
+      "Hernych J.",
+      "Stepanek R."
+    ],
+    [
+      "Hernych J.",
+      "Clement A."
+    ],
+    [
+      "Hernych J.",
+      "Gaudio G."
+    ],
+    [
+      "Hernych J.",
+      "Bracciali D."
+    ],
+    [
+      "Hernych J.",
+      "Coria G."
+    ],
+    [
+      "Hernych J.",
+      "Rochus O."
+    ],
+    [
+      "Hernych J.",
+      "Rusedski G."
+    ],
+    [
+      "Hernych J.",
+      "Ferrero J.C."
+    ],
+    [
+      "Hernych J.",
+      "Acasuso J."
+    ],
+    [
+      "Hernych J.",
+      "Mathieu P.H."
+    ],
+    [
+      "Hernych J.",
+      "Spadea V."
+    ],
+    [
+      "Hernych J.",
+      "Verdasco F."
+    ],
+    [
+      "Hernych J.",
+      "Sanguinetti D."
+    ],
+    [
+      "Hernych J.",
+      "Safin M."
+    ],
+    [
+      "Hernych J.",
+      "Malisse X."
+    ],
+    [
+      "Llodra M.",
+      "Wessels P."
+    ],
+    [
+      "Llodra M.",
+      "Hrbaty D."
+    ],
+    [
+      "Llodra M.",
+      "Hewitt L."
+    ],
+    [
+      "Llodra M.",
+      "Muller G."
+    ],
+    [
+      "Llodra M.",
+      "Gonzalez F."
+    ],
+    [
+      "Llodra M.",
+      "Rusedski G."
+    ],
+    [
+      "Llodra M.",
+      "Blake J."
+    ],
+    [
+      "Llodra M.",
+      "Henman T."
+    ],
+    [
+      "Llodra M.",
+      "Chela J.I."
+    ],
+    [
+      "Llodra M.",
+      "Mathieu P.H."
+    ],
+    [
+      "Llodra M.",
+      "Mantilla F."
+    ],
+    [
+      "Llodra M.",
+      "Sanguinetti D."
+    ],
+    [
+      "Llodra M.",
+      "Grosjean S."
+    ],
+    [
+      "Llodra M.",
+      "Davydenko N."
+    ],
+    [
+      "Llodra M.",
+      "Malisse X."
+    ],
+    [
+      "Arthurs W.",
+      "Agassi A."
+    ],
+    [
+      "Arthurs W.",
+      "Canas G."
+    ],
+    [
+      "Arthurs W.",
+      "Starace P."
+    ],
+    [
+      "Arthurs W.",
+      "Volandri F."
+    ],
+    [
+      "Arthurs W.",
+      "Ginepri R."
+    ],
+    [
+      "Arthurs W.",
+      "Andreev I."
+    ],
+    [
+      "Arthurs W.",
+      "Puerta M."
+    ],
+    [
+      "Arthurs W.",
+      "Sluiter R."
+    ],
+    [
+      "Arthurs W.",
+      "Dent T."
+    ],
+    [
+      "Arthurs W.",
+      "Chela J.I."
+    ],
+    [
+      "Arthurs W.",
+      "Haas T."
+    ],
+    [
+      "Arthurs W.",
+      "Sanguinetti D."
+    ],
+    [
+      "Arthurs W.",
+      "Beck K."
+    ],
+    [
+      "Arthurs W.",
+      "Melzer J."
+    ],
+    [
+      "Arthurs W.",
+      "Monaco J."
+    ],
+    [
+      "Arthurs W.",
+      "Rochus C."
+    ],
+    [
+      "Arthurs W.",
+      "Berdych T."
+    ],
+    [
+      "Lisnard J.R.",
+      "Kohlschreiber P."
+    ],
+    [
+      "Lisnard J.R.",
+      "Martin A."
+    ],
+    [
+      "Lisnard J.R.",
+      "Garcia-Lopez G."
+    ],
+    [
+      "Lisnard J.R.",
+      "Youzhny M."
+    ],
+    [
+      "Lisnard J.R.",
+      "Muller G."
+    ],
+    [
+      "Lisnard J.R.",
+      "Johansson T."
+    ],
+    [
+      "Lisnard J.R.",
+      "Chela J.I."
+    ],
+    [
+      "Hanescu V.",
+      "Monfils G."
+    ],
+    [
+      "Hanescu V.",
+      "Ljubicic I."
+    ],
+    [
+      "Hanescu V.",
+      "Tabara M."
+    ],
+    [
+      "Hanescu V.",
+      "Massu N."
+    ],
+    [
+      "Hanescu V.",
+      "Nadal R."
+    ],
+    [
+      "Hanescu V.",
+      "Nalbandian D."
+    ],
+    [
+      "Hanescu V.",
+      "Volandri F."
+    ],
+    [
+      "Hanescu V.",
+      "Montanes A."
+    ],
+    [
+      "Hanescu V.",
+      "Andreev I."
+    ],
+    [
+      "Hanescu V.",
+      "Puerta M."
+    ],
+    [
+      "Hanescu V.",
+      "Horna L."
+    ],
+    [
+      "Hanescu V.",
+      "Stepanek R."
+    ],
+    [
+      "Hanescu V.",
+      "Gaudio G."
+    ],
+    [
+      "Hanescu V.",
+      "Blake J."
+    ],
+    [
+      "Hanescu V.",
+      "Henman T."
+    ],
+    [
+      "Hanescu V.",
+      "Zib T."
+    ],
+    [
+      "Hanescu V.",
+      "Chela J.I."
+    ],
+    [
+      "Hanescu V.",
+      "Behrend T."
+    ],
+    [
+      "Hanescu V.",
+      "Verdasco F."
+    ],
+    [
+      "Hanescu V.",
+      "Calleri A."
+    ],
+    [
+      "Hanescu V.",
+      "Robredo T."
+    ],
+    [
+      "Hanescu V.",
+      "Sanguinetti D."
+    ],
+    [
+      "Hanescu V.",
+      "Beck K."
+    ],
+    [
+      "Hanescu V.",
+      "Melzer J."
+    ],
+    [
+      "Hanescu V.",
+      "Grosjean S."
+    ],
+    [
+      "Hanescu V.",
+      "Federer R."
+    ],
+    [
+      "Hanescu V.",
+      "Carlsen K."
+    ],
+    [
+      "Novak J.",
+      "Kohlschreiber P."
+    ],
+    [
+      "Novak J.",
+      "Nieminen J."
+    ],
+    [
+      "Novak J.",
+      "Santoro F."
+    ],
+    [
+      "Novak J.",
+      "Starace P."
+    ],
+    [
+      "Novak J.",
+      "Sabau R."
+    ],
+    [
+      "Novak J.",
+      "Phau B."
+    ],
+    [
+      "Novak J.",
+      "Wessels P."
+    ],
+    [
+      "Novak J.",
+      "Martin A."
+    ],
+    [
+      "Novak J.",
+      "Montanes A."
+    ],
+    [
+      "Novak J.",
+      "Andreev I."
+    ],
+    [
+      "Novak J.",
+      "Hrbaty D."
+    ],
+    [
+      "Novak J.",
+      "Kim K."
+    ],
+    [
+      "Novak J.",
+      "Johansson T."
+    ],
+    [
+      "Novak J.",
+      "Moya C."
+    ],
+    [
+      "Novak J.",
+      "Rochus O."
+    ],
+    [
+      "Novak J.",
+      "Ferrero J.C."
+    ],
+    [
+      "Novak J.",
+      "Mathieu P.H."
+    ],
+    [
+      "Novak J.",
+      "Hernandez O."
+    ],
+    [
+      "Novak J.",
+      "Calleri A."
+    ],
+    [
+      "Novak J.",
+      "Mantilla F."
+    ],
+    [
+      "Novak J.",
+      "Haas T."
+    ],
+    [
+      "Novak J.",
+      "Beck K."
+    ],
+    [
+      "Novak J.",
+      "Mirnyi M."
+    ],
+    [
+      "Novak J.",
+      "Carlsen K."
+    ],
+    [
+      "Novak J.",
+      "Safin M."
+    ],
+    [
+      "Novak J.",
+      "Saulnier C."
+    ],
+    [
+      "Novak J.",
+      "Monaco J."
+    ],
+    [
+      "Novak J.",
+      "Malisse X."
+    ],
+    [
+      "Novak J.",
+      "Berdych T."
+    ],
+    [
+      "Bjorkman J.",
+      "Mello R."
+    ],
+    [
+      "Bjorkman J.",
+      "Nalbandian D."
+    ],
+    [
+      "Bjorkman J.",
+      "Serra F."
+    ],
+    [
+      "Bjorkman J.",
+      "Labadze I."
+    ],
+    [
+      "Bjorkman J.",
+      "Andreev I."
+    ],
+    [
+      "Bjorkman J.",
+      "Puerta M."
+    ],
+    [
+      "Bjorkman J.",
+      "Youzhny M."
+    ],
+    [
+      "Bjorkman J.",
+      "Stepanek R."
+    ],
+    [
+      "Bjorkman J.",
+      "Moodie W."
+    ],
+    [
+      "Bjorkman J.",
+      "Johansson T."
+    ],
+    [
+      "Bjorkman J.",
+      "Rochus O."
+    ],
+    [
+      "Bjorkman J.",
+      "Rusedski G."
+    ],
+    [
+      "Bjorkman J.",
+      "Zib T."
+    ],
+    [
+      "Bjorkman J.",
+      "Robredo T."
+    ],
+    [
+      "Bjorkman J.",
+      "Schalken S."
+    ],
+    [
+      "Bjorkman J.",
+      "Mirnyi M."
+    ],
+    [
+      "Bjorkman J.",
+      "Carlsen K."
+    ],
+    [
+      "Kohlschreiber P.",
+      "Gasquet R."
+    ],
+    [
+      "Kohlschreiber P.",
+      "Starace P."
+    ],
+    [
+      "Kohlschreiber P.",
+      "Johansson J."
+    ],
+    [
+      "Kohlschreiber P.",
+      "Martin A."
+    ],
+    [
+      "Kohlschreiber P.",
+      "Ferrer D."
+    ],
+    [
+      "Kohlschreiber P.",
+      "Andreev I."
+    ],
+    [
+      "Kohlschreiber P.",
+      "Garcia-Lopez G."
+    ],
+    [
+      "Kohlschreiber P.",
+      "Stepanek R."
+    ],
+    [
+      "Kohlschreiber P.",
+      "Moodie W."
+    ],
+    [
+      "Kohlschreiber P.",
+      "Johansson T."
+    ],
+    [
+      "Kohlschreiber P.",
+      "Gaudio G."
+    ],
+    [
+      "Kohlschreiber P.",
+      "Zib T."
+    ],
+    [
+      "Kohlschreiber P.",
+      "Almagro N."
+    ],
+    [
+      "Kohlschreiber P.",
+      "Kiefer N."
+    ],
+    [
+      "Kohlschreiber P.",
+      "Melzer J."
+    ],
+    [
+      "Kohlschreiber P.",
+      "Federer R."
+    ],
+    [
+      "Kohlschreiber P.",
+      "Malisse X."
+    ],
+    [
+      "Kohlschreiber P.",
+      "Berdych T."
+    ],
+    [
+      "Agassi A.",
+      "Karlovic I."
+    ],
+    [
+      "Agassi A.",
+      "Gasquet R."
+    ],
+    [
+      "Agassi A.",
+      "Nieminen J."
+    ],
+    [
+      "Agassi A.",
+      "Sabau R."
+    ],
+    [
+      "Agassi A.",
+      "Ljubicic I."
+    ],
+    [
+      "Agassi A.",
+      "Johansson J."
+    ],
+    [
+      "Agassi A.",
+      "Nadal R."
+    ],
+    [
+      "Agassi A.",
+      "Martin A."
+    ],
+    [
+      "Agassi A.",
+      "Schuettler R."
+    ],
+    [
+      "Agassi A.",
+      "Calatrava A."
+    ],
+    [
+      "Agassi A.",
+      "Ginepri R."
+    ],
+    [
+      "Agassi A.",
+      "Pavel A."
+    ],
+    [
+      "Agassi A.",
+      "di Mauro A."
+    ],
+    [
+      "Agassi A.",
+      "Hrbaty D."
+    ],
+    [
+      "Agassi A.",
+      "Kim K."
+    ],
+    [
+      "Agassi A.",
+      "Stepanek R."
+    ],
+    [
+      "Agassi A.",
+      "Muller G."
+    ],
+    [
+      "Agassi A.",
+      "Dent T."
+    ],
+    [
+      "Agassi A.",
+      "Gaudio G."
+    ],
+    [
+      "Agassi A.",
+      "Coria G."
+    ],
+    [
+      "Agassi A.",
+      "Rusedski G."
+    ],
+    [
+      "Agassi A.",
+      "Blake J."
+    ],
+    [
+      "Agassi A.",
+      "Chela J.I."
+    ],
+    [
+      "Agassi A.",
+      "Mathieu P.H."
+    ],
+    [
+      "Agassi A.",
+      "Kiefer N."
+    ],
+    [
+      "Agassi A.",
+      "Melzer J."
+    ],
+    [
+      "Agassi A.",
+      "Grosjean S."
+    ],
+    [
+      "Agassi A.",
+      "Federer R."
+    ],
+    [
+      "Agassi A.",
+      "Davydenko N."
+    ],
+    [
+      "Agassi A.",
+      "Carlsen K."
+    ],
+    [
+      "Agassi A.",
+      "Malisse X."
+    ],
+    [
+      "Agassi A.",
+      "Berdych T."
+    ],
+    [
+      "Monfils G.",
+      "Canas G."
+    ],
+    [
+      "Monfils G.",
+      "Gasquet R."
+    ],
+    [
+      "Monfils G.",
+      "Starace P."
+    ],
+    [
+      "Monfils G.",
+      "Ljubicic I."
+    ],
+    [
+      "Monfils G.",
+      "Martin A."
+    ],
+    [
+      "Monfils G.",
+      "Djokovic N."
+    ],
+    [
+      "Monfils G.",
+      "Montanes A."
+    ],
+    [
+      "Monfils G.",
+      "Hrbaty D."
+    ],
+    [
+      "Monfils G.",
+      "Koubek S."
+    ],
+    [
+      "Monfils G.",
+      "Youzhny M."
+    ],
+    [
+      "Monfils G.",
+      "Stepanek R."
+    ],
+    [
+      "Monfils G.",
+      "Clement A."
+    ],
+    [
+      "Monfils G.",
+      "Gaudio G."
+    ],
+    [
+      "Monfils G.",
+      "Chela J.I."
+    ],
+    [
+      "Monfils G.",
+      "Beck K."
+    ],
+    [
+      "Monfils G.",
+      "Grosjean S."
+    ],
+    [
+      "Monfils G.",
+      "Mayer F."
+    ],
+    [
+      "Monfils G.",
+      "Monaco J."
+    ],
+    [
+      "Monfils G.",
+      "Rochus C."
+    ],
+    [
+      "Canas G.",
+      "Santoro F."
+    ],
+    [
+      "Canas G.",
+      "Nadal R."
+    ],
+    [
+      "Canas G.",
+      "Martin A."
+    ],
+    [
+      "Canas G.",
+      "Schuettler R."
+    ],
+    [
+      "Canas G.",
+      "Volandri F."
+    ],
+    [
+      "Canas G.",
+      "Pavel A."
+    ],
+    [
+      "Canas G.",
+      "Andreev I."
+    ],
+    [
+      "Canas G.",
+      "Puerta M."
+    ],
+    [
+      "Canas G.",
+      "Stepanek R."
+    ],
+    [
+      "Canas G.",
+      "Ferrero J.C."
+    ],
+    [
+      "Canas G.",
+      "Henman T."
+    ],
+    [
+      "Canas G.",
+      "Chela J.I."
+    ],
+    [
+      "Canas G.",
+      "Mathieu P.H."
+    ],
+    [
+      "Canas G.",
+      "Verdasco F."
+    ],
+    [
+      "Canas G.",
+      "Federer R."
+    ],
+    [
+      "Canas G.",
+      "Davydenko N."
+    ],
+    [
+      "Canas G.",
+      "Carlsen K."
+    ],
+    [
+      "Canas G.",
+      "Safin M."
+    ],
+    [
+      "Canas G.",
+      "Monaco J."
+    ],
+    [
+      "Karlovic I.",
+      "Ljubicic I."
+    ],
+    [
+      "Karlovic I.",
+      "Nalbandian D."
+    ],
+    [
+      "Karlovic I.",
+      "Andreev I."
+    ],
+    [
+      "Karlovic I.",
+      "Hrbaty D."
+    ],
+    [
+      "Karlovic I.",
+      "Kim K."
+    ],
+    [
+      "Karlovic I.",
+      "Garcia-Lopez G."
+    ],
+    [
+      "Karlovic I.",
+      "Hewitt L."
+    ],
+    [
+      "Karlovic I.",
+      "Stepanek R."
+    ],
+    [
+      "Karlovic I.",
+      "Gonzalez F."
+    ],
+    [
+      "Karlovic I.",
+      "Johansson T."
+    ],
+    [
+      "Karlovic I.",
+      "Rochus O."
+    ],
+    [
+      "Karlovic I.",
+      "Rusedski G."
+    ],
+    [
+      "Karlovic I.",
+      "Ferrero J.C."
+    ],
+    [
+      "Karlovic I.",
+      "Zib T."
+    ],
+    [
+      "Karlovic I.",
+      "Benneteau J."
+    ],
+    [
+      "Karlovic I.",
+      "Ulihrach B."
+    ],
+    [
+      "Karlovic I.",
+      "Haas T."
+    ],
+    [
+      "Karlovic I.",
+      "Almagro N."
+    ],
+    [
+      "Karlovic I.",
+      "Kiefer N."
+    ],
+    [
+      "Karlovic I.",
+      "Mirnyi M."
+    ],
+    [
+      "Karlovic I.",
+      "Davydenko N."
+    ],
+    [
+      "Karlovic I.",
+      "Carlsen K."
+    ],
+    [
+      "Gasquet R.",
+      "Ljubicic I."
+    ],
+    [
+      "Gasquet R.",
+      "Wessels P."
+    ],
+    [
+      "Gasquet R.",
+      "Massu N."
+    ],
+    [
+      "Gasquet R.",
+      "Nadal R."
+    ],
+    [
+      "Gasquet R.",
+      "Martin A."
+    ],
+    [
+      "Gasquet R.",
+      "Nalbandian D."
+    ],
+    [
+      "Gasquet R.",
+      "Ginepri R."
+    ],
+    [
+      "Gasquet R.",
+      "Hrbaty D."
+    ],
+    [
+      "Gasquet R.",
+      "Youzhny M."
+    ],
+    [
+      "Gasquet R.",
+      "Stepanek R."
+    ],
+    [
+      "Gasquet R.",
+      "Tipsarevic J."
+    ],
+    [
+      "Gasquet R.",
+      "Muller G."
+    ],
+    [
+      "Gasquet R.",
+      "Dent T."
+    ],
+    [
+      "Gasquet R.",
+      "Zib T."
+    ],
+    [
+      "Gasquet R.",
+      "Mathieu P.H."
+    ],
+    [
+      "Gasquet R.",
+      "Beck K."
+    ],
+    [
+      "Gasquet R.",
+      "Grosjean S."
+    ],
+    [
+      "Gasquet R.",
+      "Mirnyi M."
+    ],
+    [
+      "Gasquet R.",
+      "Federer R."
+    ],
+    [
+      "Gasquet R.",
+      "Rochus C."
+    ],
+    [
+      "Nieminen J.",
+      "Santoro F."
+    ],
+    [
+      "Nieminen J.",
+      "Massu N."
+    ],
+    [
+      "Nieminen J.",
+      "Nadal R."
+    ],
+    [
+      "Nieminen J.",
+      "Seppi A."
+    ],
+    [
+      "Nieminen J.",
+      "Schuettler R."
+    ],
+    [
+      "Nieminen J.",
+      "Serra F."
+    ],
+    [
+      "Nieminen J.",
+      "Pavel A."
+    ],
+    [
+      "Nieminen J.",
+      "Andreev I."
+    ],
+    [
+      "Nieminen J.",
+      "Puerta M."
+    ],
+    [
+      "Nieminen J.",
+      "Hewitt L."
+    ],
+    [
+      "Nieminen J.",
+      "Moodie W."
+    ],
+    [
+      "Nieminen J.",
+      "Dent T."
+    ],
+    [
+      "Nieminen J.",
+      "Johansson T."
+    ],
+    [
+      "Nieminen J.",
+      "Henman T."
+    ],
+    [
+      "Nieminen J.",
+      "Burgsmuller L."
+    ],
+    [
+      "Nieminen J.",
+      "Verdasco F."
+    ],
+    [
+      "Nieminen J.",
+      "Calleri A."
+    ],
+    [
+      "Nieminen J.",
+      "Beck K."
+    ],
+    [
+      "Nieminen J.",
+      "Almagro N."
+    ],
+    [
+      "Nieminen J.",
+      "Melzer J."
+    ],
+    [
+      "Nieminen J.",
+      "Mayer F."
+    ],
+    [
+      "Nieminen J.",
+      "Mirnyi M."
+    ],
+    [
+      "Nieminen J.",
+      "Federer R."
+    ],
+    [
+      "Nieminen J.",
+      "Vik R."
+    ],
+    [
+      "Santoro F.",
+      "Ljubicic I."
+    ],
+    [
+      "Santoro F.",
+      "Mello R."
+    ],
+    [
+      "Santoro F.",
+      "Johansson J."
+    ],
+    [
+      "Santoro F.",
+      "Ferrer D."
+    ],
+    [
+      "Santoro F.",
+      "Nalbandian D."
+    ],
+    [
+      "Santoro F.",
+      "Pavel A."
+    ],
+    [
+      "Santoro F.",
+      "Dent T."
+    ],
+    [
+      "Santoro F.",
+      "Vanek J."
+    ],
+    [
+      "Santoro F.",
+      "Johansson T."
+    ],
+    [
+      "Santoro F.",
+      "Gaudio G."
+    ],
+    [
+      "Santoro F.",
+      "Moya C."
+    ],
+    [
+      "Santoro F.",
+      "Rochus O."
+    ],
+    [
+      "Santoro F.",
+      "Chela J.I."
+    ],
+    [
+      "Santoro F.",
+      "Mathieu P.H."
+    ],
+    [
+      "Santoro F.",
+      "Mathieu P."
+    ],
+    [
+      "Santoro F.",
+      "Spadea V."
+    ],
+    [
+      "Santoro F.",
+      "Sanguinetti D."
+    ],
+    [
+      "Santoro F.",
+      "Melzer J."
+    ],
+    [
+      "Santoro F.",
+      "Wawrinka S."
+    ],
+    [
+      "Santoro F.",
+      "Federer R."
+    ],
+    [
+      "Santoro F.",
+      "Davydenko N."
+    ],
+    [
+      "Santoro F.",
+      "Carlsen K."
+    ],
+    [
+      "Starace P.",
+      "Sabau R."
+    ],
+    [
+      "Starace P.",
+      "Nadal R."
+    ],
+    [
+      "Starace P.",
+      "Martin A."
+    ],
+    [
+      "Starace P.",
+      "Schuettler R."
+    ],
+    [
+      "Starace P.",
+      "Ferrer D."
+    ],
+    [
+      "Starace P.",
+      "Calatrava A."
+    ],
+    [
+      "Starace P.",
+      "Andreev I."
+    ],
+    [
+      "Starace P.",
+      "Sluiter R."
+    ],
+    [
+      "Starace P.",
+      "Hrbaty D."
+    ],
+    [
+      "Starace P.",
+      "Moya C."
+    ],
+    [
+      "Starace P.",
+      "Chela J.I."
+    ],
+    [
+      "Starace P.",
+      "Benneteau J."
+    ],
+    [
+      "Starace P.",
+      "Calleri A."
+    ],
+    [
+      "Starace P.",
+      "Robredo T."
+    ],
+    [
+      "Sabau R.",
+      "Seppi A."
+    ],
+    [
+      "Sabau R.",
+      "Volandri F."
+    ],
+    [
+      "Sabau R.",
+      "Hernandez O."
+    ],
+    [
+      "Sabau R.",
+      "Calleri A."
+    ],
+    [
+      "Sabau R.",
+      "Sanguinetti D."
+    ],
+    [
+      "Sabau R.",
+      "Almagro N."
+    ],
+    [
+      "Sabau R.",
+      "Wawrinka S."
+    ],
+    [
+      "Dupuis A.",
+      "Massu N."
+    ],
+    [
+      "Dupuis A.",
+      "Rochus O."
+    ],
+    [
+      "Dupuis A.",
+      "Spadea V."
+    ],
+    [
+      "Phau B.",
+      "Ginepri R."
+    ],
+    [
+      "Phau B.",
+      "Johansson T."
+    ],
+    [
+      "Phau B.",
+      "Moya C."
+    ],
+    [
+      "Phau B.",
+      "Spadea V."
+    ],
+    [
+      "Phau B.",
+      "Carlsen K."
+    ],
+    [
+      "Ljubicic I.",
+      "Mello R."
+    ],
+    [
+      "Ljubicic I.",
+      "Johansson J."
+    ],
+    [
+      "Ljubicic I.",
+      "Nadal R."
+    ],
+    [
+      "Ljubicic I.",
+      "Seppi A."
+    ],
+    [
+      "Ljubicic I.",
+      "Martin A."
+    ],
+    [
+      "Ljubicic I.",
+      "Nalbandian D."
+    ],
+    [
+      "Ljubicic I.",
+      "Andreev I."
+    ],
+    [
+      "Ljubicic I.",
+      "Puerta M."
+    ],
+    [
+      "Ljubicic I.",
+      "Hrbaty D."
+    ],
+    [
+      "Ljubicic I.",
+      "Horna L."
+    ],
+    [
+      "Ljubicic I.",
+      "Stepanek R."
+    ],
+    [
+      "Ljubicic I.",
+      "Gonzalez F."
+    ],
+    [
+      "Ljubicic I.",
+      "Dent T."
+    ],
+    [
+      "Ljubicic I.",
+      "Johansson T."
+    ],
+    [
+      "Ljubicic I.",
+      "Coria G."
+    ],
+    [
+      "Ljubicic I.",
+      "Rochus O."
+    ],
+    [
+      "Ljubicic I.",
+      "Ferrero J.C."
+    ],
+    [
+      "Ljubicic I.",
+      "Blake J."
+    ],
+    [
+      "Ljubicic I.",
+      "Acasuso J."
+    ],
+    [
+      "Ljubicic I.",
+      "Henman T."
+    ],
+    [
+      "Ljubicic I.",
+      "Zib T."
+    ],
+    [
+      "Ljubicic I.",
+      "Enqvist T."
+    ],
+    [
+      "Ljubicic I.",
+      "Spadea V."
+    ],
+    [
+      "Ljubicic I.",
+      "Verdasco F."
+    ],
+    [
+      "Ljubicic I.",
+      "Calleri A."
+    ],
+    [
+      "Ljubicic I.",
+      "Haas T."
+    ],
+    [
+      "Ljubicic I.",
+      "Robredo T."
+    ],
+    [
+      "Ljubicic I.",
+      "Schalken S."
+    ],
+    [
+      "Ljubicic I.",
+      "Beck K."
+    ],
+    [
+      "Ljubicic I.",
+      "Melzer J."
+    ],
+    [
+      "Ljubicic I.",
+      "Grosjean S."
+    ],
+    [
+      "Ljubicic I.",
+      "Federer R."
+    ],
+    [
+      "Ljubicic I.",
+      "Davydenko N."
+    ],
+    [
+      "Ljubicic I.",
+      "Saulnier C."
+    ],
+    [
+      "Ljubicic I.",
+      "Rochus C."
+    ],
+    [
+      "Ljubicic I.",
+      "Berdych T."
+    ],
+    [
+      "Tabara M.",
+      "Dent T."
+    ],
+    [
+      "Tabara M.",
+      "Gaudio G."
+    ],
+    [
+      "Tabara M.",
+      "Mathieu P.H."
+    ],
+    [
+      "Tabara M.",
+      "Enqvist T."
+    ],
+    [
+      "Tabara M.",
+      "Berdych T."
+    ],
+    [
+      "Mello R.",
+      "Wessels P."
+    ],
+    [
+      "Mello R.",
+      "Nadal R."
+    ],
+    [
+      "Mello R.",
+      "Martin A."
+    ],
+    [
+      "Mello R.",
+      "Schuettler R."
+    ],
+    [
+      "Mello R.",
+      "Ferrer D."
+    ],
+    [
+      "Mello R.",
+      "Montanes A."
+    ],
+    [
+      "Mello R.",
+      "Hrbaty D."
+    ],
+    [
+      "Mello R.",
+      "Coria G."
+    ],
+    [
+      "Mello R.",
+      "Zib T."
+    ],
+    [
+      "Mello R.",
+      "Chela J.I."
+    ],
+    [
+      "Mello R.",
+      "Ventura S."
+    ],
+    [
+      "Mello R.",
+      "Grosjean S."
+    ],
+    [
+      "Mello R.",
+      "Davydenko N."
+    ],
+    [
+      "Mello R.",
+      "Monaco J."
+    ],
+    [
+      "Mello R.",
+      "Berdych T."
+    ],
+    [
+      "Wessels P.",
+      "Johansson J."
+    ],
+    [
+      "Wessels P.",
+      "Lu Y.H."
+    ],
+    [
+      "Wessels P.",
+      "Coria G."
+    ],
+    [
+      "Wessels P.",
+      "Verdasco F."
+    ],
+    [
+      "Wessels P.",
+      "Mirnyi M."
+    ],
+    [
+      "Wessels P.",
+      "Saulnier C."
+    ],
+    [
+      "Johansson J.",
+      "Calatrava A."
+    ],
+    [
+      "Johansson J.",
+      "Montanes A."
+    ],
+    [
+      "Johansson J.",
+      "Garcia-Lopez G."
+    ],
+    [
+      "Johansson J.",
+      "Gonzalez F."
+    ],
+    [
+      "Johansson J.",
+      "Dent T."
+    ],
+    [
+      "Johansson J.",
+      "Johansson T."
+    ],
+    [
+      "Johansson J.",
+      "Rochus O."
+    ],
+    [
+      "Johansson J.",
+      "Rusedski G."
+    ],
+    [
+      "Johansson J.",
+      "Ferrero J.C."
+    ],
+    [
+      "Johansson J.",
+      "Enqvist T."
+    ],
+    [
+      "Johansson J.",
+      "Mantilla F."
+    ],
+    [
+      "Johansson J.",
+      "Schalken S."
+    ],
+    [
+      "Johansson J.",
+      "Beck K."
+    ],
+    [
+      "Johansson J.",
+      "Grosjean S."
+    ],
+    [
+      "Johansson J.",
+      "Malisse X."
+    ],
+    [
+      "Massu N.",
+      "Lapentti N."
+    ],
+    [
+      "Massu N.",
+      "Volandri F."
+    ],
+    [
+      "Massu N.",
+      "Koubek S."
+    ],
+    [
+      "Massu N.",
+      "Horna L."
+    ],
+    [
+      "Massu N.",
+      "Muller G."
+    ],
+    [
+      "Massu N.",
+      "Vanek J."
+    ],
+    [
+      "Massu N.",
+      "Gaudio G."
+    ],
+    [
+      "Massu N.",
+      "Coria G."
+    ],
+    [
+      "Massu N.",
+      "Sargsian S."
+    ],
+    [
+      "Massu N.",
+      "Acasuso J."
+    ],
+    [
+      "Massu N.",
+      "Henman T."
+    ],
+    [
+      "Massu N.",
+      "Chela J.I."
+    ],
+    [
+      "Massu N.",
+      "Mathieu P.H."
+    ],
+    [
+      "Massu N.",
+      "Behrend T."
+    ],
+    [
+      "Massu N.",
+      "Verdasco F."
+    ],
+    [
+      "Massu N.",
+      "Calleri A."
+    ],
+    [
+      "Massu N.",
+      "Kiefer N."
+    ],
+    [
+      "Massu N.",
+      "Mirnyi M."
+    ],
+    [
+      "Massu N.",
+      "Wawrinka S."
+    ],
+    [
+      "Nadal R.",
+      "Martin A."
+    ],
+    [
+      "Nadal R.",
+      "Schuettler R."
+    ],
+    [
+      "Nadal R.",
+      "Ferrer D."
+    ],
+    [
+      "Nadal R.",
+      "Calatrava A."
+    ],
+    [
+      "Nadal R.",
+      "Wang Y.T."
+    ],
+    [
+      "Nadal R.",
+      "Ginepri R."
+    ],
+    [
+      "Nadal R.",
+      "Montanes A."
+    ],
+    [
+      "Nadal R.",
+      "Andreev I."
+    ],
+    [
+      "Nadal R.",
+      "Puerta M."
+    ],
+    [
+      "Nadal R.",
+      "Hrbaty D."
+    ],
+    [
+      "Nadal R.",
+      "Garcia-Lopez G."
+    ],
+    [
+      "Nadal R.",
+      "Gimelstob J."
+    ],
+    [
+      "Nadal R.",
+      "Youzhny M."
+    ],
+    [
+      "Nadal R.",
+      "Hewitt L."
+    ],
+    [
+      "Nadal R.",
+      "Stepanek R."
+    ],
+    [
+      "Nadal R.",
+      "Muller G."
+    ],
+    [
+      "Nadal R.",
+      "Johansson T."
+    ],
+    [
+      "Nadal R.",
+      "Gaudio G."
+    ],
+    [
+      "Nadal R.",
+      "Moya C."
+    ],
+    [
+      "Nadal R.",
+      "Coria G."
+    ],
+    [
+      "Nadal R.",
+      "Rochus O."
+    ],
+    [
+      "Nadal R.",
+      "Ferrero J.C."
+    ],
+    [
+      "Nadal R.",
+      "Blake J."
+    ],
+    [
+      "Nadal R.",
+      "Acasuso J."
+    ],
+    [
+      "Nadal R.",
+      "Zib T."
+    ],
+    [
+      "Nadal R.",
+      "Mathieu P.H."
+    ],
+    [
+      "Nadal R.",
+      "Burgsmuller L."
+    ],
+    [
+      "Nadal R.",
+      "Benneteau J."
+    ],
+    [
+      "Nadal R.",
+      "Spadea V."
+    ],
+    [
+      "Nadal R.",
+      "Verdasco F."
+    ],
+    [
+      "Nadal R.",
+      "Calleri A."
+    ],
+    [
+      "Nadal R.",
+      "Robredo T."
+    ],
+    [
+      "Nadal R.",
+      "Ventura S."
+    ],
+    [
+      "Nadal R.",
+      "Grosjean S."
+    ],
+    [
+      "Nadal R.",
+      "Federer R."
+    ],
+    [
+      "Nadal R.",
+      "Monaco J."
+    ],
+    [
+      "Nadal R.",
+      "Malisse X."
+    ],
+    [
+      "Nadal R.",
+      "Berdych T."
+    ],
+    [
+      "Seppi A.",
+      "Martin A."
+    ],
+    [
+      "Seppi A.",
+      "Lapentti N."
+    ],
+    [
+      "Seppi A.",
+      "Pavel A."
+    ],
+    [
+      "Seppi A.",
+      "Andreev I."
+    ],
+    [
+      "Seppi A.",
+      "Hrbaty D."
+    ],
+    [
+      "Seppi A.",
+      "Koubek S."
+    ],
+    [
+      "Seppi A.",
+      "Gonzalez F."
+    ],
+    [
+      "Seppi A.",
+      "Gaudio G."
+    ],
+    [
+      "Seppi A.",
+      "Rusedski G."
+    ],
+    [
+      "Seppi A.",
+      "Spadea V."
+    ],
+    [
+      "Seppi A.",
+      "Verdasco F."
+    ],
+    [
+      "Seppi A.",
+      "Robredo T."
+    ],
+    [
+      "Seppi A.",
+      "Sanguinetti D."
+    ],
+    [
+      "Seppi A.",
+      "Mayer F."
+    ],
+    [
+      "Seppi A.",
+      "Davydenko N."
+    ],
+    [
+      "Seppi A.",
+      "Berdych T."
+    ],
+    [
+      "Lee H.T.",
+      "Martin A."
+    ],
+    [
+      "Lee H.T.",
+      "Ferrer D."
+    ],
+    [
+      "Lee H.T.",
+      "Calatrava A."
+    ],
+    [
+      "Lee H.T.",
+      "Kim K."
+    ],
+    [
+      "Lee H.T.",
+      "Youzhny M."
+    ],
+    [
+      "Lee H.T.",
+      "Ferrero J.C."
+    ],
+    [
+      "Lee H.T.",
+      "Haas T."
+    ],
+    [
+      "Lee H.T.",
+      "Kiefer N."
+    ],
+    [
+      "Lee H.T.",
+      "Grosjean S."
+    ],
+    [
+      "Lee H.T.",
+      "Mirnyi M."
+    ],
+    [
+      "Lee H.T.",
+      "Safin M."
+    ],
+    [
+      "Lee H.T.",
+      "Malisse X."
+    ],
+    [
+      "Martin A.",
+      "Ferrer D."
+    ],
+    [
+      "Martin A.",
+      "Volandri F."
+    ],
+    [
+      "Martin A.",
+      "Pavel A."
+    ],
+    [
+      "Martin A.",
+      "Montanes A."
+    ],
+    [
+      "Martin A.",
+      "Andreev I."
+    ],
+    [
+      "Martin A.",
+      "Horna L."
+    ],
+    [
+      "Martin A.",
+      "Vanek J."
+    ],
+    [
+      "Martin A.",
+      "Kuerten G."
+    ],
+    [
+      "Martin A.",
+      "Gaudio G."
+    ],
+    [
+      "Martin A.",
+      "Moya C."
+    ],
+    [
+      "Martin A.",
+      "Coria G."
+    ],
+    [
+      "Martin A.",
+      "Rusedski G."
+    ],
+    [
+      "Martin A.",
+      "Ferrero J.C."
+    ],
+    [
+      "Martin A.",
+      "Blake J."
+    ],
+    [
+      "Martin A.",
+      "Calleri A."
+    ],
+    [
+      "Martin A.",
+      "Robredo T."
+    ],
+    [
+      "Martin A.",
+      "Melzer J."
+    ],
+    [
+      "Martin A.",
+      "Safin M."
+    ],
+    [
+      "Martin A.",
+      "Rochus C."
+    ],
+    [
+      "Martin A.",
+      "Malisse X."
+    ],
+    [
+      "Schuettler R.",
+      "Nalbandian D."
+    ],
+    [
+      "Schuettler R.",
+      "Puerta M."
+    ],
+    [
+      "Schuettler R.",
+      "Youzhny M."
+    ],
+    [
+      "Schuettler R.",
+      "Stepanek R."
+    ],
+    [
+      "Schuettler R.",
+      "Moodie W."
+    ],
+    [
+      "Schuettler R.",
+      "Ferrero J.C."
+    ],
+    [
+      "Schuettler R.",
+      "Zib T."
+    ],
+    [
+      "Schuettler R.",
+      "Chela J.I."
+    ],
+    [
+      "Schuettler R.",
+      "Haas T."
+    ],
+    [
+      "Schuettler R.",
+      "Sanguinetti D."
+    ],
+    [
+      "Schuettler R.",
+      "Schalken S."
+    ],
+    [
+      "Schuettler R.",
+      "Kiefer N."
+    ],
+    [
+      "Schuettler R.",
+      "Mirnyi M."
+    ],
+    [
+      "Schuettler R.",
+      "Berdych T."
+    ],
+    [
+      "Ferrer D.",
+      "Nalbandian D."
+    ],
+    [
+      "Ferrer D.",
+      "Ginepri R."
+    ],
+    [
+      "Ferrer D.",
+      "di Mauro A."
+    ],
+    [
+      "Ferrer D.",
+      "Andreev I."
+    ],
+    [
+      "Ferrer D.",
+      "Puerta M."
+    ],
+    [
+      "Ferrer D.",
+      "Hrbaty D."
+    ],
+    [
+      "Ferrer D.",
+      "Garcia-Lopez G."
+    ],
+    [
+      "Ferrer D.",
+      "Vanek J."
+    ],
+    [
+      "Ferrer D.",
+      "Johansson T."
+    ],
+    [
+      "Ferrer D.",
+      "Gaudio G."
+    ],
+    [
+      "Ferrer D.",
+      "Moya C."
+    ],
+    [
+      "Ferrer D.",
+      "Coria G."
+    ],
+    [
+      "Ferrer D.",
+      "Ferrero J.C."
+    ],
+    [
+      "Ferrer D.",
+      "Zib T."
+    ],
+    [
+      "Ferrer D.",
+      "Verdasco F."
+    ],
+    [
+      "Ferrer D.",
+      "Calleri A."
+    ],
+    [
+      "Ferrer D.",
+      "Mantilla F."
+    ],
+    [
+      "Ferrer D.",
+      "Haas T."
+    ],
+    [
+      "Ferrer D.",
+      "Grosjean S."
+    ],
+    [
+      "Ferrer D.",
+      "Mirnyi M."
+    ],
+    [
+      "Ferrer D.",
+      "Federer R."
+    ],
+    [
+      "Ferrer D.",
+      "Saulnier C."
+    ],
+    [
+      "Ferrer D.",
+      "Monaco J."
+    ],
+    [
+      "Ferrer D.",
+      "Berdych T."
+    ],
+    [
+      "Nalbandian D.",
+      "Pavel A."
+    ],
+    [
+      "Nalbandian D.",
+      "Hewitt L."
+    ],
+    [
+      "Nalbandian D.",
+      "Stepanek R."
+    ],
+    [
+      "Nalbandian D.",
+      "Gonzalez F."
+    ],
+    [
+      "Nalbandian D.",
+      "Dent T."
+    ],
+    [
+      "Nalbandian D.",
+      "Johansson T."
+    ],
+    [
+      "Nalbandian D.",
+      "Coria G."
+    ],
+    [
+      "Nalbandian D.",
+      "Ferrero J.C."
+    ],
+    [
+      "Nalbandian D.",
+      "Acasuso J."
+    ],
+    [
+      "Nalbandian D.",
+      "Chela J.I."
+    ],
+    [
+      "Nalbandian D.",
+      "Haas T."
+    ],
+    [
+      "Nalbandian D.",
+      "Sanguinetti D."
+    ],
+    [
+      "Nalbandian D.",
+      "Beck K."
+    ],
+    [
+      "Nalbandian D.",
+      "Kiefer N."
+    ],
+    [
+      "Nalbandian D.",
+      "Melzer J."
+    ],
+    [
+      "Nalbandian D.",
+      "Ventura S."
+    ],
+    [
+      "Nalbandian D.",
+      "Grosjean S."
+    ],
+    [
+      "Nalbandian D.",
+      "Mayer F."
+    ],
+    [
+      "Nalbandian D.",
+      "Federer R."
+    ],
+    [
+      "Nalbandian D.",
+      "Davydenko N."
+    ],
+    [
+      "Nalbandian D.",
+      "Monaco J."
+    ],
+    [
+      "Nalbandian D.",
+      "Berdych T."
+    ],
+    [
+      "Djokovic N.",
+      "Puerta M."
+    ],
+    [
+      "Djokovic N.",
+      "Gonzalez F."
+    ],
+    [
+      "Djokovic N.",
+      "Rochus O."
+    ],
+    [
+      "Djokovic N.",
+      "Ferrero J.C."
+    ],
+    [
+      "Djokovic N.",
+      "Verdasco F."
+    ],
+    [
+      "Djokovic N.",
+      "Robredo T."
+    ],
+    [
+      "Lapentti N.",
+      "Garcia-Lopez G."
+    ],
+    [
+      "Lapentti N.",
+      "Horna L."
+    ],
+    [
+      "Lapentti N.",
+      "Stepanek R."
+    ],
+    [
+      "Lapentti N.",
+      "Gonzalez F."
+    ],
+    [
+      "Lapentti N.",
+      "Ferrero J.C."
+    ],
+    [
+      "Lapentti N.",
+      "Verdasco F."
+    ],
+    [
+      "Lapentti N.",
+      "Robredo T."
+    ],
+    [
+      "Lapentti N.",
+      "Kiefer N."
+    ],
+    [
+      "Lapentti N.",
+      "Carlsen K."
+    ],
+    [
+      "Lu Y.H.",
+      "Malisse X."
+    ],
+    [
+      "Morrison J.",
+      "Haas T."
+    ],
+    [
+      "Calatrava A.",
+      "Puerta M."
+    ],
+    [
+      "Calatrava A.",
+      "Mathieu P.H."
+    ],
+    [
+      "Calatrava A.",
+      "Calleri A."
+    ],
+    [
+      "Calatrava A.",
+      "Ventura S."
+    ],
+    [
+      "Wang Y.T.",
+      "Moodie W."
+    ],
+    [
+      "Volandri F.",
+      "Serra F."
+    ],
+    [
+      "Volandri F.",
+      "Ginepri R."
+    ],
+    [
+      "Volandri F.",
+      "Montanes A."
+    ],
+    [
+      "Volandri F.",
+      "Andreev I."
+    ],
+    [
+      "Volandri F.",
+      "Puerta M."
+    ],
+    [
+      "Volandri F.",
+      "Garcia-Lopez G."
+    ],
+    [
+      "Volandri F.",
+      "Muller G."
+    ],
+    [
+      "Volandri F.",
+      "Gonzalez F."
+    ],
+    [
+      "Volandri F.",
+      "Gaudio G."
+    ],
+    [
+      "Volandri F.",
+      "Moya C."
+    ],
+    [
+      "Volandri F.",
+      "Coria G."
+    ],
+    [
+      "Volandri F.",
+      "Rochus O."
+    ],
+    [
+      "Volandri F.",
+      "Ferrero J.C."
+    ],
+    [
+      "Volandri F.",
+      "Blake J."
+    ],
+    [
+      "Volandri F.",
+      "Zib T."
+    ],
+    [
+      "Volandri F.",
+      "Burgsmuller L."
+    ],
+    [
+      "Volandri F.",
+      "Behrend T."
+    ],
+    [
+      "Volandri F.",
+      "Robredo T."
+    ],
+    [
+      "Volandri F.",
+      "Almagro N."
+    ],
+    [
+      "Volandri F.",
+      "Grosjean S."
+    ],
+    [
+      "Volandri F.",
+      "Mayer F."
+    ],
+    [
+      "Volandri F.",
+      "Wawrinka S."
+    ],
+    [
+      "Volandri F.",
+      "Davydenko N."
+    ],
+    [
+      "Volandri F.",
+      "Saulnier C."
+    ],
+    [
+      "Volandri F.",
+      "Rochus C."
+    ],
+    [
+      "Ascione T.",
+      "Hrbaty D."
+    ],
+    [
+      "Serra F.",
+      "Pavel A."
+    ],
+    [
+      "Serra F.",
+      "Andreev I."
+    ],
+    [
+      "Serra F.",
+      "Koubek S."
+    ],
+    [
+      "Serra F.",
+      "Mathieu P.H."
+    ],
+    [
+      "Serra F.",
+      "Sanguinetti D."
+    ],
+    [
+      "Serra F.",
+      "Mirnyi M."
+    ],
+    [
+      "Serra F.",
+      "Wawrinka S."
+    ],
+    [
+      "Serra F.",
+      "Vik R."
+    ],
+    [
+      "Ginepri R.",
+      "Puerta M."
+    ],
+    [
+      "Ginepri R.",
+      "Hrbaty D."
+    ],
+    [
+      "Ginepri R.",
+      "Kim K."
+    ],
+    [
+      "Ginepri R.",
+      "Garcia-Lopez G."
+    ],
+    [
+      "Ginepri R.",
+      "Horna L."
+    ],
+    [
+      "Ginepri R.",
+      "Hewitt L."
+    ],
+    [
+      "Ginepri R.",
+      "Stepanek R."
+    ],
+    [
+      "Ginepri R.",
+      "Muller G."
+    ],
+    [
+      "Ginepri R.",
+      "Gonzalez F."
+    ],
+    [
+      "Ginepri R.",
+      "Dent T."
+    ],
+    [
+      "Ginepri R.",
+      "Gaudio G."
+    ],
+    [
+      "Ginepri R.",
+      "Moya C."
+    ],
+    [
+      "Ginepri R.",
+      "Coria G."
+    ],
+    [
+      "Ginepri R.",
+      "Acasuso J."
+    ],
+    [
+      "Ginepri R.",
+      "Henman T."
+    ],
+    [
+      "Ginepri R.",
+      "Enqvist T."
+    ],
+    [
+      "Ginepri R.",
+      "Spadea V."
+    ],
+    [
+      "Ginepri R.",
+      "Verdasco F."
+    ],
+    [
+      "Ginepri R.",
+      "Calleri A."
+    ],
+    [
+      "Ginepri R.",
+      "Haas T."
+    ],
+    [
+      "Ginepri R.",
+      "Beck K."
+    ],
+    [
+      "Ginepri R.",
+      "Grosjean S."
+    ],
+    [
+      "Ginepri R.",
+      "Federer R."
+    ],
+    [
+      "Ginepri R.",
+      "Davydenko N."
+    ],
+    [
+      "Ginepri R.",
+      "Safin M."
+    ],
+    [
+      "Pavel A.",
+      "Andreev I."
+    ],
+    [
+      "Pavel A.",
+      "Puerta M."
+    ],
+    [
+      "Pavel A.",
+      "Vanek J."
+    ],
+    [
+      "Pavel A.",
+      "Johansson T."
+    ],
+    [
+      "Pavel A.",
+      "Carraz G."
+    ],
+    [
+      "Pavel A.",
+      "Zib T."
+    ],
+    [
+      "Pavel A.",
+      "Haas T."
+    ],
+    [
+      "Pavel A.",
+      "Sanguinetti D."
+    ],
+    [
+      "Pavel A.",
+      "Schalken S."
+    ],
+    [
+      "Pavel A.",
+      "Mayer F."
+    ],
+    [
+      "Pavel A.",
+      "Saulnier C."
+    ],
+    [
+      "Pavel A.",
+      "Rochus C."
+    ],
+    [
+      "Waske A.",
+      "Muller G."
+    ],
+    [
+      "Stakhovsky S.",
+      "Rochus C."
+    ],
+    [
+      "Tursunov D.",
+      "Rusedski G."
+    ],
+    [
+      "Tursunov D.",
+      "Spadea V."
+    ],
+    [
+      "Tursunov D.",
+      "Davydenko N."
+    ],
+    [
+      "di Mauro A.",
+      "Horna L."
+    ],
+    [
+      "di Mauro A.",
+      "Kiefer N."
+    ],
+    [
+      "Sanchez D.",
+      "Montanes A."
+    ],
+    [
+      "Sanchez D.",
+      "Garcia-Lopez G."
+    ],
+    [
+      "Sanchez D.",
+      "Gaudio G."
+    ],
+    [
+      "Sanchez D.",
+      "Sargsian S."
+    ],
+    [
+      "Sanchez D.",
+      "Hernandez O."
+    ],
+    [
+      "Sanchez D.",
+      "Spadea V."
+    ],
+    [
+      "Montanes A.",
+      "Andreev I."
+    ],
+    [
+      "Montanes A.",
+      "Rochus O."
+    ],
+    [
+      "Montanes A.",
+      "Ferrero J.C."
+    ],
+    [
+      "Montanes A.",
+      "Zib T."
+    ],
+    [
+      "Montanes A.",
+      "Calleri A."
+    ],
+    [
+      "Montanes A.",
+      "Robredo T."
+    ],
+    [
+      "Montanes A.",
+      "Federer R."
+    ],
+    [
+      "Labadze I.",
+      "Carlsen K."
+    ],
+    [
+      "Andreev I.",
+      "Puerta M."
+    ],
+    [
+      "Andreev I.",
+      "Garcia-Lopez G."
+    ],
+    [
+      "Andreev I.",
+      "Hewitt L."
+    ],
+    [
+      "Andreev I.",
+      "Stepanek R."
+    ],
+    [
+      "Andreev I.",
+      "Clement A."
+    ],
+    [
+      "Andreev I.",
+      "Gonzalez F."
+    ],
+    [
+      "Andreev I.",
+      "Vanek J."
+    ],
+    [
+      "Andreev I.",
+      "Bracciali D."
+    ],
+    [
+      "Andreev I.",
+      "Coria G."
+    ],
+    [
+      "Andreev I.",
+      "Rochus O."
+    ],
+    [
+      "Andreev I.",
+      "Ferrero J.C."
+    ],
+    [
+      "Andreev I.",
+      "Blake J."
+    ],
+    [
+      "Andreev I.",
+      "Acasuso J."
+    ],
+    [
+      "Andreev I.",
+      "Henman T."
+    ],
+    [
+      "Andreev I.",
+      "Mathieu P.H."
+    ],
+    [
+      "Andreev I.",
+      "Burgsmuller L."
+    ],
+    [
+      "Andreev I.",
+      "Verdasco F."
+    ],
+    [
+      "Andreev I.",
+      "Sanguinetti D."
+    ],
+    [
+      "Andreev I.",
+      "Beck K."
+    ],
+    [
+      "Andreev I.",
+      "Almagro N."
+    ],
+    [
+      "Andreev I.",
+      "Kiefer N."
+    ],
+    [
+      "Andreev I.",
+      "Monaco J."
+    ],
+    [
+      "Puerta M.",
+      "Garcia-Lopez G."
+    ],
+    [
+      "Puerta M.",
+      "Horna L."
+    ],
+    [
+      "Puerta M.",
+      "Tipsarevic J."
+    ],
+    [
+      "Puerta M.",
+      "Gonzalez F."
+    ],
+    [
+      "Puerta M.",
+      "Gaudio G."
+    ],
+    [
+      "Puerta M.",
+      "Moya C."
+    ],
+    [
+      "Puerta M.",
+      "Rochus O."
+    ],
+    [
+      "Puerta M.",
+      "Acasuso J."
+    ],
+    [
+      "Puerta M.",
+      "Burgsmuller L."
+    ],
+    [
+      "Puerta M.",
+      "Mantilla F."
+    ],
+    [
+      "Puerta M.",
+      "Almagro N."
+    ],
+    [
+      "Puerta M.",
+      "Melzer J."
+    ],
+    [
+      "Puerta M.",
+      "Mayer F."
+    ],
+    [
+      "Puerta M.",
+      "Mirnyi M."
+    ],
+    [
+      "Puerta M.",
+      "Wawrinka S."
+    ],
+    [
+      "Puerta M.",
+      "Davydenko N."
+    ],
+    [
+      "Puerta M.",
+      "Monaco J."
+    ],
+    [
+      "Puerta M.",
+      "Malisse X."
+    ],
+    [
+      "Sluiter R.",
+      "Coria G."
+    ],
+    [
+      "Sluiter R.",
+      "Enqvist T."
+    ],
+    [
+      "Sluiter R.",
+      "Robredo T."
+    ],
+    [
+      "Sluiter R.",
+      "Safin M."
+    ],
+    [
+      "Hrbaty D.",
+      "Horna L."
+    ],
+    [
+      "Hrbaty D.",
+      "Hewitt L."
+    ],
+    [
+      "Hrbaty D.",
+      "Stepanek R."
+    ],
+    [
+      "Hrbaty D.",
+      "Muller G."
+    ],
+    [
+      "Hrbaty D.",
+      "Gonzalez F."
+    ],
+    [
+      "Hrbaty D.",
+      "Johansson T."
+    ],
+    [
+      "Hrbaty D.",
+      "Gaudio G."
+    ],
+    [
+      "Hrbaty D.",
+      "Rusedski G."
+    ],
+    [
+      "Hrbaty D.",
+      "Ferrero J.C."
+    ],
+    [
+      "Hrbaty D.",
+      "Acasuso J."
+    ],
+    [
+      "Hrbaty D.",
+      "Henman T."
+    ],
+    [
+      "Hrbaty D.",
+      "Chela J.I."
+    ],
+    [
+      "Hrbaty D.",
+      "Benneteau J."
+    ],
+    [
+      "Hrbaty D.",
+      "Haehnel J."
+    ],
+    [
+      "Hrbaty D.",
+      "Calleri A."
+    ],
+    [
+      "Hrbaty D.",
+      "Haas T."
+    ],
+    [
+      "Hrbaty D.",
+      "Beck K."
+    ],
+    [
+      "Hrbaty D.",
+      "Mayer F."
+    ],
+    [
+      "Hrbaty D.",
+      "Davydenko N."
+    ],
+    [
+      "Hrbaty D.",
+      "Carlsen K."
+    ],
+    [
+      "Hrbaty D.",
+      "Safin M."
+    ],
+    [
+      "Hrbaty D.",
+      "Saulnier C."
+    ],
+    [
+      "Kim K.",
+      "Horna L."
+    ],
+    [
+      "Kim K.",
+      "Stepanek R."
+    ],
+    [
+      "Kim K.",
+      "Dent T."
+    ],
+    [
+      "Kim K.",
+      "Johansson T."
+    ],
+    [
+      "Kim K.",
+      "Coria G."
+    ],
+    [
+      "Kim K.",
+      "Rochus O."
+    ],
+    [
+      "Kim K.",
+      "Rusedski G."
+    ],
+    [
+      "Kim K.",
+      "Zib T."
+    ],
+    [
+      "Kim K.",
+      "Spadea V."
+    ],
+    [
+      "Kim K.",
+      "Haas T."
+    ],
+    [
+      "Kim K.",
+      "Robredo T."
+    ],
+    [
+      "Kim K.",
+      "Sanguinetti D."
+    ],
+    [
+      "Kim K.",
+      "Schalken S."
+    ],
+    [
+      "Kim K.",
+      "Kiefer N."
+    ],
+    [
+      "Kim K.",
+      "Mirnyi M."
+    ],
+    [
+      "Kim K.",
+      "Carlsen K."
+    ],
+    [
+      "Kim K.",
+      "Vik R."
+    ],
+    [
+      "Kim K.",
+      "Rochus C."
+    ],
+    [
+      "Kim K.",
+      "Berdych T."
+    ],
+    [
+      "Koubek S.",
+      "Johansson T."
+    ],
+    [
+      "Koubek S.",
+      "Ferrero J.C."
+    ],
+    [
+      "Koubek S.",
+      "Robredo T."
+    ],
+    [
+      "Garcia-Lopez G.",
+      "Horna L."
+    ],
+    [
+      "Garcia-Lopez G.",
+      "Gimelstob J."
+    ],
+    [
+      "Garcia-Lopez G.",
+      "Gaudio G."
+    ],
+    [
+      "Garcia-Lopez G.",
+      "Rochus O."
+    ],
+    [
+      "Garcia-Lopez G.",
+      "Ferrero J.C."
+    ],
+    [
+      "Garcia-Lopez G.",
+      "Blake J."
+    ],
+    [
+      "Garcia-Lopez G.",
+      "Acasuso J."
+    ],
+    [
+      "Garcia-Lopez G.",
+      "Hernandez O."
+    ],
+    [
+      "Garcia-Lopez G.",
+      "Kiefer N."
+    ],
+    [
+      "Garcia-Lopez G.",
+      "Grosjean S."
+    ],
+    [
+      "Garcia-Lopez G.",
+      "Monaco J."
+    ],
+    [
+      "Garcia-Lopez G.",
+      "Rochus C."
+    ],
+    [
+      "Horna L.",
+      "Stepanek R."
+    ],
+    [
+      "Horna L.",
+      "Muller G."
+    ],
+    [
+      "Horna L.",
+      "Moodie W."
+    ],
+    [
+      "Horna L.",
+      "Coria G."
+    ],
+    [
+      "Horna L.",
+      "Rochus O."
+    ],
+    [
+      "Horna L.",
+      "Acasuso J."
+    ],
+    [
+      "Horna L.",
+      "Henman T."
+    ],
+    [
+      "Horna L.",
+      "Zib T."
+    ],
+    [
+      "Horna L.",
+      "Enqvist T."
+    ],
+    [
+      "Horna L.",
+      "Haehnel J."
+    ],
+    [
+      "Horna L.",
+      "Mayer F."
+    ],
+    [
+      "Horna L.",
+      "Rochus C."
+    ],
+    [
+      "Horna L.",
+      "Berdych T."
+    ],
+    [
+      "Gimelstob J.",
+      "Gonzalez F."
+    ],
+    [
+      "Gimelstob J.",
+      "Mirnyi M."
+    ],
+    [
+      "Youzhny M.",
+      "Goldstein P."
+    ],
+    [
+      "Youzhny M.",
+      "Muller G."
+    ],
+    [
+      "Youzhny M.",
+      "Moodie W."
+    ],
+    [
+      "Youzhny M.",
+      "Gonzalez F."
+    ],
+    [
+      "Youzhny M.",
+      "Johansson T."
+    ],
+    [
+      "Youzhny M.",
+      "Gaudio G."
+    ],
+    [
+      "Youzhny M.",
+      "Coria G."
+    ],
+    [
+      "Youzhny M.",
+      "Enqvist T."
+    ],
+    [
+      "Youzhny M.",
+      "Haehnel J."
+    ],
+    [
+      "Youzhny M.",
+      "Robredo T."
+    ],
+    [
+      "Youzhny M.",
+      "Beck K."
+    ],
+    [
+      "Youzhny M.",
+      "Melzer J."
+    ],
+    [
+      "Youzhny M.",
+      "Mayer F."
+    ],
+    [
+      "Youzhny M.",
+      "Federer R."
+    ],
+    [
+      "Youzhny M.",
+      "Dlouhy L."
+    ],
+    [
+      "Youzhny M.",
+      "Vik R."
+    ],
+    [
+      "Youzhny M.",
+      "Saulnier C."
+    ],
+    [
+      "Youzhny M.",
+      "Malisse X."
+    ],
+    [
+      "Youzhny M.",
+      "Berdych T."
+    ],
+    [
+      "Hewitt L.",
+      "Dent T."
+    ],
+    [
+      "Hewitt L.",
+      "Johansson T."
+    ],
+    [
+      "Hewitt L.",
+      "Rusedski G."
+    ],
+    [
+      "Hewitt L.",
+      "Blake J."
+    ],
+    [
+      "Hewitt L.",
+      "Acasuso J."
+    ],
+    [
+      "Hewitt L.",
+      "Chela J.I."
+    ],
+    [
+      "Hewitt L.",
+      "Mathieu P.H."
+    ],
+    [
+      "Hewitt L.",
+      "Calleri A."
+    ],
+    [
+      "Hewitt L.",
+      "Beck K."
+    ],
+    [
+      "Hewitt L.",
+      "Mirnyi M."
+    ],
+    [
+      "Hewitt L.",
+      "Federer R."
+    ],
+    [
+      "Hewitt L.",
+      "Davydenko N."
+    ],
+    [
+      "Hewitt L.",
+      "Dlouhy L."
+    ],
+    [
+      "Hewitt L.",
+      "Safin M."
+    ],
+    [
+      "Hewitt L.",
+      "Rochus C."
+    ],
+    [
+      "Hewitt L.",
+      "Malisse X."
+    ],
+    [
+      "Goldstein P.",
+      "Dent T."
+    ],
+    [
+      "Goldstein P.",
+      "Spadea V."
+    ],
+    [
+      "Goldstein P.",
+      "Mirnyi M."
+    ],
+    [
+      "Goldstein P.",
+      "Davydenko N."
+    ],
+    [
+      "Goldstein P.",
+      "Saulnier C."
+    ],
+    [
+      "Stepanek R.",
+      "Muller G."
+    ],
+    [
+      "Stepanek R.",
+      "Moodie W."
+    ],
+    [
+      "Stepanek R.",
+      "Johansson T."
+    ],
+    [
+      "Stepanek R.",
+      "Moya C."
+    ],
+    [
+      "Stepanek R.",
+      "Rochus O."
+    ],
+    [
+      "Stepanek R.",
+      "Rusedski G."
+    ],
+    [
+      "Stepanek R.",
+      "Ferrero J.C."
+    ],
+    [
+      "Stepanek R.",
+      "Acasuso J."
+    ],
+    [
+      "Stepanek R.",
+      "Henman T."
+    ],
+    [
+      "Stepanek R.",
+      "Chela J.I."
+    ],
+    [
+      "Stepanek R.",
+      "Mathieu P.H."
+    ],
+    [
+      "Stepanek R.",
+      "Benneteau J."
+    ],
+    [
+      "Stepanek R.",
+      "Spadea V."
+    ],
+    [
+      "Stepanek R.",
+      "Kiefer N."
+    ],
+    [
+      "Stepanek R.",
+      "Ventura S."
+    ],
+    [
+      "Stepanek R.",
+      "Grosjean S."
+    ],
+    [
+      "Stepanek R.",
+      "Davydenko N."
+    ],
+    [
+      "Stepanek R.",
+      "Saulnier C."
+    ],
+    [
+      "Stepanek R.",
+      "Monaco J."
+    ],
+    [
+      "Stepanek R.",
+      "Berdych T."
+    ],
+    [
+      "Tipsarevic J.",
+      "Muller G."
+    ],
+    [
+      "Tipsarevic J.",
+      "Spadea V."
+    ],
+    [
+      "Tipsarevic J.",
+      "Robredo T."
+    ],
+    [
+      "Muller G.",
+      "Johansson T."
+    ],
+    [
+      "Muller G.",
+      "Zib T."
+    ],
+    [
+      "Muller G.",
+      "Verdasco F."
+    ],
+    [
+      "Muller G.",
+      "Robredo T."
+    ],
+    [
+      "Muller G.",
+      "Sanguinetti D."
+    ],
+    [
+      "Muller G.",
+      "Melzer J."
+    ],
+    [
+      "Muller G.",
+      "Ventura S."
+    ],
+    [
+      "Muller G.",
+      "Grosjean S."
+    ],
+    [
+      "Muller G.",
+      "Mirnyi M."
+    ],
+    [
+      "Muller G.",
+      "Federer R."
+    ],
+    [
+      "Muller G.",
+      "Saulnier C."
+    ],
+    [
+      "Clement A.",
+      "Gaudio G."
+    ],
+    [
+      "Clement A.",
+      "Ferrero J.C."
+    ],
+    [
+      "Clement A.",
+      "Robredo T."
+    ],
+    [
+      "Clement A.",
+      "Kiefer N."
+    ],
+    [
+      "Clement A.",
+      "Vik R."
+    ],
+    [
+      "Moodie W.",
+      "Mayer F."
+    ],
+    [
+      "Gonzalez F.",
+      "Gaudio G."
+    ],
+    [
+      "Gonzalez F.",
+      "Moya C."
+    ],
+    [
+      "Gonzalez F.",
+      "Coria G."
+    ],
+    [
+      "Gonzalez F.",
+      "Rochus O."
+    ],
+    [
+      "Gonzalez F.",
+      "Rusedski G."
+    ],
+    [
+      "Gonzalez F.",
+      "Blake J."
+    ],
+    [
+      "Gonzalez F.",
+      "Acasuso J."
+    ],
+    [
+      "Gonzalez F.",
+      "Zib T."
+    ],
+    [
+      "Gonzalez F.",
+      "Chela J.I."
+    ],
+    [
+      "Gonzalez F.",
+      "Mathieu P.H."
+    ],
+    [
+      "Gonzalez F.",
+      "Mathieu P."
+    ],
+    [
+      "Gonzalez F.",
+      "Behrend T."
+    ],
+    [
+      "Gonzalez F.",
+      "Verdasco F."
+    ],
+    [
+      "Gonzalez F.",
+      "Calleri A."
+    ],
+    [
+      "Gonzalez F.",
+      "Mantilla F."
+    ],
+    [
+      "Gonzalez F.",
+      "Mayer F."
+    ],
+    [
+      "Gonzalez F.",
+      "Mirnyi M."
+    ],
+    [
+      "Gonzalez F.",
+      "Federer R."
+    ],
+    [
+      "Gonzalez F.",
+      "Davydenko N."
+    ],
+    [
+      "Gonzalez F.",
+      "Berdych T."
+    ],
+    [
+      "Dent T.",
+      "Coria G."
+    ],
+    [
+      "Dent T.",
+      "Rusedski G."
+    ],
+    [
+      "Dent T.",
+      "Henman T."
+    ],
+    [
+      "Dent T.",
+      "Chela J.I."
+    ],
+    [
+      "Dent T.",
+      "Burgsmuller L."
+    ],
+    [
+      "Dent T.",
+      "Behrend T."
+    ],
+    [
+      "Dent T.",
+      "Benneteau J."
+    ],
+    [
+      "Dent T.",
+      "Sanguinetti D."
+    ],
+    [
+      "Dent T.",
+      "Almagro N."
+    ],
+    [
+      "Dent T.",
+      "Kiefer N."
+    ],
+    [
+      "Dent T.",
+      "Grosjean S."
+    ],
+    [
+      "Dent T.",
+      "Mayer F."
+    ],
+    [
+      "Dent T.",
+      "Safin M."
+    ],
+    [
+      "Dent T.",
+      "Saulnier C."
+    ],
+    [
+      "Dent T.",
+      "Berdych T."
+    ],
+    [
+      "Vanek J.",
+      "Gaudio G."
+    ],
+    [
+      "Vanek J.",
+      "Acasuso J."
+    ],
+    [
+      "Vanek J.",
+      "Mathieu P.H."
+    ],
+    [
+      "Vanek J.",
+      "Sanguinetti D."
+    ],
+    [
+      "Vanek J.",
+      "Kiefer N."
+    ],
+    [
+      "Kuerten G.",
+      "Rochus O."
+    ],
+    [
+      "Johansson T.",
+      "Moya C."
+    ],
+    [
+      "Johansson T.",
+      "Coria G."
+    ],
+    [
+      "Johansson T.",
+      "Rusedski G."
+    ],
+    [
+      "Johansson T.",
+      "Henman T."
+    ],
+    [
+      "Johansson T.",
+      "Chela J.I."
+    ],
+    [
+      "Johansson T.",
+      "Spadea V."
+    ],
+    [
+      "Johansson T.",
+      "Verdasco F."
+    ],
+    [
+      "Johansson T.",
+      "Calleri A."
+    ],
+    [
+      "Johansson T.",
+      "Beck K."
+    ],
+    [
+      "Johansson T.",
+      "Kiefer N."
+    ],
+    [
+      "Johansson T.",
+      "Grosjean S."
+    ],
+    [
+      "Johansson T.",
+      "Mayer F."
+    ],
+    [
+      "Johansson T.",
+      "Mirnyi M."
+    ],
+    [
+      "Johansson T.",
+      "Federer R."
+    ],
+    [
+      "Johansson T.",
+      "Davydenko N."
+    ],
+    [
+      "Johansson T.",
+      "Saulnier C."
+    ],
+    [
+      "Johansson T.",
+      "Malisse X."
+    ],
+    [
+      "Johansson T.",
+      "Berdych T."
+    ],
+    [
+      "Gaudio G.",
+      "Ferrero J.C."
+    ],
+    [
+      "Gaudio G.",
+      "Acasuso J."
+    ],
+    [
+      "Gaudio G.",
+      "Mathieu P.H."
+    ],
+    [
+      "Gaudio G.",
+      "Verdasco F."
+    ],
+    [
+      "Gaudio G.",
+      "Mantilla F."
+    ],
+    [
+      "Gaudio G.",
+      "Robredo T."
+    ],
+    [
+      "Gaudio G.",
+      "Sanguinetti D."
+    ],
+    [
+      "Gaudio G.",
+      "Beck K."
+    ],
+    [
+      "Gaudio G.",
+      "Kiefer N."
+    ],
+    [
+      "Gaudio G.",
+      "Melzer J."
+    ],
+    [
+      "Gaudio G.",
+      "Grosjean S."
+    ],
+    [
+      "Gaudio G.",
+      "Mirnyi M."
+    ],
+    [
+      "Gaudio G.",
+      "Wawrinka S."
+    ],
+    [
+      "Gaudio G.",
+      "Federer R."
+    ],
+    [
+      "Gaudio G.",
+      "Davydenko N."
+    ],
+    [
+      "Gaudio G.",
+      "Carlsen K."
+    ],
+    [
+      "Gaudio G.",
+      "Vik R."
+    ],
+    [
+      "Gaudio G.",
+      "Rochus C."
+    ],
+    [
+      "Gaudio G.",
+      "Berdych T."
+    ],
+    [
+      "Bracciali D.",
+      "Behrend T."
+    ],
+    [
+      "Bracciali D.",
+      "Robredo T."
+    ],
+    [
+      "Bracciali D.",
+      "Davydenko N."
+    ],
+    [
+      "Moya C.",
+      "Coria G."
+    ],
+    [
+      "Moya C.",
+      "Ferrero J.C."
+    ],
+    [
+      "Moya C.",
+      "Mathieu P.H."
+    ],
+    [
+      "Moya C.",
+      "Mantilla F."
+    ],
+    [
+      "Moya C.",
+      "Robredo T."
+    ],
+    [
+      "Moya C.",
+      "Sanguinetti D."
+    ],
+    [
+      "Moya C.",
+      "Mirnyi M."
+    ],
+    [
+      "Moya C.",
+      "Federer R."
+    ],
+    [
+      "Moya C.",
+      "Monaco J."
+    ],
+    [
+      "Moya C.",
+      "Malisse X."
+    ],
+    [
+      "Coria G.",
+      "Rochus O."
+    ],
+    [
+      "Coria G.",
+      "Ferrero J.C."
+    ],
+    [
+      "Coria G.",
+      "Mathieu P.H."
+    ],
+    [
+      "Coria G.",
+      "Behrend T."
+    ],
+    [
+      "Coria G.",
+      "Spadea V."
+    ],
+    [
+      "Coria G.",
+      "Verdasco F."
+    ],
+    [
+      "Coria G.",
+      "Calleri A."
+    ],
+    [
+      "Coria G.",
+      "Mantilla F."
+    ],
+    [
+      "Coria G.",
+      "Sanguinetti D."
+    ],
+    [
+      "Coria G.",
+      "Schalken S."
+    ],
+    [
+      "Coria G.",
+      "Kiefer N."
+    ],
+    [
+      "Coria G.",
+      "Melzer J."
+    ],
+    [
+      "Coria G.",
+      "Mayer F."
+    ],
+    [
+      "Coria G.",
+      "Federer R."
+    ],
+    [
+      "Coria G.",
+      "Davydenko N."
+    ],
+    [
+      "Coria G.",
+      "Carlsen K."
+    ],
+    [
+      "Coria G.",
+      "Saulnier C."
+    ],
+    [
+      "Coria G.",
+      "Rochus C."
+    ],
+    [
+      "Coria G.",
+      "Malisse X."
+    ],
+    [
+      "Coria G.",
+      "Berdych T."
+    ],
+    [
+      "Rochus O.",
+      "Blake J."
+    ],
+    [
+      "Rochus O.",
+      "Mathieu P.H."
+    ],
+    [
+      "Rochus O.",
+      "Verdasco F."
+    ],
+    [
+      "Rochus O.",
+      "Robredo T."
+    ],
+    [
+      "Rochus O.",
+      "Beck K."
+    ],
+    [
+      "Rochus O.",
+      "Kiefer N."
+    ],
+    [
+      "Rochus O.",
+      "Grosjean S."
+    ],
+    [
+      "Rochus O.",
+      "Mirnyi M."
+    ],
+    [
+      "Rochus O.",
+      "Federer R."
+    ],
+    [
+      "Rochus O.",
+      "Davydenko N."
+    ],
+    [
+      "Rochus O.",
+      "Safin M."
+    ],
+    [
+      "Rochus O.",
+      "Vik R."
+    ],
+    [
+      "Rochus O.",
+      "Saulnier C."
+    ],
+    [
+      "Rochus O.",
+      "Berdych T."
+    ],
+    [
+      "Sargsian S.",
+      "Chela J.I."
+    ],
+    [
+      "Sargsian S.",
+      "Benneteau J."
+    ],
+    [
+      "Sargsian S.",
+      "Kiefer N."
+    ],
+    [
+      "Sargsian S.",
+      "Mirnyi M."
+    ],
+    [
+      "Rusedski G.",
+      "Blake J."
+    ],
+    [
+      "Rusedski G.",
+      "Henman T."
+    ],
+    [
+      "Rusedski G.",
+      "Spadea V."
+    ],
+    [
+      "Rusedski G.",
+      "Kiefer N."
+    ],
+    [
+      "Rusedski G.",
+      "Mirnyi M."
+    ],
+    [
+      "Rusedski G.",
+      "Wawrinka S."
+    ],
+    [
+      "Rusedski G.",
+      "Federer R."
+    ],
+    [
+      "Rusedski G.",
+      "Davydenko N."
+    ],
+    [
+      "Rusedski G.",
+      "Carlsen K."
+    ],
+    [
+      "Ferrero J.C.",
+      "Acasuso J."
+    ],
+    [
+      "Ferrero J.C.",
+      "Behrend T."
+    ],
+    [
+      "Ferrero J.C.",
+      "Hernandez O."
+    ],
+    [
+      "Ferrero J.C.",
+      "Haas T."
+    ],
+    [
+      "Ferrero J.C.",
+      "Beck K."
+    ],
+    [
+      "Ferrero J.C.",
+      "Melzer J."
+    ],
+    [
+      "Ferrero J.C.",
+      "Mayer F."
+    ],
+    [
+      "Ferrero J.C.",
+      "Mirnyi M."
+    ],
+    [
+      "Ferrero J.C.",
+      "Wawrinka S."
+    ],
+    [
+      "Ferrero J.C.",
+      "Federer R."
+    ],
+    [
+      "Ferrero J.C.",
+      "Davydenko N."
+    ],
+    [
+      "Ferrero J.C.",
+      "Safin M."
+    ],
+    [
+      "Ferrero J.C.",
+      "Berdych T."
+    ],
+    [
+      "Carraz G.",
+      "Haas T."
+    ],
+    [
+      "Blake J.",
+      "Chela J.I."
+    ],
+    [
+      "Blake J.",
+      "Haas T."
+    ],
+    [
+      "Blake J.",
+      "Robredo T."
+    ],
+    [
+      "Blake J.",
+      "Mayer F."
+    ],
+    [
+      "Blake J.",
+      "Federer R."
+    ],
+    [
+      "Blake J.",
+      "Rochus C."
+    ],
+    [
+      "Acasuso J.",
+      "Zib T."
+    ],
+    [
+      "Acasuso J.",
+      "Chela J.I."
+    ],
+    [
+      "Acasuso J.",
+      "Benneteau J."
+    ],
+    [
+      "Acasuso J.",
+      "Robredo T."
+    ],
+    [
+      "Acasuso J.",
+      "Almagro N."
+    ],
+    [
+      "Acasuso J.",
+      "Melzer J."
+    ],
+    [
+      "Acasuso J.",
+      "Mayer F."
+    ],
+    [
+      "Acasuso J.",
+      "Mirnyi M."
+    ],
+    [
+      "Acasuso J.",
+      "Federer R."
+    ],
+    [
+      "Acasuso J.",
+      "Davydenko N."
+    ],
+    [
+      "Acasuso J.",
+      "Safin M."
+    ],
+    [
+      "Acasuso J.",
+      "Rochus C."
+    ],
+    [
+      "Henman T.",
+      "Chela J.I."
+    ],
+    [
+      "Henman T.",
+      "Burgsmuller L."
+    ],
+    [
+      "Henman T.",
+      "Verdasco F."
+    ],
+    [
+      "Henman T.",
+      "Robredo T."
+    ],
+    [
+      "Henman T.",
+      "Kiefer N."
+    ],
+    [
+      "Henman T.",
+      "Melzer J."
+    ],
+    [
+      "Henman T.",
+      "Federer R."
+    ],
+    [
+      "Henman T.",
+      "Davydenko N."
+    ],
+    [
+      "Henman T.",
+      "Saulnier C."
+    ],
+    [
+      "Zib T.",
+      "Haehnel J."
+    ],
+    [
+      "Zib T.",
+      "Verdasco F."
+    ],
+    [
+      "Zib T.",
+      "Mantilla F."
+    ],
+    [
+      "Zib T.",
+      "Haas T."
+    ],
+    [
+      "Zib T.",
+      "Ventura S."
+    ],
+    [
+      "Zib T.",
+      "Davydenko N."
+    ],
+    [
+      "Zib T.",
+      "Saulnier C."
+    ],
+    [
+      "Zib T.",
+      "Monaco J."
+    ],
+    [
+      "Zib T.",
+      "Rochus C."
+    ],
+    [
+      "Chela J.I.",
+      "Burgsmuller L."
+    ],
+    [
+      "Chela J.I.",
+      "Spadea V."
+    ],
+    [
+      "Chela J.I.",
+      "Calleri A."
+    ],
+    [
+      "Chela J.I.",
+      "Sanguinetti D."
+    ],
+    [
+      "Chela J.I.",
+      "Melzer J."
+    ],
+    [
+      "Chela J.I.",
+      "Davydenko N."
+    ],
+    [
+      "Chela J.I.",
+      "Monaco J."
+    ],
+    [
+      "Chela J.I.",
+      "Rochus C."
+    ],
+    [
+      "Chela J.I.",
+      "Malisse X."
+    ],
+    [
+      "Mathieu P.H.",
+      "Verdasco F."
+    ],
+    [
+      "Mathieu P.H.",
+      "Haas T."
+    ],
+    [
+      "Mathieu P.H.",
+      "Sanguinetti D."
+    ],
+    [
+      "Mathieu P.H.",
+      "Beck K."
+    ],
+    [
+      "Mathieu P.H.",
+      "Davydenko N."
+    ],
+    [
+      "Enqvist T.",
+      "Spadea V."
+    ],
+    [
+      "Enqvist T.",
+      "Robredo T."
+    ],
+    [
+      "Enqvist T.",
+      "Beck K."
+    ],
+    [
+      "Enqvist T.",
+      "Mayer F."
+    ],
+    [
+      "Burgsmuller L.",
+      "Almagro N."
+    ],
+    [
+      "Burgsmuller L.",
+      "Mayer F."
+    ],
+    [
+      "Burgsmuller L.",
+      "Monaco J."
+    ],
+    [
+      "Burgsmuller L.",
+      "Berdych T."
+    ],
+    [
+      "Mathieu P.",
+      "Federer R."
+    ],
+    [
+      "Behrend T.",
+      "Verdasco F."
+    ],
+    [
+      "Behrend T.",
+      "Rochus C."
+    ],
+    [
+      "Benneteau J.",
+      "Robredo T."
+    ],
+    [
+      "Haehnel J.",
+      "Schalken S."
+    ],
+    [
+      "Haehnel J.",
+      "Davydenko N."
+    ],
+    [
+      "Hernandez O.",
+      "Mantilla F."
+    ],
+    [
+      "Hernandez O.",
+      "Grosjean S."
+    ],
+    [
+      "Hernandez O.",
+      "Mayer F."
+    ],
+    [
+      "Ulihrach B.",
+      "Safin M."
+    ],
+    [
+      "Spadea V.",
+      "Melzer J."
+    ],
+    [
+      "Spadea V.",
+      "Saulnier C."
+    ],
+    [
+      "Spadea V.",
+      "Malisse X."
+    ],
+    [
+      "Verdasco F.",
+      "Robredo T."
+    ],
+    [
+      "Verdasco F.",
+      "Almagro N."
+    ],
+    [
+      "Verdasco F.",
+      "Melzer J."
+    ],
+    [
+      "Verdasco F.",
+      "Mayer F."
+    ],
+    [
+      "Verdasco F.",
+      "Wawrinka S."
+    ],
+    [
+      "Verdasco F.",
+      "Federer R."
+    ],
+    [
+      "Verdasco F.",
+      "Davydenko N."
+    ],
+    [
+      "Verdasco F.",
+      "Carlsen K."
+    ],
+    [
+      "Verdasco F.",
+      "Monaco J."
+    ],
+    [
+      "Verdasco F.",
+      "Berdych T."
+    ],
+    [
+      "Calleri A.",
+      "Mirnyi M."
+    ],
+    [
+      "Calleri A.",
+      "Monaco J."
+    ],
+    [
+      "Mantilla F.",
+      "Davydenko N."
+    ],
+    [
+      "Haas T.",
+      "Beck K."
+    ],
+    [
+      "Haas T.",
+      "Almagro N."
+    ],
+    [
+      "Haas T.",
+      "Kiefer N."
+    ],
+    [
+      "Haas T.",
+      "Melzer J."
+    ],
+    [
+      "Haas T.",
+      "Mayer F."
+    ],
+    [
+      "Haas T.",
+      "Mirnyi M."
+    ],
+    [
+      "Haas T.",
+      "Federer R."
+    ],
+    [
+      "Haas T.",
+      "Davydenko N."
+    ],
+    [
+      "Haas T.",
+      "Rochus C."
+    ],
+    [
+      "Haas T.",
+      "Malisse X."
+    ],
+    [
+      "Robredo T.",
+      "Sanguinetti D."
+    ],
+    [
+      "Robredo T.",
+      "Kiefer N."
+    ],
+    [
+      "Robredo T.",
+      "Ventura S."
+    ],
+    [
+      "Robredo T.",
+      "Grosjean S."
+    ],
+    [
+      "Robredo T.",
+      "Federer R."
+    ],
+    [
+      "Robredo T.",
+      "Davydenko N."
+    ],
+    [
+      "Robredo T.",
+      "Safin M."
+    ],
+    [
+      "Robredo T.",
+      "Berdych T."
+    ],
+    [
+      "Sanguinetti D.",
+      "Schalken S."
+    ],
+    [
+      "Sanguinetti D.",
+      "Grosjean S."
+    ],
+    [
+      "Sanguinetti D.",
+      "Mirnyi M."
+    ],
+    [
+      "Sanguinetti D.",
+      "Monaco J."
+    ],
+    [
+      "Sanguinetti D.",
+      "Rochus C."
+    ],
+    [
+      "Schalken S.",
+      "Davydenko N."
+    ],
+    [
+      "Beck K.",
+      "Kiefer N."
+    ],
+    [
+      "Beck K.",
+      "Davydenko N."
+    ],
+    [
+      "Beck K.",
+      "Berdych T."
+    ],
+    [
+      "Almagro N.",
+      "Ventura S."
+    ],
+    [
+      "Almagro N.",
+      "Federer R."
+    ],
+    [
+      "Almagro N.",
+      "Carlsen K."
+    ],
+    [
+      "Almagro N.",
+      "Berdych T."
+    ],
+    [
+      "Kiefer N.",
+      "Melzer J."
+    ],
+    [
+      "Kiefer N.",
+      "Grosjean S."
+    ],
+    [
+      "Kiefer N.",
+      "Mayer F."
+    ],
+    [
+      "Kiefer N.",
+      "Mirnyi M."
+    ],
+    [
+      "Kiefer N.",
+      "Federer R."
+    ],
+    [
+      "Kiefer N.",
+      "Davydenko N."
+    ],
+    [
+      "Kiefer N.",
+      "Safin M."
+    ],
+    [
+      "Kiefer N.",
+      "Vik R."
+    ],
+    [
+      "Kiefer N.",
+      "Saulnier C."
+    ],
+    [
+      "Melzer J.",
+      "Davydenko N."
+    ],
+    [
+      "Melzer J.",
+      "Saulnier C."
+    ],
+    [
+      "Melzer J.",
+      "Rochus C."
+    ],
+    [
+      "Melzer J.",
+      "Malisse X."
+    ],
+    [
+      "Melzer J.",
+      "Berdych T."
+    ],
+    [
+      "Ventura S.",
+      "Rochus C."
+    ],
+    [
+      "Grosjean S.",
+      "Davydenko N."
+    ],
+    [
+      "Grosjean S.",
+      "Carlsen K."
+    ],
+    [
+      "Grosjean S.",
+      "Monaco J."
+    ],
+    [
+      "Grosjean S.",
+      "Berdych T."
+    ],
+    [
+      "Mayer F.",
+      "Federer R."
+    ],
+    [
+      "Mayer F.",
+      "Carlsen K."
+    ],
+    [
+      "Mayer F.",
+      "Monaco J."
+    ],
+    [
+      "Mirnyi M.",
+      "Davydenko N."
+    ],
+    [
+      "Mirnyi M.",
+      "Carlsen K."
+    ],
+    [
+      "Mirnyi M.",
+      "Saulnier C."
+    ],
+    [
+      "Mirnyi M.",
+      "Monaco J."
+    ],
+    [
+      "Mirnyi M.",
+      "Malisse X."
+    ],
+    [
+      "Mirnyi M.",
+      "Berdych T."
+    ],
+    [
+      "Wawrinka S.",
+      "Saulnier C."
+    ],
+    [
+      "Wawrinka S.",
+      "Berdych T."
+    ],
+    [
+      "Federer R.",
+      "Davydenko N."
+    ],
+    [
+      "Federer R.",
+      "Safin M."
+    ],
+    [
+      "Federer R.",
+      "Berdych T."
+    ],
+    [
+      "Davydenko N.",
+      "Dlouhy L."
+    ],
+    [
+      "Davydenko N.",
+      "Berdych T."
+    ],
+    [
+      "Safin M.",
+      "Saulnier C."
+    ],
+    [
+      "Monaco J.",
+      "Malisse X."
+    ]
+  ],
+  "weights": {
+    "Costa A.->Roddick A.": 1.0,
+    "Costa A.->Llodra M.": 0.0,
+    "Costa A.->Ljubicic I.": 1.0,
+    "Costa A.->Massu N.": 0.0,
+    "Costa A.->Ferrer D.": 1.0,
+    "Costa A.->Sanchez D.": 0.0,
+    "Costa A.->Andreev I.": 1.0,
+    "Costa A.->Koubek S.": 0.0,
+    "Costa A.->Gaudio G.": 1.0,
+    "Costa A.->Mathieu P.H.": 1.0,
+    "Costa A.->Spadea V.": 1.0,
+    "Costa A.->Verdasco F.": 0.0,
+    "Costa A.->Sanguinetti D.": 1.0,
+    "Costa A.->Mirnyi M.": 0.5,
+    "Costa A.->Davydenko N.": 0.5,
+    "Costa A.->Monaco J.": 1.0,
+    "Ancic M.->Lopez F.": 1.0,
+    "Ancic M.->Roddick A.": 1.0,
+    "Ancic M.->Srichaphan P.": 1.0,
+    "Ancic M.->Baghdatis M.": 0.0,
+    "Ancic M.->Hernych J.": 0.0,
+    "Ancic M.->Llodra M.": 0.0,
+    "Ancic M.->Arthurs W.": 0.5,
+    "Ancic M.->Bjorkman J.": 1.0,
+    "Ancic M.->Monfils G.": 0.0,
+    "Ancic M.->Gasquet R.": 0.5,
+    "Ancic M.->Phau B.": 0.0,
+    "Ancic M.->Ljubicic I.": 1.0,
+    "Ancic M.->Mello R.": 0.0,
+    "Ancic M.->Lee H.T.": 0.0,
+    "Ancic M.->Nalbandian D.": 1.0,
+    "Ancic M.->Djokovic N.": 1.0,
+    "Ancic M.->Serra F.": 0.0,
+    "Ancic M.->Stakhovsky S.": 1.0,
+    "Ancic M.->Tursunov D.": 1.0,
+    "Ancic M.->Hrbaty D.": 0.0,
+    "Ancic M.->Hewitt L.": 1.0,
+    "Ancic M.->Stepanek R.": 1.0,
+    "Ancic M.->Moodie W.": 1.0,
+    "Ancic M.->Gonzalez F.": 0.5,
+    "Ancic M.->Dent T.": 0.0,
+    "Ancic M.->Kuerten G.": 0.0,
+    "Ancic M.->Coria G.": 1.0,
+    "Ancic M.->Rochus O.": 0.5,
+    "Ancic M.->Rusedski G.": 1.0,
+    "Ancic M.->Blake J.": 0.0,
+    "Ancic M.->Acasuso J.": 0.0,
+    "Ancic M.->Henman T.": 0.0,
+    "Ancic M.->Hernandez O.": 0.0,
+    "Ancic M.->Ulihrach B.": 0.0,
+    "Ancic M.->Spadea V.": 0.0,
+    "Ancic M.->Haas T.": 0.0,
+    "Ancic M.->Beck K.": 0.0,
+    "Ancic M.->Mayer F.": 0.0,
+    "Ancic M.->Federer R.": 1.0,
+    "Ancic M.->Safin M.": 1.0,
+    "Ancic M.->Saulnier C.": 0.0,
+    "Ancic M.->Berdych T.": 0.5,
+    "Lopez F.->Zabaleta M.": 1.0,
+    "Lopez F.->Soderling R.": 1.0,
+    "Lopez F.->Srichaphan P.": 0.0,
+    "Lopez F.->Llodra M.": 0.0,
+    "Lopez F.->Agassi A.": 0.5,
+    "Lopez F.->Karlovic I.": 0.0,
+    "Lopez F.->Gasquet R.": 1.0,
+    "Lopez F.->Santoro F.": 1.0,
+    "Lopez F.->Starace P.": 1.0,
+    "Lopez F.->Johansson J.": 1.0,
+    "Lopez F.->Ferrer D.": 0.0,
+    "Lopez F.->Volandri F.": 0.3333333333333333,
+    "Lopez F.->Montanes A.": 0.0,
+    "Lopez F.->Andreev I.": 0.0,
+    "Lopez F.->Hewitt L.": 1.0,
+    "Lopez F.->Stepanek R.": 1.0,
+    "Lopez F.->Dent T.": 0.0,
+    "Lopez F.->Johansson T.": 1.0,
+    "Lopez F.->Gaudio G.": 1.0,
+    "Lopez F.->Rochus O.": 1.0,
+    "Lopez F.->Sargsian S.": 0.0,
+    "Lopez F.->Ferrero J.C.": 1.0,
+    "Lopez F.->Blake J.": 1.0,
+    "Lopez F.->Mathieu P.H.": 1.0,
+    "Lopez F.->Spadea V.": 0.0,
+    "Lopez F.->Verdasco F.": 0.0,
+    "Lopez F.->Sanguinetti D.": 0.5,
+    "Lopez F.->Grosjean S.": 1.0,
+    "Lopez F.->Mayer F.": 0.0,
+    "Lopez F.->Federer R.": 1.0,
+    "Lopez F.->Carlsen K.": 0.0,
+    "Lopez F.->Safin M.": 0.0,
+    "Lopez F.->Malisse X.": 0.0,
+    "Zabaleta M.->Srichaphan P.": 0.0,
+    "Zabaleta M.->Santoro F.": 0.0,
+    "Zabaleta M.->Sabau R.": 1.0,
+    "Zabaleta M.->Martin A.": 1.0,
+    "Zabaleta M.->Calatrava A.": 0.0,
+    "Zabaleta M.->Volandri F.": 1.0,
+    "Zabaleta M.->Puerta M.": 0.0,
+    "Zabaleta M.->Garcia-Lopez G.": 0.0,
+    "Zabaleta M.->Muller G.": 0.0,
+    "Zabaleta M.->Gonzalez F.": 1.0,
+    "Zabaleta M.->Johansson T.": 1.0,
+    "Zabaleta M.->Gaudio G.": 1.0,
+    "Zabaleta M.->Moya C.": 0.0,
+    "Zabaleta M.->Rochus O.": 0.5,
+    "Zabaleta M.->Ferrero J.C.": 1.0,
+    "Zabaleta M.->Henman T.": 0.0,
+    "Zabaleta M.->Verdasco F.": 1.0,
+    "Zabaleta M.->Almagro N.": 0.5,
+    "Zabaleta M.->Ventura S.": 0.0,
+    "Zabaleta M.->Mayer F.": 1.0,
+    "Zabaleta M.->Federer R.": 1.0,
+    "Zabaleta M.->Davydenko N.": 0.0,
+    "Zabaleta M.->Berdych T.": 1.0,
+    "Fish M.->Soderling R.": 0.0,
+    "Fish M.->Ginepri R.": 1.0,
+    "Fish M.->Dent T.": 1.0,
+    "Fish M.->Gaudio G.": 1.0,
+    "Fish M.->Zib T.": 0.0,
+    "Fish M.->Enqvist T.": 1.0,
+    "Fish M.->Haas T.": 1.0,
+    "Fish M.->Federer R.": 1.0,
+    "Fish M.->Monaco J.": 0.0,
+    "Fish M.->Malisse X.": 1.0,
+    "Murray A.->Gonzalez F.": 1.0,
+    "Murray A.->Henman T.": 0.0,
+    "Murray A.->Berdych T.": 0.0,
+    "Vliegen K.->Haas T.": 1.0,
+    "Soderling R.->Kohlschreiber P.": 1.0,
+    "Soderling R.->Santoro F.": 1.0,
+    "Soderling R.->Ljubicic I.": 1.0,
+    "Soderling R.->Lee H.T.": 1.0,
+    "Soderling R.->Nalbandian D.": 0.0,
+    "Soderling R.->Stakhovsky S.": 0.0,
+    "Soderling R.->Andreev I.": 1.0,
+    "Soderling R.->Hrbaty D.": 1.0,
+    "Soderling R.->Stepanek R.": 0.0,
+    "Soderling R.->Coria G.": 1.0,
+    "Soderling R.->Zib T.": 0.0,
+    "Soderling R.->Chela J.I.": 0.5,
+    "Soderling R.->Hernandez O.": 1.0,
+    "Soderling R.->Verdasco F.": 0.5,
+    "Soderling R.->Mayer F.": 0.0,
+    "Soderling R.->Mirnyi M.": 0.0,
+    "Soderling R.->Federer R.": 1.0,
+    "Soderling R.->Vik R.": 0.0,
+    "Soderling R.->Monaco J.": 1.0,
+    "Soderling R.->Berdych T.": 1.0,
+    "Roddick A.->Srichaphan P.": 0.0,
+    "Roddick A.->Novak J.": 0.0,
+    "Roddick A.->Monfils G.": 0.0,
+    "Roddick A.->Karlovic I.": 0.3333333333333333,
+    "Roddick A.->Santoro F.": 0.0,
+    "Roddick A.->Ljubicic I.": 1.0,
+    "Roddick A.->Massu N.": 1.0,
+    "Roddick A.->Lee H.T.": 0.0,
+    "Roddick A.->Ferrer D.": 0.0,
+    "Roddick A.->Ascione T.": 0.0,
+    "Roddick A.->Ginepri R.": 0.3333333333333333,
+    "Roddick A.->Labadze I.": 0.0,
+    "Roddick A.->Andreev I.": 0.0,
+    "Roddick A.->Hrbaty D.": 0.0,
+    "Roddick A.->Horna L.": 0.0,
+    "Roddick A.->Youzhny M.": 0.0,
+    "Roddick A.->Hewitt L.": 0.6666666666666666,
+    "Roddick A.->Stepanek R.": 0.0,
+    "Roddick A.->Muller G.": 1.0,
+    "Roddick A.->Gonzalez F.": 0.0,
+    "Roddick A.->Dent T.": 0.0,
+    "Roddick A.->Vanek J.": 0.0,
+    "Roddick A.->Johansson T.": 0.0,
+    "Roddick A.->Moya C.": 0.0,
+    "Roddick A.->Coria G.": 0.0,
+    "Roddick A.->Rusedski G.": 0.0,
+    "Roddick A.->Ferrero J.C.": 0.0,
+    "Roddick A.->Acasuso J.": 1.0,
+    "Roddick A.->Chela J.I.": 0.0,
+    "Roddick A.->Mathieu P.H.": 1.0,
+    "Roddick A.->Enqvist T.": 0.0,
+    "Roddick A.->Verdasco F.": 0.5,
+    "Roddick A.->Haas T.": 0.0,
+    "Roddick A.->Beck K.": 0.0,
+    "Roddick A.->Melzer J.": 0.0,
+    "Roddick A.->Grosjean S.": 0.0,
+    "Roddick A.->Federer R.": 1.0,
+    "Roddick A.->Saulnier C.": 0.0,
+    "Srichaphan P.->Novak J.": 0.5,
+    "Srichaphan P.->Agassi A.": 1.0,
+    "Srichaphan P.->Gasquet R.": 1.0,
+    "Srichaphan P.->Nieminen J.": 1.0,
+    "Srichaphan P.->Starace P.": 0.0,
+    "Srichaphan P.->Ljubicic I.": 1.0,
+    "Srichaphan P.->Wessels P.": 0.0,
+    "Srichaphan P.->Ferrer D.": 1.0,
+    "Srichaphan P.->Nalbandian D.": 1.0,
+    "Srichaphan P.->Ginepri R.": 1.0,
+    "Srichaphan P.->Andreev I.": 0.0,
+    "Srichaphan P.->Kim K.": 1.0,
+    "Srichaphan P.->Garcia-Lopez G.": 0.0,
+    "Srichaphan P.->Horna L.": 0.0,
+    "Srichaphan P.->Goldstein P.": 0.0,
+    "Srichaphan P.->Stepanek R.": 1.0,
+    "Srichaphan P.->Johansson T.": 0.0,
+    "Srichaphan P.->Moya C.": 1.0,
+    "Srichaphan P.->Coria G.": 0.6666666666666666,
+    "Srichaphan P.->Blake J.": 1.0,
+    "Srichaphan P.->Verdasco F.": 0.0,
+    "Srichaphan P.->Calleri A.": 0.0,
+    "Srichaphan P.->Sanguinetti D.": 0.5,
+    "Srichaphan P.->Grosjean S.": 1.0,
+    "Srichaphan P.->Davydenko N.": 0.0,
+    "Srichaphan P.->Carlsen K.": 0.0,
+    "Srichaphan P.->Safin M.": 1.0,
+    "Srichaphan P.->Saulnier C.": 0.5,
+    "Srichaphan P.->Monaco J.": 1.0,
+    "Srichaphan P.->Rochus C.": 0.5,
+    "Srichaphan P.->Berdych T.": 1.0,
+    "Minar I.->Baghdatis M.": 1.0,
+    "Minar I.->Hanescu V.": 1.0,
+    "Minar I.->Serra F.": 0.0,
+    "Minar I.->Puerta M.": 0.0,
+    "Minar I.->Kim K.": 0.5,
+    "Minar I.->Horna L.": 1.0,
+    "Minar I.->Youzhny M.": 1.0,
+    "Minar I.->Calleri A.": 1.0,
+    "Minar I.->Robredo T.": 1.0,
+    "Minar I.->Federer R.": 1.0,
+    "Baghdatis M.->Nalbandian D.": 0.5,
+    "Baghdatis M.->Puerta M.": 0.0,
+    "Baghdatis M.->Youzhny M.": 1.0,
+    "Baghdatis M.->Gonzalez F.": 1.0,
+    "Baghdatis M.->Ferrero J.C.": 1.0,
+    "Baghdatis M.->Acasuso J.": 0.0,
+    "Baghdatis M.->Chela J.I.": 1.0,
+    "Baghdatis M.->Mathieu P.H.": 1.0,
+    "Baghdatis M.->Haas T.": 0.0,
+    "Baghdatis M.->Carlsen K.": 1.0,
+    "Hernych J.->Hanescu V.": 1.0,
+    "Hernych J.->Bjorkman J.": 0.0,
+    "Hernych J.->Kohlschreiber P.": 0.0,
+    "Hernych J.->Monfils G.": 1.0,
+    "Hernych J.->Santoro F.": 0.0,
+    "Hernych J.->Massu N.": 1.0,
+    "Hernych J.->Martin A.": 0.0,
+    "Hernych J.->Ferrer D.": 1.0,
+    "Hernych J.->Serra F.": 0.0,
+    "Hernych J.->Hrbaty D.": 1.0,
+    "Hernych J.->Kim K.": 1.0,
+    "Hernych J.->Hewitt L.": 1.0,
+    "Hernych J.->Stepanek R.": 1.0,
+    "Hernych J.->Clement A.": 0.0,
+    "Hernych J.->Gaudio G.": 1.0,
+    "Hernych J.->Bracciali D.": 1.0,
+    "Hernych J.->Coria G.": 0.0,
+    "Hernych J.->Rochus O.": 1.0,
+    "Hernych J.->Rusedski G.": 1.0,
+    "Hernych J.->Ferrero J.C.": 0.5,
+    "Hernych J.->Acasuso J.": 0.0,
+    "Hernych J.->Mathieu P.H.": 1.0,
+    "Hernych J.->Spadea V.": 0.0,
+    "Hernych J.->Verdasco F.": 1.0,
+    "Hernych J.->Sanguinetti D.": 1.0,
+    "Hernych J.->Safin M.": 1.0,
+    "Hernych J.->Malisse X.": 1.0,
+    "Llodra M.->Wessels P.": 0.0,
+    "Llodra M.->Hrbaty D.": 0.0,
+    "Llodra M.->Hewitt L.": 1.0,
+    "Llodra M.->Muller G.": 1.0,
+    "Llodra M.->Gonzalez F.": 1.0,
+    "Llodra M.->Rusedski G.": 1.0,
+    "Llodra M.->Blake J.": 1.0,
+    "Llodra M.->Henman T.": 1.0,
+    "Llodra M.->Chela J.I.": 1.0,
+    "Llodra M.->Mathieu P.H.": 0.0,
+    "Llodra M.->Mantilla F.": 1.0,
+    "Llodra M.->Sanguinetti D.": 0.0,
+    "Llodra M.->Grosjean S.": 1.0,
+    "Llodra M.->Davydenko N.": 1.0,
+    "Llodra M.->Malisse X.": 0.0,
+    "Arthurs W.->Agassi A.": 1.0,
+    "Arthurs W.->Canas G.": 1.0,
+    "Arthurs W.->Starace P.": 0.0,
+    "Arthurs W.->Volandri F.": 0.5,
+    "Arthurs W.->Ginepri R.": 1.0,
+    "Arthurs W.->Andreev I.": 0.0,
+    "Arthurs W.->Puerta M.": 1.0,
+    "Arthurs W.->Sluiter R.": 0.0,
+    "Arthurs W.->Dent T.": 0.5,
+    "Arthurs W.->Chela J.I.": 1.0,
+    "Arthurs W.->Haas T.": 1.0,
+    "Arthurs W.->Sanguinetti D.": 1.0,
+    "Arthurs W.->Beck K.": 1.0,
+    "Arthurs W.->Melzer J.": 1.0,
+    "Arthurs W.->Monaco J.": 0.0,
+    "Arthurs W.->Rochus C.": 0.0,
+    "Arthurs W.->Berdych T.": 1.0,
+    "Lisnard J.R.->Kohlschreiber P.": 1.0,
+    "Lisnard J.R.->Martin A.": 1.0,
+    "Lisnard J.R.->Garcia-Lopez G.": 1.0,
+    "Lisnard J.R.->Youzhny M.": 1.0,
+    "Lisnard J.R.->Muller G.": 1.0,
+    "Lisnard J.R.->Johansson T.": 0.0,
+    "Lisnard J.R.->Chela J.I.": 1.0,
+    "Hanescu V.->Monfils G.": 1.0,
+    "Hanescu V.->Ljubicic I.": 1.0,
+    "Hanescu V.->Tabara M.": 0.0,
+    "Hanescu V.->Massu N.": 0.0,
+    "Hanescu V.->Nadal R.": 1.0,
+    "Hanescu V.->Nalbandian D.": 0.0,
+    "Hanescu V.->Volandri F.": 0.0,
+    "Hanescu V.->Montanes A.": 0.0,
+    "Hanescu V.->Andreev I.": 1.0,
+    "Hanescu V.->Puerta M.": 0.0,
+    "Hanescu V.->Horna L.": 0.0,
+    "Hanescu V.->Stepanek R.": 0.0,
+    "Hanescu V.->Gaudio G.": 1.0,
+    "Hanescu V.->Blake J.": 1.0,
+    "Hanescu V.->Henman T.": 1.0,
+    "Hanescu V.->Zib T.": 0.0,
+    "Hanescu V.->Chela J.I.": 0.0,
+    "Hanescu V.->Behrend T.": 0.0,
+    "Hanescu V.->Verdasco F.": 1.0,
+    "Hanescu V.->Calleri A.": 0.5,
+    "Hanescu V.->Robredo T.": 0.0,
+    "Hanescu V.->Sanguinetti D.": 0.0,
+    "Hanescu V.->Beck K.": 1.0,
+    "Hanescu V.->Melzer J.": 0.0,
+    "Hanescu V.->Grosjean S.": 1.0,
+    "Hanescu V.->Federer R.": 1.0,
+    "Hanescu V.->Carlsen K.": 0.0,
+    "Novak J.->Kohlschreiber P.": 0.0,
+    "Novak J.->Nieminen J.": 1.0,
+    "Novak J.->Santoro F.": 0.0,
+    "Novak J.->Starace P.": 1.0,
+    "Novak J.->Sabau R.": 0.0,
+    "Novak J.->Phau B.": 0.0,
+    "Novak J.->Wessels P.": 0.0,
+    "Novak J.->Martin A.": 1.0,
+    "Novak J.->Montanes A.": 0.0,
+    "Novak J.->Andreev I.": 0.0,
+    "Novak J.->Hrbaty D.": 1.0,
+    "Novak J.->Kim K.": 0.0,
+    "Novak J.->Johansson T.": 1.0,
+    "Novak J.->Moya C.": 1.0,
+    "Novak J.->Rochus O.": 0.0,
+    "Novak J.->Ferrero J.C.": 1.0,
+    "Novak J.->Mathieu P.H.": 1.0,
+    "Novak J.->Hernandez O.": 0.0,
+    "Novak J.->Calleri A.": 1.0,
+    "Novak J.->Mantilla F.": 1.0,
+    "Novak J.->Haas T.": 1.0,
+    "Novak J.->Beck K.": 1.0,
+    "Novak J.->Mirnyi M.": 0.5,
+    "Novak J.->Carlsen K.": 0.0,
+    "Novak J.->Safin M.": 1.0,
+    "Novak J.->Saulnier C.": 1.0,
+    "Novak J.->Monaco J.": 0.0,
+    "Novak J.->Malisse X.": 1.0,
+    "Novak J.->Berdych T.": 1.0,
+    "Bjorkman J.->Mello R.": 1.0,
+    "Bjorkman J.->Nalbandian D.": 1.0,
+    "Bjorkman J.->Serra F.": 1.0,
+    "Bjorkman J.->Labadze I.": 0.5,
+    "Bjorkman J.->Andreev I.": 1.0,
+    "Bjorkman J.->Puerta M.": 0.0,
+    "Bjorkman J.->Youzhny M.": 1.0,
+    "Bjorkman J.->Stepanek R.": 0.0,
+    "Bjorkman J.->Moodie W.": 0.0,
+    "Bjorkman J.->Johansson T.": 0.5,
+    "Bjorkman J.->Rochus O.": 1.0,
+    "Bjorkman J.->Rusedski G.": 1.0,
+    "Bjorkman J.->Zib T.": 1.0,
+    "Bjorkman J.->Robredo T.": 1.0,
+    "Bjorkman J.->Schalken S.": 1.0,
+    "Bjorkman J.->Mirnyi M.": 0.0,
+    "Bjorkman J.->Carlsen K.": 0.0,
+    "Kohlschreiber P.->Gasquet R.": 1.0,
+    "Kohlschreiber P.->Starace P.": 1.0,
+    "Kohlschreiber P.->Johansson J.": 0.0,
+    "Kohlschreiber P.->Martin A.": 1.0,
+    "Kohlschreiber P.->Ferrer D.": 1.0,
+    "Kohlschreiber P.->Andreev I.": 1.0,
+    "Kohlschreiber P.->Garcia-Lopez G.": 1.0,
+    "Kohlschreiber P.->Stepanek R.": 1.0,
+    "Kohlschreiber P.->Moodie W.": 1.0,
+    "Kohlschreiber P.->Johansson T.": 1.0,
+    "Kohlschreiber P.->Gaudio G.": 1.0,
+    "Kohlschreiber P.->Zib T.": 1.0,
+    "Kohlschreiber P.->Almagro N.": 1.0,
+    "Kohlschreiber P.->Kiefer N.": 1.0,
+    "Kohlschreiber P.->Melzer J.": 0.0,
+    "Kohlschreiber P.->Federer R.": 1.0,
+    "Kohlschreiber P.->Malisse X.": 1.0,
+    "Kohlschreiber P.->Berdych T.": 1.0,
+    "Agassi A.->Karlovic I.": 0.0,
+    "Agassi A.->Gasquet R.": 0.0,
+    "Agassi A.->Nieminen J.": 1.0,
+    "Agassi A.->Sabau R.": 0.0,
+    "Agassi A.->Ljubicic I.": 0.0,
+    "Agassi A.->Johansson J.": 0.0,
+    "Agassi A.->Nadal R.": 1.0,
+    "Agassi A.->Martin A.": 0.0,
+    "Agassi A.->Schuettler R.": 0.0,
+    "Agassi A.->Calatrava A.": 0.0,
+    "Agassi A.->Ginepri R.": 0.0,
+    "Agassi A.->Pavel A.": 0.0,
+    "Agassi A.->di Mauro A.": 0.0,
+    "Agassi A.->Hrbaty D.": 0.0,
+    "Agassi A.->Kim K.": 0.0,
+    "Agassi A.->Stepanek R.": 0.0,
+    "Agassi A.->Muller G.": 0.0,
+    "Agassi A.->Dent T.": 0.0,
+    "Agassi A.->Gaudio G.": 0.0,
+    "Agassi A.->Coria G.": 0.5,
+    "Agassi A.->Rusedski G.": 0.0,
+    "Agassi A.->Blake J.": 0.0,
+    "Agassi A.->Chela J.I.": 0.0,
+    "Agassi A.->Mathieu P.H.": 0.0,
+    "Agassi A.->Kiefer N.": 0.0,
+    "Agassi A.->Melzer J.": 1.0,
+    "Agassi A.->Grosjean S.": 1.0,
+    "Agassi A.->Federer R.": 1.0,
+    "Agassi A.->Davydenko N.": 0.5,
+    "Agassi A.->Carlsen K.": 0.0,
+    "Agassi A.->Malisse X.": 0.0,
+    "Agassi A.->Berdych T.": 0.0,
+    "Monfils G.->Canas G.": 1.0,
+    "Monfils G.->Gasquet R.": 0.0,
+    "Monfils G.->Starace P.": 1.0,
+    "Monfils G.->Ljubicic I.": 1.0,
+    "Monfils G.->Martin A.": 1.0,
+    "Monfils G.->Djokovic N.": 1.0,
+    "Monfils G.->Montanes A.": 1.0,
+    "Monfils G.->Hrbaty D.": 0.0,
+    "Monfils G.->Koubek S.": 1.0,
+    "Monfils G.->Youzhny M.": 1.0,
+    "Monfils G.->Stepanek R.": 0.0,
+    "Monfils G.->Clement A.": 0.0,
+    "Monfils G.->Gaudio G.": 0.0,
+    "Monfils G.->Chela J.I.": 0.0,
+    "Monfils G.->Beck K.": 0.5,
+    "Monfils G.->Grosjean S.": 0.0,
+    "Monfils G.->Mayer F.": 0.0,
+    "Monfils G.->Monaco J.": 0.0,
+    "Monfils G.->Rochus C.": 1.0,
+    "Canas G.->Santoro F.": 0.0,
+    "Canas G.->Nadal R.": 1.0,
+    "Canas G.->Martin A.": 1.0,
+    "Canas G.->Schuettler R.": 0.0,
+    "Canas G.->Volandri F.": 1.0,
+    "Canas G.->Pavel A.": 0.0,
+    "Canas G.->Andreev I.": 0.0,
+    "Canas G.->Puerta M.": 1.0,
+    "Canas G.->Stepanek R.": 0.5,
+    "Canas G.->Ferrero J.C.": 1.0,
+    "Canas G.->Henman T.": 0.0,
+    "Canas G.->Chela J.I.": 0.0,
+    "Canas G.->Mathieu P.H.": 0.0,
+    "Canas G.->Verdasco F.": 0.0,
+    "Canas G.->Federer R.": 1.0,
+    "Canas G.->Davydenko N.": 1.0,
+    "Canas G.->Carlsen K.": 0.0,
+    "Canas G.->Safin M.": 1.0,
+    "Canas G.->Monaco J.": 0.0,
+    "Karlovic I.->Ljubicic I.": 0.0,
+    "Karlovic I.->Nalbandian D.": 1.0,
+    "Karlovic I.->Andreev I.": 0.0,
+    "Karlovic I.->Hrbaty D.": 0.0,
+    "Karlovic I.->Kim K.": 1.0,
+    "Karlovic I.->Garcia-Lopez G.": 1.0,
+    "Karlovic I.->Hewitt L.": 0.0,
+    "Karlovic I.->Stepanek R.": 1.0,
+    "Karlovic I.->Gonzalez F.": 0.0,
+    "Karlovic I.->Johansson T.": 0.5,
+    "Karlovic I.->Rochus O.": 1.0,
+    "Karlovic I.->Rusedski G.": 0.0,
+    "Karlovic I.->Ferrero J.C.": 1.0,
+    "Karlovic I.->Zib T.": 0.0,
+    "Karlovic I.->Benneteau J.": 0.0,
+    "Karlovic I.->Ulihrach B.": 1.0,
+    "Karlovic I.->Haas T.": 1.0,
+    "Karlovic I.->Almagro N.": 1.0,
+    "Karlovic I.->Kiefer N.": 1.0,
+    "Karlovic I.->Mirnyi M.": 0.0,
+    "Karlovic I.->Davydenko N.": 1.0,
+    "Karlovic I.->Carlsen K.": 0.0,
+    "Gasquet R.->Ljubicic I.": 0.0,
+    "Gasquet R.->Wessels P.": 0.0,
+    "Gasquet R.->Massu N.": 0.0,
+    "Gasquet R.->Nadal R.": 1.0,
+    "Gasquet R.->Martin A.": 0.0,
+    "Gasquet R.->Nalbandian D.": 1.0,
+    "Gasquet R.->Ginepri R.": 1.0,
+    "Gasquet R.->Hrbaty D.": 0.0,
+    "Gasquet R.->Youzhny M.": 0.0,
+    "Gasquet R.->Stepanek R.": 1.0,
+    "Gasquet R.->Tipsarevic J.": 0.0,
+    "Gasquet R.->Muller G.": 0.0,
+    "Gasquet R.->Dent T.": 0.0,
+    "Gasquet R.->Zib T.": 0.0,
+    "Gasquet R.->Mathieu P.H.": 0.0,
+    "Gasquet R.->Beck K.": 0.0,
+    "Gasquet R.->Grosjean S.": 1.0,
+    "Gasquet R.->Mirnyi M.": 0.0,
+    "Gasquet R.->Federer R.": 1.0,
+    "Gasquet R.->Rochus C.": 0.0,
+    "Nieminen J.->Santoro F.": 1.0,
+    "Nieminen J.->Massu N.": 0.0,
+    "Nieminen J.->Nadal R.": 1.0,
+    "Nieminen J.->Seppi A.": 0.0,
+    "Nieminen J.->Schuettler R.": 0.0,
+    "Nieminen J.->Serra F.": 1.0,
+    "Nieminen J.->Pavel A.": 1.0,
+    "Nieminen J.->Andreev I.": 1.0,
+    "Nieminen J.->Puerta M.": 0.0,
+    "Nieminen J.->Hewitt L.": 1.0,
+    "Nieminen J.->Moodie W.": 1.0,
+    "Nieminen J.->Dent T.": 0.0,
+    "Nieminen J.->Johansson T.": 1.0,
+    "Nieminen J.->Henman T.": 1.0,
+    "Nieminen J.->Burgsmuller L.": 0.0,
+    "Nieminen J.->Verdasco F.": 0.0,
+    "Nieminen J.->Calleri A.": 1.0,
+    "Nieminen J.->Beck K.": 0.0,
+    "Nieminen J.->Almagro N.": 0.0,
+    "Nieminen J.->Melzer J.": 0.0,
+    "Nieminen J.->Mayer F.": 1.0,
+    "Nieminen J.->Mirnyi M.": 0.0,
+    "Nieminen J.->Federer R.": 1.0,
+    "Nieminen J.->Vik R.": 1.0,
+    "Santoro F.->Ljubicic I.": 0.5,
+    "Santoro F.->Mello R.": 0.0,
+    "Santoro F.->Johansson J.": 0.0,
+    "Santoro F.->Ferrer D.": 1.0,
+    "Santoro F.->Nalbandian D.": 0.0,
+    "Santoro F.->Pavel A.": 0.0,
+    "Santoro F.->Dent T.": 0.0,
+    "Santoro F.->Vanek J.": 1.0,
+    "Santoro F.->Johansson T.": 0.0,
+    "Santoro F.->Gaudio G.": 1.0,
+    "Santoro F.->Moya C.": 1.0,
+    "Santoro F.->Rochus O.": 1.0,
+    "Santoro F.->Chela J.I.": 1.0,
+    "Santoro F.->Mathieu P.H.": 0.0,
+    "Santoro F.->Mathieu P.": 0.0,
+    "Santoro F.->Spadea V.": 0.0,
+    "Santoro F.->Sanguinetti D.": 1.0,
+    "Santoro F.->Melzer J.": 0.0,
+    "Santoro F.->Wawrinka S.": 0.0,
+    "Santoro F.->Federer R.": 1.0,
+    "Santoro F.->Davydenko N.": 1.0,
+    "Santoro F.->Carlsen K.": 0.0,
+    "Starace P.->Sabau R.": 1.0,
+    "Starace P.->Nadal R.": 1.0,
+    "Starace P.->Martin A.": 1.0,
+    "Starace P.->Schuettler R.": 1.0,
+    "Starace P.->Ferrer D.": 1.0,
+    "Starace P.->Calatrava A.": 0.0,
+    "Starace P.->Andreev I.": 1.0,
+    "Starace P.->Sluiter R.": 0.0,
+    "Starace P.->Hrbaty D.": 1.0,
+    "Starace P.->Moya C.": 0.0,
+    "Starace P.->Chela J.I.": 1.0,
+    "Starace P.->Benneteau J.": 1.0,
+    "Starace P.->Calleri A.": 1.0,
+    "Starace P.->Robredo T.": 1.0,
+    "Sabau R.->Seppi A.": 1.0,
+    "Sabau R.->Volandri F.": 1.0,
+    "Sabau R.->Hernandez O.": 0.0,
+    "Sabau R.->Calleri A.": 1.0,
+    "Sabau R.->Sanguinetti D.": 1.0,
+    "Sabau R.->Almagro N.": 1.0,
+    "Sabau R.->Wawrinka S.": 1.0,
+    "Dupuis A.->Massu N.": 1.0,
+    "Dupuis A.->Rochus O.": 1.0,
+    "Dupuis A.->Spadea V.": 1.0,
+    "Phau B.->Ginepri R.": 0.0,
+    "Phau B.->Johansson T.": 1.0,
+    "Phau B.->Moya C.": 1.0,
+    "Phau B.->Spadea V.": 0.0,
+    "Phau B.->Carlsen K.": 0.0,
+    "Ljubicic I.->Mello R.": 0.0,
+    "Ljubicic I.->Johansson J.": 1.0,
+    "Ljubicic I.->Nadal R.": 0.6666666666666666,
+    "Ljubicic I.->Seppi A.": 1.0,
+    "Ljubicic I.->Martin A.": 0.0,
+    "Ljubicic I.->Nalbandian D.": 0.5,
+    "Ljubicic I.->Andreev I.": 0.0,
+    "Ljubicic I.->Puerta M.": 1.0,
+    "Ljubicic I.->Hrbaty D.": 0.0,
+    "Ljubicic I.->Horna L.": 0.0,
+    "Ljubicic I.->Stepanek R.": 1.0,
+    "Ljubicic I.->Gonzalez F.": 0.0,
+    "Ljubicic I.->Dent T.": 1.0,
+    "Ljubicic I.->Johansson T.": 0.5,
+    "Ljubicic I.->Coria G.": 0.0,
+    "Ljubicic I.->Rochus O.": 0.3333333333333333,
+    "Ljubicic I.->Ferrero J.C.": 0.0,
+    "Ljubicic I.->Blake J.": 0.0,
+    "Ljubicic I.->Acasuso J.": 0.0,
+    "Ljubicic I.->Henman T.": 0.0,
+    "Ljubicic I.->Zib T.": 0.0,
+    "Ljubicic I.->Enqvist T.": 0.0,
+    "Ljubicic I.->Spadea V.": 0.5,
+    "Ljubicic I.->Verdasco F.": 0.0,
+    "Ljubicic I.->Calleri A.": 0.0,
+    "Ljubicic I.->Haas T.": 0.0,
+    "Ljubicic I.->Robredo T.": 0.0,
+    "Ljubicic I.->Schalken S.": 0.0,
+    "Ljubicic I.->Beck K.": 0.0,
+    "Ljubicic I.->Melzer J.": 1.0,
+    "Ljubicic I.->Grosjean S.": 0.0,
+    "Ljubicic I.->Federer R.": 1.0,
+    "Ljubicic I.->Davydenko N.": 0.0,
+    "Ljubicic I.->Saulnier C.": 0.0,
+    "Ljubicic I.->Rochus C.": 1.0,
+    "Ljubicic I.->Berdych T.": 0.5,
+    "Tabara M.->Dent T.": 1.0,
+    "Tabara M.->Gaudio G.": 1.0,
+    "Tabara M.->Mathieu P.H.": 1.0,
+    "Tabara M.->Enqvist T.": 0.0,
+    "Tabara M.->Berdych T.": 0.0,
+    "Mello R.->Wessels P.": 1.0,
+    "Mello R.->Nadal R.": 1.0,
+    "Mello R.->Martin A.": 0.0,
+    "Mello R.->Schuettler R.": 0.0,
+    "Mello R.->Ferrer D.": 1.0,
+    "Mello R.->Montanes A.": 0.0,
+    "Mello R.->Hrbaty D.": 1.0,
+    "Mello R.->Coria G.": 1.0,
+    "Mello R.->Zib T.": 0.0,
+    "Mello R.->Chela J.I.": 1.0,
+    "Mello R.->Ventura S.": 0.0,
+    "Mello R.->Grosjean S.": 0.0,
+    "Mello R.->Davydenko N.": 1.0,
+    "Mello R.->Monaco J.": 0.0,
+    "Mello R.->Berdych T.": 1.0,
+    "Wessels P.->Johansson J.": 1.0,
+    "Wessels P.->Lu Y.H.": 0.0,
+    "Wessels P.->Coria G.": 1.0,
+    "Wessels P.->Verdasco F.": 1.0,
+    "Wessels P.->Mirnyi M.": 1.0,
+    "Wessels P.->Saulnier C.": 0.0,
+    "Johansson J.->Calatrava A.": 0.0,
+    "Johansson J.->Montanes A.": 0.0,
+    "Johansson J.->Garcia-Lopez G.": 1.0,
+    "Johansson J.->Gonzalez F.": 1.0,
+    "Johansson J.->Dent T.": 0.0,
+    "Johansson J.->Johansson T.": 1.0,
+    "Johansson J.->Rochus O.": 0.0,
+    "Johansson J.->Rusedski G.": 0.0,
+    "Johansson J.->Ferrero J.C.": 0.0,
+    "Johansson J.->Enqvist T.": 0.0,
+    "Johansson J.->Mantilla F.": 1.0,
+    "Johansson J.->Schalken S.": 0.0,
+    "Johansson J.->Beck K.": 0.0,
+    "Johansson J.->Grosjean S.": 1.0,
+    "Johansson J.->Malisse X.": 0.0,
+    "Massu N.->Lapentti N.": 0.0,
+    "Massu N.->Volandri F.": 1.0,
+    "Massu N.->Koubek S.": 0.0,
+    "Massu N.->Horna L.": 0.0,
+    "Massu N.->Muller G.": 1.0,
+    "Massu N.->Vanek J.": 0.0,
+    "Massu N.->Gaudio G.": 1.0,
+    "Massu N.->Coria G.": 1.0,
+    "Massu N.->Sargsian S.": 0.0,
+    "Massu N.->Acasuso J.": 1.0,
+    "Massu N.->Henman T.": 1.0,
+    "Massu N.->Chela J.I.": 1.0,
+    "Massu N.->Mathieu P.H.": 0.0,
+    "Massu N.->Behrend T.": 0.0,
+    "Massu N.->Verdasco F.": 1.0,
+    "Massu N.->Calleri A.": 1.0,
+    "Massu N.->Kiefer N.": 1.0,
+    "Massu N.->Mirnyi M.": 1.0,
+    "Massu N.->Wawrinka S.": 0.5,
+    "Nadal R.->Martin A.": 0.0,
+    "Nadal R.->Schuettler R.": 0.0,
+    "Nadal R.->Ferrer D.": 0.0,
+    "Nadal R.->Calatrava A.": 0.0,
+    "Nadal R.->Wang Y.T.": 0.0,
+    "Nadal R.->Ginepri R.": 0.0,
+    "Nadal R.->Montanes A.": 0.0,
+    "Nadal R.->Andreev I.": 1.0,
+    "Nadal R.->Puerta M.": 0.0,
+    "Nadal R.->Hrbaty D.": 0.0,
+    "Nadal R.->Garcia-Lopez G.": 0.0,
+    "Nadal R.->Gimelstob J.": 0.0,
+    "Nadal R.->Youzhny M.": 0.0,
+    "Nadal R.->Hewitt L.": 1.0,
+    "Nadal R.->Stepanek R.": 0.0,
+    "Nadal R.->Muller G.": 0.5,
+    "Nadal R.->Johansson T.": 0.0,
+    "Nadal R.->Gaudio G.": 0.3333333333333333,
+    "Nadal R.->Moya C.": 0.0,
+    "Nadal R.->Coria G.": 0.0,
+    "Nadal R.->Rochus O.": 0.0,
+    "Nadal R.->Ferrero J.C.": 0.0,
+    "Nadal R.->Blake J.": 1.0,
+    "Nadal R.->Acasuso J.": 0.0,
+    "Nadal R.->Zib T.": 0.0,
+    "Nadal R.->Mathieu P.H.": 0.0,
+    "Nadal R.->Burgsmuller L.": 0.0,
+    "Nadal R.->Benneteau J.": 0.0,
+    "Nadal R.->Spadea V.": 0.0,
+    "Nadal R.->Verdasco F.": 0.0,
+    "Nadal R.->Calleri A.": 0.0,
+    "Nadal R.->Robredo T.": 0.0,
+    "Nadal R.->Ventura S.": 0.0,
+    "Nadal R.->Grosjean S.": 0.0,
+    "Nadal R.->Federer R.": 0.5,
+    "Nadal R.->Monaco J.": 0.0,
+    "Nadal R.->Malisse X.": 0.0,
+    "Nadal R.->Berdych T.": 0.5,
+    "Seppi A.->Martin A.": 0.0,
+    "Seppi A.->Lapentti N.": 1.0,
+    "Seppi A.->Pavel A.": 0.0,
+    "Seppi A.->Andreev I.": 1.0,
+    "Seppi A.->Hrbaty D.": 1.0,
+    "Seppi A.->Koubek S.": 0.0,
+    "Seppi A.->Gonzalez F.": 1.0,
+    "Seppi A.->Gaudio G.": 1.0,
+    "Seppi A.->Rusedski G.": 1.0,
+    "Seppi A.->Spadea V.": 1.0,
+    "Seppi A.->Verdasco F.": 1.0,
+    "Seppi A.->Robredo T.": 0.0,
+    "Seppi A.->Sanguinetti D.": 0.5,
+    "Seppi A.->Mayer F.": 0.0,
+    "Seppi A.->Davydenko N.": 1.0,
+    "Seppi A.->Berdych T.": 0.0,
+    "Lee H.T.->Martin A.": 0.0,
+    "Lee H.T.->Ferrer D.": 1.0,
+    "Lee H.T.->Calatrava A.": 0.0,
+    "Lee H.T.->Kim K.": 1.0,
+    "Lee H.T.->Youzhny M.": 0.0,
+    "Lee H.T.->Ferrero J.C.": 1.0,
+    "Lee H.T.->Haas T.": 1.0,
+    "Lee H.T.->Kiefer N.": 1.0,
+    "Lee H.T.->Grosjean S.": 1.0,
+    "Lee H.T.->Mirnyi M.": 1.0,
+    "Lee H.T.->Safin M.": 1.0,
+    "Lee H.T.->Malisse X.": 1.0,
+    "Martin A.->Ferrer D.": 0.6666666666666666,
+    "Martin A.->Volandri F.": 1.0,
+    "Martin A.->Pavel A.": 1.0,
+    "Martin A.->Montanes A.": 0.0,
+    "Martin A.->Andreev I.": 1.0,
+    "Martin A.->Horna L.": 0.0,
+    "Martin A.->Vanek J.": 0.0,
+    "Martin A.->Kuerten G.": 0.0,
+    "Martin A.->Gaudio G.": 1.0,
+    "Martin A.->Moya C.": 1.0,
+    "Martin A.->Coria G.": 1.0,
+    "Martin A.->Rusedski G.": 1.0,
+    "Martin A.->Ferrero J.C.": 1.0,
+    "Martin A.->Blake J.": 1.0,
+    "Martin A.->Calleri A.": 0.0,
+    "Martin A.->Robredo T.": 0.0,
+    "Martin A.->Melzer J.": 1.0,
+    "Martin A.->Safin M.": 1.0,
+    "Martin A.->Rochus C.": 1.0,
+    "Martin A.->Malisse X.": 0.5,
+    "Schuettler R.->Nalbandian D.": 0.5,
+    "Schuettler R.->Puerta M.": 1.0,
+    "Schuettler R.->Youzhny M.": 0.5,
+    "Schuettler R.->Stepanek R.": 1.0,
+    "Schuettler R.->Moodie W.": 0.0,
+    "Schuettler R.->Ferrero J.C.": 1.0,
+    "Schuettler R.->Zib T.": 1.0,
+    "Schuettler R.->Chela J.I.": 1.0,
+    "Schuettler R.->Haas T.": 1.0,
+    "Schuettler R.->Sanguinetti D.": 1.0,
+    "Schuettler R.->Schalken S.": 0.0,
+    "Schuettler R.->Kiefer N.": 1.0,
+    "Schuettler R.->Mirnyi M.": 1.0,
+    "Schuettler R.->Berdych T.": 1.0,
+    "Ferrer D.->Nalbandian D.": 0.5,
+    "Ferrer D.->Ginepri R.": 1.0,
+    "Ferrer D.->di Mauro A.": 1.0,
+    "Ferrer D.->Andreev I.": 0.5,
+    "Ferrer D.->Puerta M.": 0.0,
+    "Ferrer D.->Hrbaty D.": 0.3333333333333333,
+    "Ferrer D.->Garcia-Lopez G.": 1.0,
+    "Ferrer D.->Vanek J.": 0.0,
+    "Ferrer D.->Johansson T.": 0.0,
+    "Ferrer D.->Gaudio G.": 0.5,
+    "Ferrer D.->Moya C.": 1.0,
+    "Ferrer D.->Coria G.": 1.0,
+    "Ferrer D.->Ferrero J.C.": 0.5,
+    "Ferrer D.->Zib T.": 0.0,
+    "Ferrer D.->Verdasco F.": 0.0,
+    "Ferrer D.->Calleri A.": 0.0,
+    "Ferrer D.->Mantilla F.": 1.0,
+    "Ferrer D.->Haas T.": 0.0,
+    "Ferrer D.->Grosjean S.": 0.0,
+    "Ferrer D.->Mirnyi M.": 0.5,
+    "Ferrer D.->Federer R.": 1.0,
+    "Ferrer D.->Saulnier C.": 0.0,
+    "Ferrer D.->Monaco J.": 1.0,
+    "Ferrer D.->Berdych T.": 1.0,
+    "Nalbandian D.->Pavel A.": 0.0,
+    "Nalbandian D.->Hewitt L.": 1.0,
+    "Nalbandian D.->Stepanek R.": 1.0,
+    "Nalbandian D.->Gonzalez F.": 0.3333333333333333,
+    "Nalbandian D.->Dent T.": 1.0,
+    "Nalbandian D.->Johansson T.": 0.5,
+    "Nalbandian D.->Coria G.": 0.0,
+    "Nalbandian D.->Ferrero J.C.": 1.0,
+    "Nalbandian D.->Acasuso J.": 0.0,
+    "Nalbandian D.->Chela J.I.": 0.0,
+    "Nalbandian D.->Haas T.": 1.0,
+    "Nalbandian D.->Sanguinetti D.": 0.0,
+    "Nalbandian D.->Beck K.": 1.0,
+    "Nalbandian D.->Kiefer N.": 1.0,
+    "Nalbandian D.->Melzer J.": 0.0,
+    "Nalbandian D.->Ventura S.": 0.0,
+    "Nalbandian D.->Grosjean S.": 0.0,
+    "Nalbandian D.->Mayer F.": 0.0,
+    "Nalbandian D.->Federer R.": 0.6666666666666666,
+    "Nalbandian D.->Davydenko N.": 0.0,
+    "Nalbandian D.->Monaco J.": 0.0,
+    "Nalbandian D.->Berdych T.": 0.0,
+    "Djokovic N.->Puerta M.": 0.0,
+    "Djokovic N.->Gonzalez F.": 1.0,
+    "Djokovic N.->Rochus O.": 1.0,
+    "Djokovic N.->Ferrero J.C.": 1.0,
+    "Djokovic N.->Verdasco F.": 1.0,
+    "Djokovic N.->Robredo T.": 1.0,
+    "Lapentti N.->Garcia-Lopez G.": 1.0,
+    "Lapentti N.->Horna L.": 0.0,
+    "Lapentti N.->Stepanek R.": 1.0,
+    "Lapentti N.->Gonzalez F.": 0.0,
+    "Lapentti N.->Ferrero J.C.": 1.0,
+    "Lapentti N.->Verdasco F.": 1.0,
+    "Lapentti N.->Robredo T.": 1.0,
+    "Lapentti N.->Kiefer N.": 1.0,
+    "Lapentti N.->Carlsen K.": 1.0,
+    "Lu Y.H.->Malisse X.": 1.0,
+    "Morrison J.->Haas T.": 1.0,
+    "Calatrava A.->Puerta M.": 1.0,
+    "Calatrava A.->Mathieu P.H.": 1.0,
+    "Calatrava A.->Calleri A.": 1.0,
+    "Calatrava A.->Ventura S.": 1.0,
+    "Wang Y.T.->Moodie W.": 1.0,
+    "Volandri F.->Serra F.": 1.0,
+    "Volandri F.->Ginepri R.": 1.0,
+    "Volandri F.->Montanes A.": 1.0,
+    "Volandri F.->Andreev I.": 1.0,
+    "Volandri F.->Puerta M.": 0.5,
+    "Volandri F.->Garcia-Lopez G.": 0.0,
+    "Volandri F.->Muller G.": 0.0,
+    "Volandri F.->Gonzalez F.": 1.0,
+    "Volandri F.->Gaudio G.": 1.0,
+    "Volandri F.->Moya C.": 1.0,
+    "Volandri F.->Coria G.": 1.0,
+    "Volandri F.->Rochus O.": 1.0,
+    "Volandri F.->Ferrero J.C.": 1.0,
+    "Volandri F.->Blake J.": 1.0,
+    "Volandri F.->Zib T.": 1.0,
+    "Volandri F.->Burgsmuller L.": 1.0,
+    "Volandri F.->Behrend T.": 0.0,
+    "Volandri F.->Robredo T.": 0.0,
+    "Volandri F.->Almagro N.": 0.0,
+    "Volandri F.->Grosjean S.": 0.0,
+    "Volandri F.->Mayer F.": 1.0,
+    "Volandri F.->Wawrinka S.": 1.0,
+    "Volandri F.->Davydenko N.": 1.0,
+    "Volandri F.->Saulnier C.": 0.0,
+    "Volandri F.->Rochus C.": 0.0,
+    "Ascione T.->Hrbaty D.": 1.0,
+    "Serra F.->Pavel A.": 0.0,
+    "Serra F.->Andreev I.": 0.0,
+    "Serra F.->Koubek S.": 0.0,
+    "Serra F.->Mathieu P.H.": 0.0,
+    "Serra F.->Sanguinetti D.": 1.0,
+    "Serra F.->Mirnyi M.": 1.0,
+    "Serra F.->Wawrinka S.": 1.0,
+    "Serra F.->Vik R.": 1.0,
+    "Ginepri R.->Puerta M.": 0.0,
+    "Ginepri R.->Hrbaty D.": 1.0,
+    "Ginepri R.->Kim K.": 0.0,
+    "Ginepri R.->Garcia-Lopez G.": 0.0,
+    "Ginepri R.->Horna L.": 1.0,
+    "Ginepri R.->Hewitt L.": 1.0,
+    "Ginepri R.->Stepanek R.": 1.0,
+    "Ginepri R.->Muller G.": 0.3333333333333333,
+    "Ginepri R.->Gonzalez F.": 1.0,
+    "Ginepri R.->Dent T.": 1.0,
+    "Ginepri R.->Gaudio G.": 1.0,
+    "Ginepri R.->Moya C.": 0.0,
+    "Ginepri R.->Coria G.": 0.0,
+    "Ginepri R.->Acasuso J.": 0.0,
+    "Ginepri R.->Henman T.": 1.0,
+    "Ginepri R.->Enqvist T.": 1.0,
+    "Ginepri R.->Spadea V.": 0.3333333333333333,
+    "Ginepri R.->Verdasco F.": 0.0,
+    "Ginepri R.->Calleri A.": 0.0,
+    "Ginepri R.->Haas T.": 0.0,
+    "Ginepri R.->Beck K.": 0.0,
+    "Ginepri R.->Grosjean S.": 0.0,
+    "Ginepri R.->Federer R.": 1.0,
+    "Ginepri R.->Davydenko N.": 0.0,
+    "Ginepri R.->Safin M.": 0.0,
+    "Pavel A.->Andreev I.": 1.0,
+    "Pavel A.->Puerta M.": 1.0,
+    "Pavel A.->Vanek J.": 0.0,
+    "Pavel A.->Johansson T.": 1.0,
+    "Pavel A.->Carraz G.": 0.0,
+    "Pavel A.->Zib T.": 1.0,
+    "Pavel A.->Haas T.": 0.6666666666666666,
+    "Pavel A.->Sanguinetti D.": 0.0,
+    "Pavel A.->Schalken S.": 0.5,
+    "Pavel A.->Mayer F.": 0.0,
+    "Pavel A.->Saulnier C.": 0.0,
+    "Pavel A.->Rochus C.": 0.0,
+    "Waske A.->Muller G.": 1.0,
+    "Stakhovsky S.->Rochus C.": 0.0,
+    "Tursunov D.->Rusedski G.": 1.0,
+    "Tursunov D.->Spadea V.": 0.0,
+    "Tursunov D.->Davydenko N.": 1.0,
+    "di Mauro A.->Horna L.": 1.0,
+    "di Mauro A.->Kiefer N.": 1.0,
+    "Sanchez D.->Montanes A.": 0.0,
+    "Sanchez D.->Garcia-Lopez G.": 1.0,
+    "Sanchez D.->Gaudio G.": 1.0,
+    "Sanchez D.->Sargsian S.": 1.0,
+    "Sanchez D.->Hernandez O.": 1.0,
+    "Sanchez D.->Spadea V.": 1.0,
+    "Montanes A.->Andreev I.": 1.0,
+    "Montanes A.->Rochus O.": 1.0,
+    "Montanes A.->Ferrero J.C.": 1.0,
+    "Montanes A.->Zib T.": 0.0,
+    "Montanes A.->Calleri A.": 0.0,
+    "Montanes A.->Robredo T.": 1.0,
+    "Montanes A.->Federer R.": 1.0,
+    "Labadze I.->Carlsen K.": 1.0,
+    "Andreev I.->Puerta M.": 0.0,
+    "Andreev I.->Garcia-Lopez G.": 0.0,
+    "Andreev I.->Hewitt L.": 1.0,
+    "Andreev I.->Stepanek R.": 1.0,
+    "Andreev I.->Clement A.": 0.0,
+    "Andreev I.->Gonzalez F.": 1.0,
+    "Andreev I.->Vanek J.": 0.0,
+    "Andreev I.->Bracciali D.": 0.0,
+    "Andreev I.->Coria G.": 1.0,
+    "Andreev I.->Rochus O.": 0.0,
+    "Andreev I.->Ferrero J.C.": 1.0,
+    "Andreev I.->Blake J.": 1.0,
+    "Andreev I.->Acasuso J.": 1.0,
+    "Andreev I.->Henman T.": 1.0,
+    "Andreev I.->Mathieu P.H.": 1.0,
+    "Andreev I.->Burgsmuller L.": 0.0,
+    "Andreev I.->Verdasco F.": 1.0,
+    "Andreev I.->Sanguinetti D.": 0.0,
+    "Andreev I.->Beck K.": 1.0,
+    "Andreev I.->Almagro N.": 0.3333333333333333,
+    "Andreev I.->Kiefer N.": 0.5,
+    "Andreev I.->Monaco J.": 0.6666666666666666,
+    "Puerta M.->Garcia-Lopez G.": 0.0,
+    "Puerta M.->Horna L.": 0.0,
+    "Puerta M.->Tipsarevic J.": 0.0,
+    "Puerta M.->Gonzalez F.": 1.0,
+    "Puerta M.->Gaudio G.": 1.0,
+    "Puerta M.->Moya C.": 0.0,
+    "Puerta M.->Rochus O.": 0.5,
+    "Puerta M.->Acasuso J.": 0.0,
+    "Puerta M.->Burgsmuller L.": 1.0,
+    "Puerta M.->Mantilla F.": 0.5,
+    "Puerta M.->Almagro N.": 0.0,
+    "Puerta M.->Melzer J.": 1.0,
+    "Puerta M.->Mayer F.": 0.0,
+    "Puerta M.->Mirnyi M.": 0.0,
+    "Puerta M.->Wawrinka S.": 0.5,
+    "Puerta M.->Davydenko N.": 0.6666666666666666,
+    "Puerta M.->Monaco J.": 0.0,
+    "Puerta M.->Malisse X.": 0.0,
+    "Sluiter R.->Coria G.": 1.0,
+    "Sluiter R.->Enqvist T.": 1.0,
+    "Sluiter R.->Robredo T.": 0.0,
+    "Sluiter R.->Safin M.": 1.0,
+    "Hrbaty D.->Horna L.": 1.0,
+    "Hrbaty D.->Hewitt L.": 1.0,
+    "Hrbaty D.->Stepanek R.": 0.0,
+    "Hrbaty D.->Muller G.": 1.0,
+    "Hrbaty D.->Gonzalez F.": 1.0,
+    "Hrbaty D.->Johansson T.": 0.0,
+    "Hrbaty D.->Gaudio G.": 0.0,
+    "Hrbaty D.->Rusedski G.": 1.0,
+    "Hrbaty D.->Ferrero J.C.": 0.0,
+    "Hrbaty D.->Acasuso J.": 1.0,
+    "Hrbaty D.->Henman T.": 0.0,
+    "Hrbaty D.->Chela J.I.": 0.0,
+    "Hrbaty D.->Benneteau J.": 0.0,
+    "Hrbaty D.->Haehnel J.": 0.0,
+    "Hrbaty D.->Calleri A.": 0.0,
+    "Hrbaty D.->Haas T.": 0.0,
+    "Hrbaty D.->Beck K.": 0.0,
+    "Hrbaty D.->Mayer F.": 0.0,
+    "Hrbaty D.->Davydenko N.": 1.0,
+    "Hrbaty D.->Carlsen K.": 1.0,
+    "Hrbaty D.->Safin M.": 0.6666666666666666,
+    "Hrbaty D.->Saulnier C.": 0.5,
+    "Kim K.->Horna L.": 0.0,
+    "Kim K.->Stepanek R.": 1.0,
+    "Kim K.->Dent T.": 1.0,
+    "Kim K.->Johansson T.": 1.0,
+    "Kim K.->Coria G.": 1.0,
+    "Kim K.->Rochus O.": 1.0,
+    "Kim K.->Rusedski G.": 1.0,
+    "Kim K.->Zib T.": 1.0,
+    "Kim K.->Spadea V.": 1.0,
+    "Kim K.->Haas T.": 1.0,
+    "Kim K.->Robredo T.": 1.0,
+    "Kim K.->Sanguinetti D.": 1.0,
+    "Kim K.->Schalken S.": 1.0,
+    "Kim K.->Kiefer N.": 1.0,
+    "Kim K.->Mirnyi M.": 1.0,
+    "Kim K.->Carlsen K.": 0.0,
+    "Kim K.->Vik R.": 0.0,
+    "Kim K.->Rochus C.": 1.0,
+    "Kim K.->Berdych T.": 1.0,
+    "Koubek S.->Johansson T.": 1.0,
+    "Koubek S.->Ferrero J.C.": 1.0,
+    "Koubek S.->Robredo T.": 1.0,
+    "Garcia-Lopez G.->Horna L.": 0.0,
+    "Garcia-Lopez G.->Gimelstob J.": 1.0,
+    "Garcia-Lopez G.->Gaudio G.": 1.0,
+    "Garcia-Lopez G.->Rochus O.": 1.0,
+    "Garcia-Lopez G.->Ferrero J.C.": 1.0,
+    "Garcia-Lopez G.->Blake J.": 1.0,
+    "Garcia-Lopez G.->Acasuso J.": 1.0,
+    "Garcia-Lopez G.->Hernandez O.": 0.0,
+    "Garcia-Lopez G.->Kiefer N.": 1.0,
+    "Garcia-Lopez G.->Grosjean S.": 1.0,
+    "Garcia-Lopez G.->Monaco J.": 0.0,
+    "Garcia-Lopez G.->Rochus C.": 1.0,
+    "Horna L.->Stepanek R.": 1.0,
+    "Horna L.->Muller G.": 1.0,
+    "Horna L.->Moodie W.": 1.0,
+    "Horna L.->Coria G.": 0.0,
+    "Horna L.->Rochus O.": 1.0,
+    "Horna L.->Acasuso J.": 1.0,
+    "Horna L.->Henman T.": 0.0,
+    "Horna L.->Zib T.": 0.0,
+    "Horna L.->Enqvist T.": 0.0,
+    "Horna L.->Haehnel J.": 0.0,
+    "Horna L.->Mayer F.": 0.0,
+    "Horna L.->Rochus C.": 0.0,
+    "Horna L.->Berdych T.": 1.0,
+    "Gimelstob J.->Gonzalez F.": 1.0,
+    "Gimelstob J.->Mirnyi M.": 1.0,
+    "Youzhny M.->Goldstein P.": 0.0,
+    "Youzhny M.->Muller G.": 0.0,
+    "Youzhny M.->Moodie W.": 1.0,
+    "Youzhny M.->Gonzalez F.": 1.0,
+    "Youzhny M.->Johansson T.": 0.0,
+    "Youzhny M.->Gaudio G.": 1.0,
+    "Youzhny M.->Coria G.": 1.0,
+    "Youzhny M.->Enqvist T.": 1.0,
+    "Youzhny M.->Haehnel J.": 0.0,
+    "Youzhny M.->Robredo T.": 1.0,
+    "Youzhny M.->Beck K.": 0.0,
+    "Youzhny M.->Melzer J.": 1.0,
+    "Youzhny M.->Mayer F.": 0.5,
+    "Youzhny M.->Federer R.": 1.0,
+    "Youzhny M.->Dlouhy L.": 0.0,
+    "Youzhny M.->Vik R.": 1.0,
+    "Youzhny M.->Saulnier C.": 0.0,
+    "Youzhny M.->Malisse X.": 1.0,
+    "Youzhny M.->Berdych T.": 0.0,
+    "Hewitt L.->Dent T.": 0.3333333333333333,
+    "Hewitt L.->Johansson T.": 0.0,
+    "Hewitt L.->Rusedski G.": 0.0,
+    "Hewitt L.->Blake J.": 0.0,
+    "Hewitt L.->Acasuso J.": 0.0,
+    "Hewitt L.->Chela J.I.": 0.0,
+    "Hewitt L.->Mathieu P.H.": 0.0,
+    "Hewitt L.->Calleri A.": 0.0,
+    "Hewitt L.->Beck K.": 0.0,
+    "Hewitt L.->Mirnyi M.": 0.0,
+    "Hewitt L.->Federer R.": 1.0,
+    "Hewitt L.->Davydenko N.": 0.0,
+    "Hewitt L.->Dlouhy L.": 0.0,
+    "Hewitt L.->Safin M.": 1.0,
+    "Hewitt L.->Rochus C.": 0.0,
+    "Hewitt L.->Malisse X.": 0.0,
+    "Goldstein P.->Dent T.": 1.0,
+    "Goldstein P.->Spadea V.": 1.0,
+    "Goldstein P.->Mirnyi M.": 0.0,
+    "Goldstein P.->Davydenko N.": 1.0,
+    "Goldstein P.->Saulnier C.": 0.0,
+    "Stepanek R.->Muller G.": 1.0,
+    "Stepanek R.->Moodie W.": 1.0,
+    "Stepanek R.->Johansson T.": 0.5,
+    "Stepanek R.->Moya C.": 0.0,
+    "Stepanek R.->Rochus O.": 1.0,
+    "Stepanek R.->Rusedski G.": 0.0,
+    "Stepanek R.->Ferrero J.C.": 0.5,
+    "Stepanek R.->Acasuso J.": 0.0,
+    "Stepanek R.->Henman T.": 0.3333333333333333,
+    "Stepanek R.->Chela J.I.": 0.0,
+    "Stepanek R.->Mathieu P.H.": 0.0,
+    "Stepanek R.->Benneteau J.": 0.0,
+    "Stepanek R.->Spadea V.": 0.0,
+    "Stepanek R.->Kiefer N.": 1.0,
+    "Stepanek R.->Ventura S.": 0.0,
+    "Stepanek R.->Grosjean S.": 1.0,
+    "Stepanek R.->Davydenko N.": 0.0,
+    "Stepanek R.->Saulnier C.": 0.0,
+    "Stepanek R.->Monaco J.": 0.0,
+    "Stepanek R.->Berdych T.": 1.0,
+    "Tipsarevic J.->Muller G.": 1.0,
+    "Tipsarevic J.->Spadea V.": 1.0,
+    "Tipsarevic J.->Robredo T.": 1.0,
+    "Muller G.->Johansson T.": 1.0,
+    "Muller G.->Zib T.": 1.0,
+    "Muller G.->Verdasco F.": 1.0,
+    "Muller G.->Robredo T.": 1.0,
+    "Muller G.->Sanguinetti D.": 0.0,
+    "Muller G.->Melzer J.": 1.0,
+    "Muller G.->Ventura S.": 1.0,
+    "Muller G.->Grosjean S.": 1.0,
+    "Muller G.->Mirnyi M.": 1.0,
+    "Muller G.->Federer R.": 1.0,
+    "Muller G.->Saulnier C.": 1.0,
+    "Clement A.->Gaudio G.": 1.0,
+    "Clement A.->Ferrero J.C.": 0.0,
+    "Clement A.->Robredo T.": 1.0,
+    "Clement A.->Kiefer N.": 0.5,
+    "Clement A.->Vik R.": 0.0,
+    "Moodie W.->Mayer F.": 1.0,
+    "Gonzalez F.->Gaudio G.": 1.0,
+    "Gonzalez F.->Moya C.": 0.0,
+    "Gonzalez F.->Coria G.": 0.5,
+    "Gonzalez F.->Rochus O.": 0.0,
+    "Gonzalez F.->Rusedski G.": 0.0,
+    "Gonzalez F.->Blake J.": 0.0,
+    "Gonzalez F.->Acasuso J.": 0.0,
+    "Gonzalez F.->Zib T.": 0.0,
+    "Gonzalez F.->Chela J.I.": 0.0,
+    "Gonzalez F.->Mathieu P.H.": 1.0,
+    "Gonzalez F.->Mathieu P.": 0.0,
+    "Gonzalez F.->Behrend T.": 0.0,
+    "Gonzalez F.->Verdasco F.": 0.3333333333333333,
+    "Gonzalez F.->Calleri A.": 0.0,
+    "Gonzalez F.->Mantilla F.": 0.0,
+    "Gonzalez F.->Mayer F.": 1.0,
+    "Gonzalez F.->Mirnyi M.": 1.0,
+    "Gonzalez F.->Federer R.": 1.0,
+    "Gonzalez F.->Davydenko N.": 1.0,
+    "Gonzalez F.->Berdych T.": 0.0,
+    "Dent T.->Coria G.": 0.0,
+    "Dent T.->Rusedski G.": 0.0,
+    "Dent T.->Henman T.": 1.0,
+    "Dent T.->Chela J.I.": 0.0,
+    "Dent T.->Burgsmuller L.": 0.0,
+    "Dent T.->Behrend T.": 0.0,
+    "Dent T.->Benneteau J.": 0.0,
+    "Dent T.->Sanguinetti D.": 1.0,
+    "Dent T.->Almagro N.": 0.0,
+    "Dent T.->Kiefer N.": 1.0,
+    "Dent T.->Grosjean S.": 0.0,
+    "Dent T.->Mayer F.": 0.0,
+    "Dent T.->Safin M.": 0.0,
+    "Dent T.->Saulnier C.": 0.0,
+    "Dent T.->Berdych T.": 0.0,
+    "Vanek J.->Gaudio G.": 1.0,
+    "Vanek J.->Acasuso J.": 1.0,
+    "Vanek J.->Mathieu P.H.": 1.0,
+    "Vanek J.->Sanguinetti D.": 1.0,
+    "Vanek J.->Kiefer N.": 1.0,
+    "Kuerten G.->Rochus O.": 0.0,
+    "Johansson T.->Moya C.": 0.0,
+    "Johansson T.->Coria G.": 1.0,
+    "Johansson T.->Rusedski G.": 0.0,
+    "Johansson T.->Henman T.": 0.0,
+    "Johansson T.->Chela J.I.": 0.5,
+    "Johansson T.->Spadea V.": 0.0,
+    "Johansson T.->Verdasco F.": 0.0,
+    "Johansson T.->Calleri A.": 0.0,
+    "Johansson T.->Beck K.": 0.0,
+    "Johansson T.->Kiefer N.": 0.0,
+    "Johansson T.->Grosjean S.": 1.0,
+    "Johansson T.->Mayer F.": 0.0,
+    "Johansson T.->Mirnyi M.": 0.0,
+    "Johansson T.->Federer R.": 1.0,
+    "Johansson T.->Davydenko N.": 1.0,
+    "Johansson T.->Saulnier C.": 0.0,
+    "Johansson T.->Malisse X.": 0.5,
+    "Johansson T.->Berdych T.": 0.0,
+    "Gaudio G.->Ferrero J.C.": 1.0,
+    "Gaudio G.->Acasuso J.": 0.5,
+    "Gaudio G.->Mathieu P.H.": 0.0,
+    "Gaudio G.->Verdasco F.": 0.0,
+    "Gaudio G.->Mantilla F.": 0.0,
+    "Gaudio G.->Robredo T.": 0.3333333333333333,
+    "Gaudio G.->Sanguinetti D.": 0.0,
+    "Gaudio G.->Beck K.": 0.0,
+    "Gaudio G.->Kiefer N.": 1.0,
+    "Gaudio G.->Melzer J.": 1.0,
+    "Gaudio G.->Grosjean S.": 0.0,
+    "Gaudio G.->Mirnyi M.": 0.0,
+    "Gaudio G.->Wawrinka S.": 0.0,
+    "Gaudio G.->Federer R.": 1.0,
+    "Gaudio G.->Davydenko N.": 1.0,
+    "Gaudio G.->Carlsen K.": 0.0,
+    "Gaudio G.->Vik R.": 0.0,
+    "Gaudio G.->Rochus C.": 0.5,
+    "Gaudio G.->Berdych T.": 1.0,
+    "Bracciali D.->Behrend T.": 1.0,
+    "Bracciali D.->Robredo T.": 1.0,
+    "Bracciali D.->Davydenko N.": 0.0,
+    "Moya C.->Coria G.": 1.0,
+    "Moya C.->Ferrero J.C.": 0.0,
+    "Moya C.->Mathieu P.H.": 0.0,
+    "Moya C.->Mantilla F.": 0.0,
+    "Moya C.->Robredo T.": 1.0,
+    "Moya C.->Sanguinetti D.": 1.0,
+    "Moya C.->Mirnyi M.": 1.0,
+    "Moya C.->Federer R.": 1.0,
+    "Moya C.->Monaco J.": 0.0,
+    "Moya C.->Malisse X.": 0.0,
+    "Coria G.->Rochus O.": 1.0,
+    "Coria G.->Ferrero J.C.": 0.25,
+    "Coria G.->Mathieu P.H.": 0.0,
+    "Coria G.->Behrend T.": 0.0,
+    "Coria G.->Spadea V.": 0.0,
+    "Coria G.->Verdasco F.": 0.0,
+    "Coria G.->Calleri A.": 1.0,
+    "Coria G.->Mantilla F.": 0.0,
+    "Coria G.->Sanguinetti D.": 0.0,
+    "Coria G.->Schalken S.": 0.0,
+    "Coria G.->Kiefer N.": 0.0,
+    "Coria G.->Melzer J.": 0.0,
+    "Coria G.->Mayer F.": 1.0,
+    "Coria G.->Federer R.": 1.0,
+    "Coria G.->Davydenko N.": 1.0,
+    "Coria G.->Carlsen K.": 0.0,
+    "Coria G.->Saulnier C.": 0.0,
+    "Coria G.->Rochus C.": 0.0,
+    "Coria G.->Malisse X.": 0.0,
+    "Coria G.->Berdych T.": 0.5,
+    "Rochus O.->Blake J.": 1.0,
+    "Rochus O.->Mathieu P.H.": 1.0,
+    "Rochus O.->Verdasco F.": 1.0,
+    "Rochus O.->Robredo T.": 1.0,
+    "Rochus O.->Beck K.": 0.0,
+    "Rochus O.->Kiefer N.": 0.0,
+    "Rochus O.->Grosjean S.": 1.0,
+    "Rochus O.->Mirnyi M.": 1.0,
+    "Rochus O.->Federer R.": 1.0,
+    "Rochus O.->Davydenko N.": 1.0,
+    "Rochus O.->Safin M.": 1.0,
+    "Rochus O.->Vik R.": 0.0,
+    "Rochus O.->Saulnier C.": 0.0,
+    "Rochus O.->Berdych T.": 0.0,
+    "Sargsian S.->Chela J.I.": 1.0,
+    "Sargsian S.->Benneteau J.": 1.0,
+    "Sargsian S.->Kiefer N.": 1.0,
+    "Sargsian S.->Mirnyi M.": 1.0,
+    "Rusedski G.->Blake J.": 1.0,
+    "Rusedski G.->Henman T.": 1.0,
+    "Rusedski G.->Spadea V.": 0.0,
+    "Rusedski G.->Kiefer N.": 0.0,
+    "Rusedski G.->Mirnyi M.": 0.0,
+    "Rusedski G.->Wawrinka S.": 0.0,
+    "Rusedski G.->Federer R.": 1.0,
+    "Rusedski G.->Davydenko N.": 1.0,
+    "Rusedski G.->Carlsen K.": 0.0,
+    "Ferrero J.C.->Acasuso J.": 1.0,
+    "Ferrero J.C.->Behrend T.": 1.0,
+    "Ferrero J.C.->Hernandez O.": 0.0,
+    "Ferrero J.C.->Haas T.": 1.0,
+    "Ferrero J.C.->Beck K.": 0.0,
+    "Ferrero J.C.->Melzer J.": 0.0,
+    "Ferrero J.C.->Mayer F.": 0.0,
+    "Ferrero J.C.->Mirnyi M.": 1.0,
+    "Ferrero J.C.->Wawrinka S.": 0.0,
+    "Ferrero J.C.->Federer R.": 1.0,
+    "Ferrero J.C.->Davydenko N.": 0.5,
+    "Ferrero J.C.->Safin M.": 0.3333333333333333,
+    "Ferrero J.C.->Berdych T.": 1.0,
+    "Carraz G.->Haas T.": 1.0,
+    "Blake J.->Chela J.I.": 0.0,
+    "Blake J.->Haas T.": 0.0,
+    "Blake J.->Robredo T.": 0.0,
+    "Blake J.->Mayer F.": 0.0,
+    "Blake J.->Federer R.": 1.0,
+    "Blake J.->Rochus C.": 0.0,
+    "Acasuso J.->Zib T.": 1.0,
+    "Acasuso J.->Chela J.I.": 0.0,
+    "Acasuso J.->Benneteau J.": 0.0,
+    "Acasuso J.->Robredo T.": 0.0,
+    "Acasuso J.->Almagro N.": 0.3333333333333333,
+    "Acasuso J.->Melzer J.": 0.0,
+    "Acasuso J.->Mayer F.": 1.0,
+    "Acasuso J.->Mirnyi M.": 0.0,
+    "Acasuso J.->Federer R.": 1.0,
+    "Acasuso J.->Davydenko N.": 1.0,
+    "Acasuso J.->Safin M.": 0.0,
+    "Acasuso J.->Rochus C.": 1.0,
+    "Henman T.->Chela J.I.": 0.6666666666666666,
+    "Henman T.->Burgsmuller L.": 0.0,
+    "Henman T.->Verdasco F.": 1.0,
+    "Henman T.->Robredo T.": 0.0,
+    "Henman T.->Kiefer N.": 0.0,
+    "Henman T.->Melzer J.": 0.0,
+    "Henman T.->Federer R.": 1.0,
+    "Henman T.->Davydenko N.": 1.0,
+    "Henman T.->Saulnier C.": 0.0,
+    "Zib T.->Haehnel J.": 0.0,
+    "Zib T.->Verdasco F.": 1.0,
+    "Zib T.->Mantilla F.": 1.0,
+    "Zib T.->Haas T.": 1.0,
+    "Zib T.->Ventura S.": 0.0,
+    "Zib T.->Davydenko N.": 1.0,
+    "Zib T.->Saulnier C.": 1.0,
+    "Zib T.->Monaco J.": 0.5,
+    "Zib T.->Rochus C.": 0.0,
+    "Chela J.I.->Burgsmuller L.": 0.0,
+    "Chela J.I.->Spadea V.": 1.0,
+    "Chela J.I.->Calleri A.": 1.0,
+    "Chela J.I.->Sanguinetti D.": 1.0,
+    "Chela J.I.->Melzer J.": 0.0,
+    "Chela J.I.->Davydenko N.": 0.0,
+    "Chela J.I.->Monaco J.": 1.0,
+    "Chela J.I.->Rochus C.": 1.0,
+    "Chela J.I.->Malisse X.": 0.5,
+    "Mathieu P.H.->Verdasco F.": 1.0,
+    "Mathieu P.H.->Haas T.": 0.0,
+    "Mathieu P.H.->Sanguinetti D.": 0.0,
+    "Mathieu P.H.->Beck K.": 0.5,
+    "Mathieu P.H.->Davydenko N.": 1.0,
+    "Enqvist T.->Spadea V.": 1.0,
+    "Enqvist T.->Robredo T.": 1.0,
+    "Enqvist T.->Beck K.": 0.0,
+    "Enqvist T.->Mayer F.": 0.0,
+    "Burgsmuller L.->Almagro N.": 1.0,
+    "Burgsmuller L.->Mayer F.": 1.0,
+    "Burgsmuller L.->Monaco J.": 1.0,
+    "Burgsmuller L.->Berdych T.": 1.0,
+    "Mathieu P.->Federer R.": 1.0,
+    "Behrend T.->Verdasco F.": 0.0,
+    "Behrend T.->Rochus C.": 0.0,
+    "Benneteau J.->Robredo T.": 0.0,
+    "Haehnel J.->Schalken S.": 1.0,
+    "Haehnel J.->Davydenko N.": 1.0,
+    "Hernandez O.->Mantilla F.": 1.0,
+    "Hernandez O.->Grosjean S.": 1.0,
+    "Hernandez O.->Mayer F.": 1.0,
+    "Ulihrach B.->Safin M.": 1.0,
+    "Spadea V.->Melzer J.": 1.0,
+    "Spadea V.->Saulnier C.": 1.0,
+    "Spadea V.->Malisse X.": 1.0,
+    "Verdasco F.->Robredo T.": 0.0,
+    "Verdasco F.->Almagro N.": 0.0,
+    "Verdasco F.->Melzer J.": 0.0,
+    "Verdasco F.->Mayer F.": 1.0,
+    "Verdasco F.->Wawrinka S.": 0.5,
+    "Verdasco F.->Federer R.": 1.0,
+    "Verdasco F.->Davydenko N.": 0.5,
+    "Verdasco F.->Carlsen K.": 0.0,
+    "Verdasco F.->Monaco J.": 0.0,
+    "Verdasco F.->Berdych T.": 0.0,
+    "Calleri A.->Mirnyi M.": 0.0,
+    "Calleri A.->Monaco J.": 0.0,
+    "Mantilla F.->Davydenko N.": 1.0,
+    "Haas T.->Beck K.": 1.0,
+    "Haas T.->Almagro N.": 0.0,
+    "Haas T.->Kiefer N.": 1.0,
+    "Haas T.->Melzer J.": 0.5,
+    "Haas T.->Mayer F.": 0.0,
+    "Haas T.->Mirnyi M.": 0.5,
+    "Haas T.->Federer R.": 1.0,
+    "Haas T.->Davydenko N.": 1.0,
+    "Haas T.->Rochus C.": 0.0,
+    "Haas T.->Malisse X.": 0.3333333333333333,
+    "Robredo T.->Sanguinetti D.": 0.0,
+    "Robredo T.->Kiefer N.": 0.0,
+    "Robredo T.->Ventura S.": 0.0,
+    "Robredo T.->Grosjean S.": 0.5,
+    "Robredo T.->Federer R.": 1.0,
+    "Robredo T.->Davydenko N.": 1.0,
+    "Robredo T.->Safin M.": 0.0,
+    "Robredo T.->Berdych T.": 0.0,
+    "Sanguinetti D.->Schalken S.": 0.0,
+    "Sanguinetti D.->Grosjean S.": 1.0,
+    "Sanguinetti D.->Mirnyi M.": 0.5,
+    "Sanguinetti D.->Monaco J.": 1.0,
+    "Sanguinetti D.->Rochus C.": 1.0,
+    "Schalken S.->Davydenko N.": 0.5,
+    "Beck K.->Kiefer N.": 0.0,
+    "Beck K.->Davydenko N.": 0.6666666666666666,
+    "Beck K.->Berdych T.": 1.0,
+    "Almagro N.->Ventura S.": 0.6666666666666666,
+    "Almagro N.->Federer R.": 1.0,
+    "Almagro N.->Carlsen K.": 0.0,
+    "Almagro N.->Berdych T.": 1.0,
+    "Kiefer N.->Melzer J.": 0.0,
+    "Kiefer N.->Grosjean S.": 1.0,
+    "Kiefer N.->Mayer F.": 0.5,
+    "Kiefer N.->Mirnyi M.": 0.0,
+    "Kiefer N.->Federer R.": 1.0,
+    "Kiefer N.->Davydenko N.": 0.0,
+    "Kiefer N.->Safin M.": 0.0,
+    "Kiefer N.->Vik R.": 0.0,
+    "Kiefer N.->Saulnier C.": 0.0,
+    "Melzer J.->Davydenko N.": 1.0,
+    "Melzer J.->Saulnier C.": 1.0,
+    "Melzer J.->Rochus C.": 0.0,
+    "Melzer J.->Malisse X.": 0.0,
+    "Melzer J.->Berdych T.": 0.5,
+    "Ventura S.->Rochus C.": 1.0,
+    "Grosjean S.->Davydenko N.": 1.0,
+    "Grosjean S.->Carlsen K.": 0.0,
+    "Grosjean S.->Monaco J.": 0.0,
+    "Grosjean S.->Berdych T.": 1.0,
+    "Mayer F.->Federer R.": 1.0,
+    "Mayer F.->Carlsen K.": 1.0,
+    "Mayer F.->Monaco J.": 0.5,
+    "Mirnyi M.->Davydenko N.": 1.0,
+    "Mirnyi M.->Carlsen K.": 0.3333333333333333,
+    "Mirnyi M.->Saulnier C.": 0.0,
+    "Mirnyi M.->Monaco J.": 0.0,
+    "Mirnyi M.->Malisse X.": 0.0,
+    "Mirnyi M.->Berdych T.": 0.0,
+    "Wawrinka S.->Saulnier C.": 1.0,
+    "Wawrinka S.->Berdych T.": 0.0,
+    "Federer R.->Davydenko N.": 0.0,
+    "Federer R.->Safin M.": 0.5,
+    "Federer R.->Berdych T.": 0.0,
+    "Davydenko N.->Dlouhy L.": 0.0,
+    "Davydenko N.->Berdych T.": 0.0,
+    "Safin M.->Saulnier C.": 0.0,
+    "Monaco J.->Malisse X.": 1.0
+  }
+}

@@ -1,0 +1,740 @@
+{
+  "nodes": [
+    "Djokovic N.",
+    "Machac T.",
+    "Hurkacz H.",
+    "Ruud C.",
+    "Medvedev D.",
+    "De Minaur A.",
+    "Rublev A.",
+    "Cobolli F.",
+    "Davidovich Fokina A.",
+    "Zverev A.",
+    "Fritz T.",
+    "Lehecka J.",
+    "Tsitsipas S.",
+    "Fils A.",
+    "Draper J.",
+    "Rune H.",
+    "Alcaraz C.",
+    "Popyrin A.",
+    "Khachanov K.",
+    "Humbert U.",
+    "Bublik A.",
+    "Shapovalov D.",
+    "Auger-Aliassime F.",
+    "Dimitrov G.",
+    "Mensik J.",
+    "Shelton B.",
+    "Tiafoe F.",
+    "Korda S.",
+    "Musetti L.",
+    "Cerundolo F.",
+    "Paul T.",
+    "Sinner J."
+  ],
+  "edges": [
+    [
+      "Djokovic N.",
+      "Machac T."
+    ],
+    [
+      "Djokovic N.",
+      "De Minaur A."
+    ],
+    [
+      "Djokovic N.",
+      "Cobolli F."
+    ],
+    [
+      "Djokovic N.",
+      "Zverev A."
+    ],
+    [
+      "Djokovic N.",
+      "Fritz T."
+    ],
+    [
+      "Djokovic N.",
+      "Alcaraz C."
+    ],
+    [
+      "Djokovic N.",
+      "Dimitrov G."
+    ],
+    [
+      "Djokovic N.",
+      "Korda S."
+    ],
+    [
+      "Djokovic N.",
+      "Musetti L."
+    ],
+    [
+      "Djokovic N.",
+      "Sinner J."
+    ],
+    [
+      "Machac T.",
+      "De Minaur A."
+    ],
+    [
+      "Machac T.",
+      "Fritz T."
+    ],
+    [
+      "Machac T.",
+      "Paul T."
+    ],
+    [
+      "Hurkacz H.",
+      "De Minaur A."
+    ],
+    [
+      "Hurkacz H.",
+      "Rublev A."
+    ],
+    [
+      "Hurkacz H.",
+      "Alcaraz C."
+    ],
+    [
+      "Ruud C.",
+      "Medvedev D."
+    ],
+    [
+      "Ruud C.",
+      "Fritz T."
+    ],
+    [
+      "Ruud C.",
+      "Draper J."
+    ],
+    [
+      "Ruud C.",
+      "Rune H."
+    ],
+    [
+      "Ruud C.",
+      "Alcaraz C."
+    ],
+    [
+      "Ruud C.",
+      "Khachanov K."
+    ],
+    [
+      "Ruud C.",
+      "Humbert U."
+    ],
+    [
+      "Ruud C.",
+      "Shapovalov D."
+    ],
+    [
+      "Ruud C.",
+      "Korda S."
+    ],
+    [
+      "Ruud C.",
+      "Cerundolo F."
+    ],
+    [
+      "Ruud C.",
+      "Sinner J."
+    ],
+    [
+      "Medvedev D.",
+      "De Minaur A."
+    ],
+    [
+      "Medvedev D.",
+      "Davidovich Fokina A."
+    ],
+    [
+      "Medvedev D.",
+      "Zverev A."
+    ],
+    [
+      "Medvedev D.",
+      "Fils A."
+    ],
+    [
+      "Medvedev D.",
+      "Rune H."
+    ],
+    [
+      "Medvedev D.",
+      "Popyrin A."
+    ],
+    [
+      "Medvedev D.",
+      "Khachanov K."
+    ],
+    [
+      "Medvedev D.",
+      "Musetti L."
+    ],
+    [
+      "Medvedev D.",
+      "Paul T."
+    ],
+    [
+      "De Minaur A.",
+      "Rublev A."
+    ],
+    [
+      "De Minaur A.",
+      "Fritz T."
+    ],
+    [
+      "De Minaur A.",
+      "Lehecka J."
+    ],
+    [
+      "De Minaur A.",
+      "Alcaraz C."
+    ],
+    [
+      "De Minaur A.",
+      "Khachanov K."
+    ],
+    [
+      "De Minaur A.",
+      "Bublik A."
+    ],
+    [
+      "De Minaur A.",
+      "Dimitrov G."
+    ],
+    [
+      "De Minaur A.",
+      "Shelton B."
+    ],
+    [
+      "De Minaur A.",
+      "Tiafoe F."
+    ],
+    [
+      "De Minaur A.",
+      "Musetti L."
+    ],
+    [
+      "De Minaur A.",
+      "Paul T."
+    ],
+    [
+      "De Minaur A.",
+      "Sinner J."
+    ],
+    [
+      "Rublev A.",
+      "Cobolli F."
+    ],
+    [
+      "Rublev A.",
+      "Fritz T."
+    ],
+    [
+      "Rublev A.",
+      "Fils A."
+    ],
+    [
+      "Rublev A.",
+      "Draper J."
+    ],
+    [
+      "Rublev A.",
+      "Alcaraz C."
+    ],
+    [
+      "Rublev A.",
+      "Popyrin A."
+    ],
+    [
+      "Rublev A.",
+      "Auger-Aliassime F."
+    ],
+    [
+      "Rublev A.",
+      "Shelton B."
+    ],
+    [
+      "Rublev A.",
+      "Sinner J."
+    ],
+    [
+      "Cobolli F.",
+      "Zverev A."
+    ],
+    [
+      "Cobolli F.",
+      "Mensik J."
+    ],
+    [
+      "Cobolli F.",
+      "Shelton B."
+    ],
+    [
+      "Cobolli F.",
+      "Tiafoe F."
+    ],
+    [
+      "Cobolli F.",
+      "Sinner J."
+    ],
+    [
+      "Davidovich Fokina A.",
+      "Zverev A."
+    ],
+    [
+      "Davidovich Fokina A.",
+      "Mensik J."
+    ],
+    [
+      "Zverev A.",
+      "Fritz T."
+    ],
+    [
+      "Zverev A.",
+      "Fils A."
+    ],
+    [
+      "Zverev A.",
+      "Alcaraz C."
+    ],
+    [
+      "Zverev A.",
+      "Khachanov K."
+    ],
+    [
+      "Zverev A.",
+      "Humbert U."
+    ],
+    [
+      "Zverev A.",
+      "Auger-Aliassime F."
+    ],
+    [
+      "Zverev A.",
+      "Shelton B."
+    ],
+    [
+      "Zverev A.",
+      "Musetti L."
+    ],
+    [
+      "Zverev A.",
+      "Cerundolo F."
+    ],
+    [
+      "Zverev A.",
+      "Paul T."
+    ],
+    [
+      "Zverev A.",
+      "Sinner J."
+    ],
+    [
+      "Fritz T.",
+      "Draper J."
+    ],
+    [
+      "Fritz T.",
+      "Alcaraz C."
+    ],
+    [
+      "Fritz T.",
+      "Khachanov K."
+    ],
+    [
+      "Fritz T.",
+      "Humbert U."
+    ],
+    [
+      "Fritz T.",
+      "Bublik A."
+    ],
+    [
+      "Fritz T.",
+      "Shelton B."
+    ],
+    [
+      "Fritz T.",
+      "Musetti L."
+    ],
+    [
+      "Lehecka J.",
+      "Draper J."
+    ],
+    [
+      "Lehecka J.",
+      "Alcaraz C."
+    ],
+    [
+      "Lehecka J.",
+      "Humbert U."
+    ],
+    [
+      "Lehecka J.",
+      "Shapovalov D."
+    ],
+    [
+      "Lehecka J.",
+      "Auger-Aliassime F."
+    ],
+    [
+      "Lehecka J.",
+      "Dimitrov G."
+    ],
+    [
+      "Tsitsipas S.",
+      "Fils A."
+    ],
+    [
+      "Tsitsipas S.",
+      "Rune H."
+    ],
+    [
+      "Tsitsipas S.",
+      "Khachanov K."
+    ],
+    [
+      "Tsitsipas S.",
+      "Auger-Aliassime F."
+    ],
+    [
+      "Tsitsipas S.",
+      "Korda S."
+    ],
+    [
+      "Tsitsipas S.",
+      "Musetti L."
+    ],
+    [
+      "Fils A.",
+      "Alcaraz C."
+    ],
+    [
+      "Fils A.",
+      "Tiafoe F."
+    ],
+    [
+      "Fils A.",
+      "Musetti L."
+    ],
+    [
+      "Draper J.",
+      "Rune H."
+    ],
+    [
+      "Draper J.",
+      "Alcaraz C."
+    ],
+    [
+      "Draper J.",
+      "Popyrin A."
+    ],
+    [
+      "Draper J.",
+      "Shelton B."
+    ],
+    [
+      "Draper J.",
+      "Musetti L."
+    ],
+    [
+      "Draper J.",
+      "Paul T."
+    ],
+    [
+      "Rune H.",
+      "Alcaraz C."
+    ],
+    [
+      "Rune H.",
+      "Humbert U."
+    ],
+    [
+      "Rune H.",
+      "Musetti L."
+    ],
+    [
+      "Rune H.",
+      "Sinner J."
+    ],
+    [
+      "Alcaraz C.",
+      "Khachanov K."
+    ],
+    [
+      "Alcaraz C.",
+      "Auger-Aliassime F."
+    ],
+    [
+      "Alcaraz C.",
+      "Dimitrov G."
+    ],
+    [
+      "Alcaraz C.",
+      "Shelton B."
+    ],
+    [
+      "Alcaraz C.",
+      "Musetti L."
+    ],
+    [
+      "Alcaraz C.",
+      "Cerundolo F."
+    ],
+    [
+      "Alcaraz C.",
+      "Paul T."
+    ],
+    [
+      "Alcaraz C.",
+      "Sinner J."
+    ],
+    [
+      "Popyrin A.",
+      "Paul T."
+    ],
+    [
+      "Khachanov K.",
+      "Dimitrov G."
+    ],
+    [
+      "Khachanov K.",
+      "Shelton B."
+    ],
+    [
+      "Khachanov K.",
+      "Paul T."
+    ],
+    [
+      "Humbert U.",
+      "Tiafoe F."
+    ],
+    [
+      "Bublik A.",
+      "Auger-Aliassime F."
+    ],
+    [
+      "Bublik A.",
+      "Cerundolo F."
+    ],
+    [
+      "Bublik A.",
+      "Paul T."
+    ],
+    [
+      "Bublik A.",
+      "Sinner J."
+    ],
+    [
+      "Auger-Aliassime F.",
+      "Shelton B."
+    ],
+    [
+      "Auger-Aliassime F.",
+      "Musetti L."
+    ],
+    [
+      "Auger-Aliassime F.",
+      "Sinner J."
+    ],
+    [
+      "Dimitrov G.",
+      "Cerundolo F."
+    ],
+    [
+      "Mensik J.",
+      "Shelton B."
+    ],
+    [
+      "Mensik J.",
+      "Cerundolo F."
+    ],
+    [
+      "Shelton B.",
+      "Tiafoe F."
+    ],
+    [
+      "Shelton B.",
+      "Musetti L."
+    ],
+    [
+      "Shelton B.",
+      "Cerundolo F."
+    ],
+    [
+      "Shelton B.",
+      "Sinner J."
+    ],
+    [
+      "Tiafoe F.",
+      "Korda S."
+    ],
+    [
+      "Tiafoe F.",
+      "Musetti L."
+    ],
+    [
+      "Musetti L.",
+      "Sinner J."
+    ],
+    [
+      "Cerundolo F.",
+      "Paul T."
+    ],
+    [
+      "Cerundolo F.",
+      "Sinner J."
+    ],
+    [
+      "Paul T.",
+      "Sinner J."
+    ]
+  ],
+  "weights": {
+    "Djokovic N.->Machac T.": 0.0,
+    "Djokovic N.->De Minaur A.": 0.0,
+    "Djokovic N.->Cobolli F.": 0.0,
+    "Djokovic N.->Zverev A.": 0.0,
+    "Djokovic N.->Fritz T.": 0.0,
+    "Djokovic N.->Alcaraz C.": 0.5,
+    "Djokovic N.->Dimitrov G.": 0.0,
+    "Djokovic N.->Korda S.": 0.0,
+    "Djokovic N.->Musetti L.": 0.0,
+    "Djokovic N.->Sinner J.": 1.0,
+    "Machac T.->De Minaur A.": 1.0,
+    "Machac T.->Fritz T.": 1.0,
+    "Machac T.->Paul T.": 1.0,
+    "Hurkacz H.->De Minaur A.": 1.0,
+    "Hurkacz H.->Rublev A.": 0.0,
+    "Hurkacz H.->Alcaraz C.": 1.0,
+    "Ruud C.->Medvedev D.": 0.0,
+    "Ruud C.->Fritz T.": 0.0,
+    "Ruud C.->Draper J.": 0.0,
+    "Ruud C.->Rune H.": 1.0,
+    "Ruud C.->Alcaraz C.": 1.0,
+    "Ruud C.->Khachanov K.": 1.0,
+    "Ruud C.->Humbert U.": 0.0,
+    "Ruud C.->Shapovalov D.": 0.0,
+    "Ruud C.->Korda S.": 0.0,
+    "Ruud C.->Cerundolo F.": 0.5,
+    "Ruud C.->Sinner J.": 1.0,
+    "Medvedev D.->De Minaur A.": 0.5,
+    "Medvedev D.->Davidovich Fokina A.": 0.0,
+    "Medvedev D.->Zverev A.": 0.3333333333333333,
+    "Medvedev D.->Fils A.": 0.0,
+    "Medvedev D.->Rune H.": 1.0,
+    "Medvedev D.->Popyrin A.": 0.0,
+    "Medvedev D.->Khachanov K.": 0.0,
+    "Medvedev D.->Musetti L.": 1.0,
+    "Medvedev D.->Paul T.": 0.0,
+    "De Minaur A.->Rublev A.": 1.0,
+    "De Minaur A.->Fritz T.": 0.0,
+    "De Minaur A.->Lehecka J.": 0.0,
+    "De Minaur A.->Alcaraz C.": 1.0,
+    "De Minaur A.->Khachanov K.": 0.0,
+    "De Minaur A.->Bublik A.": 1.0,
+    "De Minaur A.->Dimitrov G.": 0.0,
+    "De Minaur A.->Shelton B.": 1.0,
+    "De Minaur A.->Tiafoe F.": 0.0,
+    "De Minaur A.->Musetti L.": 1.0,
+    "De Minaur A.->Paul T.": 1.0,
+    "De Minaur A.->Sinner J.": 1.0,
+    "Rublev A.->Cobolli F.": 1.0,
+    "Rublev A.->Fritz T.": 1.0,
+    "Rublev A.->Fils A.": 1.0,
+    "Rublev A.->Draper J.": 0.0,
+    "Rublev A.->Alcaraz C.": 1.0,
+    "Rublev A.->Popyrin A.": 0.0,
+    "Rublev A.->Auger-Aliassime F.": 0.0,
+    "Rublev A.->Shelton B.": 1.0,
+    "Rublev A.->Sinner J.": 1.0,
+    "Cobolli F.->Zverev A.": 1.0,
+    "Cobolli F.->Mensik J.": 0.0,
+    "Cobolli F.->Shelton B.": 1.0,
+    "Cobolli F.->Tiafoe F.": 1.0,
+    "Cobolli F.->Sinner J.": 1.0,
+    "Davidovich Fokina A.->Zverev A.": 1.0,
+    "Davidovich Fokina A.->Mensik J.": 0.0,
+    "Zverev A.->Fritz T.": 1.0,
+    "Zverev A.->Fils A.": 0.5,
+    "Zverev A.->Alcaraz C.": 1.0,
+    "Zverev A.->Khachanov K.": 1.0,
+    "Zverev A.->Humbert U.": 0.0,
+    "Zverev A.->Auger-Aliassime F.": 1.0,
+    "Zverev A.->Shelton B.": 0.0,
+    "Zverev A.->Musetti L.": 0.5,
+    "Zverev A.->Cerundolo F.": 1.0,
+    "Zverev A.->Paul T.": 0.0,
+    "Zverev A.->Sinner J.": 1.0,
+    "Fritz T.->Draper J.": 1.0,
+    "Fritz T.->Alcaraz C.": 1.0,
+    "Fritz T.->Khachanov K.": 0.0,
+    "Fritz T.->Humbert U.": 1.0,
+    "Fritz T.->Bublik A.": 1.0,
+    "Fritz T.->Shelton B.": 1.0,
+    "Fritz T.->Musetti L.": 0.0,
+    "Lehecka J.->Draper J.": 1.0,
+    "Lehecka J.->Alcaraz C.": 0.5,
+    "Lehecka J.->Humbert U.": 1.0,
+    "Lehecka J.->Shapovalov D.": 0.0,
+    "Lehecka J.->Auger-Aliassime F.": 1.0,
+    "Lehecka J.->Dimitrov G.": 0.0,
+    "Tsitsipas S.->Fils A.": 1.0,
+    "Tsitsipas S.->Rune H.": 1.0,
+    "Tsitsipas S.->Khachanov K.": 0.0,
+    "Tsitsipas S.->Auger-Aliassime F.": 0.0,
+    "Tsitsipas S.->Korda S.": 0.5,
+    "Tsitsipas S.->Musetti L.": 1.0,
+    "Fils A.->Alcaraz C.": 1.0,
+    "Fils A.->Tiafoe F.": 0.0,
+    "Fils A.->Musetti L.": 0.0,
+    "Draper J.->Rune H.": 0.0,
+    "Draper J.->Alcaraz C.": 0.5,
+    "Draper J.->Popyrin A.": 0.0,
+    "Draper J.->Shelton B.": 0.0,
+    "Draper J.->Musetti L.": 0.0,
+    "Draper J.->Paul T.": 0.0,
+    "Rune H.->Alcaraz C.": 0.0,
+    "Rune H.->Humbert U.": 0.0,
+    "Rune H.->Musetti L.": 1.0,
+    "Rune H.->Sinner J.": 1.0,
+    "Alcaraz C.->Khachanov K.": 0.0,
+    "Alcaraz C.->Auger-Aliassime F.": 0.0,
+    "Alcaraz C.->Dimitrov G.": 0.0,
+    "Alcaraz C.->Shelton B.": 0.0,
+    "Alcaraz C.->Musetti L.": 0.0,
+    "Alcaraz C.->Cerundolo F.": 0.0,
+    "Alcaraz C.->Paul T.": 0.0,
+    "Alcaraz C.->Sinner J.": 0.4,
+    "Popyrin A.->Paul T.": 1.0,
+    "Khachanov K.->Dimitrov G.": 1.0,
+    "Khachanov K.->Shelton B.": 1.0,
+    "Khachanov K.->Paul T.": 1.0,
+    "Humbert U.->Tiafoe F.": 1.0,
+    "Bublik A.->Auger-Aliassime F.": 1.0,
+    "Bublik A.->Cerundolo F.": 0.0,
+    "Bublik A.->Paul T.": 0.0,
+    "Bublik A.->Sinner J.": 1.0,
+    "Auger-Aliassime F.->Shelton B.": 0.0,
+    "Auger-Aliassime F.->Musetti L.": 0.5,
+    "Auger-Aliassime F.->Sinner J.": 1.0,
+    "Dimitrov G.->Cerundolo F.": 0.0,
+    "Mensik J.->Shelton B.": 0.0,
+    "Mensik J.->Cerundolo F.": 1.0,
+    "Shelton B.->Tiafoe F.": 0.0,
+    "Shelton B.->Musetti L.": 0.0,
+    "Shelton B.->Cerundolo F.": 0.0,
+    "Shelton B.->Sinner J.": 1.0,
+    "Tiafoe F.->Korda S.": 0.0,
+    "Tiafoe F.->Musetti L.": 1.0,
+    "Musetti L.->Sinner J.": 1.0,
+    "Cerundolo F.->Paul T.": 0.0,
+    "Cerundolo F.->Sinner J.": 1.0,
+    "Paul T.->Sinner J.": 1.0
+  }
+}
