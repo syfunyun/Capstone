@@ -1,0 +1,172 @@
+cycle_nodes,cycle_edges,vorticity
+"Man City,Liverpool,Fulham,Man City","(Man City,Liverpool);(Liverpool,Fulham);(Fulham,Man City)",21.38629436111989
+"Man City,Liverpool,Chelsea,Man City","(Man City,Liverpool);(Liverpool,Chelsea);(Chelsea,Man City)",20.0
+"Bournemouth,Liverpool,Arsenal,Bournemouth","(Bournemouth,Liverpool);(Liverpool,Arsenal);(Arsenal,Bournemouth)",20.0
+"West Ham,Liverpool,Man United,West Ham","(West Ham,Liverpool);(Liverpool,Man United);(Man United,West Ham)",18.613705638880113
+"Everton,Liverpool,Bournemouth,Everton","(Everton,Liverpool);(Liverpool,Bournemouth);(Bournemouth,Everton)",-18.61370563888011
+"Crystal Palace,Liverpool,Brentford,Crystal Palace","(Crystal Palace,Liverpool);(Liverpool,Brentford);(Brentford,Crystal Palace)",-18.61370563888011
+"Tottenham,Liverpool,Man United,Tottenham","(Tottenham,Liverpool);(Liverpool,Man United);(Man United,Tottenham)",18.61370563888011
+"Wolves,Liverpool,Man United,Wolves","(Wolves,Liverpool);(Liverpool,Man United);(Man United,Wolves)",18.61370563888011
+"Fulham,Liverpool,Aston Villa,Fulham","(Fulham,Liverpool);(Liverpool,Aston Villa);(Aston Villa,Fulham)",-12.772588722239782
+"Fulham,Liverpool,Bournemouth,Fulham","(Fulham,Liverpool);(Liverpool,Bournemouth);(Bournemouth,Fulham)",-12.772588722239782
+"Nott'm Forest,Liverpool,Newcastle,Nott'm Forest","(Nott'm Forest,Liverpool);(Liverpool,Newcastle);(Newcastle,Nott'm Forest)",-12.772588722239782
+"Nott'm Forest,Liverpool,Bournemouth,Nott'm Forest","(Nott'm Forest,Liverpool);(Liverpool,Bournemouth);(Bournemouth,Nott'm Forest)",-12.772588722239782
+"Man United,Liverpool,Fulham,Man United","(Man United,Liverpool);(Liverpool,Fulham);(Fulham,Man United)",12.772588722239782
+"West Ham,Liverpool,Fulham,West Ham","(West Ham,Liverpool);(Liverpool,Fulham);(Fulham,West Ham)",12.772588722239782
+"Brighton,Liverpool,Brentford,Brighton","(Brighton,Liverpool);(Liverpool,Brentford);(Brentford,Brighton)",-11.386294361119893
+"Nott'm Forest,Liverpool,Man City,Nott'm Forest","(Nott'm Forest,Liverpool);(Liverpool,Man City);(Man City,Nott'm Forest)",-11.38629436111989
+"Nott'm Forest,Liverpool,Brentford,Nott'm Forest","(Nott'm Forest,Liverpool);(Liverpool,Brentford);(Brentford,Nott'm Forest)",-11.38629436111989
+"Crystal Palace,Liverpool,Brighton,Crystal Palace","(Crystal Palace,Liverpool);(Liverpool,Brighton);(Brighton,Crystal Palace)",11.38629436111989
+"Ipswich,Liverpool,Fulham,Ipswich","(Ipswich,Liverpool);(Liverpool,Fulham);(Fulham,Ipswich)",11.38629436111989
+"Wolves,Liverpool,Fulham,Wolves","(Wolves,Liverpool);(Liverpool,Fulham);(Fulham,Wolves)",11.38629436111989
+"Ipswich,Liverpool,Chelsea,Ipswich","(Ipswich,Liverpool);(Liverpool,Chelsea);(Chelsea,Ipswich)",11.38629436111989
+"Man City,Liverpool,Everton,Man City","(Man City,Liverpool);(Liverpool,Everton);(Everton,Man City)",10.000000000000002
+"Man United,Liverpool,Bournemouth,Man United","(Man United,Liverpool);(Liverpool,Bournemouth);(Bournemouth,Man United)",-10.0
+"Everton,Liverpool,Aston Villa,Everton","(Everton,Liverpool);(Liverpool,Aston Villa);(Aston Villa,Everton)",-10.0
+"Southampton,Liverpool,Brentford,Southampton","(Southampton,Liverpool);(Liverpool,Brentford);(Brentford,Southampton)",-10.0
+"Southampton,Liverpool,Leicester,Southampton","(Southampton,Liverpool);(Liverpool,Leicester);(Leicester,Southampton)",-10.0
+"Southampton,Liverpool,Bournemouth,Southampton","(Southampton,Liverpool);(Liverpool,Bournemouth);(Bournemouth,Southampton)",-10.0
+"Leicester,Liverpool,Brentford,Leicester","(Leicester,Liverpool);(Liverpool,Brentford);(Brentford,Leicester)",-10.0
+"Ipswich,Liverpool,Brentford,Ipswich","(Ipswich,Liverpool);(Liverpool,Brentford);(Brentford,Ipswich)",-10.0
+"Newcastle,Liverpool,Bournemouth,Newcastle","(Newcastle,Liverpool);(Liverpool,Bournemouth);(Bournemouth,Newcastle)",-10.0
+"Newcastle,Liverpool,Man City,Newcastle","(Newcastle,Liverpool);(Liverpool,Man City);(Man City,Newcastle)",-10.0
+"Wolves,Liverpool,Man City,Wolves","(Wolves,Liverpool);(Liverpool,Man City);(Man City,Wolves)",-10.0
+"Nott'm Forest,Liverpool,Leicester,Nott'm Forest","(Nott'm Forest,Liverpool);(Liverpool,Leicester);(Leicester,Nott'm Forest)",-10.0
+"Nott'm Forest,Liverpool,Fulham,Nott'm Forest","(Nott'm Forest,Liverpool);(Liverpool,Fulham);(Fulham,Nott'm Forest)",-10.0
+"West Ham,Liverpool,Man City,West Ham","(West Ham,Liverpool);(Liverpool,Man City);(Man City,West Ham)",-10.0
+"Man City,Liverpool,Leicester,Man City","(Man City,Liverpool);(Liverpool,Leicester);(Leicester,Man City)",10.0
+"Everton,Liverpool,Crystal Palace,Everton","(Everton,Liverpool);(Liverpool,Crystal Palace);(Crystal Palace,Everton)",10.0
+"Man City,Liverpool,Ipswich,Man City","(Man City,Liverpool);(Liverpool,Ipswich);(Ipswich,Man City)",10.0
+"Brentford,Liverpool,Bournemouth,Brentford","(Brentford,Liverpool);(Liverpool,Bournemouth);(Bournemouth,Brentford)",10.0
+"Southampton,Liverpool,Fulham,Southampton","(Southampton,Liverpool);(Liverpool,Fulham);(Fulham,Southampton)",10.0
+"Man City,Liverpool,Crystal Palace,Man City","(Man City,Liverpool);(Liverpool,Crystal Palace);(Crystal Palace,Man City)",10.0
+"Wolves,Liverpool,Leicester,Wolves","(Wolves,Liverpool);(Liverpool,Leicester);(Leicester,Wolves)",10.0
+"West Ham,Liverpool,Ipswich,West Ham","(West Ham,Liverpool);(Liverpool,Ipswich);(Ipswich,West Ham)",10.0
+"Wolves,Liverpool,Southampton,Wolves","(Wolves,Liverpool);(Liverpool,Southampton);(Southampton,Wolves)",10.0
+"West Ham,Liverpool,Arsenal,West Ham","(West Ham,Liverpool);(Liverpool,Arsenal);(Arsenal,West Ham)",10.0
+"Tottenham,Liverpool,Southampton,Tottenham","(Tottenham,Liverpool);(Liverpool,Southampton);(Southampton,Tottenham)",10.0
+"Wolves,Liverpool,Nott'm Forest,Wolves","(Wolves,Liverpool);(Liverpool,Nott'm Forest);(Nott'm Forest,Wolves)",10.0
+"Newcastle,Liverpool,Man United,Newcastle","(Newcastle,Liverpool);(Liverpool,Man United);(Man United,Newcastle)",10.0
+"Leicester,Liverpool,Brighton,Leicester","(Leicester,Liverpool);(Liverpool,Brighton);(Brighton,Leicester)",10.0
+"Tottenham,Liverpool,Brentford,Tottenham","(Tottenham,Liverpool);(Liverpool,Brentford);(Brentford,Tottenham)",9.999999999999998
+"Tottenham,Liverpool,Fulham,Tottenham","(Tottenham,Liverpool);(Liverpool,Fulham);(Fulham,Tottenham)",9.999999999999998
+"Chelsea,Liverpool,Brentford,Chelsea","(Chelsea,Liverpool);(Liverpool,Brentford);(Brentford,Chelsea)",-8.613705638880111
+"Brentford,Liverpool,Arsenal,Brentford","(Brentford,Liverpool);(Liverpool,Arsenal);(Arsenal,Brentford)",8.613705638880111
+"Man City,Liverpool,Aston Villa,Man City","(Man City,Liverpool);(Liverpool,Aston Villa);(Aston Villa,Man City)",8.613705638880111
+"Man United,Liverpool,Brentford,Man United","(Man United,Liverpool);(Liverpool,Brentford);(Brentford,Man United)",-8.61370563888011
+"Newcastle,Liverpool,Brentford,Newcastle","(Newcastle,Liverpool);(Liverpool,Brentford);(Brentford,Newcastle)",-8.61370563888011
+"Man United,Liverpool,Brighton,Man United","(Man United,Liverpool);(Liverpool,Brighton);(Brighton,Man United)",-8.61370563888011
+"Chelsea,Liverpool,Bournemouth,Chelsea","(Chelsea,Liverpool);(Liverpool,Bournemouth);(Bournemouth,Chelsea)",-8.61370563888011
+"Crystal Palace,Liverpool,Bournemouth,Crystal Palace","(Crystal Palace,Liverpool);(Liverpool,Bournemouth);(Bournemouth,Crystal Palace)",-8.61370563888011
+"Everton,Liverpool,Brentford,Everton","(Everton,Liverpool);(Liverpool,Brentford);(Brentford,Everton)",-8.61370563888011
+"West Ham,Liverpool,Crystal Palace,West Ham","(West Ham,Liverpool);(Liverpool,Crystal Palace);(Crystal Palace,West Ham)",8.61370563888011
+"Man City,Liverpool,Arsenal,Man City","(Man City,Liverpool);(Liverpool,Arsenal);(Arsenal,Man City)",8.61370563888011
+"Ipswich,Liverpool,Aston Villa,Ipswich","(Ipswich,Liverpool);(Liverpool,Aston Villa);(Aston Villa,Ipswich)",8.61370563888011
+"Southampton,Liverpool,Everton,Southampton","(Southampton,Liverpool);(Liverpool,Everton);(Everton,Southampton)",8.61370563888011
+"West Ham,Liverpool,Newcastle,West Ham","(West Ham,Liverpool);(Liverpool,Newcastle);(Newcastle,West Ham)",8.61370563888011
+"Wolves,Liverpool,Aston Villa,Wolves","(Wolves,Liverpool);(Liverpool,Aston Villa);(Aston Villa,Wolves)",8.61370563888011
+"Man City,Liverpool,Brighton,Man City","(Man City,Liverpool);(Liverpool,Brighton);(Brighton,Man City)",8.61370563888011
+"Tottenham,Liverpool,Everton,Tottenham","(Tottenham,Liverpool);(Liverpool,Everton);(Everton,Tottenham)",8.61370563888011
+"Tottenham,Liverpool,Aston Villa,Tottenham","(Tottenham,Liverpool);(Liverpool,Aston Villa);(Aston Villa,Tottenham)",8.61370563888011
+"Southampton,Liverpool,Brighton,Southampton","(Southampton,Liverpool);(Liverpool,Brighton);(Brighton,Southampton)",8.61370563888011
+"West Ham,Liverpool,Everton,West Ham","(West Ham,Liverpool);(Liverpool,Everton);(Everton,West Ham)",8.61370563888011
+"Ipswich,Liverpool,Brighton,Ipswich","(Ipswich,Liverpool);(Liverpool,Brighton);(Brighton,Ipswich)",8.61370563888011
+"West Ham,Liverpool,Brighton,West Ham","(West Ham,Liverpool);(Liverpool,Brighton);(Brighton,West Ham)",8.61370563888011
+"Wolves,Liverpool,Brighton,Wolves","(Wolves,Liverpool);(Liverpool,Brighton);(Brighton,Wolves)",8.61370563888011
+"Man United,Liverpool,Man City,Man United","(Man United,Liverpool);(Liverpool,Man City);(Man City,Man United)",-7.227411277760219
+"Newcastle,Liverpool,Fulham,Newcastle","(Newcastle,Liverpool);(Liverpool,Fulham);(Fulham,Newcastle)",-7.227411277760218
+"Man United,Liverpool,Ipswich,Man United","(Man United,Liverpool);(Liverpool,Ipswich);(Ipswich,Man United)",-7.227411277760218
+"Nott'm Forest,Liverpool,Man United,Nott'm Forest","(Nott'm Forest,Liverpool);(Liverpool,Man United);(Man United,Nott'm Forest)",7.227411277760218
+"Leicester,Liverpool,Everton,Leicester","(Leicester,Liverpool);(Liverpool,Everton);(Everton,Leicester)",7.227411277760218
+"Ipswich,Liverpool,Everton,Ipswich","(Ipswich,Liverpool);(Liverpool,Everton);(Everton,Ipswich)",7.227411277760218
+"West Ham,Liverpool,Aston Villa,West Ham","(West Ham,Liverpool);(Liverpool,Aston Villa);(Aston Villa,West Ham)",7.227411277760218
+"Southampton,Liverpool,Crystal Palace,Southampton","(Southampton,Liverpool);(Liverpool,Crystal Palace);(Crystal Palace,Southampton)",7.227411277760218
+"Bournemouth,Liverpool,Aston Villa,Bournemouth","(Bournemouth,Liverpool);(Liverpool,Aston Villa);(Aston Villa,Bournemouth)",7.227411277760218
+"Leicester,Liverpool,Crystal Palace,Leicester","(Leicester,Liverpool);(Liverpool,Crystal Palace);(Crystal Palace,Leicester)",7.227411277760218
+"Wolves,Liverpool,Everton,Wolves","(Wolves,Liverpool);(Liverpool,Everton);(Everton,Wolves)",7.227411277760218
+"Wolves,Liverpool,Crystal Palace,Wolves","(Wolves,Liverpool);(Liverpool,Crystal Palace);(Crystal Palace,Wolves)",7.227411277760218
+"Fulham,Liverpool,Everton,Fulham","(Fulham,Liverpool);(Liverpool,Everton);(Everton,Fulham)",-4.158883083359672
+"Nott'm Forest,Liverpool,Everton,Nott'm Forest","(Nott'm Forest,Liverpool);(Liverpool,Everton);(Everton,Nott'm Forest)",-2.772588722239782
+"Fulham,Liverpool,Arsenal,Fulham","(Fulham,Liverpool);(Liverpool,Arsenal);(Arsenal,Fulham)",-2.7725887222397816
+"Nott'm Forest,Liverpool,Arsenal,Nott'm Forest","(Nott'm Forest,Liverpool);(Liverpool,Arsenal);(Arsenal,Nott'm Forest)",-2.7725887222397816
+"Nott'm Forest,Liverpool,Aston Villa,Nott'm Forest","(Nott'm Forest,Liverpool);(Liverpool,Aston Villa);(Aston Villa,Nott'm Forest)",-2.7725887222397816
+"Fulham,Liverpool,Crystal Palace,Fulham","(Fulham,Liverpool);(Liverpool,Crystal Palace);(Crystal Palace,Fulham)",-2.7725887222397816
+"Nott'm Forest,Liverpool,Chelsea,Nott'm Forest","(Nott'm Forest,Liverpool);(Liverpool,Chelsea);(Chelsea,Nott'm Forest)",-2.7725887222397816
+"Brighton,Liverpool,Aston Villa,Brighton","(Brighton,Liverpool);(Liverpool,Aston Villa);(Aston Villa,Brighton)",-2.7725887222397816
+"Fulham,Liverpool,Brentford,Fulham","(Fulham,Liverpool);(Liverpool,Brentford);(Brentford,Fulham)",-1.3862943611198926
+"West Ham,Liverpool,Nott'm Forest,West Ham","(West Ham,Liverpool);(Liverpool,Nott'm Forest);(Nott'm Forest,West Ham)",1.3862943611198917
+"Wolves,Liverpool,Brentford,Wolves","(Wolves,Liverpool);(Liverpool,Brentford);(Brentford,Wolves)",-1.3862943611198915
+"Tottenham,Liverpool,Leicester,Tottenham","(Tottenham,Liverpool);(Liverpool,Leicester);(Leicester,Tottenham)",-1.3862943611198912
+"Tottenham,Liverpool,Bournemouth,Tottenham","(Tottenham,Liverpool);(Liverpool,Bournemouth);(Bournemouth,Tottenham)",-1.3862943611198912
+"Man United,Liverpool,Crystal Palace,Man United","(Man United,Liverpool);(Liverpool,Crystal Palace);(Crystal Palace,Man United)",-1.386294361119891
+"Nott'm Forest,Liverpool,Crystal Palace,Nott'm Forest","(Nott'm Forest,Liverpool);(Liverpool,Crystal Palace);(Crystal Palace,Nott'm Forest)",-1.386294361119891
+"Wolves,Liverpool,Tottenham,Wolves","(Wolves,Liverpool);(Liverpool,Tottenham);(Tottenham,Wolves)",1.386294361119891
+"Crystal Palace,Liverpool,Aston Villa,Crystal Palace","(Crystal Palace,Liverpool);(Liverpool,Aston Villa);(Aston Villa,Crystal Palace)",1.386294361119891
+"Tottenham,Liverpool,Newcastle,Tottenham","(Tottenham,Liverpool);(Liverpool,Newcastle);(Newcastle,Tottenham)",-1.3862943611198908
+"Wolves,Liverpool,Newcastle,Wolves","(Wolves,Liverpool);(Liverpool,Newcastle);(Newcastle,Wolves)",-1.3862943611198908
+"Southampton,Liverpool,Man City,Southampton","(Southampton,Liverpool);(Liverpool,Man City);(Man City,Southampton)",-1.3862943611198908
+"Newcastle,Liverpool,Everton,Newcastle","(Newcastle,Liverpool);(Liverpool,Everton);(Everton,Newcastle)",-1.3862943611198908
+"Southampton,Liverpool,Man United,Southampton","(Southampton,Liverpool);(Liverpool,Man United);(Man United,Southampton)",-1.3862943611198908
+"West Ham,Liverpool,Brentford,West Ham","(West Ham,Liverpool);(Liverpool,Brentford);(Brentford,West Ham)",-1.3862943611198908
+"Fulham,Liverpool,Chelsea,Fulham","(Fulham,Liverpool);(Liverpool,Chelsea);(Chelsea,Fulham)",-1.3862943611198908
+"Nott'm Forest,Liverpool,Ipswich,Nott'm Forest","(Nott'm Forest,Liverpool);(Liverpool,Ipswich);(Ipswich,Nott'm Forest)",-1.3862943611198908
+"Ipswich,Liverpool,Crystal Palace,Ipswich","(Ipswich,Liverpool);(Liverpool,Crystal Palace);(Crystal Palace,Ipswich)",-1.3862943611198908
+"Fulham,Liverpool,Brighton,Fulham","(Fulham,Liverpool);(Liverpool,Brighton);(Brighton,Fulham)",-1.3862943611198908
+"Tottenham,Liverpool,Crystal Palace,Tottenham","(Tottenham,Liverpool);(Liverpool,Crystal Palace);(Crystal Palace,Tottenham)",-1.3862943611198908
+"Crystal Palace,Liverpool,Chelsea,Crystal Palace","(Crystal Palace,Liverpool);(Liverpool,Chelsea);(Chelsea,Crystal Palace)",1.3862943611198908
+"Southampton,Liverpool,Ipswich,Southampton","(Southampton,Liverpool);(Liverpool,Ipswich);(Ipswich,Southampton)",1.3862943611198908
+"Leicester,Liverpool,Ipswich,Leicester","(Leicester,Liverpool);(Liverpool,Ipswich);(Ipswich,Leicester)",1.3862943611198908
+"Everton,Liverpool,Brighton,Everton","(Everton,Liverpool);(Liverpool,Brighton);(Brighton,Everton)",1.3862943611198908
+"Southampton,Liverpool,Nott'm Forest,Southampton","(Southampton,Liverpool);(Liverpool,Nott'm Forest);(Nott'm Forest,Southampton)",1.3862943611198908
+"West Ham,Liverpool,Southampton,West Ham","(West Ham,Liverpool);(Liverpool,Southampton);(Southampton,West Ham)",1.3862943611198908
+"Leicester,Liverpool,Fulham,Leicester","(Leicester,Liverpool);(Liverpool,Fulham);(Fulham,Leicester)",1.3862943611198908
+"Tottenham,Liverpool,Nott'm Forest,Tottenham","(Tottenham,Liverpool);(Liverpool,Nott'm Forest);(Nott'm Forest,Tottenham)",1.3862943611198908
+"Everton,Liverpool,Arsenal,Everton","(Everton,Liverpool);(Liverpool,Arsenal);(Arsenal,Everton)",1.3862943611198908
+"Man United,Liverpool,Leicester,Man United","(Man United,Liverpool);(Liverpool,Leicester);(Leicester,Man United)",1.3862943611198908
+"Chelsea,Liverpool,Aston Villa,Chelsea","(Chelsea,Liverpool);(Liverpool,Aston Villa);(Aston Villa,Chelsea)",-1.3862943611198906
+"Leicester,Liverpool,Aston Villa,Leicester","(Leicester,Liverpool);(Liverpool,Aston Villa);(Aston Villa,Leicester)",-1.3862943611198906
+"Chelsea,Liverpool,Arsenal,Chelsea","(Chelsea,Liverpool);(Liverpool,Arsenal);(Arsenal,Chelsea)",-1.3862943611198906
+"Newcastle,Liverpool,Arsenal,Newcastle","(Newcastle,Liverpool);(Liverpool,Arsenal);(Arsenal,Newcastle)",1.3862943611198906
+"Man City,Liverpool,Brentford,Man City","(Man City,Liverpool);(Liverpool,Brentford);(Brentford,Man City)",1.3862943611198906
+"Newcastle,Liverpool,Chelsea,Newcastle","(Newcastle,Liverpool);(Liverpool,Chelsea);(Chelsea,Newcastle)",1.3862943611198906
+"Man United,Liverpool,Everton,Man United","(Man United,Liverpool);(Liverpool,Everton);(Everton,Man United)",1.3862943611198904
+"Newcastle,Liverpool,Crystal Palace,Newcastle","(Newcastle,Liverpool);(Liverpool,Crystal Palace);(Crystal Palace,Newcastle)",1.3862943611198904
+"Southampton,Liverpool,Newcastle,Southampton","(Southampton,Liverpool);(Liverpool,Newcastle);(Newcastle,Southampton)",-1.3862943611198901
+"Newcastle,Liverpool,Ipswich,Newcastle","(Newcastle,Liverpool);(Liverpool,Ipswich);(Ipswich,Newcastle)",1.3862943611198901
+"Newcastle,Liverpool,Leicester,Newcastle","(Newcastle,Liverpool);(Liverpool,Leicester);(Leicester,Newcastle)",1.3862943611198901
+"Brentford,Liverpool,Aston Villa,Brentford","(Brentford,Liverpool);(Liverpool,Aston Villa);(Aston Villa,Brentford)",-1.38629436111989
+"West Ham,Liverpool,Tottenham,West Ham","(West Ham,Liverpool);(Liverpool,Tottenham);(Tottenham,West Ham)",-1.38629436111989
+"Man United,Liverpool,Aston Villa,Man United","(Man United,Liverpool);(Liverpool,Aston Villa);(Aston Villa,Man United)",1.38629436111989
+"Southampton,Liverpool,Aston Villa,Southampton","(Southampton,Liverpool);(Liverpool,Aston Villa);(Aston Villa,Southampton)",-1.3862943611198897
+"Tottenham,Liverpool,Brighton,Tottenham","(Tottenham,Liverpool);(Liverpool,Brighton);(Brighton,Tottenham)",-8.881784197001252e-16
+"Tottenham,Liverpool,Man City,Tottenham","(Tottenham,Liverpool);(Liverpool,Man City);(Man City,Tottenham)",-8.881784197001252e-16
+"West Ham,Liverpool,Chelsea,West Ham","(West Ham,Liverpool);(Liverpool,Chelsea);(Chelsea,West Ham)",8.881784197001252e-16
+"Wolves,Liverpool,West Ham,Wolves","(Wolves,Liverpool);(Liverpool,West Ham);(West Ham,Wolves)",-6.661338147750939e-16
+"Man United,Liverpool,Arsenal,Man United","(Man United,Liverpool);(Liverpool,Arsenal);(Arsenal,Man United)",-4.440892098500626e-16
+"Southampton,Liverpool,Arsenal,Southampton","(Southampton,Liverpool);(Liverpool,Arsenal);(Arsenal,Southampton)",-4.440892098500626e-16
+"Man United,Liverpool,Chelsea,Man United","(Man United,Liverpool);(Liverpool,Chelsea);(Chelsea,Man United)",-4.440892098500626e-16
+"Leicester,Liverpool,Arsenal,Leicester","(Leicester,Liverpool);(Liverpool,Arsenal);(Arsenal,Leicester)",-4.440892098500626e-16
+"Ipswich,Liverpool,Arsenal,Ipswich","(Ipswich,Liverpool);(Liverpool,Arsenal);(Arsenal,Ipswich)",-4.440892098500626e-16
+"Tottenham,Liverpool,Ipswich,Tottenham","(Tottenham,Liverpool);(Liverpool,Ipswich);(Ipswich,Tottenham)",-4.440892098500626e-16
+"Southampton,Liverpool,Chelsea,Southampton","(Southampton,Liverpool);(Liverpool,Chelsea);(Chelsea,Southampton)",-4.440892098500626e-16
+"Leicester,Liverpool,Chelsea,Leicester","(Leicester,Liverpool);(Liverpool,Chelsea);(Chelsea,Leicester)",-4.440892098500626e-16
+"Man City,Liverpool,Bournemouth,Man City","(Man City,Liverpool);(Liverpool,Bournemouth);(Bournemouth,Man City)",4.440892098500626e-16
+"West Ham,Liverpool,Leicester,West Ham","(West Ham,Liverpool);(Liverpool,Leicester);(Leicester,West Ham)",4.440892098500626e-16
+"West Ham,Liverpool,Bournemouth,West Ham","(West Ham,Liverpool);(Liverpool,Bournemouth);(Bournemouth,West Ham)",4.440892098500626e-16
+"Nott'm Forest,Liverpool,Brighton,Nott'm Forest","(Nott'm Forest,Liverpool);(Liverpool,Brighton);(Brighton,Nott'm Forest)",-2.220446049250313e-16
+"Wolves,Liverpool,Bournemouth,Wolves","(Wolves,Liverpool);(Liverpool,Bournemouth);(Bournemouth,Wolves)",-2.220446049250313e-16
+"Everton,Liverpool,Chelsea,Everton","(Everton,Liverpool);(Liverpool,Chelsea);(Chelsea,Everton)",2.220446049250313e-16
+"Crystal Palace,Liverpool,Arsenal,Crystal Palace","(Crystal Palace,Liverpool);(Liverpool,Arsenal);(Arsenal,Crystal Palace)",2.220446049250313e-16
+"Brighton,Liverpool,Bournemouth,Brighton","(Brighton,Liverpool);(Liverpool,Bournemouth);(Bournemouth,Brighton)",0.0
+"Aston Villa,Liverpool,Arsenal,Aston Villa","(Aston Villa,Liverpool);(Liverpool,Arsenal);(Arsenal,Aston Villa)",0.0
+"Brighton,Liverpool,Arsenal,Brighton","(Brighton,Liverpool);(Liverpool,Arsenal);(Arsenal,Brighton)",0.0
+"Newcastle,Liverpool,Aston Villa,Newcastle","(Newcastle,Liverpool);(Liverpool,Aston Villa);(Aston Villa,Newcastle)",0.0
+"Wolves,Liverpool,Arsenal,Wolves","(Wolves,Liverpool);(Liverpool,Arsenal);(Arsenal,Wolves)",0.0
+"Leicester,Liverpool,Bournemouth,Leicester","(Leicester,Liverpool);(Liverpool,Bournemouth);(Bournemouth,Leicester)",0.0
+"Wolves,Liverpool,Ipswich,Wolves","(Wolves,Liverpool);(Liverpool,Ipswich);(Ipswich,Wolves)",0.0
+"Tottenham,Liverpool,Arsenal,Tottenham","(Tottenham,Liverpool);(Liverpool,Arsenal);(Arsenal,Tottenham)",0.0
+"Ipswich,Liverpool,Bournemouth,Ipswich","(Ipswich,Liverpool);(Liverpool,Bournemouth);(Bournemouth,Ipswich)",0.0
+"Wolves,Liverpool,Chelsea,Wolves","(Wolves,Liverpool);(Liverpool,Chelsea);(Chelsea,Wolves)",0.0
+"Newcastle,Liverpool,Brighton,Newcastle","(Newcastle,Liverpool);(Liverpool,Brighton);(Brighton,Newcastle)",0.0
+"Chelsea,Liverpool,Brighton,Chelsea","(Chelsea,Liverpool);(Liverpool,Brighton);(Brighton,Chelsea)",0.0
+"Tottenham,Liverpool,Chelsea,Tottenham","(Tottenham,Liverpool);(Liverpool,Chelsea);(Chelsea,Tottenham)",0.0

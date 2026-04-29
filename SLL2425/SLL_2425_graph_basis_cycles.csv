@@ -1,0 +1,172 @@
+cycle_nodes,cycle_edges,vorticity
+"Sociedad,Barcelona,Real Madrid,Sociedad","(Sociedad,Barcelona);(Barcelona,Real Madrid);(Real Madrid,Sociedad)",-20.0
+"Las Palmas,Barcelona,Ath Bilbao,Las Palmas","(Las Palmas,Barcelona);(Barcelona,Ath Bilbao);(Ath Bilbao,Las Palmas)",-20.0
+"Sociedad,Barcelona,Mallorca,Sociedad","(Sociedad,Barcelona);(Barcelona,Mallorca);(Mallorca,Sociedad)",-20.0
+"Sociedad,Barcelona,Alaves,Sociedad","(Sociedad,Barcelona);(Barcelona,Alaves);(Alaves,Sociedad)",-20.0
+"Villarreal,Barcelona,Real Madrid,Villarreal","(Villarreal,Barcelona);(Barcelona,Real Madrid);(Real Madrid,Villarreal)",-20.0
+"Mallorca,Barcelona,Las Palmas,Mallorca","(Mallorca,Barcelona);(Barcelona,Las Palmas);(Las Palmas,Mallorca)",20.0
+"Real Madrid,Barcelona,Leganes,Real Madrid","(Real Madrid,Barcelona);(Barcelona,Leganes);(Leganes,Real Madrid)",20.0
+"Celta,Barcelona,Ath Bilbao,Celta","(Celta,Barcelona);(Barcelona,Ath Bilbao);(Ath Bilbao,Celta)",-18.61370563888011
+"Real Madrid,Barcelona,Getafe,Real Madrid","(Real Madrid,Barcelona);(Barcelona,Getafe);(Getafe,Real Madrid)",18.61370563888011
+"Espanol,Barcelona,Celta,Espanol","(Espanol,Barcelona);(Barcelona,Celta);(Celta,Espanol)",18.61370563888011
+"Vallecano,Barcelona,Celta,Vallecano","(Vallecano,Barcelona);(Barcelona,Celta);(Celta,Vallecano)",18.61370563888011
+"Real Madrid,Barcelona,Celta,Real Madrid","(Real Madrid,Barcelona);(Barcelona,Celta);(Celta,Real Madrid)",18.61370563888011
+"Real Madrid,Barcelona,Las Palmas,Real Madrid","(Real Madrid,Barcelona);(Barcelona,Las Palmas);(Las Palmas,Real Madrid)",11.386294361119893
+"Sociedad,Barcelona,Celta,Sociedad","(Sociedad,Barcelona);(Barcelona,Celta);(Celta,Sociedad)",-11.38629436111989
+"Leganes,Barcelona,Ath Bilbao,Leganes","(Leganes,Barcelona);(Barcelona,Ath Bilbao);(Ath Bilbao,Leganes)",-11.38629436111989
+"Osasuna,Barcelona,Ath Bilbao,Osasuna","(Osasuna,Barcelona);(Barcelona,Ath Bilbao);(Ath Bilbao,Osasuna)",-11.38629436111989
+"Las Palmas,Barcelona,Alaves,Las Palmas","(Las Palmas,Barcelona);(Barcelona,Alaves);(Alaves,Las Palmas)",-11.38629436111989
+"Villarreal,Barcelona,Ath Bilbao,Villarreal","(Villarreal,Barcelona);(Barcelona,Ath Bilbao);(Ath Bilbao,Villarreal)",-11.38629436111989
+"Sociedad,Barcelona,Ath Bilbao,Sociedad","(Sociedad,Barcelona);(Barcelona,Ath Bilbao);(Ath Bilbao,Sociedad)",-11.38629436111989
+"Leganes,Barcelona,Girona,Leganes","(Leganes,Barcelona);(Barcelona,Girona);(Girona,Leganes)",-11.38629436111989
+"Betis,Barcelona,Alaves,Betis","(Betis,Barcelona);(Barcelona,Alaves);(Alaves,Betis)",-11.38629436111989
+"Sevilla,Barcelona,Las Palmas,Sevilla","(Sevilla,Barcelona);(Barcelona,Las Palmas);(Las Palmas,Sevilla)",11.38629436111989
+"Vallecano,Barcelona,Sociedad,Vallecano","(Vallecano,Barcelona);(Barcelona,Sociedad);(Sociedad,Vallecano)",11.38629436111989
+"Valencia,Barcelona,Betis,Valencia","(Valencia,Barcelona);(Barcelona,Betis);(Betis,Valencia)",11.38629436111989
+"Vallecano,Barcelona,Leganes,Vallecano","(Vallecano,Barcelona);(Barcelona,Leganes);(Leganes,Vallecano)",11.38629436111989
+"Vallecano,Barcelona,Osasuna,Vallecano","(Vallecano,Barcelona);(Barcelona,Osasuna);(Osasuna,Vallecano)",11.38629436111989
+"Real Madrid,Barcelona,Osasuna,Real Madrid","(Real Madrid,Barcelona);(Barcelona,Osasuna);(Osasuna,Real Madrid)",11.38629436111989
+"Mallorca,Barcelona,Leganes,Mallorca","(Mallorca,Barcelona);(Barcelona,Leganes);(Leganes,Mallorca)",11.38629436111989
+"Valencia,Barcelona,Leganes,Valencia","(Valencia,Barcelona);(Barcelona,Leganes);(Leganes,Valencia)",11.38629436111989
+"Las Palmas,Barcelona,Girona,Las Palmas","(Las Palmas,Barcelona);(Barcelona,Girona);(Girona,Las Palmas)",-10.0
+"Sevilla,Barcelona,Real Madrid,Sevilla","(Sevilla,Barcelona);(Barcelona,Real Madrid);(Real Madrid,Sevilla)",-10.0
+"Getafe,Barcelona,Ath Bilbao,Getafe","(Getafe,Barcelona);(Barcelona,Ath Bilbao);(Ath Bilbao,Getafe)",-10.0
+"Las Palmas,Barcelona,Espanol,Las Palmas","(Las Palmas,Barcelona);(Barcelona,Espanol);(Espanol,Las Palmas)",-10.0
+"Valladolid,Barcelona,Girona,Valladolid","(Valladolid,Barcelona);(Barcelona,Girona);(Girona,Valladolid)",-10.0
+"Vallecano,Barcelona,Espanol,Vallecano","(Vallecano,Barcelona);(Barcelona,Espanol);(Espanol,Vallecano)",-10.0
+"Villarreal,Barcelona,Valencia,Villarreal","(Villarreal,Barcelona);(Barcelona,Valencia);(Valencia,Villarreal)",-10.0
+"Valladolid,Barcelona,Sevilla,Valladolid","(Valladolid,Barcelona);(Barcelona,Sevilla);(Sevilla,Valladolid)",-10.0
+"Leganes,Barcelona,Alaves,Leganes","(Leganes,Barcelona);(Barcelona,Alaves);(Alaves,Leganes)",-10.0
+"Valladolid,Barcelona,Mallorca,Valladolid","(Valladolid,Barcelona);(Barcelona,Mallorca);(Mallorca,Valladolid)",-10.0
+"Getafe,Barcelona,Celta,Getafe","(Getafe,Barcelona);(Barcelona,Celta);(Celta,Getafe)",-10.0
+"Vallecano,Barcelona,Ath Bilbao,Vallecano","(Vallecano,Barcelona);(Barcelona,Ath Bilbao);(Ath Bilbao,Vallecano)",-10.0
+"Osasuna,Barcelona,Alaves,Osasuna","(Osasuna,Barcelona);(Barcelona,Alaves);(Alaves,Osasuna)",-10.0
+"Sociedad,Barcelona,Sevilla,Sociedad","(Sociedad,Barcelona);(Barcelona,Sevilla);(Sevilla,Sociedad)",-10.0
+"Leganes,Barcelona,Betis,Leganes","(Leganes,Barcelona);(Barcelona,Betis);(Betis,Leganes)",-10.0
+"Sociedad,Barcelona,Osasuna,Sociedad","(Sociedad,Barcelona);(Barcelona,Osasuna);(Osasuna,Sociedad)",-10.0
+"Valencia,Barcelona,Ath Bilbao,Valencia","(Valencia,Barcelona);(Barcelona,Ath Bilbao);(Ath Bilbao,Valencia)",-10.0
+"Betis,Barcelona,Ath Bilbao,Betis","(Betis,Barcelona);(Barcelona,Ath Bilbao);(Ath Bilbao,Betis)",-10.0
+"Villarreal,Barcelona,Alaves,Villarreal","(Villarreal,Barcelona);(Barcelona,Alaves);(Alaves,Villarreal)",-10.0
+"Osasuna,Barcelona,Girona,Osasuna","(Osasuna,Barcelona);(Barcelona,Girona);(Girona,Osasuna)",-10.0
+"Valladolid,Barcelona,Real Madrid,Valladolid","(Valladolid,Barcelona);(Barcelona,Real Madrid);(Real Madrid,Valladolid)",-10.0
+"Vallecano,Barcelona,Valladolid,Vallecano","(Vallecano,Barcelona);(Barcelona,Valladolid);(Valladolid,Vallecano)",10.0
+"Real Madrid,Barcelona,Betis,Real Madrid","(Real Madrid,Barcelona);(Barcelona,Betis);(Betis,Real Madrid)",10.0
+"Valladolid,Barcelona,Betis,Valladolid","(Valladolid,Barcelona);(Barcelona,Betis);(Betis,Valladolid)",10.0
+"Sevilla,Barcelona,Getafe,Sevilla","(Sevilla,Barcelona);(Barcelona,Getafe);(Getafe,Sevilla)",10.0
+"Valencia,Barcelona,Getafe,Valencia","(Valencia,Barcelona);(Barcelona,Getafe);(Getafe,Valencia)",10.0
+"Espanol,Barcelona,Alaves,Espanol","(Espanol,Barcelona);(Barcelona,Alaves);(Alaves,Espanol)",10.0
+"Espanol,Barcelona,Ath Madrid,Espanol","(Espanol,Barcelona);(Barcelona,Ath Madrid);(Ath Madrid,Espanol)",10.0
+"Leganes,Barcelona,Las Palmas,Leganes","(Leganes,Barcelona);(Barcelona,Las Palmas);(Las Palmas,Leganes)",10.0
+"Sevilla,Barcelona,Betis,Sevilla","(Sevilla,Barcelona);(Barcelona,Betis);(Betis,Sevilla)",10.0
+"Real Madrid,Barcelona,Alaves,Real Madrid","(Real Madrid,Barcelona);(Barcelona,Alaves);(Alaves,Real Madrid)",10.0
+"Mallorca,Barcelona,Betis,Mallorca","(Mallorca,Barcelona);(Barcelona,Betis);(Betis,Mallorca)",10.0
+"Real Madrid,Barcelona,Ath Madrid,Real Madrid","(Real Madrid,Barcelona);(Barcelona,Ath Madrid);(Ath Madrid,Real Madrid)",10.0
+"Vallecano,Barcelona,Las Palmas,Vallecano","(Vallecano,Barcelona);(Barcelona,Las Palmas);(Las Palmas,Vallecano)",10.0
+"Vallecano,Barcelona,Getafe,Vallecano","(Vallecano,Barcelona);(Barcelona,Getafe);(Getafe,Vallecano)",10.0
+"Sociedad,Barcelona,Leganes,Sociedad","(Sociedad,Barcelona);(Barcelona,Leganes);(Leganes,Sociedad)",10.0
+"Vallecano,Barcelona,Alaves,Vallecano","(Vallecano,Barcelona);(Barcelona,Alaves);(Alaves,Vallecano)",10.0
+"Valencia,Barcelona,Sociedad,Valencia","(Valencia,Barcelona);(Barcelona,Sociedad);(Sociedad,Valencia)",10.0
+"Villarreal,Barcelona,Leganes,Villarreal","(Villarreal,Barcelona);(Barcelona,Leganes);(Leganes,Villarreal)",10.0
+"Valencia,Barcelona,Osasuna,Valencia","(Valencia,Barcelona);(Barcelona,Osasuna);(Osasuna,Valencia)",10.0
+"Villarreal,Barcelona,Las Palmas,Villarreal","(Villarreal,Barcelona);(Barcelona,Las Palmas);(Las Palmas,Villarreal)",10.0
+"Valencia,Barcelona,Las Palmas,Valencia","(Valencia,Barcelona);(Barcelona,Las Palmas);(Las Palmas,Valencia)",10.0
+"Vallecano,Barcelona,Betis,Vallecano","(Vallecano,Barcelona);(Barcelona,Betis);(Betis,Vallecano)",10.0
+"Real Madrid,Barcelona,Girona,Real Madrid","(Real Madrid,Barcelona);(Barcelona,Girona);(Girona,Real Madrid)",10.0
+"Leganes,Barcelona,Espanol,Leganes","(Leganes,Barcelona);(Barcelona,Espanol);(Espanol,Leganes)",-8.61370563888011
+"Osasuna,Barcelona,Mallorca,Osasuna","(Osasuna,Barcelona);(Barcelona,Mallorca);(Mallorca,Osasuna)",-8.61370563888011
+"Osasuna,Barcelona,Espanol,Osasuna","(Osasuna,Barcelona);(Barcelona,Espanol);(Espanol,Osasuna)",-8.61370563888011
+"Villarreal,Barcelona,Girona,Villarreal","(Villarreal,Barcelona);(Barcelona,Girona);(Girona,Villarreal)",-8.61370563888011
+"Ath Madrid,Barcelona,Alaves,Ath Madrid","(Ath Madrid,Barcelona);(Barcelona,Alaves);(Alaves,Ath Madrid)",-8.61370563888011
+"Getafe,Barcelona,Betis,Getafe","(Getafe,Barcelona);(Barcelona,Betis);(Betis,Getafe)",-8.61370563888011
+"Villarreal,Barcelona,Vallecano,Villarreal","(Villarreal,Barcelona);(Barcelona,Vallecano);(Vallecano,Villarreal)",-8.61370563888011
+"Getafe,Barcelona,Espanol,Getafe","(Getafe,Barcelona);(Barcelona,Espanol);(Espanol,Getafe)",-8.61370563888011
+"Girona,Barcelona,Betis,Girona","(Girona,Barcelona);(Barcelona,Betis);(Betis,Girona)",8.61370563888011
+"Girona,Barcelona,Celta,Girona","(Girona,Barcelona);(Barcelona,Celta);(Celta,Girona)",8.61370563888011
+"Sevilla,Barcelona,Celta,Sevilla","(Sevilla,Barcelona);(Barcelona,Celta);(Celta,Sevilla)",8.61370563888011
+"Mallorca,Barcelona,Getafe,Mallorca","(Mallorca,Barcelona);(Barcelona,Getafe);(Getafe,Mallorca)",8.61370563888011
+"Vallecano,Barcelona,Ath Madrid,Vallecano","(Vallecano,Barcelona);(Barcelona,Ath Madrid);(Ath Madrid,Vallecano)",8.61370563888011
+"Valencia,Barcelona,Celta,Valencia","(Valencia,Barcelona);(Barcelona,Celta);(Celta,Valencia)",8.61370563888011
+"Valladolid,Barcelona,Sociedad,Valladolid","(Valladolid,Barcelona);(Barcelona,Sociedad);(Sociedad,Valladolid)",8.61370563888011
+"Sevilla,Barcelona,Osasuna,Sevilla","(Sevilla,Barcelona);(Barcelona,Osasuna);(Osasuna,Sevilla)",8.61370563888011
+"Valladolid,Barcelona,Leganes,Valladolid","(Valladolid,Barcelona);(Barcelona,Leganes);(Leganes,Valladolid)",8.61370563888011
+"Valladolid,Barcelona,Las Palmas,Valladolid","(Valladolid,Barcelona);(Barcelona,Las Palmas);(Las Palmas,Valladolid)",8.61370563888011
+"Sevilla,Barcelona,Leganes,Sevilla","(Sevilla,Barcelona);(Barcelona,Leganes);(Leganes,Sevilla)",8.61370563888011
+"Girona,Barcelona,Getafe,Girona","(Girona,Barcelona);(Barcelona,Getafe);(Getafe,Girona)",8.61370563888011
+"Celta,Barcelona,Alaves,Celta","(Celta,Barcelona);(Barcelona,Alaves);(Alaves,Celta)",-7.227411277760218
+"Celta,Barcelona,Betis,Celta","(Celta,Barcelona);(Barcelona,Betis);(Betis,Celta)",2.7725887222397816
+"Las Palmas,Barcelona,Celta,Las Palmas","(Las Palmas,Barcelona);(Barcelona,Celta);(Celta,Las Palmas)",-2.7725887222397807
+"Sociedad,Barcelona,Getafe,Sociedad","(Sociedad,Barcelona);(Barcelona,Getafe);(Getafe,Sociedad)",-2.7725887222397807
+"Osasuna,Barcelona,Getafe,Osasuna","(Osasuna,Barcelona);(Barcelona,Getafe);(Getafe,Osasuna)",-2.7725887222397807
+"Mallorca,Barcelona,Alaves,Mallorca","(Mallorca,Barcelona);(Barcelona,Alaves);(Alaves,Mallorca)",-1.3862943611198912
+"Villarreal,Barcelona,Sociedad,Villarreal","(Villarreal,Barcelona);(Barcelona,Sociedad);(Sociedad,Villarreal)",-1.3862943611198912
+"Valencia,Barcelona,Alaves,Valencia","(Valencia,Barcelona);(Barcelona,Alaves);(Alaves,Valencia)",-1.3862943611198912
+"Espanol,Barcelona,Ath Bilbao,Espanol","(Espanol,Barcelona);(Barcelona,Ath Bilbao);(Ath Bilbao,Espanol)",-1.386294361119891
+"Sevilla,Barcelona,Alaves,Sevilla","(Sevilla,Barcelona);(Barcelona,Alaves);(Alaves,Sevilla)",-1.386294361119891
+"Sociedad,Barcelona,Ath Madrid,Sociedad","(Sociedad,Barcelona);(Barcelona,Ath Madrid);(Ath Madrid,Sociedad)",-1.3862943611198908
+"Sevilla,Barcelona,Ath Bilbao,Sevilla","(Sevilla,Barcelona);(Barcelona,Ath Bilbao);(Ath Bilbao,Sevilla)",-1.3862943611198908
+"Vallecano,Barcelona,Sevilla,Vallecano","(Vallecano,Barcelona);(Barcelona,Sevilla);(Sevilla,Vallecano)",-1.3862943611198908
+"Valladolid,Barcelona,Celta,Valladolid","(Valladolid,Barcelona);(Barcelona,Celta);(Celta,Valladolid)",-1.3862943611198908
+"Villarreal,Barcelona,Celta,Villarreal","(Villarreal,Barcelona);(Barcelona,Celta);(Celta,Villarreal)",-1.3862943611198908
+"Valladolid,Barcelona,Getafe,Valladolid","(Valladolid,Barcelona);(Barcelona,Getafe);(Getafe,Valladolid)",-1.3862943611198908
+"Leganes,Barcelona,Celta,Leganes","(Leganes,Barcelona);(Barcelona,Celta);(Celta,Leganes)",-1.3862943611198908
+"Valladolid,Barcelona,Ath Bilbao,Valladolid","(Valladolid,Barcelona);(Barcelona,Ath Bilbao);(Ath Bilbao,Valladolid)",-1.3862943611198908
+"Mallorca,Barcelona,Celta,Mallorca","(Mallorca,Barcelona);(Barcelona,Celta);(Celta,Mallorca)",-1.3862943611198908
+"Vallecano,Barcelona,Real Madrid,Vallecano","(Vallecano,Barcelona);(Barcelona,Real Madrid);(Real Madrid,Vallecano)",-1.3862943611198908
+"Ath Bilbao,Barcelona,Alaves,Ath Bilbao","(Ath Bilbao,Barcelona);(Barcelona,Alaves);(Alaves,Ath Bilbao)",1.3862943611198908
+"Girona,Barcelona,Espanol,Girona","(Girona,Barcelona);(Barcelona,Espanol);(Espanol,Girona)",1.3862943611198908
+"Real Madrid,Barcelona,Mallorca,Real Madrid","(Real Madrid,Barcelona);(Barcelona,Mallorca);(Mallorca,Real Madrid)",1.3862943611198908
+"Vallecano,Barcelona,Valencia,Vallecano","(Vallecano,Barcelona);(Barcelona,Valencia);(Valencia,Vallecano)",1.3862943611198908
+"Sevilla,Barcelona,Espanol,Sevilla","(Sevilla,Barcelona);(Barcelona,Espanol);(Espanol,Sevilla)",1.3862943611198908
+"Osasuna,Barcelona,Las Palmas,Osasuna","(Osasuna,Barcelona);(Barcelona,Las Palmas);(Las Palmas,Osasuna)",1.3862943611198906
+"Valencia,Barcelona,Sevilla,Valencia","(Valencia,Barcelona);(Barcelona,Sevilla);(Sevilla,Valencia)",1.3862943611198906
+"Vallecano,Barcelona,Mallorca,Vallecano","(Vallecano,Barcelona);(Barcelona,Mallorca);(Mallorca,Vallecano)",-1.3862943611198904
+"Osasuna,Barcelona,Betis,Osasuna","(Osasuna,Barcelona);(Barcelona,Betis);(Betis,Osasuna)",-1.3862943611198904
+"Osasuna,Barcelona,Celta,Osasuna","(Osasuna,Barcelona);(Barcelona,Celta);(Celta,Osasuna)",-1.3862943611198904
+"Getafe,Barcelona,Ath Madrid,Getafe","(Getafe,Barcelona);(Barcelona,Ath Madrid);(Ath Madrid,Getafe)",1.3862943611198904
+"Vallecano,Barcelona,Girona,Vallecano","(Vallecano,Barcelona);(Barcelona,Girona);(Girona,Vallecano)",1.3862943611198904
+"Villarreal,Barcelona,Osasuna,Villarreal","(Villarreal,Barcelona);(Barcelona,Osasuna);(Osasuna,Villarreal)",1.3862943611198904
+"Sociedad,Barcelona,Las Palmas,Sociedad","(Sociedad,Barcelona);(Barcelona,Las Palmas);(Las Palmas,Sociedad)",1.3862943611198904
+"Valencia,Barcelona,Girona,Valencia","(Valencia,Barcelona);(Barcelona,Girona);(Girona,Valencia)",1.3862943611198901
+"Las Palmas,Barcelona,Getafe,Las Palmas","(Las Palmas,Barcelona);(Barcelona,Getafe);(Getafe,Las Palmas)",-1.38629436111989
+"Las Palmas,Barcelona,Betis,Las Palmas","(Las Palmas,Barcelona);(Barcelona,Betis);(Betis,Las Palmas)",-1.38629436111989
+"Getafe,Barcelona,Alaves,Getafe","(Getafe,Barcelona);(Barcelona,Alaves);(Alaves,Getafe)",1.38629436111989
+"Mallorca,Barcelona,Ath Madrid,Mallorca","(Mallorca,Barcelona);(Barcelona,Ath Madrid);(Ath Madrid,Mallorca)",-8.881784197001252e-16
+"Leganes,Barcelona,Ath Madrid,Leganes","(Leganes,Barcelona);(Barcelona,Ath Madrid);(Ath Madrid,Leganes)",-8.881784197001252e-16
+"Espanol,Barcelona,Betis,Espanol","(Espanol,Barcelona);(Barcelona,Betis);(Betis,Espanol)",-8.881784197001252e-16
+"Sevilla,Barcelona,Ath Madrid,Sevilla","(Sevilla,Barcelona);(Barcelona,Ath Madrid);(Ath Madrid,Sevilla)",-8.881784197001252e-16
+"Valencia,Barcelona,Ath Madrid,Valencia","(Valencia,Barcelona);(Barcelona,Ath Madrid);(Ath Madrid,Valencia)",-8.881784197001252e-16
+"Villarreal,Barcelona,Espanol,Villarreal","(Villarreal,Barcelona);(Barcelona,Espanol);(Espanol,Villarreal)",8.881784197001252e-16
+"Villarreal,Barcelona,Sevilla,Villarreal","(Villarreal,Barcelona);(Barcelona,Sevilla);(Sevilla,Villarreal)",8.881784197001252e-16
+"Villarreal,Barcelona,Mallorca,Villarreal","(Villarreal,Barcelona);(Barcelona,Mallorca);(Mallorca,Villarreal)",8.881784197001252e-16
+"Mallorca,Barcelona,Ath Bilbao,Mallorca","(Mallorca,Barcelona);(Barcelona,Ath Bilbao);(Ath Bilbao,Mallorca)",-4.440892098500626e-16
+"Villarreal,Barcelona,Valladolid,Villarreal","(Villarreal,Barcelona);(Barcelona,Valladolid);(Valladolid,Villarreal)",-4.440892098500626e-16
+"Mallorca,Barcelona,Girona,Mallorca","(Mallorca,Barcelona);(Barcelona,Girona);(Girona,Mallorca)",-4.440892098500626e-16
+"Villarreal,Barcelona,Getafe,Villarreal","(Villarreal,Barcelona);(Barcelona,Getafe);(Getafe,Villarreal)",4.440892098500626e-16
+"Osasuna,Barcelona,Leganes,Osasuna","(Osasuna,Barcelona);(Barcelona,Leganes);(Leganes,Osasuna)",4.440892098500626e-16
+"Osasuna,Barcelona,Ath Madrid,Osasuna","(Osasuna,Barcelona);(Barcelona,Ath Madrid);(Ath Madrid,Osasuna)",4.440892098500626e-16
+"Valladolid,Barcelona,Ath Madrid,Valladolid","(Valladolid,Barcelona);(Barcelona,Ath Madrid);(Ath Madrid,Valladolid)",4.440892098500626e-16
+"Sevilla,Barcelona,Girona,Sevilla","(Sevilla,Barcelona);(Barcelona,Girona);(Girona,Sevilla)",-2.220446049250313e-16
+"Sevilla,Barcelona,Mallorca,Sevilla","(Sevilla,Barcelona);(Barcelona,Mallorca);(Mallorca,Sevilla)",2.220446049250313e-16
+"Celta,Barcelona,Ath Madrid,Celta","(Celta,Barcelona);(Barcelona,Ath Madrid);(Ath Madrid,Celta)",2.220446049250313e-16
+"Valencia,Barcelona,Espanol,Valencia","(Valencia,Barcelona);(Barcelona,Espanol);(Espanol,Valencia)",-1.1102230246251565e-16
+"Mallorca,Barcelona,Espanol,Mallorca","(Mallorca,Barcelona);(Barcelona,Espanol);(Espanol,Mallorca)",-1.1102230246251565e-16
+"Valencia,Barcelona,Real Madrid,Valencia","(Valencia,Barcelona);(Barcelona,Real Madrid);(Real Madrid,Valencia)",0.0
+"Real Madrid,Barcelona,Espanol,Real Madrid","(Real Madrid,Barcelona);(Barcelona,Espanol);(Espanol,Real Madrid)",0.0
+"Villarreal,Barcelona,Betis,Villarreal","(Villarreal,Barcelona);(Barcelona,Betis);(Betis,Villarreal)",0.0
+"Valladolid,Barcelona,Valencia,Valladolid","(Valladolid,Barcelona);(Barcelona,Valencia);(Valencia,Valladolid)",0.0
+"Sociedad,Barcelona,Betis,Sociedad","(Sociedad,Barcelona);(Barcelona,Betis);(Betis,Sociedad)",0.0
+"Real Madrid,Barcelona,Ath Bilbao,Real Madrid","(Real Madrid,Barcelona);(Barcelona,Ath Bilbao);(Ath Bilbao,Real Madrid)",0.0
+"Ath Madrid,Barcelona,Ath Bilbao,Ath Madrid","(Ath Madrid,Barcelona);(Barcelona,Ath Bilbao);(Ath Bilbao,Ath Madrid)",0.0
+"Sociedad,Barcelona,Girona,Sociedad","(Sociedad,Barcelona);(Barcelona,Girona);(Girona,Sociedad)",0.0
+"Valladolid,Barcelona,Espanol,Valladolid","(Valladolid,Barcelona);(Barcelona,Espanol);(Espanol,Valladolid)",0.0
+"Girona,Barcelona,Ath Bilbao,Girona","(Girona,Barcelona);(Barcelona,Ath Bilbao);(Ath Bilbao,Girona)",0.0
+"Valencia,Barcelona,Mallorca,Valencia","(Valencia,Barcelona);(Barcelona,Mallorca);(Mallorca,Valencia)",0.0
+"Leganes,Barcelona,Getafe,Leganes","(Leganes,Barcelona);(Barcelona,Getafe);(Getafe,Leganes)",0.0
+"Valladolid,Barcelona,Osasuna,Valladolid","(Valladolid,Barcelona);(Barcelona,Osasuna);(Osasuna,Valladolid)",0.0
+"Las Palmas,Barcelona,Ath Madrid,Las Palmas","(Las Palmas,Barcelona);(Barcelona,Ath Madrid);(Ath Madrid,Las Palmas)",0.0
+"Sociedad,Barcelona,Espanol,Sociedad","(Sociedad,Barcelona);(Barcelona,Espanol);(Espanol,Sociedad)",0.0
+"Girona,Barcelona,Alaves,Girona","(Girona,Barcelona);(Barcelona,Alaves);(Alaves,Girona)",0.0
+"Betis,Barcelona,Ath Madrid,Betis","(Betis,Barcelona);(Barcelona,Ath Madrid);(Ath Madrid,Betis)",0.0
+"Girona,Barcelona,Ath Madrid,Girona","(Girona,Barcelona);(Barcelona,Ath Madrid);(Ath Madrid,Girona)",0.0
+"Valladolid,Barcelona,Alaves,Valladolid","(Valladolid,Barcelona);(Barcelona,Alaves);(Alaves,Valladolid)",0.0
+"Villarreal,Barcelona,Ath Madrid,Villarreal","(Villarreal,Barcelona);(Barcelona,Ath Madrid);(Ath Madrid,Villarreal)",0.0

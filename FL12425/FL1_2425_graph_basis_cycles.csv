@@ -1,0 +1,137 @@
+cycle_nodes,cycle_edges,vorticity
+"Nantes,Montpellier,Brest,Nantes","(Nantes,Montpellier);(Montpellier,Brest);(Brest,Nantes)",-20.0
+"Rennes,Montpellier,Auxerre,Rennes","(Rennes,Montpellier);(Montpellier,Auxerre);(Auxerre,Rennes)",-20.0
+"Le Havre,Montpellier,Brest,Le Havre","(Le Havre,Montpellier);(Montpellier,Brest);(Brest,Le Havre)",-20.0
+"Marseille,Montpellier,Auxerre,Marseille","(Marseille,Montpellier);(Montpellier,Auxerre);(Auxerre,Marseille)",-20.0
+"St Etienne,Montpellier,Monaco,St Etienne","(St Etienne,Montpellier);(Montpellier,Monaco);(Monaco,St Etienne)",-20.0
+"Rennes,Montpellier,Monaco,Rennes","(Rennes,Montpellier);(Montpellier,Monaco);(Monaco,Rennes)",-20.0
+"Monaco,Montpellier,Lyon,Monaco","(Monaco,Montpellier);(Montpellier,Lyon);(Lyon,Monaco)",20.0
+"Toulouse,Montpellier,Rennes,Toulouse","(Toulouse,Montpellier);(Montpellier,Rennes);(Rennes,Toulouse)",20.0
+"Toulouse,Montpellier,St Etienne,Toulouse","(Toulouse,Montpellier);(Montpellier,St Etienne);(St Etienne,Toulouse)",20.0
+"Toulouse,Montpellier,Le Havre,Toulouse","(Toulouse,Montpellier);(Montpellier,Le Havre);(Le Havre,Toulouse)",20.0
+"Rennes,Montpellier,Lille,Rennes","(Rennes,Montpellier);(Montpellier,Lille);(Lille,Rennes)",-18.61370563888011
+"St Etienne,Montpellier,Nice,St Etienne","(St Etienne,Montpellier);(Montpellier,Nice);(Nice,St Etienne)",-18.61370563888011
+"Strasbourg,Montpellier,Nantes,Strasbourg","(Strasbourg,Montpellier);(Montpellier,Nantes);(Nantes,Strasbourg)",18.61370563888011
+"Lille,Montpellier,Angers,Lille","(Lille,Montpellier);(Montpellier,Angers);(Angers,Lille)",18.61370563888011
+"Lille,Montpellier,Lens,Lille","(Lille,Montpellier);(Montpellier,Lens);(Lens,Lille)",18.61370563888011
+"Nice,Montpellier,Le Havre,Nice","(Nice,Montpellier);(Montpellier,Le Havre);(Le Havre,Nice)",18.613705638880106
+"Nice,Montpellier,Angers,Nice","(Nice,Montpellier);(Montpellier,Angers);(Angers,Nice)",18.613705638880106
+"St Etienne,Montpellier,Brest,St Etienne","(St Etienne,Montpellier);(Montpellier,Brest);(Brest,St Etienne)",-11.38629436111989
+"Rennes,Montpellier,Brest,Rennes","(Rennes,Montpellier);(Montpellier,Brest);(Brest,Rennes)",-11.38629436111989
+"Nantes,Montpellier,Monaco,Nantes","(Nantes,Montpellier);(Montpellier,Monaco);(Monaco,Nantes)",-11.38629436111989
+"Lens,Montpellier,Auxerre,Lens","(Lens,Montpellier);(Montpellier,Auxerre);(Auxerre,Lens)",-11.38629436111989
+"Reims,Montpellier,Auxerre,Reims","(Reims,Montpellier);(Montpellier,Auxerre);(Auxerre,Reims)",-11.38629436111989
+"Monaco,Montpellier,Le Havre,Monaco","(Monaco,Montpellier);(Montpellier,Le Havre);(Le Havre,Monaco)",11.38629436111989
+"Toulouse,Montpellier,Angers,Toulouse","(Toulouse,Montpellier);(Montpellier,Angers);(Angers,Toulouse)",11.38629436111989
+"Toulouse,Montpellier,Lens,Toulouse","(Toulouse,Montpellier);(Montpellier,Lens);(Lens,Toulouse)",11.38629436111989
+"Nantes,Montpellier,Le Havre,Nantes","(Nantes,Montpellier);(Montpellier,Le Havre);(Le Havre,Nantes)",-10.0
+"Reims,Montpellier,Nice,Reims","(Reims,Montpellier);(Montpellier,Nice);(Nice,Reims)",-10.0
+"Rennes,Montpellier,Paris SG,Rennes","(Rennes,Montpellier);(Montpellier,Paris SG);(Paris SG,Rennes)",-10.0
+"Toulouse,Montpellier,Brest,Toulouse","(Toulouse,Montpellier);(Montpellier,Brest);(Brest,Toulouse)",-10.0
+"St Etienne,Montpellier,Lens,St Etienne","(St Etienne,Montpellier);(Montpellier,Lens);(Lens,St Etienne)",-10.0
+"St Etienne,Montpellier,Paris SG,St Etienne","(St Etienne,Montpellier);(Montpellier,Paris SG);(Paris SG,St Etienne)",-10.0
+"Rennes,Montpellier,Marseille,Rennes","(Rennes,Montpellier);(Montpellier,Marseille);(Marseille,Rennes)",-10.0
+"Nantes,Montpellier,Marseille,Nantes","(Nantes,Montpellier);(Montpellier,Marseille);(Marseille,Nantes)",-10.0
+"Paris SG,Montpellier,Nice,Paris SG","(Paris SG,Montpellier);(Montpellier,Nice);(Nice,Paris SG)",-10.0
+"Reims,Montpellier,Lille,Reims","(Reims,Montpellier);(Montpellier,Lille);(Lille,Reims)",-10.0
+"Lyon,Montpellier,Brest,Lyon","(Lyon,Montpellier);(Montpellier,Brest);(Brest,Lyon)",-10.0
+"St Etienne,Montpellier,Marseille,St Etienne","(St Etienne,Montpellier);(Montpellier,Marseille);(Marseille,St Etienne)",-10.0
+"Nice,Montpellier,Lens,Nice","(Nice,Montpellier);(Montpellier,Lens);(Lens,Nice)",10.0
+"Toulouse,Montpellier,Nantes,Toulouse","(Toulouse,Montpellier);(Montpellier,Nantes);(Nantes,Toulouse)",10.0
+"Monaco,Montpellier,Auxerre,Monaco","(Monaco,Montpellier);(Montpellier,Auxerre);(Auxerre,Monaco)",10.0
+"Marseille,Montpellier,Lyon,Marseille","(Marseille,Montpellier);(Montpellier,Lyon);(Lyon,Marseille)",10.0
+"Monaco,Montpellier,Angers,Monaco","(Monaco,Montpellier);(Montpellier,Angers);(Angers,Monaco)",10.0
+"Paris SG,Montpellier,Lyon,Paris SG","(Paris SG,Montpellier);(Montpellier,Lyon);(Lyon,Paris SG)",10.0
+"Rennes,Montpellier,Le Havre,Rennes","(Rennes,Montpellier);(Montpellier,Le Havre);(Le Havre,Rennes)",10.0
+"Strasbourg,Montpellier,Marseille,Strasbourg","(Strasbourg,Montpellier);(Montpellier,Marseille);(Marseille,Strasbourg)",10.0
+"Brest,Montpellier,Angers,Brest","(Brest,Montpellier);(Montpellier,Angers);(Angers,Brest)",10.0
+"Marseille,Montpellier,Le Havre,Marseille","(Marseille,Montpellier);(Montpellier,Le Havre);(Le Havre,Marseille)",10.0
+"Paris SG,Montpellier,Le Havre,Paris SG","(Paris SG,Montpellier);(Montpellier,Le Havre);(Le Havre,Paris SG)",10.0
+"Rennes,Montpellier,Angers,Rennes","(Rennes,Montpellier);(Montpellier,Angers);(Angers,Rennes)",10.0
+"Lens,Montpellier,Angers,Lens","(Lens,Montpellier);(Montpellier,Angers);(Angers,Lens)",10.0
+"Monaco,Montpellier,Marseille,Monaco","(Monaco,Montpellier);(Montpellier,Marseille);(Marseille,Monaco)",10.0
+"Paris SG,Montpellier,Angers,Paris SG","(Paris SG,Montpellier);(Montpellier,Angers);(Angers,Paris SG)",10.0
+"Reims,Montpellier,Marseille,Reims","(Reims,Montpellier);(Montpellier,Marseille);(Marseille,Reims)",10.0
+"Paris SG,Montpellier,Lens,Paris SG","(Paris SG,Montpellier);(Montpellier,Lens);(Lens,Paris SG)",10.0
+"Lyon,Montpellier,Le Havre,Lyon","(Lyon,Montpellier);(Montpellier,Le Havre);(Le Havre,Lyon)",10.0
+"Lyon,Montpellier,Angers,Lyon","(Lyon,Montpellier);(Montpellier,Angers);(Angers,Lyon)",10.0
+"Paris SG,Montpellier,Marseille,Paris SG","(Paris SG,Montpellier);(Montpellier,Marseille);(Marseille,Paris SG)",10.0
+"Reims,Montpellier,Le Havre,Reims","(Reims,Montpellier);(Montpellier,Le Havre);(Le Havre,Reims)",10.0
+"St Etienne,Montpellier,Rennes,St Etienne","(St Etienne,Montpellier);(Montpellier,Rennes);(Rennes,St Etienne)",-9.999999999999998
+"Strasbourg,Montpellier,Lens,Strasbourg","(Strasbourg,Montpellier);(Montpellier,Lens);(Lens,Strasbourg)",9.999999999999998
+"Auxerre,Montpellier,Angers,Auxerre","(Auxerre,Montpellier);(Montpellier,Angers);(Angers,Auxerre)",9.999999999999998
+"Lyon,Montpellier,Auxerre,Lyon","(Lyon,Montpellier);(Montpellier,Auxerre);(Auxerre,Lyon)",-8.613705638880111
+"Nantes,Montpellier,Auxerre,Nantes","(Nantes,Montpellier);(Montpellier,Auxerre);(Auxerre,Nantes)",-8.61370563888011
+"Rennes,Montpellier,Reims,Rennes","(Rennes,Montpellier);(Montpellier,Reims);(Reims,Rennes)",-8.61370563888011
+"St Etienne,Montpellier,Auxerre,St Etienne","(St Etienne,Montpellier);(Montpellier,Auxerre);(Auxerre,St Etienne)",-8.61370563888011
+"St Etienne,Montpellier,Lille,St Etienne","(St Etienne,Montpellier);(Montpellier,Lille);(Lille,St Etienne)",-8.61370563888011
+"Paris SG,Montpellier,Auxerre,Paris SG","(Paris SG,Montpellier);(Montpellier,Auxerre);(Auxerre,Paris SG)",-8.61370563888011
+"Marseille,Montpellier,Lille,Marseille","(Marseille,Montpellier);(Montpellier,Lille);(Lille,Marseille)",-8.61370563888011
+"Toulouse,Montpellier,Lille,Toulouse","(Toulouse,Montpellier);(Montpellier,Lille);(Lille,Toulouse)",-8.61370563888011
+"Rennes,Montpellier,Nice,Rennes","(Rennes,Montpellier);(Montpellier,Nice);(Nice,Rennes)",-8.61370563888011
+"Toulouse,Montpellier,Strasbourg,Toulouse","(Toulouse,Montpellier);(Montpellier,Strasbourg);(Strasbourg,Toulouse)",-8.61370563888011
+"Reims,Montpellier,Angers,Reims","(Reims,Montpellier);(Montpellier,Angers);(Angers,Reims)",8.61370563888011
+"Reims,Montpellier,Lens,Reims","(Reims,Montpellier);(Montpellier,Lens);(Lens,Reims)",8.61370563888011
+"Reims,Montpellier,Paris SG,Reims","(Reims,Montpellier);(Montpellier,Paris SG);(Paris SG,Reims)",8.61370563888011
+"Strasbourg,Montpellier,Paris SG,Strasbourg","(Strasbourg,Montpellier);(Montpellier,Paris SG);(Paris SG,Strasbourg)",8.61370563888011
+"Strasbourg,Montpellier,Rennes,Strasbourg","(Strasbourg,Montpellier);(Montpellier,Rennes);(Rennes,Strasbourg)",8.61370563888011
+"Monaco,Montpellier,Lens,Monaco","(Monaco,Montpellier);(Montpellier,Lens);(Lens,Monaco)",8.61370563888011
+"Reims,Montpellier,Nantes,Reims","(Reims,Montpellier);(Montpellier,Nantes);(Nantes,Reims)",8.61370563888011
+"Lille,Montpellier,Le Havre,Lille","(Lille,Montpellier);(Montpellier,Le Havre);(Le Havre,Lille)",8.61370563888011
+"Strasbourg,Montpellier,St Etienne,Strasbourg","(Strasbourg,Montpellier);(Montpellier,St Etienne);(St Etienne,Strasbourg)",8.61370563888011
+"Nice,Montpellier,Marseille,Nice","(Nice,Montpellier);(Montpellier,Marseille);(Marseille,Nice)",8.61370563888011
+"Toulouse,Montpellier,Lyon,Toulouse","(Toulouse,Montpellier);(Montpellier,Lyon);(Lyon,Toulouse)",8.61370563888011
+"Strasbourg,Montpellier,Lyon,Strasbourg","(Strasbourg,Montpellier);(Montpellier,Lyon);(Lyon,Strasbourg)",8.61370563888011
+"Strasbourg,Montpellier,Le Havre,Strasbourg","(Strasbourg,Montpellier);(Montpellier,Le Havre);(Le Havre,Strasbourg)",8.61370563888011
+"Nice,Montpellier,Brest,Nice","(Nice,Montpellier);(Montpellier,Brest);(Brest,Nice)",8.61370563888011
+"Strasbourg,Montpellier,Auxerre,Strasbourg","(Strasbourg,Montpellier);(Montpellier,Auxerre);(Auxerre,Strasbourg)",8.61370563888011
+"Nice,Montpellier,Nantes,Nice","(Nice,Montpellier);(Montpellier,Nantes);(Nantes,Nice)",7.227411277760219
+"Nantes,Montpellier,Lille,Nantes","(Nantes,Montpellier);(Montpellier,Lille);(Lille,Nantes)",-7.227411277760218
+"Lyon,Montpellier,Lille,Lyon","(Lyon,Montpellier);(Montpellier,Lille);(Lille,Lyon)",-7.227411277760218
+"Reims,Montpellier,Lyon,Reims","(Reims,Montpellier);(Montpellier,Lyon);(Lyon,Reims)",7.227411277760218
+"Strasbourg,Montpellier,Angers,Strasbourg","(Strasbourg,Montpellier);(Montpellier,Angers);(Angers,Strasbourg)",7.2274112777602175
+"Strasbourg,Montpellier,Brest,Strasbourg","(Strasbourg,Montpellier);(Montpellier,Brest);(Brest,Strasbourg)",-2.7725887222397825
+"Reims,Montpellier,Brest,Reims","(Reims,Montpellier);(Montpellier,Brest);(Brest,Reims)",-2.772588722239782
+"Reims,Montpellier,Monaco,Reims","(Reims,Montpellier);(Montpellier,Monaco);(Monaco,Reims)",-2.7725887222397816
+"Nice,Montpellier,Auxerre,Nice","(Nice,Montpellier);(Montpellier,Auxerre);(Auxerre,Nice)",-2.7725887222397816
+"Strasbourg,Montpellier,Monaco,Strasbourg","(Strasbourg,Montpellier);(Montpellier,Monaco);(Monaco,Strasbourg)",-2.7725887222397816
+"St Etienne,Montpellier,Reims,St Etienne","(St Etienne,Montpellier);(Montpellier,Reims);(Reims,St Etienne)",1.3862943611198926
+"Lille,Montpellier,Brest,Lille","(Lille,Montpellier);(Montpellier,Brest);(Brest,Lille)",-1.3862943611198917
+"Strasbourg,Montpellier,Nice,Strasbourg","(Strasbourg,Montpellier);(Montpellier,Nice);(Nice,Strasbourg)",-1.3862943611198912
+"Rennes,Montpellier,Lens,Rennes","(Rennes,Montpellier);(Montpellier,Lens);(Lens,Rennes)",-1.3862943611198912
+"Lyon,Montpellier,Lens,Lyon","(Lyon,Montpellier);(Montpellier,Lens);(Lens,Lyon)",-1.3862943611198908
+"Nantes,Montpellier,Angers,Nantes","(Nantes,Montpellier);(Montpellier,Angers);(Angers,Nantes)",-1.3862943611198908
+"Nice,Montpellier,Lyon,Nice","(Nice,Montpellier);(Montpellier,Lyon);(Lyon,Nice)",-1.3862943611198908
+"Toulouse,Montpellier,Nice,Toulouse","(Toulouse,Montpellier);(Montpellier,Nice);(Nice,Toulouse)",1.3862943611198908
+"Paris SG,Montpellier,Lille,Paris SG","(Paris SG,Montpellier);(Montpellier,Lille);(Lille,Paris SG)",1.3862943611198908
+"Marseille,Montpellier,Angers,Marseille","(Marseille,Montpellier);(Montpellier,Angers);(Angers,Marseille)",1.3862943611198908
+"Toulouse,Montpellier,Auxerre,Toulouse","(Toulouse,Montpellier);(Montpellier,Auxerre);(Auxerre,Toulouse)",1.3862943611198908
+"Toulouse,Montpellier,Reims,Toulouse","(Toulouse,Montpellier);(Montpellier,Reims);(Reims,Toulouse)",1.3862943611198908
+"Strasbourg,Montpellier,Reims,Strasbourg","(Strasbourg,Montpellier);(Montpellier,Reims);(Reims,Strasbourg)",1.3862943611198908
+"St Etienne,Montpellier,Le Havre,St Etienne","(St Etienne,Montpellier);(Montpellier,Le Havre);(Le Havre,St Etienne)",-1.3862943611198906
+"St Etienne,Montpellier,Angers,St Etienne","(St Etienne,Montpellier);(Montpellier,Angers);(Angers,St Etienne)",-1.3862943611198906
+"Le Havre,Montpellier,Angers,Le Havre","(Le Havre,Montpellier);(Montpellier,Angers);(Angers,Le Havre)",-1.3862943611198906
+"Nantes,Montpellier,Lyon,Nantes","(Nantes,Montpellier);(Montpellier,Lyon);(Lyon,Nantes)",-1.3862943611198906
+"Strasbourg,Montpellier,Lille,Strasbourg","(Strasbourg,Montpellier);(Montpellier,Lille);(Lille,Strasbourg)",1.3862943611198906
+"Nice,Montpellier,Monaco,Nice","(Nice,Montpellier);(Montpellier,Monaco);(Monaco,Nice)",-1.3862943611198904
+"Nice,Montpellier,Lille,Nice","(Nice,Montpellier);(Montpellier,Lille);(Lille,Nice)",-1.3862943611198904
+"Toulouse,Montpellier,Monaco,Toulouse","(Toulouse,Montpellier);(Montpellier,Monaco);(Monaco,Toulouse)",-1.3862943611198904
+"Brest,Montpellier,Auxerre,Brest","(Brest,Montpellier);(Montpellier,Auxerre);(Auxerre,Brest)",-1.3862943611198901
+"Le Havre,Montpellier,Auxerre,Le Havre","(Le Havre,Montpellier);(Montpellier,Auxerre);(Auxerre,Le Havre)",1.7763568394002505e-15
+"Monaco,Montpellier,Brest,Monaco","(Monaco,Montpellier);(Montpellier,Brest);(Brest,Monaco)",-8.881784197001252e-16
+"Lens,Montpellier,Le Havre,Lens","(Lens,Montpellier);(Montpellier,Le Havre);(Le Havre,Lens)",-4.440892098500626e-16
+"Lille,Montpellier,Auxerre,Lille","(Lille,Montpellier);(Montpellier,Auxerre);(Auxerre,Lille)",-4.440892098500626e-16
+"Rennes,Montpellier,Nantes,Rennes","(Rennes,Montpellier);(Montpellier,Nantes);(Nantes,Rennes)",-4.440892098500626e-16
+"Rennes,Montpellier,Lyon,Rennes","(Rennes,Montpellier);(Montpellier,Lyon);(Lyon,Rennes)",-4.440892098500626e-16
+"St Etienne,Montpellier,Lyon,St Etienne","(St Etienne,Montpellier);(Montpellier,Lyon);(Lyon,St Etienne)",4.440892098500626e-16
+"Marseille,Montpellier,Lens,Marseille","(Marseille,Montpellier);(Montpellier,Lens);(Lens,Marseille)",4.440892098500626e-16
+"St Etienne,Montpellier,Nantes,St Etienne","(St Etienne,Montpellier);(Montpellier,Nantes);(Nantes,St Etienne)",4.440892098500626e-16
+"Monaco,Montpellier,Lille,Monaco","(Monaco,Montpellier);(Montpellier,Lille);(Lille,Monaco)",0.0
+"Nantes,Montpellier,Lens,Nantes","(Nantes,Montpellier);(Montpellier,Lens);(Lens,Nantes)",0.0
+"Marseille,Montpellier,Brest,Marseille","(Marseille,Montpellier);(Montpellier,Brest);(Brest,Marseille)",0.0
+"Lens,Montpellier,Brest,Lens","(Lens,Montpellier);(Montpellier,Brest);(Brest,Lens)",0.0
+"Paris SG,Montpellier,Brest,Paris SG","(Paris SG,Montpellier);(Montpellier,Brest);(Brest,Paris SG)",0.0
+"Toulouse,Montpellier,Marseille,Toulouse","(Toulouse,Montpellier);(Montpellier,Marseille);(Marseille,Toulouse)",0.0
+"Paris SG,Montpellier,Monaco,Paris SG","(Paris SG,Montpellier);(Montpellier,Monaco);(Monaco,Paris SG)",0.0
+"Toulouse,Montpellier,Paris SG,Toulouse","(Toulouse,Montpellier);(Montpellier,Paris SG);(Paris SG,Toulouse)",0.0
+"Paris SG,Montpellier,Nantes,Paris SG","(Paris SG,Montpellier);(Montpellier,Nantes);(Nantes,Paris SG)",0.0
