@@ -1,0 +1,9 @@
+cycle_nodes,cycle_edges,vorticity
+"E,A,C,E","(E,A);(A,C);(C,E)",-30.0
+"D,A,C,D","(D,A);(A,C);(C,D)",-30.0
+"F,A,E,F","(F,A);(A,E);(E,F)",30.0
+"F,A,D,F","(F,A);(A,D);(D,F)",30.0
+"E,A,B,E","(E,A);(A,B);(B,E)",-10.0
+"C,A,B,C","(C,A);(A,B);(B,C)",-10.0
+"F,A,B,F","(F,A);(A,B);(B,F)",-10.0
+"F,A,C,F","(F,A);(A,C);(C,F)",-10.0
